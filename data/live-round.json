@@ -1,0 +1,120 @@
+{
+  "round": "Round 6",
+  "verifiedAt": "2026-04-10T08:30:00+10:00",
+  "verificationLabel": "Official NRL pages checked Friday 10 Apr 2026",
+  "summary": "Round 6 is underway. The Bulldogs upset the Panthers 32-16 on Thursday night, so the original Panthers tip is already a miss and the rest of the board is now live-running rather than pre-round only.",
+  "sources": [
+    {
+      "label": "NRL Team Lists: Round 6",
+      "url": "https://www.nrl.com/news/2026/04/07/nrl-team-lists-round-6/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-07T20:57:00+10:00"
+    },
+    {
+      "label": "Expert Tipping: NRL Round 6",
+      "url": "https://www.nrl.com/news/2026/04/09/expert-tipping-nrl-round-6/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-09T09:19:00+10:00"
+    }
+  ],
+  "scoreboard": [
+    {
+      "match": "Bulldogs vs Panthers",
+      "kickoff": "Thu 9 Apr, 7:50pm",
+      "venue": "Accor Stadium",
+      "status": "Full Time",
+      "result": "Bulldogs 32-16 Panthers",
+      "tipOutcome": "Miss",
+      "note": "The live round has already produced an upset. The original board had Panthers as the highest-confidence tip."
+    },
+    {
+      "match": "Dragons vs Sea Eagles",
+      "kickoff": "Fri 10 Apr, 6:00pm",
+      "venue": "WIN Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Tip: Sea Eagles",
+      "note": "Dragons reshuffled with Tyrell Sloan at fullback and Clint Gutherson nursing a hamstring injury."
+    },
+    {
+      "match": "Broncos vs Cowboys",
+      "kickoff": "Fri 10 Apr, 8:00pm",
+      "venue": "Suncorp Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Charity bet: Cowboys H2H",
+      "note": "Reece Walsh is out. Adam Reynolds was named despite a groin complaint and is set to prove fitness."
+    },
+    {
+      "match": "Rabbitohs vs Raiders",
+      "kickoff": "Sat 11 Apr, 3:00pm AEST",
+      "venue": "Optus Stadium, Perth",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Tip: Rabbitohs",
+      "note": "Brandon Smith returns for South Sydney."
+    },
+    {
+      "match": "Sharks vs Roosters",
+      "kickoff": "Sat 11 Apr, 5:30pm AEST",
+      "venue": "Optus Stadium, Perth",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Tip: Roosters",
+      "note": "Still the most volatile pick on the card."
+    },
+    {
+      "match": "Storm vs Warriors",
+      "kickoff": "Sat 11 Apr, 7:30pm",
+      "venue": "AAMI Park",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Tip: Storm",
+      "note": "Warriors lose Luke Metcalf to a hamstring injury; Adam Pompey was reported banned for two games."
+    },
+    {
+      "match": "Eels vs Titans",
+      "kickoff": "Sun 12 Apr, 2:00pm",
+      "venue": "CommBank Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Tip: Eels",
+      "note": "Still reads as a pressure game rather than a confidence game."
+    },
+    {
+      "match": "Wests Tigers vs Knights",
+      "kickoff": "Sun 12 Apr, 4:05pm",
+      "venue": "Campbelltown",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Tip: Tigers",
+      "note": "NRL.com framed this as the match of the round."
+    }
+  ],
+  "liveAlerts": [
+    {
+      "tone": "red",
+      "text": "Panthers were beaten 32-16 by the Bulldogs on Thursday 9 April 2026, so the top-confidence tip is already down."
+    },
+    {
+      "tone": "red",
+      "text": "Reece Walsh is out for Brisbane; Jesse Arthars stays at fullback."
+    },
+    {
+      "tone": "amber",
+      "text": "Adam Reynolds was named despite a groin complaint and was described by NRL.com as needing to prove fitness."
+    },
+    {
+      "tone": "amber",
+      "text": "Clint Gutherson was listed as nursing a hamstring injury for the Dragons update."
+    },
+    {
+      "tone": "green",
+      "text": "Brandon Smith returns for the Rabbitohs."
+    },
+    {
+      "tone": "red",
+      "text": "Warriors lost Luke Metcalf to a hamstring injury; team-list update also noted Adam Pompey's ban."
+    }
+  ]
+}

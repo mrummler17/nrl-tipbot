@@ -1,0 +1,11 @@
+{
+  "name": "nrl-tipbot",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Static generator for the NRL TipBot briefing dashboard.",
+  "scripts": {
+    "build": "node generate.js --out=dist",
+    "sync": "node generate.js --out=dist",
+    "snapshot": "node generate.js --out=dist"
+  }
+}
