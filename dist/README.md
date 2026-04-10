@@ -1,13 +1,8 @@
-# NRL TipBot Briefing
+# NRL TipBot Briefing 2026
 
 Round 6 command board for tipping, charity betting, and weekly NRL intel
 
-## Snapshot
-
-- Snapshot imported from attached briefing
-- Snapshot timestamp: 2026-04-08T20:30:00+10:00
-- Timezone: Australia/Sydney
-- Operator: Marcus
+A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 

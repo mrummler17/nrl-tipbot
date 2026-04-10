@@ -1,14 +1,10 @@
 {
   "site": {
-    "title": "NRL TipBot Briefing",
+    "title": "NRL TipBot Briefing 2026",
     "subhead": "Round 6 command board for tipping, charity betting, and weekly NRL intel",
-    "season": "2026 NRL Season",
-    "snapshotLabel": "Snapshot imported from attached briefing",
-    "snapshotDate": "2026-04-08T20:30:00+10:00",
+    "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "timezoneLabel": "Sydney",
-    "status": "Round 6 live window",
-    "operator": "Marcus"
+    "status": "Round 6 live window"
   },
   "meta": {
     "description": "Codex-managed NRL TipBot dashboard for Round 6 tips, betting notes, and Mark Hughes Foundation charity tracking."

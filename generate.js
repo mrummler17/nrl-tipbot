@@ -40,12 +40,7 @@ function renderReadme(data) {
 
 ${data.site.subhead}
 
-## Snapshot
-
-- ${data.site.snapshotLabel}
-- Snapshot timestamp: ${data.site.snapshotDate}
-- Timezone: ${data.site.timezone}
-- Operator: ${data.site.operator}
+${data.site.intro}
 
 ## Current Pick
 
@@ -549,17 +544,6 @@ function renderHtml(data) {
       cyan: "tone-cyan"
     };
 
-    function useClock() {
-      const [now, setNow] = useState(new Date());
-
-      useEffect(() => {
-        const id = window.setInterval(() => setNow(new Date()), 1000);
-        return () => window.clearInterval(id);
-      }, []);
-
-      return now;
-    }
-
     function formatZoned(date, timeZone) {
       const formatter = new Intl.DateTimeFormat("en-AU", {
         timeZone,
@@ -844,10 +828,6 @@ function renderHtml(data) {
     }
 
     function App() {
-      const now = useClock();
-      const sydneyTime = formatZoned(now, BRIEFING.site.timezone);
-      const utcTime = now.toISOString().replace("T", " ").slice(0, 19) + "Z";
-
       return (
         <div className="app">
           <section className="hero">
@@ -857,16 +837,7 @@ function renderHtml(data) {
             </div>
             <h1>{BRIEFING.site.title}</h1>
             <p className="hero-sub">{BRIEFING.site.subhead}</p>
-            <div className="meta-row">
-              <div className="meta-pill">Snapshot: {new Date(BRIEFING.site.snapshotDate).toLocaleString("en-AU", { timeZone: BRIEFING.site.timezone })}</div>
-              <div className="meta-pill">{BRIEFING.site.snapshotLabel}</div>
-              <div className="meta-pill">Operator: {BRIEFING.site.operator}</div>
-              <div className="meta-pill">Season: {BRIEFING.site.season}</div>
-            </div>
-            <div className="meta-row">
-              <div className="meta-pill">UTC {utcTime}</div>
-              <div className="meta-pill">{BRIEFING.site.timezoneLabel} {sydneyTime}</div>
-            </div>
+            <p className="hero-sub" style={{ marginTop: 14 }}>{BRIEFING.site.intro}</p>
             <Ticker />
           </section>
 
