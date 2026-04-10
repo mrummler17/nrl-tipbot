@@ -1,8 +1,8 @@
 {
   "round": "Round 6",
-  "verifiedAt": "2026-04-10T08:30:00+10:00",
-  "verificationLabel": "Official NRL pages checked Friday 10 Apr 2026",
-  "summary": "Round 6 is underway. The Bulldogs upset the Panthers 32-16 on Thursday night, so the original Panthers tip is already a miss and the rest of the board is now live-running rather than pre-round only.",
+  "verifiedAt": "2026-04-10T22:02:00+10:00",
+  "verificationLabel": "TAB bet slip updated Friday 10 Apr 2026",
+  "summary": "Round 6 is now carrying both sides of the story: the Panthers opener missed, but the Cowboys charity play landed and pushed the running charity profit out to $11.50.",
   "sources": [
     {
       "label": "NRL Team Lists: Round 6",
@@ -40,10 +40,10 @@
       "match": "Broncos vs Cowboys",
       "kickoff": "Fri 10 Apr, 8:00pm",
       "venue": "Suncorp Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Charity bet: Cowboys H2H",
-      "note": "TAB screenshot shows Cowboys head to head at 2.00 with a $5.00 stake and $10.00 potential collect. Reece Walsh is out and Adam Reynolds was named despite a groin complaint."
+      "status": "Full Time",
+      "result": "Cowboys won",
+      "tipOutcome": "Charity bet won",
+      "note": "TAB screenshot confirms Cowboys head to head at 2.00 won, with the $5.00 stake collecting $10.00."
     },
     {
       "match": "Rabbitohs vs Raiders",
@@ -93,12 +93,16 @@
   ],
   "liveAlerts": [
     {
-      "tone": "red",
-      "text": "Panthers were beaten 32-16 by the Bulldogs on Thursday 9 April 2026, so the top-confidence tip is already down."
+      "tone": "green",
+      "text": "Cowboys beat Brisbane and the Round 6 charity bet landed at 2.00, returning $10.00 from the $5.00 stake."
+    },
+    {
+      "tone": "green",
+      "text": "The running charity profit is now $11.50 after back-to-back wins."
     },
     {
       "tone": "red",
-      "text": "Reece Walsh is out for Brisbane; Jesse Arthars stays at fullback."
+      "text": "Panthers were beaten 32-16 by the Bulldogs on Thursday 9 April 2026, so the top-confidence tip is already down."
     },
     {
       "tone": "amber",

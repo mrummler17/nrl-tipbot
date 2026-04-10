@@ -10,12 +10,12 @@
     "description": "Codex-managed NRL TipBot dashboard for Round 6 tips, betting notes, and Mark Hughes Foundation charity tracking."
   },
   "ticker": [
-    "round 6 opens thursday night",
-    "charity ledger seeded from the knights win",
-    "cowboys h2h is the current lock pick",
-    "walsh injury is driving the broncos risk profile",
-    "snapshot imported from the original claude build",
-    "verify team lists before staking real money"
+    "cowboys beat brisbane and the round 6 charity play landed",
+    "charity ledger now sits at $11.50 profit from two wins",
+    "cowboys h2h collected $10.00 from the $5 stake",
+    "panthers are already one miss on the week after the bulldogs upset",
+    "tigers v knights still shapes as the hinge game of the round",
+    "keep pressing the process and bank the wins for charity"
   ],
   "heroCards": [
     {
@@ -26,8 +26,8 @@
     },
     {
       "label": "Bet Record",
-      "value": "1-0",
-      "delta": "+$6.50",
+      "value": "2-0",
+      "delta": "+$11.50",
       "tone": "green"
     },
     {
@@ -38,7 +38,7 @@
     },
     {
       "label": "Charity Banked",
-      "value": "$6.50",
+      "value": "$11.50",
       "delta": "Mark Hughes Foundation",
       "tone": "green"
     }
@@ -87,11 +87,11 @@
   ],
   "betCard": {
     "title": "Round 6 Charity Bet",
-    "status": "Locked pending final verification",
+    "status": "Won and settled",
     "pick": "Cowboys head to head",
     "odds": "$2.00",
     "stake": "$5.00",
-    "potentialReturn": "$10.00",
+    "potentialReturn": "$10.00 collected",
     "potentialProfit": "$5.00",
     "match": "Broncos vs Cowboys",
     "kickoff": "Fri 10 Apr 2026, 8:00pm AEST",
@@ -110,15 +110,15 @@
   "charity": {
     "title": "Mark Hughes Foundation Ledger",
     "summary": "All profits are earmarked for the Mark Hughes Foundation.",
-    "record": "1-0",
-    "invested": "$10.00",
-    "returned": "$11.50",
-    "profit": "$6.50",
+    "record": "2-0",
+    "invested": "$15.00",
+    "returned": "$21.50",
+    "profit": "$11.50",
     "donated": "$0.00",
     "nextDonation": "After Round 9",
     "notes": [
       "Round 5: Newcastle head to head at $2.30 won and collected $11.50.",
-      "Round 6: North Queensland Cowboys head to head at $2.00 is pending."
+      "Round 6: North Queensland Cowboys head to head at $2.00 won and collected $10.00."
     ]
   },
   "watchlist": [
@@ -158,8 +158,8 @@
       "heading": "Cowboys were selected as the Round 6 value play",
       "lines": [
         "The Cowboys pick is built on form over fortress logic: North Queensland trending up while Brisbane lose strike power without Walsh.",
-        "The current TAB slip has the play at $2.00 with a $5 stake and a $10.00 potential collect.",
-        "The real swing factor is whether Brisbane absorb the backline disruption cleanly or whether the Cowboys control the match through the middle."
+        "The TAB bet landed at $2.00, with the $5 stake returning $10.00 and locking in another clean charity win.",
+        "That gives the board back-to-back betting wins and takes the running charity profit to $11.50."
       ]
     },
     {

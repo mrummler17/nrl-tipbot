@@ -10,12 +10,12 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 - Odds: $2.00
 - Stake: $5.00
 - Potential profit: $5.00
-- Status: Locked pending final verification
+- Status: Won and settled
 
 ## Live Round Status
 
-- Official NRL pages checked Friday 10 Apr 2026
-- Round 6 is underway. The Bulldogs upset the Panthers 32-16 on Thursday night, so the original Panthers tip is already a miss and the rest of the board is now live-running rather than pre-round only.
+- TAB bet slip updated Friday 10 Apr 2026
+- Round 6 is now carrying both sides of the story: the Panthers opener missed, but the Cowboys charity play landed and pushed the running charity profit out to $11.50.
 
 
 ## Confidence Order
