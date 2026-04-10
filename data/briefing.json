@@ -25,13 +25,13 @@
     {
       "label": "Current Pick",
       "value": "Cowboys H2H",
-      "delta": "$2.10",
+      "delta": "$2.00",
       "tone": "cyan"
     },
     {
       "label": "Bet Record",
       "value": "1-0",
-      "delta": "+$6.25",
+      "delta": "+$6.50",
       "tone": "green"
     },
     {
@@ -42,22 +42,22 @@
     },
     {
       "label": "Charity Banked",
-      "value": "$6.25",
+      "value": "$6.50",
       "delta": "Mark Hughes Foundation",
       "tone": "green"
     }
   ],
   "featurePanels": [
     {
-      "title": "Lock Pick",
-      "tone": "cyan",
-      "items": [
-        "North Queensland Cowboys head to head",
-        "$5 stake at $2.10",
-        "Potential return: $10.50",
-        "Reason: Broncos lose Walsh and confidence shifts"
-      ]
-    },
+        "title": "Lock Pick",
+        "tone": "cyan",
+        "items": [
+          "North Queensland Cowboys head to head",
+          "$5 stake at $2.00",
+          "Potential return: $10.00",
+          "Reason: Broncos lose Walsh and confidence shifts"
+        ]
+      },
     {
       "title": "Risk Flags",
       "tone": "red",
@@ -83,10 +83,10 @@
     "title": "Round 6 Charity Bet",
     "status": "Locked pending final verification",
     "pick": "Cowboys head to head",
-    "odds": "$2.10",
+    "odds": "$2.00",
     "stake": "$5.00",
-    "potentialReturn": "$10.50",
-    "potentialProfit": "$5.50",
+    "potentialReturn": "$10.00",
+    "potentialProfit": "$5.00",
     "match": "Broncos vs Cowboys",
     "kickoff": "Fri 10 Apr 2026, 8:00pm AEST",
     "venue": "Suncorp Stadium",
@@ -106,13 +106,13 @@
     "summary": "All profits are earmarked for the Mark Hughes Foundation.",
     "record": "1-0",
     "invested": "$10.00",
-    "returned": "$11.25",
-    "profit": "$6.25",
+    "returned": "$11.50",
+    "profit": "$6.50",
     "donated": "$0.00",
     "nextDonation": "After Round 9",
     "notes": [
-      "Round 5: Knights head to head at $2.25 won.",
-      "Round 6: Cowboys head to head at $2.10 pending."
+      "Round 5: Newcastle head to head at $2.30 won and collected $11.50.",
+      "Round 6: North Queensland Cowboys head to head at $2.00 is pending."
     ]
   },
   "watchlist": [

@@ -12,9 +12,9 @@ Round 6 command board for tipping, charity betting, and weekly NRL intel
 ## Current Pick
 
 - Cowboys head to head
-- Odds: $2.10
+- Odds: $2.00
 - Stake: $5.00
-- Potential profit: $5.50
+- Potential profit: $5.00
 - Status: Locked pending final verification
 
 ## Live Round Status
