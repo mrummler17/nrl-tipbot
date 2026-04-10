@@ -149,9 +149,9 @@
       "tone": "amber",
       "heading": "Round 5 wrapped, Round 6 opened",
       "lines": [
-        "The original briefing captures a confident Round 5 recap with the Knights bet landing and six correct tips from eight.",
-        "The Panthers, Tigers, Knights, and Rabbitohs dominate the narrative as the early movers in this snapshot.",
-        "The copy is punchy and fun, but it needs a safer update workflow because almost every line is time-sensitive sports data."
+        "Round 5 landed well for TipBot with the Newcastle win cashing and six correct tips from eight.",
+        "The early season shape still runs through Panthers, Tigers, Knights, and Rabbitohs as the main movers.",
+        "Round 6 has already tightened up after the Bulldogs knocked off Penrith, so the board now needs live discipline rather than pre-round confidence."
       ]
     },
     {
@@ -161,9 +161,9 @@
       "tone": "cyan",
       "heading": "Cowboys were selected as the Round 6 value play",
       "lines": [
-        "The attached app leans on form over fortress logic: Cowboys trending up, Broncos weakened by key injuries.",
-        "That call is still presented here, but the new version explicitly labels it as a pending verification pick.",
-        "The upgraded layout separates reasons to back the pick from reasons to pause, which makes staking decisions calmer and clearer."
+        "The Cowboys pick is built on form over fortress logic: North Queensland trending up while Brisbane lose strike power without Walsh.",
+        "The current TAB slip has the play at $2.00 with a $5 stake and a $10.00 potential collect.",
+        "The real swing factor is whether Brisbane absorb the backline disruption cleanly or whether the Cowboys control the match through the middle."
       ]
     },
     {
@@ -209,7 +209,7 @@
       "lines": [
         "Hot: Panthers, Knights, Tigers, Rabbitohs, Cowboys.",
         "Cold: Dragons, Raiders, Storm, Eels.",
-        "The improved app keeps this summary but moves it into a reusable structured section instead of raw inline styling rules."
+        "The biggest reset this week is that Penrith no longer feel untouchable after Thursday night's loss."
       ]
     },
     {
@@ -221,7 +221,7 @@
       "lines": [
         "Broncos injuries, especially Walsh and Reynolds, materially affect the betting logic.",
         "Any ladder or streak claim should be treated as snapshot data, not a live feed.",
-        "The improved dashboard now foregrounds these caveats instead of hiding them inside the body copy."
+        "Live team news and market movement should always get the final vote before any charity bet is locked."
       ]
     }
   ],
