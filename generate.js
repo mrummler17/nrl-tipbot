@@ -261,7 +261,7 @@ function renderHtml(data) {
     }
     .panel-head {
       display: flex;
-      justify-content: space-between;
+      justify-content: flex-start;
       align-items: center;
       gap: 12px;
       margin-bottom: 14px;
@@ -269,15 +269,6 @@ function renderHtml(data) {
     .panel-title {
       font-size: 20px;
       font-weight: 700;
-    }
-    .panel-tag {
-      border: 1px solid currentColor;
-      border-radius: 999px;
-      padding: 6px 10px;
-      font-family: "Share Tech Mono", monospace;
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
     }
     .bet-grid {
       display: grid;
@@ -651,7 +642,6 @@ function renderHtml(data) {
             <div key={panel.title} className={"panel " + toneMap[panel.tone]}>
               <div className="panel-head">
                 <div className="panel-title">{panel.title}</div>
-                <div className="panel-tag accent">{panel.tone}</div>
               </div>
               <ul className="list">
                 {panel.items.map((item) => <li key={item}>{item}</li>)}
