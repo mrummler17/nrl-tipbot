@@ -77,6 +77,16 @@
         "Monitor charity ledger after every settled bet",
         "Keep top-line notes punchy enough for work tipping"
       ]
+    },
+    {
+      "title": "Watchlist",
+      "tone": "green",
+      "items": [
+        "Panthers just showed they can be hit",
+        "Broncos team news still swings the Cowboys bet",
+        "Tigers v Knights feels like the round's hinge game",
+        "Storm's response is still worth watching closely"
+      ]
     }
   ],
   "betCard": {
