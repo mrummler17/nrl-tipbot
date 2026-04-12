@@ -1,27 +1,27 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 6 command board for tipping, charity betting, and weekly NRL intel",
+    "subhead": "Round 6 wrap for tipping results, charity betting, and weekly NRL intel",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 6 live window"
+    "status": "Round 6 wrapped"
   },
   "meta": {
     "description": "Codex-managed NRL TipBot dashboard for Round 6 tips, betting notes, and Mark Hughes Foundation charity tracking."
   },
   "ticker": [
-    "cowboys beat brisbane and the round 6 charity play landed",
-    "charity ledger now sits at $11.50 profit from two wins",
-    "cowboys h2h collected $10.00 from the $5 stake",
-    "panthers are already one miss on the week after the bulldogs upset",
-    "tigers v knights still shapes as the hinge game of the round",
-    "keep pressing the process and bank the wins for charity"
+    "round 6 finished with the board going 4 from 8 on tips",
+    "cowboys h2h landed again and the charity record improved to 2 and 0",
+    "charity profit now sits at $11.50 from two settled wins",
+    "warriors smashing storm and titans torching parra were the big round-shifters",
+    "tigers beat the knights 42-22 and keep looking like the real surprise packet",
+    "bank the wins, learn from the misses, and reset cleanly for round 7"
   ],
   "heroCards": [
     {
-      "label": "Current Pick",
+      "label": "Latest Win",
       "value": "Cowboys H2H",
-      "delta": "$2.00",
+      "delta": "$10.00 collected",
       "tone": "cyan"
     },
     {
@@ -31,9 +31,9 @@
       "tone": "green"
     },
     {
-      "label": "Round 5 Tips",
-      "value": "5/8",
-      "delta": "solid hit rate",
+      "label": "Round 6 Tips",
+      "value": "4/8",
+      "delta": "split round",
       "tone": "amber"
     },
     {
@@ -45,48 +45,48 @@
   ],
   "featurePanels": [
     {
-        "title": "Lock Pick",
+      "title": "Lock Pick",
         "tone": "cyan",
         "items": [
           "North Queensland Cowboys head to head",
           "$5 stake at $2.00",
-          "Potential return: $10.00",
-          "Reason: Broncos lose Walsh and confidence shifts"
+          "$10.00 collected",
+          "The charity play got home in the derby"
         ]
       },
     {
       "title": "Risk Flags",
       "tone": "red",
       "items": [
-        "Snapshot is not live-synced to team sheets",
-        "Historical Broncos edge at Suncorp still matters",
-        "Verify Reynolds fitness before locking the bet",
-        "Treat this as a briefing tool, not blind staking"
+        "Panthers, Storm and Eels all burned the board",
+        "Favourite logic got exposed hard in a volatile round",
+        "Parra and Melbourne now need trust rebuilt, not assumed",
+        "Keep treating the board as a briefing tool, not blind staking"
       ]
     },
     {
-      "title": "Weekly Focus",
+      "title": "Round Review",
       "tone": "amber",
       "items": [
-        "Track Tigers v Knights as the surprise-pack showdown",
-        "Watch whether Storm actually bounce back",
-        "Monitor charity ledger after every settled bet",
-        "Keep top-line notes punchy enough for work tipping"
+        "Tigers backed up the hype with a 42-22 win over Newcastle",
+        "Warriors belted Storm 38-14 and changed the power map",
+        "Titans hammering the Eels 52-10 was the result nobody could ignore",
+        "The charity process stayed disciplined even when the tips split"
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Panthers just showed they can be hit",
-        "Broncos team news still swings the Cowboys bet",
-        "Tigers v Knights feels like the round's hinge game",
-        "Storm's response is still worth watching closely"
+        "Tigers are no longer just a novelty story",
+        "Warriors suddenly look like a serious top-end side",
+        "Storm need a response after four straight losses",
+        "Eels and Dragons are slipping into danger territory fast"
       ]
     }
   ],
   "betCard": {
-    "title": "Round 6 Charity Bet",
+    "title": "Round 6 Charity Bet Result",
     "status": "Won and settled",
     "pick": "Cowboys head to head",
     "odds": "$2.00",
@@ -122,10 +122,10 @@
     ]
   },
   "watchlist": [
-    "Panthers are the benchmark until someone makes them look mortal.",
-    "Tigers and Knights both sitting 4-1 gives the round real intrigue.",
-    "Dragons and Raiders are the crisis clubs in this snapshot.",
-    "Broncos team news matters more than historical narrative this week."
+    "Tigers have turned surprise energy into a real ladder push.",
+    "Warriors just made a loud statement against Melbourne.",
+    "Storm and Eels both need to earn trust back next week.",
+    "Dragons keep sliding and are now firmly in pressure territory."
   ],
   "confidence": [
     "Panthers over Bulldogs",
@@ -143,11 +143,11 @@
       "title": "Situation Report",
       "badge": "snapshot",
       "tone": "amber",
-      "heading": "Round 5 wrapped, Round 6 opened",
+      "heading": "Round 6 wrapped with a split tipping card",
       "lines": [
-        "Round 5 landed with the Newcastle win cashing and five correct tips from eight.",
-        "The early season shape still runs through Panthers, Tigers, Knights, and Rabbitohs as the main movers.",
-        "Round 6 has already tightened up after the Bulldogs knocked off Penrith, so the board now needs live discipline rather than pre-round confidence."
+        "Round 6 finished at four correct tips from eight, with the board splitting cleanly between hits and misses.",
+        "The big positive was the Cowboys charity play landing again, lifting the betting record to 2-0 and the running profit to $11.50.",
+        "The biggest shape-shifters were the Warriors crushing Melbourne, the Titans smashing Parramatta, and the Tigers backing up the hype against Newcastle."
       ]
     },
     {
@@ -157,9 +157,9 @@
       "tone": "cyan",
       "heading": "Cowboys were selected as the Round 6 value play",
       "lines": [
-        "The Cowboys pick is built on form over fortress logic: North Queensland trending up while Brisbane lose strike power without Walsh.",
+        "The Cowboys call was built on form over fortress logic and it held up in a 35-31 derby win.",
         "The TAB bet landed at $2.00, with the $5 stake returning $10.00 and locking in another clean charity win.",
-        "That gives the board back-to-back betting wins and takes the running charity profit to $11.50."
+        "That keeps the process disciplined and pushes the running charity profit to $11.50 after two bets."
       ]
     },
     {
@@ -169,14 +169,14 @@
       "tone": "green",
       "heading": "Work tipping card for the full round",
       "lines": [
-        "Panthers over Bulldogs",
-        "Sea Eagles over Dragons",
-        "Cowboys over Broncos",
-        "Rabbitohs over Raiders",
-        "Roosters over Sharks",
-        "Storm over Warriors",
-        "Eels over Titans",
-        "Tigers over Knights"
+        "Miss: Panthers over Bulldogs",
+        "Hit: Sea Eagles over Dragons",
+        "Hit: Cowboys over Broncos",
+        "Miss: Rabbitohs over Raiders",
+        "Hit: Roosters over Sharks",
+        "Miss: Storm over Warriors",
+        "Miss: Eels over Titans",
+        "Hit: Tigers over Knights"
       ]
     },
     {
@@ -186,14 +186,14 @@
       "tone": "amber",
       "heading": "Imported fixture slate from the attached snapshot",
       "lines": [
-        "Thu 9 Apr: Bulldogs vs Panthers",
-        "Fri 10 Apr: Dragons vs Sea Eagles",
-        "Fri 10 Apr: Broncos vs Cowboys",
-        "Sat 11 Apr: Rabbitohs vs Raiders",
-        "Sat 11 Apr: Sharks vs Roosters",
-        "Sat 11 Apr: Storm vs Warriors",
-        "Sun 12 Apr: Eels vs Titans",
-        "Sun 12 Apr: Tigers vs Knights"
+        "Thu 9 Apr: Bulldogs 32-16 Panthers",
+        "Fri 10 Apr: Sea Eagles 28-18 Dragons",
+        "Fri 10 Apr: Cowboys 35-31 Broncos",
+        "Sat 11 Apr: Raiders 36-34 Rabbitohs",
+        "Sat 11 Apr: Roosters 34-22 Sharks",
+        "Sat 11 Apr: Warriors 38-14 Storm",
+        "Sun 12 Apr: Titans 52-10 Eels",
+        "Sun 12 Apr: Tigers 42-22 Knights"
       ]
     },
     {
@@ -203,9 +203,9 @@
       "tone": "red",
       "heading": "Who looked hot, who looked broken",
       "lines": [
-        "Hot: Panthers, Knights, Tigers, Rabbitohs, Cowboys.",
-        "Cold: Dragons, Raiders, Storm, Eels.",
-        "The biggest reset this week is that Penrith no longer feel untouchable after Thursday night's loss."
+        "Hot: Tigers, Warriors, Cowboys, Roosters, Sea Eagles.",
+        "Cold: Dragons, Storm, Eels, Broncos.",
+        "The biggest reset from this round is that Melbourne and Parramatta can no longer be treated as bounce-back defaults."
       ]
     },
     {
@@ -215,9 +215,9 @@
       "tone": "red",
       "heading": "The data points most worth checking before publishing",
       "lines": [
-        "Broncos injuries, especially Walsh and Reynolds, materially affect the betting logic.",
-        "Any ladder or streak claim should be treated as snapshot data, not a live feed.",
-        "Live team news and market movement should always get the final vote before any charity bet is locked."
+        "The Cowboys result validated the charity process, but the wider tipping card still showed how fragile favourite reads can be.",
+        "Warriors and Tigers deserve to be upgraded after what they did this round.",
+        "Storm, Eels and Dragons now need proof before they get any benefit of the doubt."
       ]
     }
   ],

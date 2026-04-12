@@ -1,6 +1,6 @@
 # NRL TipBot Briefing 2026
 
-Round 6 command board for tipping, charity betting, and weekly NRL intel
+Round 6 wrap for tipping results, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
@@ -14,8 +14,8 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Live Round Status
 
-- TAB bet slip updated Friday 10 Apr 2026
-- Round 6 is now carrying both sides of the story: the Panthers opener missed, but the Cowboys charity play landed and pushed the running charity profit out to $11.50.
+- Official NRL round wrap checked Monday 13 Apr 2026
+- Round 6 finished as a split tipping week at 4/8, but the charity bet stayed perfect with the Cowboys getting home and the running profit moving to $11.50.
 
 
 ## Confidence Order
@@ -31,7 +31,7 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Board Sections
 
-- **Situation Report** — Round 5 wrapped, Round 6 opened
+- **Situation Report** — Round 6 wrapped with a split tipping card
 - **Bet Analysis** — Cowboys were selected as the Round 6 value play
 - **Full Round Tips** — Work tipping card for the full round
 - **Round 6 Fixtures** — Imported fixture slate from the attached snapshot

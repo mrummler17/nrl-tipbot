@@ -1,20 +1,26 @@
 {
   "round": "Round 6",
-  "verifiedAt": "2026-04-10T22:02:00+10:00",
-  "verificationLabel": "TAB bet slip updated Friday 10 Apr 2026",
-  "summary": "Round 6 is now carrying both sides of the story: the Panthers opener missed, but the Cowboys charity play landed and pushed the running charity profit out to $11.50.",
+  "verifiedAt": "2026-04-13T09:00:00+10:00",
+  "verificationLabel": "Official NRL round wrap checked Monday 13 Apr 2026",
+  "summary": "Round 6 finished as a split tipping week at 4/8, but the charity bet stayed perfect with the Cowboys getting home and the running profit moving to $11.50.",
   "sources": [
     {
-      "label": "NRL Team Lists: Round 6",
-      "url": "https://www.nrl.com/news/2026/04/07/nrl-team-lists-round-6/",
+      "label": "Friday Footy: Dragons v Sea Eagles, Broncos v Cowboys",
+      "url": "https://www.nrl.com/news/2026/04/10/friday-night-lights-dragons-v-sea-eagles-broncos-v-cowboys/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-04-07T20:57:00+10:00"
+      "publishedAt": "2026-04-10T22:00:00+10:00"
     },
     {
-      "label": "Expert Tipping: NRL Round 6",
-      "url": "https://www.nrl.com/news/2026/04/09/expert-tipping-nrl-round-6/",
+      "label": "Saturday Session: Rabbitohs v Raiders, Sharks v Roosters, Storm v Warriors",
+      "url": "https://www.nrl.com/news/2026/04/11/super-staturday-rabbitohs-v-raiders-roosters-v-shark-storm-v-warriors/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-04-09T09:19:00+10:00"
+      "publishedAt": "2026-04-11T22:00:00+10:00"
+    },
+    {
+      "label": "Sunday Session: Eels v Titans, Wests Tigers v Knights",
+      "url": "https://www.nrl.com/news/2026/04/12/sunday-session-eels-v-titans-wests-tigers-v-knights/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-12T19:06:00+10:00"
     }
   ],
   "scoreboard": [
@@ -32,16 +38,16 @@
       "kickoff": "Fri 10 Apr, 6:00pm",
       "venue": "WIN Stadium",
       "status": "Full Time",
-      "result": "Sea Eagles won",
+      "result": "Sea Eagles 28-18 Dragons",
       "tipOutcome": "Tip landed",
-      "note": "Sea Eagles beat the Dragons. Score still to be added once confirmed."
+      "note": "One of the cleaner reads on the card and an early recovery after the Panthers miss."
     },
     {
       "match": "Broncos vs Cowboys",
       "kickoff": "Fri 10 Apr, 8:00pm",
       "venue": "Suncorp Stadium",
       "status": "Full Time",
-      "result": "Cowboys won",
+      "result": "Cowboys 35-31 Broncos",
       "tipOutcome": "Charity bet won",
       "note": "TAB screenshot confirms Cowboys head to head at 2.00 won, with the $5.00 stake collecting $10.00."
     },
@@ -49,52 +55,52 @@
       "match": "Rabbitohs vs Raiders",
       "kickoff": "Sat 11 Apr, 3:00pm AEST",
       "venue": "Optus Stadium, Perth",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Tip: Rabbitohs",
-      "note": "Brandon Smith returns for South Sydney."
+      "status": "Full Time",
+      "result": "Raiders 36-34 Rabbitohs",
+      "tipOutcome": "Miss",
+      "note": "The Raiders pinched a close one and flipped what looked like a reasonable Souths read."
     },
     {
       "match": "Sharks vs Roosters",
       "kickoff": "Sat 11 Apr, 5:30pm AEST",
       "venue": "Optus Stadium, Perth",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Tip: Roosters",
-      "note": "Still the most volatile pick on the card."
+      "status": "Full Time",
+      "result": "Roosters 34-22 Sharks",
+      "tipOutcome": "Tip landed",
+      "note": "The volatile pick still got home and helped stop the round from tipping fully negative."
     },
     {
       "match": "Storm vs Warriors",
       "kickoff": "Sat 11 Apr, 7:30pm",
       "venue": "AAMI Park",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Tip: Storm",
-      "note": "Warriors lose Luke Metcalf to a hamstring injury; Adam Pompey was reported banned for two games."
+      "status": "Full Time",
+      "result": "Warriors 38-14 Storm",
+      "tipOutcome": "Miss",
+      "note": "The Warriors made a huge statement and Melbourne can no longer be treated as a safe rebound side."
     },
     {
       "match": "Eels vs Titans",
       "kickoff": "Sun 12 Apr, 2:00pm",
       "venue": "CommBank Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Tip: Eels",
-      "note": "Still reads as a pressure game rather than a confidence game."
+      "status": "Full Time",
+      "result": "Titans 52-10 Eels",
+      "tipOutcome": "Miss",
+      "note": "The Titans blew Parramatta off the park and turned the Eels into the harshest miss on the card."
     },
     {
       "match": "Wests Tigers vs Knights",
       "kickoff": "Sun 12 Apr, 4:05pm",
       "venue": "Campbelltown",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Tip: Tigers",
-      "note": "NRL.com framed this as the match of the round."
+      "status": "Full Time",
+      "result": "Wests Tigers 42-22 Knights",
+      "tipOutcome": "Tip landed",
+      "note": "The Tigers fully justified the hype and remain one of the strongest stories of the season."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Cowboys beat Brisbane and the Round 6 charity bet landed at 2.00, returning $10.00 from the $5.00 stake."
+      "text": "Cowboys beat Brisbane 35-31 and the Round 6 charity bet landed at 2.00, returning $10.00 from the $5.00 stake."
     },
     {
       "tone": "green",
@@ -102,23 +108,19 @@
     },
     {
       "tone": "red",
-      "text": "Panthers were beaten 32-16 by the Bulldogs on Thursday 9 April 2026, so the top-confidence tip is already down."
-    },
-    {
-      "tone": "amber",
-      "text": "Adam Reynolds was named despite a groin complaint and was described by NRL.com as needing to prove fitness."
-    },
-    {
-      "tone": "amber",
-      "text": "Clint Gutherson was listed as nursing a hamstring injury for the Dragons update."
+      "text": "Round 6 finished 4 from 8 after misses on Panthers, Rabbitohs, Storm and Eels."
     },
     {
       "tone": "green",
-      "text": "Brandon Smith returns for the Rabbitohs."
+      "text": "Sea Eagles 28-18 Dragons, Roosters 34-22 Sharks and Tigers 42-22 Knights were the other successful reads."
     },
     {
       "tone": "red",
-      "text": "Warriors lost Luke Metcalf to a hamstring injury; team-list update also noted Adam Pompey's ban."
+      "text": "Warriors 38-14 Storm and Titans 52-10 Eels were the big form resets coming out of the weekend."
+    },
+    {
+      "tone": "amber",
+      "text": "Round 7 should start with upgraded respect for the Tigers and Warriors, and downgraded trust in Storm and Eels bounce-back narratives."
     }
   ]
 }
