@@ -1,126 +1,126 @@
 {
-  "round": "Round 6",
-  "verifiedAt": "2026-04-13T09:00:00+10:00",
-  "verificationLabel": "Official NRL round wrap checked Monday 13 Apr 2026",
-  "summary": "Round 6 finished as a split tipping week at 4/8, but the charity bet stayed perfect with the Cowboys getting home and the running profit moving to $11.50.",
+  "round": "Round 7",
+  "verifiedAt": "2026-04-13T10:00:00+10:00",
+  "verificationLabel": "Round 7 early setup checked Monday 13 Apr 2026",
+  "summary": "Round 7 is still in preview mode as of Monday 13 April 2026, with the board carrying fresh form reads and casualty-ward checks but holding the charity bet until official team lists arrive.",
   "sources": [
     {
-      "label": "Friday Footy: Dragons v Sea Eagles, Broncos v Cowboys",
-      "url": "https://www.nrl.com/news/2026/04/10/friday-night-lights-dragons-v-sea-eagles-broncos-v-cowboys/",
+      "label": "NRL Casualty Ward",
+      "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-04-10T22:00:00+10:00"
-    },
-    {
-      "label": "Saturday Session: Rabbitohs v Raiders, Sharks v Roosters, Storm v Warriors",
-      "url": "https://www.nrl.com/news/2026/04/11/super-staturday-rabbitohs-v-raiders-roosters-v-shark-storm-v-warriors/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-04-11T22:00:00+10:00"
+      "publishedAt": "2026-04-12T18:45:00+10:00"
     },
     {
       "label": "Sunday Session: Eels v Titans, Wests Tigers v Knights",
       "url": "https://www.nrl.com/news/2026/04/12/sunday-session-eels-v-titans-wests-tigers-v-knights/",
       "publisher": "NRL.com",
       "publishedAt": "2026-04-12T19:06:00+10:00"
+    },
+    {
+      "label": "Rabbitohs v Raiders match page",
+      "url": "https://www.nrl.com/news/2026/04/07/rabbitohs-v-raiders-brandons-back-in-business-stuart-steps-up/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-11T13:45:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Bulldogs vs Panthers",
-      "kickoff": "Thu 9 Apr, 7:50pm",
-      "venue": "Accor Stadium",
-      "status": "Full Time",
-      "result": "Bulldogs 32-16 Panthers",
-      "tipOutcome": "Miss",
-      "note": "The live round has already produced an upset. The original board had Panthers as the highest-confidence tip."
+      "match": "Eels vs Bulldogs",
+      "kickoff": "Round 7",
+      "venue": "Fixture confirmed",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Bulldogs",
+      "note": "Parramatta are injury-hit and coming off a 52-10 collapse, while the Bulldogs have earned real respect."
     },
     {
-      "match": "Dragons vs Sea Eagles",
-      "kickoff": "Fri 10 Apr, 6:00pm",
-      "venue": "WIN Stadium",
-      "status": "Full Time",
-      "result": "Sea Eagles 28-18 Dragons",
-      "tipOutcome": "Tip landed",
-      "note": "One of the cleaner reads on the card and an early recovery after the Panthers miss."
+      "match": "Dolphins vs Panthers",
+      "kickoff": "Round 7",
+      "venue": "Fixture confirmed",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Panthers",
+      "note": "Penrith took a hit in Round 6 but still look more trustworthy than a Dolphins side missing depth."
     },
     {
-      "match": "Broncos vs Cowboys",
-      "kickoff": "Fri 10 Apr, 8:00pm",
-      "venue": "Suncorp Stadium",
-      "status": "Full Time",
-      "result": "Cowboys 35-31 Broncos",
-      "tipOutcome": "Charity bet won",
-      "note": "TAB screenshot confirms Cowboys head to head at 2.00 won, with the $5.00 stake collecting $10.00."
+      "match": "Cowboys vs Sea Eagles",
+      "kickoff": "Round 7",
+      "venue": "Fixture confirmed",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Sea Eagles",
+      "note": "Strong matchup, but the Cowboys carry fresh availability checks and Manly looked steady enough to trust early."
     },
     {
-      "match": "Rabbitohs vs Raiders",
-      "kickoff": "Sat 11 Apr, 3:00pm AEST",
-      "venue": "Optus Stadium, Perth",
-      "status": "Full Time",
-      "result": "Raiders 36-34 Rabbitohs",
-      "tipOutcome": "Miss",
-      "note": "The Raiders pinched a close one and flipped what looked like a reasonable Souths read."
+      "match": "Roosters vs Knights",
+      "kickoff": "Round 7",
+      "venue": "Fixture confirmed",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Roosters",
+      "note": "Newcastle still have key bodies in doubt and the Roosters are a steadier side right now."
     },
     {
-      "match": "Sharks vs Roosters",
-      "kickoff": "Sat 11 Apr, 5:30pm AEST",
-      "venue": "Optus Stadium, Perth",
-      "status": "Full Time",
-      "result": "Roosters 34-22 Sharks",
-      "tipOutcome": "Tip landed",
-      "note": "The volatile pick still got home and helped stop the round from tipping fully negative."
+      "match": "Warriors vs Titans",
+      "kickoff": "Round 7",
+      "venue": "Fixture confirmed",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Warriors",
+      "note": "The Warriors deserve the upgrade after flattening Melbourne, even with a few casualty-ward flags to monitor."
     },
     {
-      "match": "Storm vs Warriors",
-      "kickoff": "Sat 11 Apr, 7:30pm",
-      "venue": "AAMI Park",
-      "status": "Full Time",
-      "result": "Warriors 38-14 Storm",
-      "tipOutcome": "Miss",
-      "note": "The Warriors made a huge statement and Melbourne can no longer be treated as a safe rebound side."
+      "match": "Wests Tigers vs Broncos",
+      "kickoff": "Round 7",
+      "venue": "Fixture confirmed",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Wests Tigers",
+      "note": "The Tigers have the momentum while the Broncos are still dealing with a brutal injury list."
     },
     {
-      "match": "Eels vs Titans",
-      "kickoff": "Sun 12 Apr, 2:00pm",
-      "venue": "CommBank Stadium",
-      "status": "Full Time",
-      "result": "Titans 52-10 Eels",
-      "tipOutcome": "Miss",
-      "note": "The Titans blew Parramatta off the park and turned the Eels into the harshest miss on the card."
+      "match": "Rabbitohs vs Dragons",
+      "kickoff": "Round 7",
+      "venue": "Fixture confirmed",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Rabbitohs",
+      "note": "Souths still need Jye Gray clarity, but the Dragons are carrying too much damage and too many losses."
     },
     {
-      "match": "Wests Tigers vs Knights",
-      "kickoff": "Sun 12 Apr, 4:05pm",
-      "venue": "Campbelltown",
-      "status": "Full Time",
-      "result": "Wests Tigers 42-22 Knights",
-      "tipOutcome": "Tip landed",
-      "note": "The Tigers fully justified the hype and remain one of the strongest stories of the season."
+      "match": "Raiders vs Storm",
+      "kickoff": "Round 7",
+      "venue": "Fixture confirmed",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Raiders",
+      "note": "Canberra come in with energy, while Melbourne now need to prove they are still a trust side."
     }
   ],
   "liveAlerts": [
     {
-      "tone": "green",
-      "text": "Cowboys beat Brisbane 35-31 and the Round 6 charity bet landed at 2.00, returning $10.00 from the $5.00 stake."
+      "tone": "amber",
+      "text": "Official Round 7 team lists were not yet published when this board was updated on Monday, 13 April 2026."
     },
     {
       "tone": "green",
-      "text": "The running charity profit is now $11.50 after back-to-back wins."
+      "text": "The running charity profit stays at $11.50, so there is no pressure to force an early play."
     },
     {
       "tone": "red",
-      "text": "Round 6 finished 4 from 8 after misses on Panthers, Rabbitohs, Storm and Eels."
+      "text": "Fresh casualty-ward concerns include Jye Gray, Samuela Fainu, Tyson Frizell, Cory Paix, Reed Mahoney and Murray Taulagi."
     },
     {
       "tone": "green",
-      "text": "Sea Eagles 28-18 Dragons, Roosters 34-22 Sharks and Tigers 42-22 Knights were the other successful reads."
+      "text": "Tigers and Warriors earned the biggest upgrades coming out of Round 6."
     },
     {
       "tone": "red",
-      "text": "Warriors 38-14 Storm and Titans 52-10 Eels were the big form resets coming out of the weekend."
+      "text": "Storm, Eels and Dragons all sit in the prove-it bucket heading into Round 7."
     },
     {
       "tone": "amber",
-      "text": "Round 7 should start with upgraded respect for the Tigers and Warriors, and downgraded trust in Storm and Eels bounce-back narratives."
+      "text": "The charity play should stay open until Tuesday 14 April 2026 team lists and the first proper market reaction both land."
     }
   ]
 }

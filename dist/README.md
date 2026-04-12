@@ -1,42 +1,42 @@
 # NRL TipBot Briefing 2026
 
-Round 6 wrap for tipping results, charity betting, and weekly NRL intel
+Round 7 setup board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 
-- Cowboys head to head
-- Odds: $2.00
-- Stake: $5.00
-- Potential profit: $5.00
-- Status: Won and settled
+- TBD after team lists
+- Odds: Waiting for market
+- Stake: $5.00 reserve
+- Potential profit: TBD
+- Status: No play locked yet
 
 ## Live Round Status
 
-- Official NRL round wrap checked Monday 13 Apr 2026
-- Round 6 finished as a split tipping week at 4/8, but the charity bet stayed perfect with the Cowboys getting home and the running profit moving to $11.50.
+- Round 7 early setup checked Monday 13 Apr 2026
+- Round 7 is still in preview mode as of Monday 13 April 2026, with the board carrying fresh form reads and casualty-ward checks but holding the charity bet until official team lists arrive.
 
 
 ## Confidence Order
 
-1. Panthers over Bulldogs
-2. Sea Eagles over Dragons
-3. Rabbitohs over Raiders
-4. Cowboys over Broncos
-5. Storm over Warriors
-6. Eels over Titans
-7. Roosters over Sharks
-8. Tigers over Knights
+1. Bulldogs over Eels
+2. Panthers over Dolphins
+3. Sea Eagles over Cowboys
+4. Roosters over Knights
+5. Warriors over Titans
+6. Wests Tigers over Broncos
+7. Rabbitohs over Dragons
+8. Raiders over Storm
 
 ## Board Sections
 
-- **Situation Report** — Round 6 wrapped with a split tipping card
-- **Bet Analysis** — Cowboys were selected as the Round 6 value play
-- **Full Round Tips** — Work tipping card for the full round
-- **Round 6 Fixtures** — Imported fixture slate from the attached snapshot
-- **Form Radar** — Who looked hot, who looked broken
-- **Intel Notes** — The data points most worth checking before publishing
+- **Situation Report** — Round 7 opens with the board resetting, not chasing
+- **Bet Analysis** — Round 7 charity play stays uncommitted for now
+- **Early Round 7 Tips** — Work tipping card before official team lists
+- **Round 7 Fixtures** — Known Round 7 slate before team-list lock-in
+- **Form Radar** — Who deserves the Round 7 upgrade or downgrade
+- **Intel Notes** — The data points most worth checking before locking Round 7
 
 ## Notes
 
