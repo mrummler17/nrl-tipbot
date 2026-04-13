@@ -24,6 +24,16 @@ function writeFile(outputDir, relativePath, contents) {
   fs.writeFileSync(filePath, contents);
 }
 
+function uniqueStrings(items) {
+  const seen = new Set();
+  return items.filter((item) => {
+    const normalized = item.trim().toLowerCase();
+    if (seen.has(normalized)) return false;
+    seen.add(normalized);
+    return true;
+  });
+}
+
 function serializeForScript(value) {
   return JSON.stringify(value).replace(/<\//g, "<\\/");
 }
@@ -596,7 +606,7 @@ function renderHtml(data) {
       return (
         <div className="panel tone-red">
           <div className="panel-head">
-            <div className="panel-title">{live.round} Live Tracker</div>
+            <div className="panel-title">{live.round} Tracker</div>
             <div className="panel-tag accent">{live.verificationLabel}</div>
           </div>
           <p className="hero-sub" style={{ maxWidth: "100%", marginBottom: 16 }}>{live.summary}</p>
@@ -871,7 +881,9 @@ function renderHtml(data) {
 const mergedBriefing = {
   ...briefing,
   liveRound,
-  ticker: liveRound ? [...liveRound.liveAlerts.map((alert) => alert.text.toLowerCase()), ...briefing.ticker] : briefing.ticker
+  ticker: liveRound
+    ? uniqueStrings([...liveRound.liveAlerts.map((alert) => alert.text), ...briefing.ticker])
+    : uniqueStrings(briefing.ticker)
 };
 
 const outputDir = getOutputDir();
