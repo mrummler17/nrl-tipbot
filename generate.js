@@ -192,7 +192,7 @@ function renderHtml(data) {
     .ticker-track {
       display: flex;
       width: max-content;
-      animation: marquee 34s linear infinite;
+      animation: marquee 52s linear infinite;
       font-family: "Share Tech Mono", monospace;
       font-size: 12px;
       text-transform: uppercase;
