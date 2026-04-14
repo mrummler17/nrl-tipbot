@@ -6,16 +6,16 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Current Pick
 
-- TBD after team lists
-- Odds: Waiting for market
+- Bulldogs over Eels leads the shortlist
+- Odds: Waiting for best price
 - Stake: $5.00 reserve
 - Potential profit: TBD
 - Status: No play locked yet
 
 ## Live Round Status
 
-- Round 7 early setup checked Monday 13 Apr 2026
-- Round 7 is still in preview mode as of Monday 13 April 2026, with the board carrying fresh form reads and casualty-ward checks but holding the charity bet until official team lists arrive.
+- Round 7 team lists checked Tuesday 14 Apr 2026
+- Round 7 has moved out of placeholder mode now that official team lists are out, with the early edge sitting around Canterbury against Parramatta while several other games still need price discipline.
 
 
 ## Confidence Order
@@ -23,9 +23,9 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 1. Bulldogs over Eels
 2. Panthers over Dolphins
 3. Sea Eagles over Cowboys
-4. Roosters over Knights
-5. Warriors over Titans
-6. Wests Tigers over Broncos
+4. Warriors over Titans
+5. Wests Tigers over Broncos
+6. Roosters over Knights
 7. Rabbitohs over Dragons
 8. Raiders over Storm
 

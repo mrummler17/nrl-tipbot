@@ -1,126 +1,120 @@
 {
   "round": "Round 7",
-  "verifiedAt": "2026-04-13T10:00:00+10:00",
-  "verificationLabel": "Round 7 early setup checked Monday 13 Apr 2026",
-  "summary": "Round 7 is still in preview mode as of Monday 13 April 2026, with the board carrying fresh form reads and casualty-ward checks but holding the charity bet until official team lists arrive.",
+  "verifiedAt": "2026-04-14T18:30:00+10:00",
+  "verificationLabel": "Round 7 team lists checked Tuesday 14 Apr 2026",
+  "summary": "Round 7 has moved out of placeholder mode now that official team lists are out, with the early edge sitting around Canterbury against Parramatta while several other games still need price discipline.",
   "sources": [
+    {
+      "label": "NRL Team Lists: Round 7",
+      "url": "https://www.nrl.com/news/2026/04/14/nrl-team-lists-round-7/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-14T15:59:00+10:00"
+    },
     {
       "label": "NRL Casualty Ward",
       "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
       "publisher": "NRL.com",
       "publishedAt": "2026-04-12T18:45:00+10:00"
-    },
-    {
-      "label": "Sunday Session: Eels v Titans, Wests Tigers v Knights",
-      "url": "https://www.nrl.com/news/2026/04/12/sunday-session-eels-v-titans-wests-tigers-v-knights/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-04-12T19:06:00+10:00"
-    },
-    {
-      "label": "Rabbitohs v Raiders match page",
-      "url": "https://www.nrl.com/news/2026/04/07/rabbitohs-v-raiders-brandons-back-in-business-stuart-steps-up/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-04-11T13:45:00+10:00"
     }
   ],
   "scoreboard": [
     {
       "match": "Eels vs Bulldogs",
-      "kickoff": "Round 7",
-      "venue": "Fixture confirmed",
+      "kickoff": "Sun 19 Apr, 4:05pm",
+      "venue": "CommBank Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Bulldogs",
-      "note": "Parramatta are injury-hit and coming off a 52-10 collapse, while the Bulldogs have earned real respect."
+      "note": "Leo Thompson is back for Canterbury while Parramatta lose more pack depth and are still reeling from the Titans blowout."
     },
     {
       "match": "Dolphins vs Panthers",
-      "kickoff": "Round 7",
-      "venue": "Fixture confirmed",
+      "kickoff": "Fri 17 Apr, 8:00pm AEST",
+      "venue": "TIO Stadium, Darwin",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Panthers",
-      "note": "Penrith took a hit in Round 6 but still look more trustworthy than a Dolphins side missing depth."
+      "note": "Nathan Cleary is named and Penrith still look steadier than a Dolphins side that remains light on depth."
     },
     {
       "match": "Cowboys vs Sea Eagles",
-      "kickoff": "Round 7",
-      "venue": "Fixture confirmed",
+      "kickoff": "Thu 16 Apr, 7:50pm",
+      "venue": "Queensland Country Bank Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Sea Eagles",
-      "note": "Strong matchup, but the Cowboys carry fresh availability checks and Manly looked steady enough to trust early."
+      "note": "The Cowboys lose Murray Taulagi and Reed Mahoney from last week, while Manly get Taukeiaho back on the bench."
     },
     {
       "match": "Roosters vs Knights",
-      "kickoff": "Round 7",
-      "venue": "Fixture confirmed",
+      "kickoff": "Sun 19 Apr, 2:00pm",
+      "venue": "Allianz Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Roosters",
-      "note": "Newcastle still have key bodies in doubt and the Roosters are a steadier side right now."
+      "note": "Dylan Brown returns for Newcastle, but the Roosters still look like the cleaner, steadier side."
     },
     {
       "match": "Warriors vs Titans",
-      "kickoff": "Round 7",
-      "venue": "Fixture confirmed",
+      "kickoff": "Sat 18 Apr, 3:00pm AEST",
+      "venue": "Go Media Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Warriors",
-      "note": "The Warriors deserve the upgrade after flattening Melbourne, even with a few casualty-ward flags to monitor."
+      "note": "Kurt Capewell returns, with Charnze Nicoll-Klokstad and Mitch Barnett also hovering in the reserves."
     },
     {
       "match": "Wests Tigers vs Broncos",
-      "kickoff": "Round 7",
-      "venue": "Fixture confirmed",
+      "kickoff": "Sat 18 Apr, 7:35pm",
+      "venue": "Campbelltown Sports Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Wests Tigers",
-      "note": "The Tigers have the momentum while the Broncos are still dealing with a brutal injury list."
+      "note": "Jarome Luai is back for the Tigers, while Brisbane still carry a wounded roster even with Reynolds named."
     },
     {
       "match": "Rabbitohs vs Dragons",
-      "kickoff": "Round 7",
-      "venue": "Fixture confirmed",
+      "kickoff": "Sat 18 Apr, 5:30pm",
+      "venue": "Accor Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Rabbitohs",
-      "note": "Souths still need Jye Gray clarity, but the Dragons are carrying too much damage and too many losses."
+      "note": "Jye Gray is out and Matt Dufty comes in, but Souths still look healthier than a Dragons side missing Moses Suli."
     },
     {
       "match": "Raiders vs Storm",
-      "kickoff": "Round 7",
-      "venue": "Fixture confirmed",
+      "kickoff": "Fri 17 Apr, 6:00pm",
+      "venue": "GIO Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Raiders",
-      "note": "Canberra come in with energy, while Melbourne now need to prove they are still a trust side."
+      "note": "Canberra kept rolling and Melbourne now have to prove they can be trusted after another heavy loss."
     }
   ],
   "liveAlerts": [
     {
-      "tone": "amber",
-      "text": "Official Round 7 team lists were not yet published when this board was updated on Monday, 13 April 2026."
+      "tone": "green",
+      "text": "Official Round 7 team lists are now out, so the board can move from broad setup into sharper reads."
     },
     {
       "tone": "green",
-      "text": "The running charity profit stays at $11.50, so there is no pressure to force an early play."
+      "text": "The running charity profit stays at $11.50, so there is still no pressure to force an early play."
     },
     {
       "tone": "red",
-      "text": "Fresh casualty-ward concerns include Jye Gray, Samuela Fainu, Tyson Frizell, Cory Paix, Reed Mahoney and Murray Taulagi."
+      "text": "Jye Gray is out for South Sydney, while the Cowboys lose Murray Taulagi and Reed Mahoney from their derby win."
     },
     {
       "tone": "green",
-      "text": "Tigers and Warriors earned the biggest upgrades coming out of Round 6."
+      "text": "Jarome Luai is back for the Tigers and Kurt Capewell returns for the Warriors."
     },
     {
       "tone": "red",
-      "text": "Storm, Eels and Dragons all sit in the prove-it bucket heading into Round 7."
+      "text": "Eels, Storm and Dragons all still sit in the prove-it bucket heading into Round 7."
     },
     {
       "tone": "amber",
-      "text": "The charity play should stay open until Tuesday 14 April 2026 team lists and the first proper market reaction both land."
+      "text": "Bulldogs over Eels is the strongest early shortlist play, but the charity bet should stay open until the market settles."
     }
   ]
 }
