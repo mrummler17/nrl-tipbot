@@ -6,16 +6,16 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Current Pick
 
-- Bulldogs over Eels leads the shortlist
-- Odds: Waiting for best price
-- Stake: $5.00 reserve
-- Potential profit: TBD
-- Status: No play locked yet
+- Wests Tigers head to head
+- Odds: $1.52
+- Stake: $5.00
+- Potential profit: $2.60
+- Status: Locked pending late mail
 
 ## Live Round Status
 
-- Round 7 team lists checked Tuesday 14 Apr 2026
-- Round 7 has moved out of placeholder mode now that official team lists are out, with the early edge sitting around Canterbury against Parramatta while several other games still need price discipline.
+- Round 7 late mail checked Wednesday 15 Apr 2026
+- Round 7 has moved beyond the placeholder stage now that team lists and early late mail are out, with Bulldogs still the cleanest straight tip but Wests Tigers landing as the better charity price play.
 
 
 ## Confidence Order
@@ -32,9 +32,9 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 ## Board Sections
 
 - **Situation Report** — Round 7 opens with the board resetting, not chasing
-- **Bet Analysis** — Round 7 charity play stays uncommitted for now
-- **Early Round 7 Tips** — Work tipping card before official team lists
-- **Round 7 Fixtures** — Known Round 7 slate before team-list lock-in
+- **Bet Analysis** — Round 7 charity play is set, but still needs late-mail discipline
+- **Early Round 7 Tips** — Round 7 tip card after team lists, before final late mail
+- **Round 7 Fixtures** — Round 7 slate with the charity play now narrowed
 - **Form Radar** — Who deserves the Round 7 upgrade or downgrade
 - **Intel Notes** — The data points most worth checking before locking Round 7
 

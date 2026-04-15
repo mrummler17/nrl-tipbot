@@ -11,17 +11,18 @@
   },
   "ticker": [
     "official round 7 team lists are now out and the board can sharpen up",
-    "bulldogs over eels is the cleanest early lean after the list drop",
+    "bulldogs over eels is still the cleanest straight tip but the price has been crushed",
+    "wests tigers head to head now shapes as the better charity play at around $1.52",
     "rabbitohs lose jye gray while dragons lose moses suli from the starting side",
     "tigers get jarome luai back while broncos name reynolds but still lose carrigan to suspension",
     "cowboys are without murray taulagi and reed mahoney against manly",
-    "charity record stays at 2 and 0 so there is still no need to force an early bet"
+    "charity record stays at 2 and 0 and the round 7 bet is now ready to lock"
   ],
   "heroCards": [
     {
       "label": "Current Lean",
-      "value": "Bulldogs over Eels",
-      "delta": "team-list edge",
+      "value": "Tigers H2H",
+      "delta": "$1.52 range",
       "tone": "cyan"
     },
     {
@@ -46,14 +47,15 @@
   "featurePanels": [
     {
       "title": "Lock Pick",
-        "tone": "cyan",
-        "items": [
-          "No Round 7 charity bet locked yet",
-          "Bulldogs over Eels is the strongest early lean",
-          "Eels lost more bodies again while Leo Thompson returns for Canterbury",
-          "Still wait for market shape before calling it the charity play"
-        ]
-      },
+      "tone": "cyan",
+      "items": [
+        "Wests Tigers head to head locked pending late mail",
+        "$5 stake in the $1.52 range",
+        "Jarome Luai returns while Brisbane still carry major injuries",
+        "Cleaner payout than the Bulldogs at the current market",
+        "Only downgrade it if late mail turns against the Tigers spine"
+      ]
+    },
     {
       "title": "Risk Flags",
       "tone": "red",
@@ -89,24 +91,24 @@
   ],
   "betCard": {
     "title": "Round 7 Charity Bet",
-    "status": "No play locked yet",
-    "pick": "Bulldogs over Eels leads the shortlist",
-    "odds": "Waiting for best price",
-    "stake": "$5.00 reserve",
-    "potentialReturn": "Not locked",
-    "potentialProfit": "TBD",
-    "match": "Eels vs Bulldogs",
-    "kickoff": "Sun 19 Apr 2026, 4:05pm AEST",
-    "venue": "CommBank Stadium",
+    "status": "Locked pending late mail",
+    "pick": "Wests Tigers head to head",
+    "odds": "$1.52",
+    "stake": "$5.00",
+    "potentialReturn": "$7.60",
+    "potentialProfit": "$2.60",
+    "match": "Wests Tigers vs Broncos",
+    "kickoff": "Sat 18 Apr 2026, 7:35pm AEST",
+    "venue": "Campbelltown Sports Stadium",
     "why": [
-      "Canterbury get Leo Thompson back while Parramatta keep losing forward depth.",
-      "The Eels are coming off a 52-10 hiding and still look vulnerable through the middle.",
-      "The betting record is clean at 2-0, so the shortlist can stay disciplined while we wait for price."
+      "Jarome Luai is back and the Tigers are still carrying strong momentum at home.",
+      "Brisbane get Reynolds back but still lose Carrigan and remain thin through key spots.",
+      "The Bulldogs are shorter at $1.23, so the Tigers offer the better mix of edge and payout."
     ],
     "risks": [
-      "Stephen Crichton and Josh Curran are only in the extended squad, not the starting side.",
-      "Mitchell Moses can still swing a game if Parramatta find energy at home.",
-      "The price may shorten quickly once the public catches up to the list advantage."
+      "Reynolds returning gives Brisbane more control than they had last week.",
+      "The Broncos still have enough strike out wide to punish errors.",
+      "If late mail turns against the Tigers spine, the price edge disappears quickly."
     ]
   },
   "charity": {
@@ -157,12 +159,12 @@
       "title": "Bet Analysis",
       "badge": "charity pick",
       "tone": "cyan",
-      "heading": "Round 7 charity play stays uncommitted for now",
+      "heading": "Round 7 charity play is set, but still needs late-mail discipline",
       "lines": [
-        "There is no value in pretending a Round 7 play is locked before official team lists and injury confirmations are out.",
-        "The clearest early shortlist game is Bulldogs v Eels, but price still matters before anything is locked.",
-        "The advantage right now is patience: team lists are out, but the market and final trims can still move the best spot.",
-        "With the charity ledger already at $11.50 profit, discipline still matters more than action."
+        "The cleanest straight tip is still Bulldogs over Eels, but the market has crushed that number into low-value territory.",
+        "At around $1.52, Wests Tigers head to head offers the better blend of price and confidence for the charity board.",
+        "Luai's return, Brisbane's missing depth and the Tigers' home form make it the stronger payout play without getting too cute.",
+        "The only remaining job is to hold nerve and re-check late mail before kickoff."
       ]
     },
     {
@@ -170,7 +172,7 @@
       "title": "Early Round 7 Tips",
       "badge": "8 games",
       "tone": "green",
-      "heading": "Work tipping card before official team lists",
+      "heading": "Round 7 tip card after team lists, before final late mail",
       "lines": [
         "Bulldogs over Eels",
         "Panthers over Dolphins",
@@ -187,7 +189,7 @@
       "title": "Round 7 Fixtures",
       "badge": "schedule",
       "tone": "amber",
-      "heading": "Known Round 7 slate before team-list lock-in",
+      "heading": "Round 7 slate with the charity play now narrowed",
       "lines": [
         "Eels vs Bulldogs",
         "Dolphins vs Panthers",
@@ -218,10 +220,10 @@
       "tone": "red",
       "heading": "The data points most worth checking before locking Round 7",
       "lines": [
-        "Broncos, Cowboys, Tigers, Dragons, Rabbitohs and Warriors all carry injury or availability angles worth re-checking once team lists drop.",
+        "Broncos, Cowboys, Tigers, Dragons, Rabbitohs and Warriors all still carry injury or availability angles worth re-checking through late mail.",
         "The biggest list swings are Jye Gray out for Souths, Leo Thompson in for Canterbury, Luai back for the Tigers and Reynolds named for Brisbane.",
         "The casualty watch still includes Samuela Fainu, Tyson Frizell, Cory Paix, Murray Taulagi, Reed Mahoney and Stephen Crichton's shoulder.",
-        "Do not lock any charity play until the Tuesday 14 April 2026 team-list reaction has had time to settle through the market."
+        "The Tigers charity play is locked on process, but any sharp late-mail turn against Luai or the Tigers spine should trigger a rethink."
       ]
     }
   ],

@@ -1,8 +1,8 @@
 {
   "round": "Round 7",
-  "verifiedAt": "2026-04-14T18:30:00+10:00",
-  "verificationLabel": "Round 7 team lists checked Tuesday 14 Apr 2026",
-  "summary": "Round 7 has moved out of placeholder mode now that official team lists are out, with the early edge sitting around Canterbury against Parramatta while several other games still need price discipline.",
+  "verifiedAt": "2026-04-15T16:15:00+10:00",
+  "verificationLabel": "Round 7 late mail checked Wednesday 15 Apr 2026",
+  "summary": "Round 7 has moved beyond the placeholder stage now that team lists and early late mail are out, with Bulldogs still the cleanest straight tip but Wests Tigers landing as the better charity price play.",
   "sources": [
     {
       "label": "NRL Team Lists: Round 7",
@@ -15,6 +15,12 @@
       "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
       "publisher": "NRL.com",
       "publishedAt": "2026-04-12T18:45:00+10:00"
+    },
+    {
+      "label": "NRL Late Mail: Round 7",
+      "url": "https://www.nrl.com/news/2026/04/15/nrl-late-mail-round-7-crichton-luai-pushing-to-return/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-15T16:01:00+10:00"
     }
   ],
   "scoreboard": [
@@ -69,8 +75,8 @@
       "venue": "Campbelltown Sports Stadium",
       "status": "Upcoming",
       "result": "",
-      "tipOutcome": "Lean: Wests Tigers",
-      "note": "Jarome Luai is back for the Tigers, while Brisbane still carry a wounded roster even with Reynolds named."
+      "tipOutcome": "Charity bet: Wests Tigers",
+      "note": "Jarome Luai is on track to return, while Brisbane get Reynolds back but still lose Carrigan and Cory Paix from key middle control."
     },
     {
       "match": "Rabbitohs vs Dragons",
@@ -98,7 +104,7 @@
     },
     {
       "tone": "green",
-      "text": "The running charity profit stays at $11.50, so there is still no pressure to force an early play."
+      "text": "The running charity profit stays at $11.50, so the Round 7 play can be chosen on price discipline rather than pressure."
     },
     {
       "tone": "red",
@@ -114,7 +120,7 @@
     },
     {
       "tone": "amber",
-      "text": "Bulldogs over Eels is the strongest early shortlist play, but the charity bet should stay open until the market settles."
+      "text": "Bulldogs over Eels is still the cleanest straight tip, but Tigers head to head around $1.52 gives the charity board the better payout blend."
     }
   ]
 }
