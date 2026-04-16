@@ -7,10 +7,10 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 ## Current Pick
 
 - Wests Tigers head to head
-- Odds: $1.52
+- Odds: $1.53
 - Stake: $5.00
-- Potential profit: $2.60
-- Status: Locked pending late mail
+- Potential profit: $2.65
+- Status: Locked
 
 ## Live Round Status
 
@@ -32,7 +32,7 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 ## Board Sections
 
 - **Situation Report** — Round 7 opens with the board resetting, not chasing
-- **Bet Analysis** — Round 7 charity play is set, but still needs late-mail discipline
+- **Bet Analysis** — Round 7 charity play is locked at the placed TAB number
 - **Early Round 7 Tips** — Round 7 tip card after team lists, before final late mail
 - **Round 7 Fixtures** — Round 7 slate with the charity play now narrowed
 - **Form Radar** — Who deserves the Round 7 upgrade or downgrade

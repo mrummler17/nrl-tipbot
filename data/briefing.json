@@ -12,17 +12,17 @@
   "ticker": [
     "official round 7 team lists are now out and the board can sharpen up",
     "bulldogs over eels is still the cleanest straight tip but the price has been crushed",
-    "wests tigers head to head now shapes as the better charity play at around $1.52",
+    "wests tigers head to head is now locked as the charity play at $1.53",
     "rabbitohs lose jye gray while dragons lose moses suli from the starting side",
     "tigers get jarome luai back while broncos name reynolds but still lose carrigan to suspension",
     "cowboys are without murray taulagi and reed mahoney against manly",
-    "charity record stays at 2 and 0 and the round 7 bet is now ready to lock"
+    "charity record stays at 2 and 0 and the round 7 bet is now officially locked"
   ],
   "heroCards": [
     {
       "label": "Current Lean",
       "value": "Tigers H2H",
-      "delta": "$1.52 range",
+      "delta": "$1.53 locked",
       "tone": "cyan"
     },
     {
@@ -49,8 +49,8 @@
       "title": "Lock Pick",
       "tone": "cyan",
       "items": [
-        "Wests Tigers head to head locked pending late mail",
-        "$5 stake in the $1.52 range",
+        "Wests Tigers head to head locked",
+        "$5 stake at $1.53",
         "Jarome Luai returns while Brisbane still carry major injuries",
         "Cleaner payout than the Bulldogs at the current market",
         "Only downgrade it if late mail turns against the Tigers spine"
@@ -91,19 +91,19 @@
   ],
   "betCard": {
     "title": "Round 7 Charity Bet",
-    "status": "Locked pending late mail",
+    "status": "Locked",
     "pick": "Wests Tigers head to head",
-    "odds": "$1.52",
+    "odds": "$1.53",
     "stake": "$5.00",
-    "potentialReturn": "$7.60",
-    "potentialProfit": "$2.60",
+    "potentialReturn": "$7.65",
+    "potentialProfit": "$2.65",
     "match": "Wests Tigers vs Broncos",
     "kickoff": "Sat 18 Apr 2026, 7:35pm AEST",
     "venue": "Campbelltown Sports Stadium",
     "why": [
       "Jarome Luai is back and the Tigers are still carrying strong momentum at home.",
       "Brisbane get Reynolds back but still lose Carrigan and remain thin through key spots.",
-      "The Bulldogs are shorter at $1.23, so the Tigers offer the better mix of edge and payout."
+        "The Bulldogs are shorter at $1.23, so the Tigers offer the better mix of edge and payout."
     ],
     "risks": [
       "Reynolds returning gives Brisbane more control than they had last week.",
@@ -159,12 +159,12 @@
       "title": "Bet Analysis",
       "badge": "charity pick",
       "tone": "cyan",
-      "heading": "Round 7 charity play is set, but still needs late-mail discipline",
+      "heading": "Round 7 charity play is locked at the placed TAB number",
       "lines": [
         "The cleanest straight tip is still Bulldogs over Eels, but the market has crushed that number into low-value territory.",
-        "At around $1.52, Wests Tigers head to head offers the better blend of price and confidence for the charity board.",
+        "At the placed TAB price of $1.53, Wests Tigers head to head still offers the better blend of price and confidence for the charity board.",
         "Luai's return, Brisbane's missing depth and the Tigers' home form make it the stronger payout play without getting too cute.",
-        "The only remaining job is to hold nerve and re-check late mail before kickoff."
+        "The ticket is placed, so the remaining job is just to track it cleanly through kickoff."
       ]
     },
     {
