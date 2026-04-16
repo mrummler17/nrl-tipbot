@@ -14,8 +14,8 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Live Round Status
 
-- Round 7 late mail checked Wednesday 15 Apr 2026
-- Round 7 has moved beyond the placeholder stage now that team lists and early late mail are out, with Bulldogs still the cleanest straight tip but Wests Tigers landing as the better charity price play.
+- Round 7 updated after Thursday opener on 16 Apr 2026
+- Round 7 is now live, with Manly opening the weekend by beating North Queensland in Townsville and validating the Sea Eagles lean while the Tigers charity bet remains the main Saturday focus.
 
 
 ## Confidence Order

@@ -1,8 +1,8 @@
 {
   "round": "Round 7",
-  "verifiedAt": "2026-04-15T16:15:00+10:00",
-  "verificationLabel": "Round 7 late mail checked Wednesday 15 Apr 2026",
-  "summary": "Round 7 has moved beyond the placeholder stage now that team lists and early late mail are out, with Bulldogs still the cleanest straight tip but Wests Tigers landing as the better charity price play.",
+  "verifiedAt": "2026-04-16T22:45:00+10:00",
+  "verificationLabel": "Round 7 updated after Thursday opener on 16 Apr 2026",
+  "summary": "Round 7 is now live, with Manly opening the weekend by beating North Queensland in Townsville and validating the Sea Eagles lean while the Tigers charity bet remains the main Saturday focus.",
   "sources": [
     {
       "label": "NRL Team Lists: Round 7",
@@ -21,6 +21,12 @@
       "url": "https://www.nrl.com/news/2026/04/15/nrl-late-mail-round-7-crichton-luai-pushing-to-return/",
       "publisher": "NRL.com",
       "publishedAt": "2026-04-15T16:01:00+10:00"
+    },
+    {
+      "label": "Cowboys v Sea Eagles Match Centre",
+      "url": "https://www.nrl.com/draw/nrl-premiership/2026/round-7/cowboys-v-sea-eagles/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-16T22:30:00+10:00"
     }
   ],
   "scoreboard": [
@@ -46,10 +52,10 @@
       "match": "Cowboys vs Sea Eagles",
       "kickoff": "Thu 16 Apr, 7:50pm",
       "venue": "Queensland Country Bank Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Sea Eagles",
-      "note": "The Cowboys lose Murray Taulagi and Reed Mahoney from last week, while Manly get Taukeiaho back on the bench."
+      "status": "Final",
+      "result": "Sea Eagles beat Cowboys",
+      "tipOutcome": "Tip hit: Sea Eagles",
+      "note": "Manly got the away win in Townsville, rewarding the Sea Eagles read and punishing the home-ground Cowboys swing."
     },
     {
       "match": "Roosters vs Knights",
@@ -100,7 +106,7 @@
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Official Round 7 team lists are now out, so the board can move from broad setup into sharper reads."
+      "text": "Round 7 is underway now, and Manly have already banked the first result by beating the Cowboys in Townsville."
     },
     {
       "tone": "green",
@@ -108,7 +114,7 @@
     },
     {
       "tone": "red",
-      "text": "Jye Gray is out for South Sydney, while the Cowboys lose Murray Taulagi and Reed Mahoney from their derby win."
+      "text": "The Cowboys missing Murray Taulagi and Reed Mahoney mattered, with the home-side hunch getting punished in the opener."
     },
     {
       "tone": "green",
