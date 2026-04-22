@@ -1,132 +1,126 @@
 {
-  "round": "Round 7",
-  "verifiedAt": "2026-04-16T22:45:00+10:00",
-  "verificationLabel": "Round 7 updated after Thursday opener on 16 Apr 2026",
-  "summary": "Round 7 is now live, with Manly opening the weekend by beating North Queensland in Townsville and validating the Sea Eagles lean while the Tigers charity bet remains the main Saturday focus.",
+  "round": "Round 8",
+  "verifiedAt": "2026-04-22T16:45:00+10:00",
+  "verificationLabel": "Round 8 team lists checked Wednesday 22 Apr 2026",
+  "summary": "Round 8 resets the board after the Tigers charity miss, with Bulldogs the cleanest straight tip on team news while several other games still need price discipline.",
   "sources": [
     {
-      "label": "NRL Team Lists: Round 7",
-      "url": "https://www.nrl.com/news/2026/04/14/nrl-team-lists-round-7/",
+      "label": "NRL Team Lists: Round 8",
+      "url": "https://www.nrl.com/news/2026/04/21/nrl-team-lists-round-8/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-04-14T15:59:00+10:00"
+      "publishedAt": "2026-04-22T11:06:00+10:00"
     },
     {
       "label": "NRL Casualty Ward",
       "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-04-12T18:45:00+10:00"
+      "publishedAt": "2026-04-20T18:02:00+10:00"
     },
     {
-      "label": "NRL Late Mail: Round 7",
-      "url": "https://www.nrl.com/news/2026/04/15/nrl-late-mail-round-7-crichton-luai-pushing-to-return/",
+      "label": "Wests Tigers v Broncos Result",
+      "url": "https://www.nrl.com/news/2026/04/17/rookie-bukowski-to-debut-as-brisbanes-last-nine-standing/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-04-15T16:01:00+10:00"
-    },
-    {
-      "label": "Cowboys v Sea Eagles Match Centre",
-      "url": "https://www.nrl.com/draw/nrl-premiership/2026/round-7/cowboys-v-sea-eagles/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-04-16T22:30:00+10:00"
+      "publishedAt": "2026-04-18T21:35:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Eels vs Bulldogs",
-      "kickoff": "Sun 19 Apr, 4:05pm",
-      "venue": "CommBank Stadium",
+      "match": "Wests Tigers vs Raiders",
+      "kickoff": "Thu 23 Apr, 7:50pm",
+      "venue": "Leichhardt Oval",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Wests Tigers",
+      "note": "The Tigers get Starford To'a into the backline while the Raiders lose Hudson Young and Josh Papalii, with Simi Sasagi also ruled out by a hamstring strain."
+    },
+    {
+      "match": "Cowboys vs Sharks",
+      "kickoff": "Fri 24 Apr, 6:00pm",
+      "venue": "Queensland Country Bank Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Sharks",
+      "note": "North Queensland welcome back Reed Mahoney, Murray Taulagi and Jeremiah Nanai, but Cronulla get Cam McInnes back and still look a little cleaner on balance."
+    },
+    {
+      "match": "Broncos vs Bulldogs",
+      "kickoff": "Fri 24 Apr, 8:00pm",
+      "venue": "Suncorp Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Bulldogs",
-      "note": "Leo Thompson is back for Canterbury while Parramatta lose more pack depth and are still reeling from the Titans blowout."
+      "note": "Stephen Crichton returns for Canterbury while Brisbane still face life without Payne Haas and Corey Jensen up front."
     },
     {
-      "match": "Dolphins vs Panthers",
-      "kickoff": "Fri 17 Apr, 8:00pm AEST",
-      "venue": "TIO Stadium, Darwin",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Panthers",
-      "note": "Nathan Cleary is named and Penrith still look steadier than a Dolphins side that remains light on depth."
-    },
-    {
-      "match": "Cowboys vs Sea Eagles",
-      "kickoff": "Thu 16 Apr, 7:50pm",
-      "venue": "Queensland Country Bank Stadium",
-      "status": "Final",
-      "result": "Sea Eagles 38-6 Cowboys",
-      "tipOutcome": "Tip hit: Sea Eagles",
-      "note": "Manly smashed North Queensland 38-6 in Townsville, rewarding the Sea Eagles read and punishing the home-ground Cowboys swing hard."
-    },
-    {
-      "match": "Roosters vs Knights",
-      "kickoff": "Sun 19 Apr, 2:00pm",
+      "match": "Dragons vs Roosters",
+      "kickoff": "Sat 25 Apr, 4:00pm",
       "venue": "Allianz Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Roosters",
-      "note": "Dylan Brown returns for Newcastle, but the Roosters still look like the cleaner, steadier side."
+      "note": "The Roosters still look steadier than a Dragons side carrying suspension and injury noise through the spine and outside backs."
     },
     {
-      "match": "Warriors vs Titans",
-      "kickoff": "Sat 18 Apr, 3:00pm AEST",
+      "match": "Warriors vs Dolphins",
+      "kickoff": "Sat 25 Apr, 6:00pm AEST",
       "venue": "Go Media Stadium",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Warriors",
-      "note": "Kurt Capewell returns, with Charnze Nicoll-Klokstad and Mitch Barnett also hovering in the reserves."
+      "note": "Charnze Nicoll-Klokstad is out, which dulls the Warriors edge, but home ground still keeps them narrowly in front on the board."
     },
     {
-      "match": "Wests Tigers vs Broncos",
-      "kickoff": "Sat 18 Apr, 7:35pm",
-      "venue": "Campbelltown Sports Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Charity bet: Wests Tigers",
-      "note": "Jarome Luai is on track to return, while Brisbane get Reynolds back but still lose Carrigan and Cory Paix from key middle control."
-    },
-    {
-      "match": "Rabbitohs vs Dragons",
-      "kickoff": "Sat 18 Apr, 5:30pm",
-      "venue": "Accor Stadium",
+      "match": "Storm vs Rabbitohs",
+      "kickoff": "Sat 25 Apr, 8:05pm",
+      "venue": "AAMI Park",
       "status": "Upcoming",
       "result": "",
       "tipOutcome": "Lean: Rabbitohs",
-      "note": "Jye Gray is out and Matt Dufty comes in, but Souths still look healthier than a Dragons side missing Moses Suli."
+      "note": "Melbourne have stuck with the same 19-man squad despite five straight losses, while Souths arrive with more trust in tight games."
     },
     {
-      "match": "Raiders vs Storm",
-      "kickoff": "Fri 17 Apr, 6:00pm",
-      "venue": "GIO Stadium",
+      "match": "Knights vs Panthers",
+      "kickoff": "Sun 26 Apr, 2:00pm",
+      "venue": "McDonald Jones Stadium",
       "status": "Upcoming",
       "result": "",
-      "tipOutcome": "Lean: Raiders",
-      "note": "Canberra kept rolling and Melbourne now have to prove they can be trusted after another heavy loss."
+      "tipOutcome": "Lean: Panthers",
+      "note": "Penrith lose Mitch Kenny but still have Nathan Cleary steering the side, while Newcastle remain short of their best outside backs."
+    },
+    {
+      "match": "Sea Eagles vs Eels",
+      "kickoff": "Sun 26 Apr, 4:05pm",
+      "venue": "4 Pines Park",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Sea Eagles",
+      "note": "Turbo is out with a hamstring injury, but Manly are otherwise settled and still look more convincing than Parramatta."
     }
   ],
   "liveAlerts": [
     {
-      "tone": "green",
-      "text": "Round 7 is underway now, and Manly have already banked the first result by beating the Cowboys in Townsville."
-    },
-    {
-      "tone": "green",
-      "text": "The running charity profit stays at $11.50, so the Round 7 play can be chosen on price discipline rather than pressure."
-    },
-    {
       "tone": "red",
-      "text": "The Cowboys missing Murray Taulagi and Reed Mahoney mattered, with the home-side hunch getting punished in the opener."
+      "text": "The Round 7 Tigers charity bet lost 21-20 to Brisbane, so the Mark Hughes Foundation bank slips back to $6.50."
     },
     {
       "tone": "green",
-      "text": "Jarome Luai is back for the Tigers and Kurt Capewell returns for the Warriors."
-    },
-    {
-      "tone": "red",
-      "text": "Eels, Storm and Dragons all still sit in the prove-it bucket heading into Round 7."
+      "text": "Bulldogs over Broncos looks like the cleanest straight tip, with Crichton back and Brisbane still missing Payne Haas."
     },
     {
       "tone": "amber",
-      "text": "Bulldogs over Eels is still the cleanest straight tip, but Tigers head to head is now locked for charity at $1.53 as the better payout blend."
+      "text": "Cowboys versus Sharks is one of the hardest games to price because both sides get major reinforcements back."
+    },
+    {
+      "tone": "red",
+      "text": "Turbo's hamstring injury changes the Manly-Eels matchup more than any other Round 8 team-list move."
+    },
+    {
+      "tone": "red",
+      "text": "Storm have dropped five straight and still cannot be trusted blindly, even at home."
+    },
+    {
+      "tone": "amber",
+      "text": "No Round 8 charity bet is locked yet, because the cleanest side may still be priced too short to be worth it."
     }
   ]
 }

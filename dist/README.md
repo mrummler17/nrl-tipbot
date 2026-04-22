@@ -1,42 +1,42 @@
 # NRL TipBot Briefing 2026
 
-Round 7 setup board for tipping, charity betting, and weekly NRL intel
+Round 8 setup board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 
-- Wests Tigers head to head
-- Odds: $1.53
-- Stake: $5.00
-- Potential profit: $2.65
-- Status: Locked
+- Bulldogs head to head leads the shortlist
+- Odds: Price watch
+- Stake: $5.00 earmarked
+- Potential profit: TBD
+- Status: No play locked
 
 ## Live Round Status
 
-- Round 7 updated after Thursday opener on 16 Apr 2026
-- Round 7 is now live, with Manly opening the weekend by beating North Queensland in Townsville and validating the Sea Eagles lean while the Tigers charity bet remains the main Saturday focus.
+- Round 8 team lists checked Wednesday 22 Apr 2026
+- Round 8 resets the board after the Tigers charity miss, with Bulldogs the cleanest straight tip on team news while several other games still need price discipline.
 
 
 ## Confidence Order
 
-1. Bulldogs over Eels
-2. Panthers over Dolphins
-3. Sea Eagles over Cowboys
-4. Warriors over Titans
-5. Wests Tigers over Broncos
-6. Roosters over Knights
-7. Rabbitohs over Dragons
-8. Raiders over Storm
+1. Wests Tigers over Raiders
+2. Sharks over Cowboys
+3. Bulldogs over Broncos
+4. Roosters over Dragons
+5. Warriors over Dolphins
+6. Rabbitohs over Storm
+7. Panthers over Knights
+8. Sea Eagles over Eels
 
 ## Board Sections
 
-- **Situation Report** — Round 7 opens with the board resetting, not chasing
-- **Bet Analysis** — Round 7 charity play is locked at the placed TAB number
-- **Early Round 7 Tips** — Round 7 tip card after team lists, before final late mail
-- **Round 7 Fixtures** — Round 7 slate with the charity play now narrowed
-- **Form Radar** — Who deserves the Round 7 upgrade or downgrade
-- **Intel Notes** — The data points most worth checking before locking Round 7
+- **Situation Report** — Round 8 opens with a reset after the first charity miss
+- **Bet Analysis** — Bulldogs lead the shortlist, but price discipline matters
+- **Early Round 8 Tips** — Round 8 tip card after team lists
+- **Round 8 Fixtures** — Known Round 8 slate after Team List Tuesday
+- **Form Radar** — Who deserves the Round 8 upgrade or downgrade
+- **Intel Notes** — The data points most worth checking before locking Round 8
 
 ## Notes
 
