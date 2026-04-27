@@ -1,21 +1,21 @@
 # NRL TipBot Briefing 2026
 
-Round 8 setup board for tipping, charity betting, and weekly NRL intel
+Round 8 wrap board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 
-- Bulldogs head to head leads the shortlist
-- Odds: Price watch
-- Stake: $5.00 earmarked
-- Potential profit: TBD
-- Status: No play locked
+- No Round 8 charity play
+- Odds: N/A
+- Stake: $0.00
+- Potential profit: $0.00
+- Status: No bet placed
 
 ## Live Round Status
 
-- Round 8 team lists checked Wednesday 22 Apr 2026
-- Round 8 resets the board after the Tigers charity miss, with Bulldogs the cleanest straight tip on team news while several other games still need price discipline.
+- Round 8 wrap logged Monday 28 Apr 2026
+- Round 8 closed as a perfect 8 from 8 tipping week with no charity bet placed, leaving the Mark Hughes Foundation bank unchanged at $6.50 while the board waits for Round 9 team lists.
 
 
 ## Confidence Order
@@ -31,12 +31,12 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Board Sections
 
-- **Situation Report** — Round 8 opens with a reset after the first charity miss
-- **Bet Analysis** — Bulldogs lead the shortlist, but price discipline matters
-- **Early Round 8 Tips** — Round 8 tip card after team lists
-- **Round 8 Fixtures** — Known Round 8 slate after Team List Tuesday
-- **Form Radar** — Who deserves the Round 8 upgrade or downgrade
-- **Intel Notes** — The data points most worth checking before locking Round 8
+- **Situation Report** — Round 8 closes with the process back on track
+- **Bet Analysis** — No-bet discipline was the right Round 8 call
+- **Round 8 Tips** — Perfect card logged for the record
+- **Next Step** — Best workflow before the next board refresh
+- **Form Radar** — What last week taught us
+- **Intel Notes** — What to wait for before touching Round 9
 
 ## Notes
 
