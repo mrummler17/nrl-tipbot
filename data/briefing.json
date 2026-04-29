@@ -52,7 +52,7 @@
         "Bulldogs head to head locked",
         "Cowboys lose Murray Taulagi while Canterbury keep their spine stable",
         "It looks like the cleanest straight tip before late mail",
-        "The TAB number held up well enough to justify the play at $1.77",
+        "The TAB number held up well enough to justify the play at $1.77 for a $10 stake",
         "Now the job is just to track it cleanly"
       ]
     },
@@ -94,9 +94,9 @@
     "status": "Locked",
     "pick": "Bulldogs head to head",
     "odds": "$1.77",
-    "stake": "$5.00",
-    "potentialReturn": "$8.85",
-    "potentialProfit": "$3.85",
+    "stake": "$10.00",
+    "potentialReturn": "$17.70",
+    "potentialProfit": "$7.70",
     "match": "Bulldogs vs Cowboys",
     "kickoff": "Fri 1 May 2026, 6:00pm AEST",
     "venue": "Accor Stadium",

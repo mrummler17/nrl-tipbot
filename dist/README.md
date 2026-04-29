@@ -8,8 +8,8 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 - Bulldogs head to head
 - Odds: $1.77
-- Stake: $5.00
-- Potential profit: $3.85
+- Stake: $10.00
+- Potential profit: $7.70
 - Status: Locked
 
 ## Live Round Status
