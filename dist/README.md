@@ -1,42 +1,42 @@
 # NRL TipBot Briefing 2026
 
-Round 8 wrap board for tipping, charity betting, and weekly NRL intel
+Round 9 setup board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 
-- No Round 8 charity play
-- Odds: N/A
-- Stake: $0.00
-- Potential profit: $0.00
-- Status: No bet placed
+- Bulldogs head to head leads the shortlist
+- Odds: Price watch
+- Stake: $5.00 earmarked
+- Potential profit: TBD
+- Status: No play locked
 
 ## Live Round Status
 
-- Round 8 wrap logged Monday 28 Apr 2026
-- Round 8 closed as a perfect 8 from 8 tipping week with no charity bet placed, leaving the Mark Hughes Foundation bank unchanged at $6.50 while the board waits for Round 9 team lists.
+- Round 9 team lists checked Tuesday 29 Apr 2026
+- Round 9 opens with Bulldogs the cleanest early lean, a healthier Broncos side back in the frame, and the charity bank still waiting for a value play after the no-bet Round 8.
 
 
 ## Confidence Order
 
-1. Wests Tigers over Raiders
-2. Sharks over Cowboys
-3. Bulldogs over Broncos
-4. Roosters over Dragons
-5. Warriors over Dolphins
-6. Rabbitohs over Storm
-7. Panthers over Knights
-8. Sea Eagles over Eels
+1. Titans over Raiders
+2. Bulldogs over Cowboys
+3. Warriors over Eels
+4. Storm over Dolphins
+5. Broncos over Roosters
+6. Knights over Rabbitohs
+7. Sharks over Wests Tigers
+8. Panthers over Sea Eagles
 
 ## Board Sections
 
-- **Situation Report** — Round 8 closes with the process back on track
-- **Bet Analysis** — No-bet discipline was the right Round 8 call
-- **Round 8 Tips** — Perfect card logged for the record
-- **Next Step** — Best workflow before the next board refresh
-- **Form Radar** — What last week taught us
-- **Intel Notes** — What to wait for before touching Round 9
+- **Situation Report** — Round 9 opens off confidence, but not complacency
+- **Bet Analysis** — Bulldogs lead the shortlist, but price will decide everything
+- **Early Round 9 Tips** — Round 9 tip card after team lists
+- **Round 9 Fixtures** — Known Round 9 slate after Team List Tuesday
+- **Form Radar** — Who deserves the Round 9 upgrade or downgrade
+- **Intel Notes** — The data points most worth checking before locking Round 9
 
 ## Notes
 

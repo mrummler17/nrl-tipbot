@@ -1,126 +1,126 @@
 {
-  "round": "Round 8 Review",
-  "verifiedAt": "2026-04-28T11:30:00+10:00",
-  "verificationLabel": "Round 8 wrap logged Monday 28 Apr 2026",
-  "summary": "Round 8 closed as a perfect 8 from 8 tipping week with no charity bet placed, leaving the Mark Hughes Foundation bank unchanged at $6.50 while the board waits for Round 9 team lists.",
+  "round": "Round 9",
+  "verifiedAt": "2026-04-29T11:45:00+10:00",
+  "verificationLabel": "Round 9 team lists checked Tuesday 29 Apr 2026",
+  "summary": "Round 9 opens with Bulldogs the cleanest early lean, a healthier Broncos side back in the frame, and the charity bank still waiting for a value play after the no-bet Round 8.",
   "sources": [
+    {
+      "label": "NRL Team Lists: Round 9",
+      "url": "https://www.nrl.com/news/2026/04/28/nrl-team-lists-round-9/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-28T16:39:00+10:00"
+    },
+    {
+      "label": "NRL Casualty Ward",
+      "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-04-29T08:00:00+10:00"
+    },
     {
       "label": "NRL Round Up – Round 8, 2026",
       "url": "https://www.nrl.com/news/2026/04/26/nrl-round-up--round-8-2026/",
       "publisher": "NRL.com",
       "publishedAt": "2026-04-26T18:00:00+10:00"
-    },
-    {
-      "label": "NRL Team Lists: Round 8",
-      "url": "https://www.nrl.com/news/2026/04/21/nrl-team-lists-round-8/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-04-22T11:06:00+10:00"
-    },
-    {
-      "label": "Wests Tigers v Broncos Result",
-      "url": "https://www.nrl.com/news/2026/04/17/rookie-bukowski-to-debut-as-brisbanes-last-nine-standing/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-04-18T21:35:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Wests Tigers vs Raiders",
-      "kickoff": "Thu 23 Apr, 7:50pm",
-      "venue": "Leichhardt Oval",
-      "status": "Final",
-      "result": "Tip won",
-      "tipOutcome": "Tip hit: Wests Tigers",
-      "note": "The Tigers got the job done to start the week and kept the perfect-round card alive."
+      "match": "Titans vs Raiders",
+      "kickoff": "Thu 30 Apr, 7:50pm",
+      "venue": "Cbus Super Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Titans",
+      "note": "AJ Brimson and Chris Randall are back for Gold Coast while Canberra remain light in the back row after the loss of Zac Hosking and Noah Martin."
     },
     {
-      "match": "Cowboys vs Sharks",
-      "kickoff": "Fri 24 Apr, 6:00pm",
-      "venue": "Queensland Country Bank Stadium",
-      "status": "Final",
-      "result": "Tip won",
-      "tipOutcome": "Tip hit: Sharks",
-      "note": "Cronulla justified the cleaner pre-game read and kept the card moving."
+      "match": "Bulldogs vs Cowboys",
+      "kickoff": "Fri 1 May, 6:00pm",
+      "venue": "Accor Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Bulldogs",
+      "note": "Canterbury lose Viliame Kikau but still look more settled, while North Queensland must replace Murray Taulagi on the wing."
     },
     {
-      "match": "Broncos vs Bulldogs",
-      "kickoff": "Fri 24 Apr, 8:00pm",
+      "match": "Eels vs Warriors",
+      "kickoff": "Sat 2 May, 5:30pm",
+      "venue": "CommBank Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Warriors",
+      "note": "Parramatta stay unchanged while the Warriors get Adam Pompey back and list Luke Metcalf on the interchange."
+    },
+    {
+      "match": "Dolphins vs Storm",
+      "kickoff": "Sat 2 May, 7:35pm",
       "venue": "Suncorp Stadium",
-      "status": "Final",
-      "result": "Tip won",
-      "tipOutcome": "Tip hit: Bulldogs",
-      "note": "Canterbury landed as expected and validated the no-bet discipline around a short price."
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Storm",
+      "note": "Melbourne still carry volatility, but Harry Grant and the same core group give them the steadier read against a Dolphins pack that is still reshuffling."
     },
     {
-      "match": "Dragons vs Roosters",
-      "kickoff": "Sat 25 Apr, 4:00pm",
+      "match": "Roosters vs Broncos",
+      "kickoff": "Sat 2 May, 7:35pm",
       "venue": "Allianz Stadium",
-      "status": "Final",
-      "result": "Tip won",
-      "tipOutcome": "Tip hit: Roosters",
-      "note": "The Roosters handled the spot and kept the clean sweep on track."
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Broncos",
+      "note": "Brisbane suddenly look a lot more dangerous with Walsh, Mam, Reynolds, Carrigan and Cory Paix all named."
     },
     {
-      "match": "Warriors vs Dolphins",
-      "kickoff": "Sat 25 Apr, 6:00pm AEST",
-      "venue": "Go Media Stadium",
-      "status": "Final",
-      "result": "Tip won",
-      "tipOutcome": "Tip hit: Warriors",
-      "note": "The Warriors held serve at home despite the CNK absence concern."
-    },
-    {
-      "match": "Storm vs Rabbitohs",
-      "kickoff": "Sat 25 Apr, 8:05pm",
-      "venue": "AAMI Park",
-      "status": "Final",
-      "result": "Tip won",
-      "tipOutcome": "Tip hit: Rabbitohs",
-      "note": "Souths rewarded the trust call and kept Melbourne in the prove-it bin."
-    },
-    {
-      "match": "Knights vs Panthers",
-      "kickoff": "Sun 26 Apr, 2:00pm",
+      "match": "Knights vs Rabbitohs",
+      "kickoff": "Sun 3 May, 2:00pm",
       "venue": "McDonald Jones Stadium",
-      "status": "Final",
-      "result": "Tip won",
-      "tipOutcome": "Tip hit: Panthers",
-      "note": "Penrith still had too much control and class for Newcastle."
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Knights",
+      "note": "Kalyn Ponga, Bradman Best, Greg Marzhew and Tyson Frizell all return, making Newcastle far more trustworthy than last week's version."
     },
     {
-      "match": "Sea Eagles vs Eels",
-      "kickoff": "Sun 26 Apr, 4:05pm",
-      "venue": "4 Pines Park",
-      "status": "Final",
-      "result": "Tip won",
-      "tipOutcome": "Tip hit: Sea Eagles",
-      "note": "Manly held together without Turbo and completed the perfect 8 from 8 slate."
+      "match": "Sharks vs Wests Tigers",
+      "kickoff": "Sun 3 May, 4:05pm",
+      "venue": "Sharks Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Sharks",
+      "note": "Cronulla stay largely settled while the Tigers continue to juggle their depth around the edges and bench."
+    },
+    {
+      "match": "Panthers vs Sea Eagles",
+      "kickoff": "Sun 3 May, 6:15pm",
+      "venue": "CommBank Stadium",
+      "status": "Upcoming",
+      "result": "",
+      "tipOutcome": "Lean: Panthers",
+      "note": "Penrith roll in unchanged while Manly still have no Turbo and lose Corey Waddell from the side that beat Parramatta."
     }
   ],
   "liveAlerts": [
     {
-      "tone": "red",
-      "text": "Round 8 landed as a perfect 8 from 8 tipping week, which is worth logging cleanly before thinking about Round 9."
+      "tone": "green",
+      "text": "Round 9 team lists are now out, so the board can move from the Round 8 wrap into real tipping mode."
     },
     {
       "tone": "green",
-      "text": "No charity bet was placed in Round 8, so the Mark Hughes Foundation bank stays at $6.50."
+      "text": "The charity bank stays at $6.50 after the disciplined no-bet Round 8."
     },
     {
       "tone": "amber",
-      "text": "The cleanest win of the week may have been the process itself: no forced bet, no damage to the bank."
+      "text": "Bulldogs over Cowboys looks like the cleanest straight tip, but the price may decide whether it is usable for charity."
     },
     {
       "tone": "red",
-      "text": "Round 9 should not be front-run until fresh team lists land."
+      "text": "Broncos and Knights both get major names back, which makes their matches harder than the raw formline suggests."
     },
     {
       "tone": "red",
-      "text": "The Tigers Round 7 miss remains the last bet in the ledger, so the next play deserves patience."
+      "text": "Turbo remains out and keeps Manly from being treated like a normal four-win side."
     },
     {
       "tone": "amber",
-      "text": "Today is for wrapping the 8 from 8 and carrying the bank forward unchanged."
+      "text": "No Round 9 charity bet is locked yet because the value layer still needs market and late-mail confirmation."
     }
   ]
 }
