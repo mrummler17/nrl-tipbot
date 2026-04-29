@@ -6,11 +6,11 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Current Pick
 
-- Bulldogs head to head leads the shortlist
-- Odds: Price watch
-- Stake: $5.00 earmarked
-- Potential profit: TBD
-- Status: No play locked
+- Bulldogs head to head
+- Odds: $1.77
+- Stake: $5.00
+- Potential profit: $3.85
+- Status: Locked
 
 ## Live Round Status
 
@@ -32,7 +32,7 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 ## Board Sections
 
 - **Situation Report** — Round 9 opens off confidence, but not complacency
-- **Bet Analysis** — Bulldogs lead the shortlist, but price will decide everything
+- **Bet Analysis** — Bulldogs are now the locked charity play
 - **Early Round 9 Tips** — Round 9 tip card after team lists
 - **Round 9 Fixtures** — Known Round 9 slate after Team List Tuesday
 - **Form Radar** — Who deserves the Round 9 upgrade or downgrade

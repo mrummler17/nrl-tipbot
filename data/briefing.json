@@ -12,17 +12,17 @@
   "ticker": [
     "official round 9 team lists are now out and the board resets after the perfect 8 from 8 week",
     "the mark hughes foundation bank stays at $6.50 after a disciplined no-bet round",
-    "bulldogs over cowboys looks like the cleanest early straight tip with murray taulagi out and canterbury still settled",
+    "bulldogs head to head is now locked for charity at $1.77 against the cowboys",
     "knights get ponga, best and marzhew back in a major boost against the rabbitohs",
     "broncos suddenly look dangerous again with walsh, mam, reynolds and carrigan all named",
     "turbo is still out for manly while penrith roll in unchanged",
-    "no round 9 charity play is locked yet"
+    "the round 9 charity play is now locked and ready to track"
   ],
   "heroCards": [
     {
       "label": "Current Lean",
       "value": "Bulldogs H2H",
-      "delta": "team-list edge",
+      "delta": "$1.77 locked",
       "tone": "cyan"
     },
     {
@@ -49,11 +49,11 @@
       "title": "Lock Pick",
       "tone": "cyan",
       "items": [
-        "Bulldogs head to head leads the early shortlist",
+        "Bulldogs head to head locked",
         "Cowboys lose Murray Taulagi while Canterbury keep their spine stable",
         "It looks like the cleanest straight tip before late mail",
-        "The main question is whether the market price will be too short for charity value",
-        "Do not lock anything until prices settle"
+        "The TAB number held up well enough to justify the play at $1.77",
+        "Now the job is just to track it cleanly"
       ]
     },
     {
@@ -91,24 +91,24 @@
   ],
   "betCard": {
     "title": "Round 9 Charity Bet",
-    "status": "No play locked",
-    "pick": "Bulldogs head to head leads the shortlist",
-    "odds": "Price watch",
-    "stake": "$5.00 earmarked",
-    "potentialReturn": "TBD",
-    "potentialProfit": "TBD",
+    "status": "Locked",
+    "pick": "Bulldogs head to head",
+    "odds": "$1.77",
+    "stake": "$5.00",
+    "potentialReturn": "$8.85",
+    "potentialProfit": "$3.85",
     "match": "Bulldogs vs Cowboys",
     "kickoff": "Fri 1 May 2026, 6:00pm AEST",
     "venue": "Accor Stadium",
     "why": [
       "Canterbury still look more settled top to bottom and should control the game better.",
       "North Queensland lose Murray Taulagi and have to reshuffle again out wide.",
-      "It is the cleanest early read on the board, even if the eventual price may prove too thin."
+      "At $1.77 on the TAB board, the price stayed healthy enough to use for charity."
     ],
     "risks": [
       "The Bulldogs are without Viliame Kikau and Harry Hayes, so they are not at full strength either.",
       "Tom Dearden and Drinkwater can still drag the Cowboys into chaos-ball contests.",
-      "If the market strips the price too far, the charity value disappears."
+      "The Bulldogs have still been error-prone in recent weeks, so it is not a free square."
     ]
   },
   "charity": {
@@ -161,12 +161,12 @@
       "title": "Bet Analysis",
       "badge": "charity pick",
       "tone": "cyan",
-      "heading": "Bulldogs lead the shortlist, but price will decide everything",
+      "heading": "Bulldogs are now the locked charity play",
       "lines": [
         "Canterbury still reads as the cleanest side on the board even with Kikau out, because North Queensland lose Murray Taulagi and remain less stable week to week.",
-        "The issue is not confidence so much as value: if the Bulldogs price gets crushed, it may be a good tip but a weak charity bet.",
+        "At $1.77 on the TAB board, the price stayed good enough to make the play worthwhile for charity.",
         "Broncos-Roosters and Knights-Rabbitohs both have upside, but the returning stars also make those matches more volatile.",
-        "No Round 9 charity play should be locked until the market and late mail are both checked."
+        "That makes Bulldogs the calmer charity option while the swingier games stay in tipping-only territory."
       ]
     },
     {
