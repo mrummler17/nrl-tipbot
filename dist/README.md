@@ -1,6 +1,6 @@
 # NRL TipBot Briefing 2026
 
-Round 9 setup board for tipping, charity betting, and weekly NRL intel
+Round 9 live board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
@@ -9,13 +9,13 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 - Bulldogs head to head
 - Odds: $1.77
 - Stake: $10.00
-- Potential profit: $7.70
-- Status: Locked
+- Potential profit: -$10.00
+- Status: Lost
 
 ## Live Round Status
 
-- Round 9 team lists checked Tuesday 29 Apr 2026
-- Round 9 opens with Bulldogs the cleanest early lean, a healthier Broncos side back in the frame, and the charity bank still waiting for a value play after the no-bet Round 8.
+- Round 9 updated after Friday results on 1 May 2026
+- Round 9 has started badly for the board, with the Bulldogs charity play losing to a Cowboys comeback and the Storm dropping a seventh straight game in a 26-10 loss to the Dolphins.
 
 
 ## Confidence Order
@@ -31,8 +31,8 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Board Sections
 
-- **Situation Report** — Round 9 opens off confidence, but not complacency
-- **Bet Analysis** — Bulldogs are now the locked charity play
+- **Situation Report** — Round 9 has opened with a punch to the nose
+- **Bet Analysis** — The Bulldogs charity read missed and the lesson matters
 - **Early Round 9 Tips** — Round 9 tip card after team lists
 - **Round 9 Fixtures** — Known Round 9 slate after Team List Tuesday
 - **Form Radar** — Who deserves the Round 9 upgrade or downgrade

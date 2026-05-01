@@ -1,45 +1,44 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 9 setup board for tipping, charity betting, and weekly NRL intel",
+    "subhead": "Round 9 live board for tipping, charity betting, and weekly NRL intel",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 9 team-list window"
+    "status": "Round 9 live window"
   },
   "meta": {
     "description": "Codex-managed NRL TipBot dashboard for Round 9 preview notes, charity betting discipline, and weekly NRL intel."
   },
   "ticker": [
-    "official round 9 team lists are now out and the board resets after the perfect 8 from 8 week",
-    "the mark hughes foundation bank stays at $6.50 after a disciplined no-bet round",
-    "bulldogs head to head is now locked for charity at $1.77 against the cowboys",
-    "knights get ponga, best and marzhew back in a major boost against the rabbitohs",
-    "broncos suddenly look dangerous again with walsh, mam, reynolds and carrigan all named",
-    "turbo is still out for manly while penrith roll in unchanged",
-    "the round 9 charity play is now locked and ready to track"
+    "cowboys comeback win killed the bulldogs charity play early in round 9",
+    "the dolphins beat melbourne 26-10 and the storm have now lost seven straight",
+    "the mark hughes foundation ledger slips to 2 and 2 and back to minus $3.50 after the $10 dogs miss",
+    "broncos, knights and panthers now carry extra weight as the remaining key live reads",
+    "do not chase the loss live just because the round started ugly",
+    "the right job now is steady tracking not emotional recovery betting"
   ],
   "heroCards": [
     {
       "label": "Current Lean",
-      "value": "Bulldogs H2H",
-      "delta": "$1.77 locked",
+      "value": "Round 9 live",
+      "delta": "2 early misses",
       "tone": "cyan"
     },
     {
       "label": "Bet Record",
-      "value": "2-1",
-      "delta": "+$6.50",
+      "value": "2-2",
+      "delta": "-$3.50",
       "tone": "green"
     },
     {
-      "label": "Round 9 Board",
-      "value": "8 games",
-      "delta": "team-list mode",
+      "label": "Round 9 Start",
+      "value": "0-2",
+      "delta": "rough launch",
       "tone": "amber"
     },
     {
       "label": "Charity Banked",
-      "value": "$6.50",
+      "value": "-$3.50",
       "delta": "Mark Hughes Foundation",
       "tone": "green"
     }
@@ -49,82 +48,83 @@
       "title": "Lock Pick",
       "tone": "cyan",
       "items": [
-        "Bulldogs head to head locked",
-        "Cowboys lose Murray Taulagi while Canterbury keep their spine stable",
-        "It looks like the cleanest straight tip before late mail",
-        "The TAB number held up well enough to justify the play at $1.77 for a $10 stake",
-        "Now the job is just to track it cleanly"
+        "Bulldogs head to head lost",
+        "$10 stake at $1.77 missed",
+        "The Cowboys comeback win ripped up the clean-read theory fast",
+        "That drags the charity ledger back to 2-2 and -$3.50 overall",
+        "The only smart move now is not to chase it"
       ]
     },
     {
       "title": "Risk Flags",
       "tone": "red",
       "items": [
-        "Broncos get a flood of quality back and become much harder to read",
-        "Knights with Ponga and Best back are a very different side to last week",
-        "Titans versus Raiders has swing-game energy written all over it",
-        "Storm versus Dolphins can still punish anyone overreacting to recent form",
-        "Do not let the 8 from 8 round trick you into feeling invincible"
+        "Storm have now lost seven straight and are fully in the no-trust bucket",
+        "The Bulldogs are still too error-prone to be treated as a safety blanket",
+        "Broncos and Knights remain the high-leverage reads for the rest of the weekend",
+        "A bad Friday can tempt revenge betting if the process is not kept calm",
+        "Do not let the 8 from 8 round get mentally cancelled out by one ugly night"
       ]
     },
     {
       "title": "Weekly Focus",
       "tone": "amber",
       "items": [
-        "Decide whether Bulldogs are worth using for charity if the number stays playable",
-        "Track how much of a real boost the Knights get from their star returns",
-        "See if the Broncos are back to being trustworthy or just dangerous",
+        "Track whether the Broncos actually convert all those returning stars into a win",
+        "See if the Knights really look different with Ponga, Best and Marzhew back",
         "Keep an eye on Panthers versus Manly with Turbo still sidelined",
-        "Preserve the calm process after the no-bet Round 8"
+        "Treat the remaining round as a tipping challenge, not a betting rescue mission",
+        "Stay calm enough to use the bad result as information rather than a trigger"
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Bulldogs still look like one of the calmest sides in the comp",
-        "Knights could become a value team again if the cavalry really is back",
-        "Broncos are one of the biggest market-shift teams this week",
-        "Panthers remain ruthless even when the board starts hunting for upset angles"
+        "Whether Brisbane are really back or just attracting hope money",
+        "How sharp Newcastle look with the cavalry returning",
+        "Whether Penrith keep treating Turbo-less Manly like target practice",
+        "Any signal that the next charity bet should go smaller and cleaner"
       ]
     }
   ],
   "betCard": {
     "title": "Round 9 Charity Bet",
-    "status": "Locked",
+    "status": "Lost",
     "pick": "Bulldogs head to head",
     "odds": "$1.77",
     "stake": "$10.00",
-    "potentialReturn": "$17.70",
-    "potentialProfit": "$7.70",
+    "potentialReturn": "$0.00",
+    "potentialProfit": "-$10.00",
     "match": "Bulldogs vs Cowboys",
     "kickoff": "Fri 1 May 2026, 6:00pm AEST",
     "venue": "Accor Stadium",
     "why": [
       "Canterbury still look more settled top to bottom and should control the game better.",
       "North Queensland lose Murray Taulagi and have to reshuffle again out wide.",
-      "At $1.77 on the TAB board, the price stayed healthy enough to use for charity."
+      "At $1.77 on the TAB board, the number looked playable enough to take the shot."
     ],
     "risks": [
       "The Bulldogs are without Viliame Kikau and Harry Hayes, so they are not at full strength either.",
       "Tom Dearden and Drinkwater can still drag the Cowboys into chaos-ball contests.",
-      "The Bulldogs have still been error-prone in recent weeks, so it is not a free square."
+      "The Bulldogs were still too error-prone and the Cowboys punished it."
     ]
   },
   "charity": {
     "title": "Mark Hughes Foundation Ledger",
     "summary": "All profits are earmarked for the Mark Hughes Foundation.",
-    "record": "2-1",
-    "invested": "$15.00",
+    "record": "2-2",
+    "invested": "$25.00",
     "returned": "$21.50",
-    "profit": "$6.50",
+    "profit": "-$3.50",
     "donated": "$0.00",
     "nextDonation": "After Round 10",
     "notes": [
       "Round 5: Newcastle head to head at $2.30 won and collected $11.50.",
       "Round 6: North Queensland Cowboys head to head at $2.00 won and collected $10.00.",
       "Round 7: Wests Tigers head to head at $1.53 lost in a 21-20 defeat to Brisbane.",
-      "Round 8: No charity bet placed, bank held at $6.50."
+      "Round 8: No charity bet placed, bank held at $6.50.",
+      "Round 9: Bulldogs head to head at $1.77 lost after a Cowboys comeback win."
     ]
   },
   "watchlist": [
@@ -149,11 +149,11 @@
       "title": "Situation Report",
       "badge": "snapshot",
       "tone": "amber",
-      "heading": "Round 9 opens off confidence, but not complacency",
+      "heading": "Round 9 has opened with a punch to the nose",
       "lines": [
-        "As of Tuesday, 29 April 2026, official Round 9 team lists are now out and the board can move from the Round 8 wrap into fresh decision mode.",
-        "The perfect 8 from 8 week is a nice confidence boost, but it should make the process calmer rather than cockier.",
-        "The charity bank stays at $6.50 after the no-bet Round 8, so there is no pressure to force a play."
+        "As of Friday, 1 May 2026, the Bulldogs charity play has already missed and the Storm have stretched their skid to seven straight losses.",
+        "That takes the Mark Hughes Foundation ledger to 2-2 and back to -$3.50 after the larger $10 Bulldogs stake.",
+        "The challenge now is staying rational through the rest of the round instead of trying to win the pain back in one move."
       ]
     },
     {
@@ -161,12 +161,12 @@
       "title": "Bet Analysis",
       "badge": "charity pick",
       "tone": "cyan",
-      "heading": "Bulldogs are now the locked charity play",
+      "heading": "The Bulldogs charity read missed and the lesson matters",
       "lines": [
-        "Canterbury still reads as the cleanest side on the board even with Kikau out, because North Queensland lose Murray Taulagi and remain less stable week to week.",
-        "At $1.77 on the TAB board, the price stayed good enough to make the play worthwhile for charity.",
-        "Broncos-Roosters and Knights-Rabbitohs both have upside, but the returning stars also make those matches more volatile.",
-        "That makes Bulldogs the calmer charity option while the swingier games stay in tipping-only territory."
+        "The Bulldogs still looked like the cleaner pre-game read, but their sloppiness stayed in the game long enough for North Queensland to come back and punish it.",
+        "That is the hard part of betting discipline: a reasonable number and a decent process can still lose cleanly.",
+        "Storm also falling over again removes one of the earlier market-against ideas from the trust bucket entirely.",
+        "The important thing is to log the miss honestly and not let it infect the remaining tipping calls."
       ]
     },
     {

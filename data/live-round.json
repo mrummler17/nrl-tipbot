@@ -1,8 +1,8 @@
 {
   "round": "Round 9",
-  "verifiedAt": "2026-04-29T11:45:00+10:00",
-  "verificationLabel": "Round 9 team lists checked Tuesday 29 Apr 2026",
-  "summary": "Round 9 opens with Bulldogs the cleanest early lean, a healthier Broncos side back in the frame, and the charity bank still waiting for a value play after the no-bet Round 8.",
+  "verifiedAt": "2026-05-01T22:15:00+10:00",
+  "verificationLabel": "Round 9 updated after Friday results on 1 May 2026",
+  "summary": "Round 9 has started badly for the board, with the Bulldogs charity play losing to a Cowboys comeback and the Storm dropping a seventh straight game in a 26-10 loss to the Dolphins.",
   "sources": [
     {
       "label": "NRL Team Lists: Round 9",
@@ -17,10 +17,10 @@
       "publishedAt": "2026-04-29T08:00:00+10:00"
     },
     {
-      "label": "NRL Round Up – Round 8, 2026",
-      "url": "https://www.nrl.com/news/2026/04/26/nrl-round-up--round-8-2026/",
+      "label": "Friday Night Lights: Bulldogs v Cowboys; Dolphins v Storm",
+      "url": "https://www.nrl.com/news/2026/05/01/friday-night-lights-bulldogs-v-cowboys-dolphins-v-storm/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-04-26T18:00:00+10:00"
+      "publishedAt": "2026-05-01T17:20:00+10:00"
     }
   ],
   "scoreboard": [
@@ -37,10 +37,10 @@
       "match": "Bulldogs vs Cowboys",
       "kickoff": "Fri 1 May, 6:00pm",
       "venue": "Accor Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Bulldogs",
-      "note": "Canterbury lose Viliame Kikau but still look more settled, while North Queensland must replace Murray Taulagi on the wing."
+      "status": "Final",
+      "result": "Cowboys beat Bulldogs",
+      "tipOutcome": "Tip miss: Bulldogs",
+      "note": "North Queensland stormed back to win and the Bulldogs charity play missed despite looking like the cleaner pre-game read."
     },
     {
       "match": "Eels vs Warriors",
@@ -55,10 +55,10 @@
       "match": "Dolphins vs Storm",
       "kickoff": "Sat 2 May, 7:35pm",
       "venue": "Suncorp Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Storm",
-      "note": "Melbourne still carry volatility, but Harry Grant and the same core group give them the steadier read against a Dolphins pack that is still reshuffling."
+      "status": "Final",
+      "result": "Dolphins 26-10 Storm",
+      "tipOutcome": "Tip miss: Storm",
+      "note": "Melbourne fell 26-10 at Suncorp and their losing streak has now stretched to seven straight."
     },
     {
       "match": "Roosters vs Broncos",
@@ -100,27 +100,27 @@
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 9 team lists are now out, so the board can move from the Round 8 wrap into real tipping mode."
+      "text": "The Bulldogs charity play has already gone down, so Round 9 opens with an immediate hit to the ledger."
     },
     {
       "tone": "green",
-      "text": "The charity bank stays at $6.50 after the disciplined no-bet Round 8."
+      "text": "The Mark Hughes Foundation ledger now sits at 2-2 and -$3.50 after the $10 Bulldogs miss."
     },
     {
       "tone": "amber",
-      "text": "Bulldogs head to head is now locked for charity at $1.77 after the number held up better than expected."
+      "text": "The Cowboys comeback win is the kind of loss that has to be logged cleanly without triggering revenge betting."
     },
     {
       "tone": "red",
-      "text": "Broncos and Knights both get major names back, which makes their matches harder than the raw formline suggests."
+      "text": "The Storm have now lost seven straight and should be removed from any trust bucket until they prove otherwise."
     },
     {
       "tone": "red",
-      "text": "Turbo remains out and keeps Manly from being treated like a normal four-win side."
+      "text": "Broncos, Knights and Panthers now carry more weight as the remaining key reads for the weekend."
     },
     {
       "tone": "amber",
-      "text": "The Round 9 charity play is now Bulldogs head to head, with the rest of the board left to tipping value rather than betting value."
+      "text": "The right move now is steady tracking, not trying to win the charity loss back live."
     }
   ]
 }
