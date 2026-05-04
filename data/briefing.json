@@ -1,27 +1,27 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 9 live board for tipping, charity betting, and weekly NRL intel",
+    "subhead": "Round 9 wrap board for tipping, charity betting, and weekly NRL intel",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 9 live window"
+    "status": "Round 9 wrapped"
   },
   "meta": {
     "description": "Codex-managed NRL TipBot dashboard for Round 9 preview notes, charity betting discipline, and weekly NRL intel."
   },
   "ticker": [
-    "cowboys comeback win killed the bulldogs charity play early in round 9",
-    "the dolphins beat melbourne 26-10 and the storm have now lost seven straight",
-    "the mark hughes foundation ledger slips to 2 and 2 and back to minus $3.50 after the $10 dogs miss",
-    "broncos, knights and panthers now carry extra weight as the remaining key live reads",
-    "do not chase the loss live just because the round started ugly",
-    "the right job now is steady tracking not emotional recovery betting"
+    "round 9 finished better than it looked on saturday thanks to a clean 3 from 3 sunday",
+    "the final card landed 4 from 8 which is not pretty but better than the one from five hole",
+    "the mark hughes foundation ledger stays at 2 and 2 and minus $3.50 after the $10 bulldogs miss",
+    "storm have now lost seven straight and stay well outside the trust circle",
+    "the knights, sharks and panthers rescue means the process did not totally fall apart",
+    "round 10 should be a reset week once fresh team lists arrive"
   ],
   "heroCards": [
     {
       "label": "Current Lean",
-      "value": "Round 9 live",
-      "delta": "2 early misses",
+      "value": "Round 10 pending",
+      "delta": "await team lists",
       "tone": "cyan"
     },
     {
@@ -31,9 +31,9 @@
       "tone": "green"
     },
     {
-      "label": "Round 9 Start",
-      "value": "0-2",
-      "delta": "rough launch",
+      "label": "Round 9 Tips",
+      "value": "4/8",
+      "delta": "sunday rescue",
       "tone": "amber"
     },
     {
@@ -48,43 +48,43 @@
       "title": "Lock Pick",
       "tone": "cyan",
       "items": [
-        "Bulldogs head to head lost",
-        "$10 stake at $1.77 missed",
-        "The Cowboys comeback win ripped up the clean-read theory fast",
-        "That drags the charity ledger back to 2-2 and -$3.50 overall",
-        "The only smart move now is not to chase it"
+        "The Bulldogs charity shot missed",
+        "The bank stays at -$3.50 after the $10 loss",
+        "The important win was process discipline after Friday",
+        "Sunday landing 3 from 3 kept the round from turning into a total collapse",
+        "Round 10 now deserves a calmer reset"
       ]
     },
     {
       "title": "Risk Flags",
       "tone": "red",
       "items": [
-        "Storm have now lost seven straight and are fully in the no-trust bucket",
-        "The Bulldogs are still too error-prone to be treated as a safety blanket",
-        "Broncos and Knights remain the high-leverage reads for the rest of the weekend",
-        "A bad Friday can tempt revenge betting if the process is not kept calm",
-        "Do not let the 8 from 8 round get mentally cancelled out by one ugly night"
+        "Storm have now lost seven straight and cannot be priced on reputation anymore",
+        "The Bulldogs are still too error-prone to wear the clean-tip label",
+        "Broncos volatility remains real even with stars back",
+        "The Tigers and Rabbitohs both showed how fragile hot-form reads can be",
+        "Do not let one rescue Sunday hide the weak reads from Friday and Saturday"
       ]
     },
     {
       "title": "Weekly Focus",
       "tone": "amber",
       "items": [
-        "Track whether the Broncos actually convert all those returning stars into a win",
-        "See if the Knights really look different with Ponga, Best and Marzhew back",
-        "Keep an eye on Panthers versus Manly with Turbo still sidelined",
-        "Treat the remaining round as a tipping challenge, not a betting rescue mission",
-        "Stay calm enough to use the bad result as information rather than a trigger"
+        "Carry the Sunday rescue energy forward without pretending the round was good",
+        "Use the Knights return story as a reminder that team-news spikes still matter",
+        "Keep Penrith and Cronulla in the reliable bucket until proven otherwise",
+        "Treat Melbourne as broken until they actually stop losing",
+        "Approach Round 10 as a reset, not a rebound chase"
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Whether Brisbane are really back or just attracting hope money",
-        "How sharp Newcastle look with the cavalry returning",
-        "Whether Penrith keep treating Turbo-less Manly like target practice",
-        "Any signal that the next charity bet should go smaller and cleaner"
+        "Round 10 team lists when they arrive",
+        "Whether the next charity bet should go back to smaller stakes",
+        "How much faith to keep in Newcastle after the full-strength rebound",
+        "Which Round 9 errors were process mistakes versus pure chaos"
       ]
     }
   ],
@@ -149,11 +149,11 @@
       "title": "Situation Report",
       "badge": "snapshot",
       "tone": "amber",
-      "heading": "Round 9 has opened with a punch to the nose",
+      "heading": "Round 9 ended less badly than it started",
       "lines": [
-        "As of Friday, 1 May 2026, the Bulldogs charity play has already missed and the Storm have stretched their skid to seven straight losses.",
-        "That takes the Mark Hughes Foundation ledger to 2-2 and back to -$3.50 after the larger $10 Bulldogs stake.",
-        "The challenge now is staying rational through the rest of the round instead of trying to win the pain back in one move."
+        "As of Monday, 4 May 2026, Round 9 has closed at 4 from 8 after a much better Sunday than the Friday-Saturday damage suggested.",
+        "The Bulldogs charity play still hurt and the Mark Hughes Foundation ledger stays at 2-2 and -$3.50.",
+        "But the clean 3 from 3 finish on Sunday means the process bent without fully breaking."
       ]
     },
     {
@@ -161,20 +161,20 @@
       "title": "Bet Analysis",
       "badge": "charity pick",
       "tone": "cyan",
-      "heading": "The Bulldogs charity read missed and the lesson matters",
+      "heading": "The charity miss stands, but Sunday stopped the bleeding",
       "lines": [
-        "The Bulldogs still looked like the cleaner pre-game read, but their sloppiness stayed in the game long enough for North Queensland to come back and punish it.",
-        "That is the hard part of betting discipline: a reasonable number and a decent process can still lose cleanly.",
-        "Storm also falling over again removes one of the earlier market-against ideas from the trust bucket entirely.",
-        "The important thing is to log the miss honestly and not let it infect the remaining tipping calls."
+        "The Bulldogs still looked like a playable price on paper, but their sloppiness stayed alive long enough for North Queensland to punish it.",
+        "That loss still matters because it flips the charity ledger back into the red at -$3.50.",
+        "The saving grace is that Knights, Sharks and Panthers all landed on Sunday, which kept the tipping side from turning into a full disaster.",
+        "The key now is to take the rescue without forgetting the lesson."
       ]
     },
     {
       "id": "tips",
-      "title": "Early Round 9 Tips",
+      "title": "Round 9 Tips",
       "badge": "8 games",
       "tone": "green",
-      "heading": "Round 9 tip card after team lists",
+      "heading": "Final card logged for review",
       "lines": [
         "Titans over Raiders",
         "Bulldogs over Cowboys",
@@ -188,19 +188,15 @@
     },
     {
       "id": "fixtures",
-      "title": "Round 9 Fixtures",
+      "title": "Next Step",
       "badge": "schedule",
       "tone": "amber",
-      "heading": "Known Round 9 slate after Team List Tuesday",
+      "heading": "Best workflow before the Round 10 rebuild",
       "lines": [
-        "Titans vs Raiders",
-        "Bulldogs vs Cowboys",
-        "Eels vs Warriors",
-        "Dolphins vs Storm",
-        "Roosters vs Broncos",
-        "Knights vs Rabbitohs",
-        "Sharks vs Wests Tigers",
-        "Panthers vs Sea Eagles"
+        "Log Round 9 as a 4 from 8 week.",
+        "Carry the charity ledger forward at -$3.50.",
+        "Wait for Round 10 team lists before building new leans.",
+        "Do a harsher review on Friday-Saturday reads than on the Sunday rescue picks."
       ]
     },
     {
@@ -208,11 +204,11 @@
       "title": "Form Radar",
       "badge": "hot and cold",
       "tone": "red",
-      "heading": "Who deserves the Round 9 upgrade or downgrade",
+      "heading": "What Round 9 actually taught us",
       "lines": [
-        "Hot: Bulldogs, Panthers, Sharks, the full-strength Knights.",
-        "Cold: Eels, the Turbo-less Sea Eagles attack, and any blind faith in last week's market lines.",
-        "The biggest swing teams are Broncos and Knights because their named line-ups are so much stronger."
+        "Hot: Panthers, Sharks and a healthier Knights side.",
+        "Cold: Storm, Bulldogs trust, and any assumption that Broncos returns automatically fix them.",
+        "The biggest upgrade from the round is respect for the Sunday backbone of the card."
       ]
     },
     {
@@ -220,12 +216,12 @@
       "title": "Intel Notes",
       "badge": "verify",
       "tone": "red",
-      "heading": "The data points most worth checking before locking Round 9",
+      "heading": "What to carry into Round 10 analysis",
       "lines": [
-        "The biggest injury and availability pivots are Turbo still out, Murray Taulagi out, and the Broncos stars all returning together.",
-        "Kalyn Ponga, Bradman Best and Greg Marzhew back for Newcastle make Knights-Rabbitohs one of the trickiest reads on the slate.",
-        "Luke Metcalf on the Warriors bench and the unchanged Eels squad make Parramatta-New Zealand more competitive than the ladder suggests.",
-        "Treat the next charity bet like a fresh decision, not a carry-over from the 8 from 8 tipping high."
+        "Storm stay fully outside the trust bucket until they actually win again.",
+        "The Knights star returns were real and need to be valued properly next week.",
+        "The Bulldogs still need to prove they can close games cleanly before they become another charity play.",
+        "The next bet should probably go back to a smaller, cleaner number rather than another stretched stake."
       ]
     }
   ],

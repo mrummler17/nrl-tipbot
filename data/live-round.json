@@ -1,8 +1,8 @@
 {
-  "round": "Round 9",
-  "verifiedAt": "2026-05-01T22:15:00+10:00",
-  "verificationLabel": "Round 9 updated after Friday results on 1 May 2026",
-  "summary": "Round 9 has started badly for the board, with the Bulldogs charity play losing to a Cowboys comeback and the Storm dropping a seventh straight game in a 26-10 loss to the Dolphins.",
+  "round": "Round 9 Review",
+  "verifiedAt": "2026-05-04T09:30:00+10:00",
+  "verificationLabel": "Round 9 wrap logged Monday 4 May 2026",
+  "summary": "Round 9 finished at 4 from 8, with a rough Friday and Saturday softened by a strong 3 from 3 Sunday that stopped the week from turning into a total washout.",
   "sources": [
     {
       "label": "NRL Team Lists: Round 9",
@@ -11,10 +11,10 @@
       "publishedAt": "2026-04-28T16:39:00+10:00"
     },
     {
-      "label": "NRL Casualty Ward",
-      "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
+      "label": "NRL Round Up – Round 9, 2026",
+      "url": "https://www.nrl.com/news/2026/05/03/round-up---round-9-2026/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-04-29T08:00:00+10:00"
+      "publishedAt": "2026-05-03T18:00:00+10:00"
     },
     {
       "label": "Friday Night Lights: Bulldogs v Cowboys; Dolphins v Storm",
@@ -28,10 +28,10 @@
       "match": "Titans vs Raiders",
       "kickoff": "Thu 30 Apr, 7:50pm",
       "venue": "Cbus Super Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Titans",
-      "note": "AJ Brimson and Chris Randall are back for Gold Coast while Canberra remain light in the back row after the loss of Zac Hosking and Noah Martin."
+      "status": "Final",
+      "result": "Raiders 28-12 Titans",
+      "tipOutcome": "Tip miss: Titans",
+      "note": "Gold Coast never really got the jump they needed and Canberra made the early upset call look wrong."
     },
     {
       "match": "Bulldogs vs Cowboys",
@@ -46,10 +46,10 @@
       "match": "Eels vs Warriors",
       "kickoff": "Sat 2 May, 5:30pm",
       "venue": "CommBank Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Warriors",
-      "note": "Parramatta stay unchanged while the Warriors get Adam Pompey back and list Luke Metcalf on the interchange."
+      "status": "Final",
+      "result": "Warriors 36-14 Eels",
+      "tipOutcome": "Tip hit: Warriors",
+      "note": "The Warriors handled Parramatta cleanly and validated one of the steadier reads on the card."
     },
     {
       "match": "Dolphins vs Storm",
@@ -64,63 +64,63 @@
       "match": "Roosters vs Broncos",
       "kickoff": "Sat 2 May, 7:35pm",
       "venue": "Allianz Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Broncos",
-      "note": "Brisbane suddenly look a lot more dangerous with Walsh, Mam, Reynolds, Carrigan and Cory Paix all named."
+      "status": "Final",
+      "result": "Roosters 38-24 Broncos",
+      "tipOutcome": "Tip miss: Broncos",
+      "note": "The Broncos returns did not translate into the win, and the Roosters made that gamble look expensive."
     },
     {
       "match": "Knights vs Rabbitohs",
       "kickoff": "Sun 3 May, 2:00pm",
       "venue": "McDonald Jones Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Knights",
-      "note": "Kalyn Ponga, Bradman Best, Greg Marzhew and Tyson Frizell all return, making Newcastle far more trustworthy than last week's version."
+      "status": "Final",
+      "result": "Knights 42-38 Rabbitohs",
+      "tipOutcome": "Tip hit: Knights",
+      "note": "Newcastle's returning cavalry mattered and the Knights became the first real Sunday rescue leg."
     },
     {
       "match": "Sharks vs Wests Tigers",
       "kickoff": "Sun 3 May, 4:05pm",
       "venue": "Sharks Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Sharks",
-      "note": "Cronulla stay largely settled while the Tigers continue to juggle their depth around the edges and bench."
+      "status": "Final",
+      "result": "Sharks 52-10 Wests Tigers",
+      "tipOutcome": "Tip hit: Sharks",
+      "note": "Cronulla crushed the Tigers and gave the board the cleanest result of the round."
     },
     {
       "match": "Panthers vs Sea Eagles",
       "kickoff": "Sun 3 May, 6:15pm",
       "venue": "CommBank Stadium",
-      "status": "Upcoming",
-      "result": "",
-      "tipOutcome": "Lean: Panthers",
-      "note": "Penrith roll in unchanged while Manly still have no Turbo and lose Corey Waddell from the side that beat Parramatta."
+      "status": "Final",
+      "result": "Panthers 18-16 Sea Eagles",
+      "tipOutcome": "Tip hit: Panthers",
+      "note": "Penrith edged Manly late and completed the 3 from 3 Sunday salvage job."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "The Bulldogs charity play has already gone down, so Round 9 opens with an immediate hit to the ledger."
+      "text": "Round 9 closes at 4 from 8, which is rough but much better than the 1 from 5 hole after Saturday."
     },
     {
       "tone": "green",
-      "text": "The Mark Hughes Foundation ledger now sits at 2-2 and -$3.50 after the $10 Bulldogs miss."
+      "text": "The Mark Hughes Foundation ledger stays at 2-2 and -$3.50 after the Bulldogs charity miss."
     },
     {
       "tone": "amber",
-      "text": "The Cowboys comeback win is the kind of loss that has to be logged cleanly without triggering revenge betting."
+      "text": "The clean 3 from 3 on Sunday matters because it stopped the round from becoming a complete write-off."
     },
     {
       "tone": "red",
-      "text": "The Storm have now lost seven straight and should be removed from any trust bucket until they prove otherwise."
+      "text": "Storm have now lost seven straight and remain one of the clearest no-trust teams in the comp."
     },
     {
       "tone": "red",
-      "text": "Broncos, Knights and Panthers now carry more weight as the remaining key reads for the weekend."
+      "text": "Knights, Sharks and Panthers were the backbone of the Sunday rescue and deserve some credit going into Round 10 prep."
     },
     {
       "tone": "amber",
-      "text": "The right move now is steady tracking, not trying to win the charity loss back live."
+      "text": "The next step is a calmer Round 10 rebuild, not overcorrecting off one volatile week."
     }
   ]
 }

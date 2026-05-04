@@ -1,6 +1,6 @@
 # NRL TipBot Briefing 2026
 
-Round 9 live board for tipping, charity betting, and weekly NRL intel
+Round 9 wrap board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
@@ -14,8 +14,8 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Live Round Status
 
-- Round 9 updated after Friday results on 1 May 2026
-- Round 9 has started badly for the board, with the Bulldogs charity play losing to a Cowboys comeback and the Storm dropping a seventh straight game in a 26-10 loss to the Dolphins.
+- Round 9 wrap logged Monday 4 May 2026
+- Round 9 finished at 4 from 8, with a rough Friday and Saturday softened by a strong 3 from 3 Sunday that stopped the week from turning into a total washout.
 
 
 ## Confidence Order
@@ -31,12 +31,12 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Board Sections
 
-- **Situation Report** — Round 9 has opened with a punch to the nose
-- **Bet Analysis** — The Bulldogs charity read missed and the lesson matters
-- **Early Round 9 Tips** — Round 9 tip card after team lists
-- **Round 9 Fixtures** — Known Round 9 slate after Team List Tuesday
-- **Form Radar** — Who deserves the Round 9 upgrade or downgrade
-- **Intel Notes** — The data points most worth checking before locking Round 9
+- **Situation Report** — Round 9 ended less badly than it started
+- **Bet Analysis** — The charity miss stands, but Sunday stopped the bleeding
+- **Round 9 Tips** — Final card logged for review
+- **Next Step** — Best workflow before the Round 10 rebuild
+- **Form Radar** — What Round 9 actually taught us
+- **Intel Notes** — What to carry into Round 10 analysis
 
 ## Notes
 
