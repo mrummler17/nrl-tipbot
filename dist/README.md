@@ -1,42 +1,42 @@
 # NRL TipBot Briefing 2026
 
-Round 9 wrap board for tipping, charity betting, and weekly NRL intel
+Round 10 setup board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 
-- Bulldogs head to head
-- Odds: $1.77
-- Stake: $10.00
-- Potential profit: -$10.00
-- Status: Lost
+- Sharks head to head leads the shortlist
+- Odds: $2.25
+- Stake: $5.00 earmarked
+- Potential profit: $6.25
+- Status: No play locked
 
 ## Live Round Status
 
-- Round 9 wrap logged Monday 4 May 2026
-- Round 9 finished at 4 from 8, with a rough Friday and Saturday softened by a strong 3 from 3 Sunday that stopped the week from turning into a total washout.
+- Round 10 team lists checked Thursday 7 May 2026
+- Round 10 starts tonight as a reset week after the 4 from 8 stumble in Round 9, with Sharks head to head shaping as the most interesting early charity value but no bet locked yet.
 
 
 ## Confidence Order
 
-1. Titans over Raiders
-2. Bulldogs over Cowboys
-3. Warriors over Eels
-4. Storm over Dolphins
-5. Broncos over Roosters
-6. Knights over Rabbitohs
-7. Sharks over Wests Tigers
-8. Panthers over Sea Eagles
+1. Dolphins over Bulldogs
+2. Roosters over Titans
+3. Cowboys over Eels
+4. Knights over Dragons
+5. Sharks over Rabbitohs
+6. Sea Eagles over Broncos
+7. Storm over Wests Tigers
+8. Panthers over Raiders
 
 ## Board Sections
 
-- **Situation Report** — Round 9 ended less badly than it started
-- **Bet Analysis** — The charity miss stands, but Sunday stopped the bleeding
-- **Round 9 Tips** — Final card logged for review
-- **Next Step** — Best workflow before the Round 10 rebuild
-- **Form Radar** — What Round 9 actually taught us
-- **Intel Notes** — What to carry into Round 10 analysis
+- **Situation Report** — Round 10 opens as a reset week, not a revenge week
+- **Bet Analysis** — Sharks are the best value look, not the safest look
+- **Early Round 10 Tips** — Round 10 tip card before kickoff
+- **Round 10 Fixtures** — Known Round 10 slate after Team List Tuesday
+- **Form Radar** — Who deserves the Round 10 upgrade or downgrade
+- **Intel Notes** — The data points most worth checking before locking Round 10
 
 ## Notes
 
