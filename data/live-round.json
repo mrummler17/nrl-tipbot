@@ -1,126 +1,120 @@
 {
-  "round": "Round 10",
-  "verifiedAt": "2026-05-07T14:30:00+10:00",
-  "verificationLabel": "Round 10 team lists checked Thursday 7 May 2026",
-  "summary": "Round 10 starts tonight as a reset week after the 4 from 8 stumble in Round 9, with Sharks head to head shaping as the most interesting early charity value but no bet locked yet.",
+  "round": "Round 11",
+  "verifiedAt": "2026-05-14T11:00:00+10:00",
+  "verificationLabel": "Magic Round team lists checked Thursday 14 May 2026",
+  "summary": "Magic Round starts tomorrow with the board reset around the official Round 11 team lists, a cautious charity stance, and a tip card built more around clean reads than hero shots.",
   "sources": [
     {
-      "label": "NRL Team Lists: Round 10",
-      "url": "https://www.nrl.com/news/2026/05/05/nrl-team-lists-round-10/",
+      "label": "NRL Team Lists: Magic Round",
+      "url": "https://www.nrl.com/news/2026/05/12/nrl-team-lists-magic-round/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-05T16:39:00+10:00"
+      "publishedAt": "2026-05-13T15:24:00+10:00"
     },
     {
-      "label": "NRL Late Mail: Round 10",
-      "url": "https://www.nrl.com/news/2026/05/07/nrl-late-mail-round-10/",
+      "label": "NRL Casualty Ward",
+      "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-07T16:40:00+10:00"
-    },
-    {
-      "label": "Dolphins v Bulldogs Preview",
-      "url": "https://www.nrl.com/news/2026/05/05/dolphins-v-bulldogs-marshall-king-returns-mahoney-back/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-05-05T13:54:00+10:00"
+      "publishedAt": "2026-05-13T18:49:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Dolphins vs Bulldogs",
-      "kickoff": "Thu 7 May, 7:50pm",
+      "match": "Sharks vs Bulldogs",
+      "kickoff": "Fri 15 May, 6:00pm",
       "venue": "Suncorp Stadium",
-      "status": "Lean Dolphins",
-      "result": "Dolphins $1.50, Bulldogs $2.60",
-      "tipOutcome": "Current tip: Dolphins",
-      "note": "Canterbury get key names back but still arrive off a confidence-hit loss, while the Dolphins stay the cleaner favourite at Suncorp."
-    },
-    {
-      "match": "Roosters vs Titans",
-      "kickoff": "Fri 8 May, 6:00pm",
-      "venue": "Allianz Stadium",
-      "status": "Lean Roosters",
-      "result": "Roosters $1.16, Titans $5.20",
-      "tipOutcome": "Current tip: Roosters",
-      "note": "The Roosters price is cramped but still looks too short for charity and too strong to fade in tipping."
-    },
-    {
-      "match": "Cowboys vs Eels",
-      "kickoff": "Fri 8 May, 8:00pm",
-      "venue": "Queensland Country Bank Stadium",
-      "status": "Lean Cowboys",
-      "result": "Cowboys $1.38, Eels $3.10",
-      "tipOutcome": "Current tip: Cowboys",
-      "note": "North Queensland remain one of the better home reads in the comp and Parramatta have not done enough to force an upset call."
-    },
-    {
-      "match": "Dragons vs Knights",
-      "kickoff": "Sat 9 May, 3:00pm",
-      "venue": "Netstrata Jubilee Stadium",
-      "status": "Lean Knights",
-      "result": "Knights $1.36, Dragons $3.20",
-      "tipOutcome": "Current tip: Knights",
-      "note": "Newcastle still look one of the cleaner reads of the week with Ponga steering a healthier spine against the winless Dragons."
-    },
-    {
-      "match": "Rabbitohs vs Sharks",
-      "kickoff": "Sat 9 May, 5:30pm",
-      "venue": "Accor Stadium",
       "status": "Lean Sharks",
-      "result": "Rabbitohs $1.65, Sharks $2.25",
-      "tipOutcome": "Current tip: Sharks",
-      "note": "This is the most interesting price on the board: Souths lose Jack Wighton, Cronulla are settled, and the number finally pays for the risk."
+      "result": "Current tip: Sharks",
+      "tipOutcome": "Mulitalo and Ramien back",
+      "note": "Cronulla regain serious strike, while Canterbury are healthier too, so this looks like a better football game than last week's Dogs form line suggests."
     },
     {
-      "match": "Sea Eagles vs Broncos",
-      "kickoff": "Sat 9 May, 7:30pm",
-      "venue": "4 Pines Park",
+      "match": "Rabbitohs vs Dolphins",
+      "kickoff": "Fri 15 May, 8:05pm",
+      "venue": "Suncorp Stadium",
+      "status": "Lean Rabbitohs",
+      "result": "Current tip: Rabbitohs",
+      "tipOutcome": "Latrell Mitchell returns",
+      "note": "Latrell back lifts South Sydney's attacking ceiling immediately, but the Dolphins are coming in with enough recent confidence to keep this volatile."
+    },
+    {
+      "match": "Wests Tigers vs Sea Eagles",
+      "kickoff": "Sat 16 May, 3:00pm",
+      "venue": "Suncorp Stadium",
       "status": "Lean Sea Eagles",
-      "result": "Sea Eagles $1.70, Broncos $2.15",
-      "tipOutcome": "Current tip: Sea Eagles",
-      "note": "Brisbane lose more shape without Reynolds, Mariner and Staggs, while Manly get a structural lift with Jamal Fogarty back."
+      "result": "Current tip: Sea Eagles",
+      "tipOutcome": "Fogarty back on deck",
+      "note": "Manly still miss Turbo, but Jamal Fogarty back in the system makes them steadier than the Tigers in a Magic Round environment."
     },
     {
-      "match": "Storm vs Wests Tigers",
-      "kickoff": "Sun 10 May, 2:00pm",
-      "venue": "AAMI Park",
+      "match": "Roosters vs Cowboys",
+      "kickoff": "Sat 16 May, 5:30pm",
+      "venue": "Suncorp Stadium",
+      "status": "Lean Cowboys",
+      "result": "Current tip: Cowboys",
+      "tipOutcome": "Roosters still patched up",
+      "note": "The Roosters can absolutely win, but North Queensland feel like the healthier and cleaner read right now."
+    },
+    {
+      "match": "Eels vs Storm",
+      "kickoff": "Sat 16 May, 7:45pm",
+      "venue": "Suncorp Stadium",
       "status": "Lean Storm",
-      "result": "Storm $1.55, Tigers $2.45",
-      "tipOutcome": "Current tip: Storm",
-      "note": "Jahrome Hughes returns and the market still favours Melbourne, but this remains a trust test more than a comfort pick after seven straight losses."
+      "result": "Current tip: Storm",
+      "tipOutcome": "Still prove-it mode",
+      "note": "Melbourne finally steadied and keep enough class to stay in front of Parramatta, but trust is still limited."
     },
     {
-      "match": "Raiders vs Panthers",
-      "kickoff": "Sun 10 May, 4:05pm",
-      "venue": "GIO Stadium",
+      "match": "Titans vs Knights",
+      "kickoff": "Sun 17 May, 2:00pm",
+      "venue": "Suncorp Stadium",
+      "status": "Lean Knights",
+      "result": "Current tip: Knights",
+      "tipOutcome": "Newcastle unchanged",
+      "note": "The Knights keep their strong spine together and look one of the cleaner reads of the whole weekend."
+    },
+    {
+      "match": "Warriors vs Broncos",
+      "kickoff": "Sun 17 May, 4:05pm",
+      "venue": "Suncorp Stadium",
+      "status": "Lean Warriors",
+      "result": "Current tip: Warriors",
+      "tipOutcome": "Both teams regain troops",
+      "note": "Reynolds is back for Brisbane, but the Warriors also get key middle and spine reinforcements, so the safer lean still feels New Zealand."
+    },
+    {
+      "match": "Panthers vs Dragons",
+      "kickoff": "Sun 17 May, 6:25pm",
+      "venue": "Suncorp Stadium",
       "status": "Lean Panthers",
-      "result": "Panthers $1.32, Raiders $3.40",
-      "tipOutcome": "Current tip: Panthers",
-      "note": "Penrith stay in the reliability bucket until proven otherwise, even away from home."
+      "result": "Current tip: Panthers",
+      "tipOutcome": "Trust the standard",
+      "note": "Penrith remain the most bankable side on the card until a stronger opponent actually knocks them over."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 10 opens tonight with a clean reset chance after the 4 from 8 wobble in Round 9."
+      "text": "Magic Round is set up as a process week: trust the cleaner reads and avoid forcing chaos picks."
     },
     {
       "tone": "amber",
-      "text": "The Mark Hughes Foundation ledger stays at 2-2 and -$3.50, so discipline matters more than trying to win it all back in one bet."
+      "text": "The Mark Hughes Foundation ledger stays at 2-2 and -$3.50, so there is no need to rush into a Round 11 bet without a real price edge."
     },
     {
       "tone": "green",
-      "text": "Sharks head to head at around $2.25 is the first charity number this week that looks like proper value rather than a token underdog flyer."
+      "text": "Knights, Panthers and the healthier Sharks profile as the cleaner football reads on the board."
     },
     {
       "tone": "red",
-      "text": "Broncos have been downgraded by the outs to Reynolds, Mariner and Staggs, while Manly get a boost with Fogarty back."
+      "text": "Rabbitohs versus Dolphins and Warriors versus Broncos both carry enough moving parts to punish overconfidence."
     },
     {
       "tone": "red",
-      "text": "Storm still sit in the no-trust bucket until a result says otherwise, even with Hughes returning."
+      "text": "Storm are still in the prove-it bucket even after finally stopping the slide."
     },
     {
       "tone": "amber",
-      "text": "No Round 10 charity bet is locked yet, which is the right call until one last late-mail sanity check."
+      "text": "No Round 11 charity bet is locked yet, which is disciplined rather than timid."
     }
   ]
 }

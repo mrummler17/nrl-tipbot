@@ -1,42 +1,42 @@
 # NRL TipBot Briefing 2026
 
-Round 10 setup board for tipping, charity betting, and weekly NRL intel
+Magic Round setup board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 
-- Sharks head to head leads the shortlist
-- Odds: $2.25
-- Stake: $5.00 earmarked
-- Potential profit: $6.25
+- Keep the stake in the holster unless a price opens cleanly on Friday or Saturday
+- Odds: TBC
+- Stake: $5.00 if locked
+- Potential profit: Waiting on price
 - Status: No play locked
 
 ## Live Round Status
 
-- Round 10 team lists checked Thursday 7 May 2026
-- Round 10 starts tonight as a reset week after the 4 from 8 stumble in Round 9, with Sharks head to head shaping as the most interesting early charity value but no bet locked yet.
+- Magic Round team lists checked Thursday 14 May 2026
+- Magic Round starts tomorrow with the board reset around the official Round 11 team lists, a cautious charity stance, and a tip card built more around clean reads than hero shots.
 
 
 ## Confidence Order
 
-1. Dolphins over Bulldogs
-2. Roosters over Titans
-3. Cowboys over Eels
-4. Knights over Dragons
-5. Sharks over Rabbitohs
-6. Sea Eagles over Broncos
-7. Storm over Wests Tigers
-8. Panthers over Raiders
+1. Sharks over Bulldogs
+2. Rabbitohs over Dolphins
+3. Sea Eagles over Wests Tigers
+4. Cowboys over Roosters
+5. Storm over Eels
+6. Knights over Titans
+7. Warriors over Broncos
+8. Panthers over Dragons
 
 ## Board Sections
 
-- **Situation Report** — Round 10 opens as a reset week, not a revenge week
-- **Bet Analysis** — Sharks are the best value look, not the safest look
-- **Early Round 10 Tips** — Round 10 tip card before kickoff
-- **Round 10 Fixtures** — Known Round 10 slate after Team List Tuesday
-- **Form Radar** — Who deserves the Round 10 upgrade or downgrade
-- **Intel Notes** — The data points most worth checking before locking Round 10
+- **Situation Report** — Magic Round is a reset, but not a free-for-all
+- **Bet Analysis** — No charity bet yet is a feature, not a bug
+- **Round 11 Tips** — Magic Round tip card before lockout
+- **Round 11 Fixtures** — Magic Round slate at Suncorp
+- **Form Radar** — Who deserves the upgrade or downgrade this week
+- **Intel Notes** — The data points most worth checking before any charity lock
 
 ## Notes
 

@@ -1,28 +1,28 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 10 setup board for tipping, charity betting, and weekly NRL intel",
+    "subhead": "Magic Round setup board for tipping, charity betting, and weekly NRL intel",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 10 matchday window"
+    "status": "Round 11 lock window"
   },
   "meta": {
-    "description": "Codex-managed NRL TipBot dashboard for Round 10 preview notes, charity betting discipline, and weekly NRL intel."
+    "description": "Codex-managed NRL TipBot dashboard for Round 11 Magic Round preview notes, charity betting discipline, and weekly NRL intel."
   },
   "ticker": [
-    "official round 10 team lists are in and tonight starts the reset after a messy round 9",
-    "the mark hughes foundation ledger sits at 2 and 2 and minus $3.50 so this week should be about cleaner edges and smaller conviction",
-    "sharks head to head at around $2.25 now looks like the most interesting charity value number on the board",
-    "broncos have drifted because reynolds, mariner and staggs are out and manly get fogarty back",
-    "storm finally get jahrome hughes back but still carry a seven-game losing streak into sunday",
-    "the knights still look strong against the winless dragons with ponga running the show",
-    "no round 10 charity bet is locked yet"
+    "magic round starts tomorrow and the board needs a calmer bounce-back than the last couple of chaotic weeks",
+    "the mark hughes foundation ledger still sits at 2 and 2 and minus $3.50 so there is no need to force a charity play",
+    "the knights look like one of the cleanest team-list reads of the round against the still-winless dragons",
+    "latrell mitchell is back for south sydney which makes rabbitohs versus dolphins a proper coin-flip mood check",
+    "the warriors welcome back key middle troops while reynolds returns for brisbane in one of the trickiest sunday games",
+    "storm have finally stopped the skid but still do not deserve automatic trust",
+    "no round 11 charity bet is locked yet"
   ],
   "heroCards": [
     {
       "label": "Current Lean",
-      "value": "Sharks H2H",
-      "delta": "$2.25 range",
+      "value": "Knights H2H",
+      "delta": "clean read",
       "tone": "cyan"
     },
     {
@@ -32,9 +32,9 @@
       "tone": "green"
     },
     {
-      "label": "Round 10 Board",
+      "label": "Round 11 Board",
       "value": "8 games",
-      "delta": "matchday mode",
+      "delta": "magic round",
       "tone": "amber"
     },
     {
@@ -49,66 +49,63 @@
       "title": "Lock Pick",
       "tone": "cyan",
       "items": [
-        "Sharks head to head leads the early charity shortlist",
-        "Cronulla have won their last five against South Sydney",
-        "The Rabbitohs lose Jack Wighton while the Sharks stay settled",
-        "At around $2.25 the price is finally worth paying attention to",
-        "Do not lock it until the market settles through late mail"
+        "Knights head to head looks like the cleanest pure tipping read",
+        "Newcastle keep their winning spine together against a Dragons side still searching for traction",
+        "Kalyn Ponga and Bradman Best stay central to the best upside on the card",
+        "This is the sort of game we should win on paper before trying to get clever elsewhere"
       ]
     },
     {
       "title": "Risk Flags",
       "tone": "red",
       "items": [
-        "The Bulldogs miss last week means the next bet should be smaller and cleaner",
-        "Storm still have the profile of a trap side even with Hughes back",
-        "Broncos versus Manly changed shape once Reynolds was ruled out again",
-        "Roosters are short but their injury list is getting longer",
-        "Do not confuse a juicy price with a good price"
+        "Rabbitohs versus Dolphins looks volatile now that Latrell Mitchell is back",
+        "Warriors versus Broncos has real swing-game energy with both sides regaining troops",
+        "Storm still sit in the prove-it bucket even after breaking the losing run",
+        "Do not let Magic Round chaos push us into a forced charity bet"
       ]
     },
     {
       "title": "Weekly Focus",
       "tone": "amber",
       "items": [
-        "See whether Cronulla can back up the Tigers mauling against a stronger attack",
-        "Track if the Knights keep their momentum against a wounded Dragons side",
-        "Watch whether the Storm actually stabilise with Hughes back on deck",
-        "Keep Panthers in the reliability bucket until they finally give us a reason not to",
-        "Treat Round 10 as a reset, not a revenge week"
+        "Take the obvious edges and avoid manufacturing upset theatre",
+        "See whether the Cowboys can keep their home momentum against a battered Roosters side",
+        "Track whether Manly can punish the Tigers without Turbo but with Fogarty back",
+        "Keep Penrith in the trust circle until a serious side finally knocks them off"
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Sharks look like the most interesting value team on the slate",
-        "Sea Eagles get a big structural boost with Fogarty back",
-        "Cowboys still profile as one of the stronger home teams in the comp",
-        "The market may still be too slow to downgrade Melbourne properly"
+        "Sharks look upgraded with Mulitalo and Ramien back in the mix",
+        "The Bulldogs get Burton and Max King back which stops Friday from being a walkover",
+        "Reynolds returning matters for Brisbane but not enough to make Sunday comfortable",
+        "The Eels still look like a side worth fading unless they prove otherwise"
       ]
     }
   ],
   "betCard": {
-    "title": "Round 10 Charity Bet",
+    "title": "Round 11 Charity Bet",
     "status": "No play locked",
-    "pick": "Sharks head to head leads the shortlist",
-    "odds": "$2.25",
-    "stake": "$5.00 earmarked",
-    "potentialReturn": "$11.25",
-    "potentialProfit": "$6.25",
-    "match": "Rabbitohs vs Sharks",
-    "kickoff": "Sat 9 May 2026, 7:30pm AEST",
-    "venue": "Accor Stadium",
+    "pick": "Keep the stake in the holster unless a price opens cleanly on Friday or Saturday",
+    "odds": "TBC",
+    "stake": "$5.00 if locked",
+    "potentialReturn": "Waiting on price",
+    "potentialProfit": "Waiting on price",
+    "match": "Shortlist still forming",
+    "kickoff": "Before Saturday decisions",
+    "venue": "Suncorp Stadium",
     "why": [
-      "Cronulla come in settled after belting the Tigers and have won their last five against South Sydney.",
-      "The Rabbitohs lose Jack Wighton and have to reshuffle their backline and halves again.",
-      "At around $2.25, the Sharks finally offer a proper value number instead of another cramped favourite."
+      "Magic Round can get weird quickly, so discipline matters more than forcing action.",
+      "There are a few interesting reads but no obvious charity number from the official team-list picture alone.",
+      "The right move is to lock tips first and only bet if the market offers a clean edge."
     ],
     "risks": [
-      "Souths can still score points in bunches at Accor, especially with Latrell in this form.",
-      "Jye Gray returns and gives the Rabbitohs more spark through the middle third.",
-      "Cronulla are still a volatile side week to week, so this is value rather than safety."
+      "Last week showed how fast a reasonable read can turn into another hit on the ledger.",
+      "Several of this week's best games are also the messiest games to price cleanly.",
+      "Betting without a solid market edge would be process drift, not aggression."
     ]
   },
   "charity": {
@@ -119,30 +116,31 @@
     "returned": "$21.50",
     "profit": "-$3.50",
     "donated": "$0.00",
-    "nextDonation": "After Round 10",
+    "nextDonation": "After Round 11",
     "notes": [
       "Round 5: Newcastle head to head at $2.30 won and collected $11.50.",
       "Round 6: North Queensland Cowboys head to head at $2.00 won and collected $10.00.",
       "Round 7: Wests Tigers head to head at $1.53 lost in a 21-20 defeat to Brisbane.",
       "Round 8: No charity bet placed, bank held at $6.50.",
-      "Round 9: Bulldogs head to head at $1.77 lost after a Cowboys comeback win."
+      "Round 9: Bulldogs head to head at $1.77 lost after a Cowboys comeback win.",
+      "Round 10: No charity bet locked, so the ledger stayed unchanged."
     ]
   },
   "watchlist": [
-    "Whether Sharks stay value once the market reacts to Souths team changes.",
-    "How much the Broncos downgrade should matter without Reynolds and Staggs.",
-    "Whether Hughes changes enough for Melbourne to be trusted again.",
-    "Any signal that the next charity stake should stay at $5 rather than drifting back up."
+    "Whether the Rabbitohs price shortens sharply with Latrell Mitchell back in the centres.",
+    "How much confidence to give the Warriors once Barnett and Egan are back on deck.",
+    "Whether the Roosters can keep holding together through a growing injury list.",
+    "Any sign that Round 11 still presents a disciplined $5 charity spot before Saturday."
   ],
   "confidence": [
-    "Dolphins over Bulldogs",
-    "Roosters over Titans",
-    "Cowboys over Eels",
-    "Knights over Dragons",
-    "Sharks over Rabbitohs",
-    "Sea Eagles over Broncos",
-    "Storm over Wests Tigers",
-    "Panthers over Raiders"
+    "Sharks over Bulldogs",
+    "Rabbitohs over Dolphins",
+    "Sea Eagles over Wests Tigers",
+    "Cowboys over Roosters",
+    "Storm over Eels",
+    "Knights over Titans",
+    "Warriors over Broncos",
+    "Panthers over Dragons"
   ],
   "sections": [
     {
@@ -150,11 +148,11 @@
       "title": "Situation Report",
       "badge": "snapshot",
       "tone": "amber",
-      "heading": "Round 10 opens as a reset week, not a revenge week",
+      "heading": "Magic Round is a reset, but not a free-for-all",
       "lines": [
-        "As of Thursday, 7 May 2026, official Round 10 team lists and late mail are in and the board can reset after a shaky Round 9.",
-        "The charity ledger is still sitting at 2-2 and -$3.50, so the right move this week is smaller, cleaner conviction.",
-        "There are better prices on the board than last week, but they still need discipline rather than emotion."
+        "As of Wednesday, 13 May 2026, official Magic Round team lists are in and the board can settle around actual personnel rather than guesswork.",
+        "The charity ledger remains at 2-2 and -$3.50, so the process should stay disciplined instead of trying to get square in one weekend.",
+        "Round 11 has plenty of edge, but several of the sharpest games also look the least predictable."
       ]
     },
     {
@@ -162,46 +160,46 @@
       "title": "Bet Analysis",
       "badge": "charity pick",
       "tone": "cyan",
-      "heading": "Sharks are the best value look, not the safest look",
+      "heading": "No charity bet yet is a feature, not a bug",
       "lines": [
-        "Cronulla at around $2.25 is the first number in a while that looks like genuine charity value rather than just a fancy underdog.",
-        "South Sydney lose Jack Wighton and reshuffle, while the Sharks stay largely settled and bring strong head-to-head history into the match.",
-        "It is still a higher-variance play than a short favourite, so the price is doing the work here.",
-        "The right move is to keep the stake modest and only lock after one last late-mail check."
+        "This round does not present an obvious charity lock from the official team-list picture alone, so patience is part of the strategy.",
+        "Knights and Panthers look cleaner as tipping plays than as likely worthwhile betting prices.",
+        "Sharks, Warriors and Cowboys are all interesting football reads, but each still needs a price check before becoming a real staking option.",
+        "The right move is to keep the stake at $5 if a bet appears, not drift higher just because we want the bank moving again."
       ]
     },
     {
       "id": "tips",
-      "title": "Early Round 10 Tips",
+      "title": "Round 11 Tips",
       "badge": "8 games",
       "tone": "green",
-      "heading": "Round 10 tip card before kickoff",
+      "heading": "Magic Round tip card before lockout",
       "lines": [
-        "Dolphins over Bulldogs",
-        "Roosters over Titans",
-        "Cowboys over Eels",
-        "Knights over Dragons",
-        "Sharks over Rabbitohs",
-        "Sea Eagles over Broncos",
-        "Storm over Wests Tigers",
-        "Panthers over Raiders"
+        "Sharks over Bulldogs",
+        "Rabbitohs over Dolphins",
+        "Sea Eagles over Wests Tigers",
+        "Cowboys over Roosters",
+        "Storm over Eels",
+        "Knights over Titans",
+        "Warriors over Broncos",
+        "Panthers over Dragons"
       ]
     },
     {
       "id": "fixtures",
-      "title": "Round 10 Fixtures",
+      "title": "Round 11 Fixtures",
       "badge": "schedule",
       "tone": "amber",
-      "heading": "Known Round 10 slate after Team List Tuesday",
+      "heading": "Magic Round slate at Suncorp",
       "lines": [
-        "Dolphins vs Bulldogs",
-        "Roosters vs Titans",
-        "Cowboys vs Eels",
-        "Dragons vs Knights",
-        "Rabbitohs vs Sharks",
-        "Sea Eagles vs Broncos",
-        "Storm vs Wests Tigers",
-        "Raiders vs Panthers"
+        "Sharks vs Bulldogs",
+        "Rabbitohs vs Dolphins",
+        "Wests Tigers vs Sea Eagles",
+        "Roosters vs Cowboys",
+        "Eels vs Storm",
+        "Titans vs Knights",
+        "Warriors vs Broncos",
+        "Panthers vs Dragons"
       ]
     },
     {
@@ -209,11 +207,11 @@
       "title": "Form Radar",
       "badge": "hot and cold",
       "tone": "red",
-      "heading": "Who deserves the Round 10 upgrade or downgrade",
+      "heading": "Who deserves the upgrade or downgrade this week",
       "lines": [
-        "Hot: Panthers, Sharks, Cowboys, and a healthier Knights side.",
-        "Cold: Storm, Bulldogs, and any faith that the Broncos are fully back without Reynolds.",
-        "The biggest swing price of the week is Sharks because the market still seems to respect Souths more than the lists do."
+        "Hot: Panthers, Knights, and the healthier version of Cronulla.",
+        "Cold: Bulldogs, Eels, and any blind faith that Melbourne are suddenly fixed forever.",
+        "The biggest coin-flip game on the board is Rabbitohs versus Dolphins because both sides have enough attack to make the form line wobble."
       ]
     },
     {
@@ -221,12 +219,12 @@
       "title": "Intel Notes",
       "badge": "verify",
       "tone": "red",
-      "heading": "The data points most worth checking before locking Round 10",
+      "heading": "The data points most worth checking before any charity lock",
       "lines": [
-        "The biggest late-mail signals are any movement around the Sharks-Rabbitohs edges, plus whether Ben Hunt sneaks closer for Brisbane.",
-        "Reynolds out again matters more than the raw Broncos price suggests, especially away at 4 Pines.",
-        "Storm getting Hughes back is meaningful, but not enough on its own to erase seven straight losses.",
-        "Keep the next charity stake controlled even if the value case feels better than last week."
+        "Latrell Mitchell returning matters a lot for South Sydney's ceiling and makes Friday night much less comfortable for Dolphins backers.",
+        "Reynolds is back for Brisbane, but the Warriors also welcome back major middle and spine help, which keeps Sunday tricky.",
+        "The Sharks regain strike through Ronaldo Mulitalo and Jesse Ramien, while the Bulldogs also get Matt Burton and Max King back.",
+        "The current priority is getting the tips right before trying to squeeze value out of the market."
       ]
     }
   ],
