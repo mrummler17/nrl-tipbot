@@ -23,7 +23,7 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 1. Sharks over Bulldogs
 2. Rabbitohs over Dolphins
 3. Sea Eagles over Wests Tigers
-4. Cowboys over Roosters
+4. Roosters over Cowboys
 5. Storm over Eels
 6. Knights over Titans
 7. Warriors over Broncos

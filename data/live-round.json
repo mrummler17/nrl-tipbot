@@ -49,10 +49,10 @@
       "match": "Roosters vs Cowboys",
       "kickoff": "Sat 16 May, 5:30pm",
       "venue": "Suncorp Stadium",
-      "status": "Lean Cowboys",
-      "result": "Current tip: Cowboys",
-      "tipOutcome": "Roosters still patched up",
-      "note": "The Roosters can absolutely win, but North Queensland feel like the healthier and cleaner read right now."
+      "status": "Lean Roosters",
+      "result": "Current tip: Roosters",
+      "tipOutcome": "Dearden out changes it",
+      "note": "Tom Dearden's ankle injury, Liam Sutton's NRL debut at five-eighth, and Jason Taumalolo being rested shift this game back toward the Roosters despite their own missing pieces."
     },
     {
       "match": "Eels vs Storm",
@@ -107,6 +107,10 @@
     {
       "tone": "red",
       "text": "Rabbitohs versus Dolphins and Warriors versus Broncos both carry enough moving parts to punish overconfidence."
+    },
+    {
+      "tone": "amber",
+      "text": "Roosters versus Cowboys stopped being a clean Cowboys lean once Dearden was ruled out and Sutton was pushed into a debut start."
     },
     {
       "tone": "red",
