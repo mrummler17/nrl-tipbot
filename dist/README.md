@@ -1,12 +1,12 @@
 # NRL TipBot Briefing 2026
 
-Magic Round setup board for tipping, charity betting, and weekly NRL intel
+Round 12 setup board for tipping, charity betting, and weekly NRL intel
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 
-- Keep the stake in the holster unless a price opens cleanly on Friday or Saturday
+- Bulldogs head to head leads the shortlist
 - Odds: TBC
 - Stake: $5.00 if locked
 - Potential profit: Waiting on price
@@ -14,27 +14,24 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Live Round Status
 
-- Magic Round team lists checked Thursday 14 May 2026
-- Magic Round starts tomorrow with the board reset around the official Round 11 team lists, a cautious charity stance, and a tip card built more around clean reads than hero shots.
+- Round 12 team lists checked Wednesday 21 May 2026
+- Round 12 is an Origin-hit five-game slate, with the Bulldogs carrying the clearest roster edge on paper and no charity bet locked yet while the market settles.
 
 
 ## Confidence Order
 
-1. Sharks over Bulldogs
-2. Rabbitohs over Dolphins
-3. Sea Eagles over Wests Tigers
-4. Roosters over Cowboys
-5. Storm over Eels
-6. Knights over Titans
-7. Warriors over Broncos
-8. Panthers over Dragons
+1. Dolphins over Raiders
+2. Bulldogs over Storm
+3. Warriors over Dragons
+4. Sea Eagles over Titans
+5. Cowboys over Rabbitohs
 
 ## Board Sections
 
-- **Situation Report** — Magic Round is a reset, but not a free-for-all
-- **Bet Analysis** — No charity bet yet is a feature, not a bug
-- **Round 11 Tips** — Magic Round tip card before lockout
-- **Round 11 Fixtures** — Magic Round slate at Suncorp
+- **Situation Report** — Round 12 is an Origin week puzzle, not a normal full slate
+- **Bet Analysis** — Bulldogs are the first serious charity look of the week
+- **Round 12 Tips** — Origin-week tip card before lockout
+- **Round 12 Fixtures** — Reduced Round 12 slate
 - **Form Radar** — Who deserves the upgrade or downgrade this week
 - **Intel Notes** — The data points most worth checking before any charity lock
 

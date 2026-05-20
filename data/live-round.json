@@ -1,124 +1,99 @@
 {
-  "round": "Round 11",
-  "verifiedAt": "2026-05-14T11:00:00+10:00",
-  "verificationLabel": "Magic Round team lists checked Thursday 14 May 2026",
-  "summary": "Magic Round starts tomorrow with the board reset around the official Round 11 team lists, a cautious charity stance, and a tip card built more around clean reads than hero shots.",
+  "round": "Round 12",
+  "verifiedAt": "2026-05-21T11:30:00+10:00",
+  "verificationLabel": "Round 12 team lists checked Wednesday 21 May 2026",
+  "summary": "Round 12 is an Origin-hit five-game slate, with the Bulldogs carrying the clearest roster edge on paper and no charity bet locked yet while the market settles.",
   "sources": [
     {
-      "label": "NRL Team Lists: Magic Round",
-      "url": "https://www.nrl.com/news/2026/05/12/nrl-team-lists-magic-round/",
+      "label": "NRL Team Lists: Round 12",
+      "url": "https://www.nrl.com/news/2026/05/19/nrl-team-lists-round-12/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-13T15:24:00+10:00"
+      "publishedAt": "2026-05-19T15:59:00+10:00"
+    },
+    {
+      "label": "NRL Late Mail: Round 12",
+      "url": "https://www.nrl.com/news/2026/05/20/nrl-late-mail-round-12-farnworth-drops-out-kiraz-back-in/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-05-20T00:32:00+10:00"
     },
     {
       "label": "NRL Casualty Ward",
       "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-13T18:49:00+10:00"
+      "publishedAt": "2026-05-19T18:37:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Sharks vs Bulldogs",
-      "kickoff": "Fri 15 May, 6:00pm",
-      "venue": "Suncorp Stadium",
-      "status": "Lean Sharks",
-      "result": "Current tip: Sharks",
-      "tipOutcome": "Mulitalo and Ramien back",
-      "note": "Cronulla regain serious strike, while Canterbury are healthier too, so this looks like a better football game than last week's Dogs form line suggests."
+      "match": "Raiders vs Dolphins",
+      "kickoff": "Thu 21 May, 7:50pm",
+      "venue": "GIO Stadium",
+      "status": "Lean Dolphins",
+      "result": "Current tip: Dolphins",
+      "tipOutcome": "Farnworth out, still edge Dolphins",
+      "note": "Herbie Farnworth dropping out hurts, but Canberra are also heavily carved up by Origin with Ethan Strange and Hudson Young missing."
     },
     {
-      "match": "Rabbitohs vs Dolphins",
-      "kickoff": "Fri 15 May, 8:05pm",
-      "venue": "Suncorp Stadium",
-      "status": "Lean Rabbitohs",
-      "result": "Current tip: Rabbitohs",
-      "tipOutcome": "Latrell Mitchell returns",
-      "note": "Latrell back lifts South Sydney's attacking ceiling immediately, but the Dolphins are coming in with enough recent confidence to keep this volatile."
+      "match": "Bulldogs vs Storm",
+      "kickoff": "Fri 22 May, 8:00pm",
+      "venue": "Accor Stadium",
+      "status": "Lean Bulldogs",
+      "result": "Current tip: Bulldogs",
+      "tipOutcome": "Kiraz back, Storm depleted",
+      "note": "Canterbury regain Jacob Kiraz while Melbourne lose Munster, Grant and Loiero to Origin, making this the clearest structural edge of the round."
     },
     {
-      "match": "Wests Tigers vs Sea Eagles",
-      "kickoff": "Sat 16 May, 3:00pm",
-      "venue": "Suncorp Stadium",
-      "status": "Lean Sea Eagles",
-      "result": "Current tip: Sea Eagles",
-      "tipOutcome": "Fogarty back on deck",
-      "note": "Manly still miss Turbo, but Jamal Fogarty back in the system makes them steadier than the Tigers in a Magic Round environment."
-    },
-    {
-      "match": "Roosters vs Cowboys",
-      "kickoff": "Sat 16 May, 5:30pm",
-      "venue": "Suncorp Stadium",
-      "status": "Lean Roosters",
-      "result": "Current tip: Roosters",
-      "tipOutcome": "Dearden out changes it",
-      "note": "Tom Dearden's ankle injury, Liam Sutton's NRL debut at five-eighth, and Jason Taumalolo being rested shift this game back toward the Roosters despite their own missing pieces."
-    },
-    {
-      "match": "Eels vs Storm",
-      "kickoff": "Sat 16 May, 7:45pm",
-      "venue": "Suncorp Stadium",
-      "status": "Lean Storm",
-      "result": "Current tip: Storm",
-      "tipOutcome": "Still prove-it mode",
-      "note": "Melbourne finally steadied and keep enough class to stay in front of Parramatta, but trust is still limited."
-    },
-    {
-      "match": "Titans vs Knights",
-      "kickoff": "Sun 17 May, 2:00pm",
-      "venue": "Suncorp Stadium",
-      "status": "Lean Knights",
-      "result": "Current tip: Knights",
-      "tipOutcome": "Newcastle unchanged",
-      "note": "The Knights keep their strong spine together and look one of the cleaner reads of the whole weekend."
-    },
-    {
-      "match": "Warriors vs Broncos",
-      "kickoff": "Sun 17 May, 4:05pm",
-      "venue": "Suncorp Stadium",
+      "match": "Dragons vs Warriors",
+      "kickoff": "Sat 23 May, 5:30pm",
+      "venue": "Jubilee Stadium",
       "status": "Lean Warriors",
       "result": "Current tip: Warriors",
-      "tipOutcome": "Both teams regain troops",
-      "note": "Reynolds is back for Brisbane, but the Warriors also get key middle and spine reinforcements, so the safer lean still feels New Zealand."
+      "tipOutcome": "RTS returns",
+      "note": "Roger Tuivasa-Sheck's return gives the Warriors more strike and they still look the cleaner side against a struggling Dragons outfit."
     },
     {
-      "match": "Panthers vs Dragons",
-      "kickoff": "Sun 17 May, 6:25pm",
-      "venue": "Suncorp Stadium",
-      "status": "Lean Panthers",
-      "result": "Current tip: Panthers",
-      "tipOutcome": "Trust the standard",
-      "note": "Penrith remain the most bankable side on the card until a stronger opponent actually knocks them over."
+      "match": "Sea Eagles vs Titans",
+      "kickoff": "Sat 23 May, 7:35pm",
+      "venue": "4 Pines Park",
+      "status": "Lean Sea Eagles",
+      "result": "Current tip: Sea Eagles",
+      "tipOutcome": "Trap-game alert",
+      "note": "Manly are patched up, but the Titans also lose key Origin names and the safer lean still sits with the home side."
+    },
+    {
+      "match": "Cowboys vs Rabbitohs",
+      "kickoff": "Sun 24 May, 4:05pm",
+      "venue": "Queensland Country Bank Stadium",
+      "status": "Lean Cowboys",
+      "result": "Current tip: Cowboys",
+      "tipOutcome": "Souths missing stars",
+      "note": "Taumalolo returns for North Queensland while South Sydney are without Latrell Mitchell and Campbell Graham, which drags the game toward the Cowboys."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Magic Round is set up as a process week: trust the cleaner reads and avoid forcing chaos picks."
+      "text": "Round 12 is shorter, so taking the cleaner Origin-depletion reads matters more than usual."
     },
     {
       "tone": "amber",
-      "text": "The Mark Hughes Foundation ledger stays at 2-2 and -$3.50, so there is no need to rush into a Round 11 bet without a real price edge."
+      "text": "The Mark Hughes Foundation ledger stays at 2-2 and -$3.50, so no charity bet should be forced without a clear price edge."
     },
     {
       "tone": "green",
-      "text": "Knights, Panthers and the healthier Sharks profile as the cleaner football reads on the board."
+      "text": "Bulldogs versus Storm is the clearest roster-tilt matchup of the week."
     },
     {
       "tone": "red",
-      "text": "Rabbitohs versus Dolphins and Warriors versus Broncos both carry enough moving parts to punish overconfidence."
+      "text": "Raiders versus Dolphins and Sea Eagles versus Titans both have enough personnel churn to punish overconfidence."
     },
     {
       "tone": "amber",
-      "text": "Roosters versus Cowboys stopped being a clean Cowboys lean once Dearden was ruled out and Sutton was pushed into a debut start."
-    },
-    {
-      "tone": "red",
-      "text": "Storm are still in the prove-it bucket even after finally stopping the slide."
+      "text": "Roger Tuivasa-Sheck back for the Warriors and Kiraz back for the Bulldogs are the key reinforcements to respect."
     },
     {
       "tone": "amber",
-      "text": "No Round 11 charity bet is locked yet, which is disciplined rather than timid."
+      "text": "No Round 12 charity bet is locked yet, which is disciplined on a messy Origin slate."
     }
   ]
 }

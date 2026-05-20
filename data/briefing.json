@@ -1,28 +1,28 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Magic Round setup board for tipping, charity betting, and weekly NRL intel",
+    "subhead": "Round 12 setup board for tipping, charity betting, and weekly NRL intel",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 11 lock window"
+    "status": "Round 12 lock window"
   },
   "meta": {
-    "description": "Codex-managed NRL TipBot dashboard for Round 11 Magic Round preview notes, charity betting discipline, and weekly NRL intel."
+    "description": "Codex-managed NRL TipBot dashboard for Round 12 preview notes, charity betting discipline, and weekly NRL intel."
   },
   "ticker": [
-    "magic round starts tomorrow and the board needs a calmer bounce-back than the last couple of chaotic weeks",
-    "the mark hughes foundation ledger still sits at 2 and 2 and minus $3.50 so there is no need to force a charity play",
-    "the knights look like one of the cleanest team-list reads of the round against the still-winless dragons",
-    "latrell mitchell is back for south sydney which makes rabbitohs versus dolphins a proper coin-flip mood check",
-    "the warriors welcome back key middle troops while reynolds returns for brisbane in one of the trickiest sunday games",
-    "storm have finally stopped the skid but still do not deserve automatic trust",
-    "no round 11 charity bet is locked yet"
+    "round 12 is a shorter origin-affected slate so every swing game matters more than usual",
+    "the mark hughes foundation ledger still sits at 2 and 2 and minus $3.50 because no round 10 or round 11 charity bet was locked",
+    "bulldogs get jacob kiraz back while storm lose munster grant and loiero to origin which swings friday night hard",
+    "dolphins lose farnworth and still have origin holes but the raiders are missing ethan strange and hudson young too",
+    "warriors get roger tuivasa-sheck back and still look the cleaner side against the struggling dragons",
+    "cowboys regain taumalolo while south sydney are missing latrell mitchell and campbell graham",
+    "no round 12 charity bet is locked yet"
   ],
   "heroCards": [
     {
       "label": "Current Lean",
-      "value": "Knights H2H",
-      "delta": "clean read",
+      "value": "Bulldogs H2H",
+      "delta": "origin edge",
       "tone": "cyan"
     },
     {
@@ -32,9 +32,9 @@
       "tone": "green"
     },
     {
-      "label": "Round 11 Board",
-      "value": "8 games",
-      "delta": "magic round",
+      "label": "Round 12 Board",
+      "value": "5 games",
+      "delta": "origin week",
       "tone": "amber"
     },
     {
@@ -49,64 +49,63 @@
       "title": "Lock Pick",
       "tone": "cyan",
       "items": [
-        "Knights head to head looks like the cleanest pure tipping read",
-        "Newcastle keep their winning spine together against a Dragons side still searching for traction",
-        "Kalyn Ponga and Bradman Best stay central to the best upside on the card",
-        "This is the sort of game we should win on paper before trying to get clever elsewhere"
+        "Bulldogs head to head is the cleanest early read on the reduced slate",
+        "Canterbury get Jacob Kiraz back while Melbourne lose Munster, Grant and Loiero to Origin duty",
+        "The Dogs do not need to be spectacular to win this version of the matchup",
+        "This is the kind of origin-round edge worth respecting before the market fully settles"
       ]
     },
     {
       "title": "Risk Flags",
       "tone": "red",
       "items": [
-        "Rabbitohs versus Dolphins looks volatile now that Latrell Mitchell is back",
-        "Warriors versus Broncos has real swing-game energy with both sides regaining troops",
-        "Roosters versus Cowboys swung once Tom Dearden was ruled out and Sutton was asked to debut at five-eighth",
-        "Storm still sit in the prove-it bucket even after breaking the losing run",
-        "Do not let Magic Round chaos push us into a forced charity bet"
+        "Raiders versus Dolphins is messy because both sides are chopped up by Origin and injuries",
+        "Sea Eagles versus Titans has roster noise all over it and feels like a classic trap game",
+        "The shortened slate means one upset hurts more than usual",
+        "Do not force a charity play just because there are fewer games"
       ]
     },
     {
       "title": "Weekly Focus",
       "tone": "amber",
       "items": [
-        "Take the obvious edges and avoid manufacturing upset theatre",
-        "See whether the Roosters can absorb the Radley loss better than the Cowboys absorb life without Tom Dearden",
-        "Track whether Manly can punish the Tigers without Turbo but with Fogarty back",
-        "Keep Penrith in the trust circle until a serious side finally knocks them off"
+        "Take the clean Origin-depletion reads instead of trying to outsmart the whole round",
+        "Watch whether the Bulldogs can actually cash in on Melbourne's missing spine",
+        "Trust the Warriors more than the Dragons until St George prove they can punish a reshuffled opponent",
+        "See if the Cowboys can handle Souths at home with Taumalolo back in the middle"
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Sharks look upgraded with Mulitalo and Ramien back in the mix",
-        "The Bulldogs get Burton and Max King back which stops Friday from being a walkover",
-        "Reynolds returning matters for Brisbane but not enough to make Sunday comfortable",
-        "The Eels still look like a side worth fading unless they prove otherwise"
+        "Bulldogs look like the most obvious roster-upgrade side on the round",
+        "The Dolphins still have enough system strength to be dangerous despite the outs",
+        "RTS returning gives the Warriors a higher ceiling immediately",
+        "South Sydney's missing stars make the Cowboys game more about discipline than flair"
       ]
     }
   ],
   "betCard": {
-    "title": "Round 11 Charity Bet",
+    "title": "Round 12 Charity Bet",
     "status": "No play locked",
-    "pick": "Keep the stake in the holster unless a price opens cleanly on Friday or Saturday",
+    "pick": "Bulldogs head to head leads the shortlist",
     "odds": "TBC",
     "stake": "$5.00 if locked",
     "potentialReturn": "Waiting on price",
     "potentialProfit": "Waiting on price",
-    "match": "Shortlist still forming",
-    "kickoff": "Before Saturday decisions",
-    "venue": "Suncorp Stadium",
+    "match": "Bulldogs vs Storm",
+    "kickoff": "Fri 22 May 2026, 8:00pm AEST",
+    "venue": "Accor Stadium",
     "why": [
-      "Magic Round can get weird quickly, so discipline matters more than forcing action.",
-      "There are a few interesting reads but no obvious charity number from the official team-list picture alone.",
-      "The right move is to lock tips first and only bet if the market offers a clean edge."
+      "Origin outs hit Melbourne harder than Canterbury in this matchup.",
+      "Kiraz returning gives the Bulldogs more finishing class on the edge.",
+      "If the market does not over-correct, this shapes as the cleanest potential value spot of the week."
     ],
     "risks": [
-      "Last week showed how fast a reasonable read can turn into another hit on the ledger.",
-      "Several of this week's best games are also the messiest games to price cleanly.",
-      "Betting without a solid market edge would be process drift, not aggression."
+      "Melbourne's system can still cover personnel losses better than most clubs.",
+      "The Bulldogs can make life hard for themselves with errors when they should be controlling games.",
+      "Without a live price edge, this should stay a shortlist call rather than an automatic bet."
     ]
   },
   "charity": {
@@ -117,31 +116,28 @@
     "returned": "$21.50",
     "profit": "-$3.50",
     "donated": "$0.00",
-    "nextDonation": "After Round 11",
+    "nextDonation": "After Round 12",
     "notes": [
       "Round 5: Newcastle head to head at $2.30 won and collected $11.50.",
       "Round 6: North Queensland Cowboys head to head at $2.00 won and collected $10.00.",
       "Round 7: Wests Tigers head to head at $1.53 lost in a 21-20 defeat to Brisbane.",
       "Round 8: No charity bet placed, bank held at $6.50.",
       "Round 9: Bulldogs head to head at $1.77 lost after a Cowboys comeback win.",
-      "Round 10: No charity bet locked, so the ledger stayed unchanged."
+      "Rounds 10 and 11: No charity bet locked, so the ledger stayed unchanged."
     ]
   },
   "watchlist": [
-    "Whether the Rabbitohs price shortens sharply with Latrell Mitchell back in the centres.",
-    "How much confidence to give the Warriors once Barnett and Egan are back on deck.",
-    "Whether the Roosters can keep the six-game streak rolling even with Victor Radley suspended.",
-    "Any sign that Round 11 still presents a disciplined $5 charity spot before Saturday."
+    "Whether the Bulldogs price still leaves enough room to justify a $5 charity play.",
+    "How much the Dolphins can cover the Farnworth and Hammer absences without losing their edge.",
+    "Whether the Titans can steal a game from a badly reshuffled Manly side.",
+    "Any late movement on Cowboys versus Rabbitohs once final 19s are confirmed."
   ],
   "confidence": [
-    "Sharks over Bulldogs",
-    "Rabbitohs over Dolphins",
-    "Sea Eagles over Wests Tigers",
-    "Roosters over Cowboys",
-    "Storm over Eels",
-    "Knights over Titans",
-    "Warriors over Broncos",
-    "Panthers over Dragons"
+    "Dolphins over Raiders",
+    "Bulldogs over Storm",
+    "Warriors over Dragons",
+    "Sea Eagles over Titans",
+    "Cowboys over Rabbitohs"
   ],
   "sections": [
     {
@@ -149,11 +145,11 @@
       "title": "Situation Report",
       "badge": "snapshot",
       "tone": "amber",
-      "heading": "Magic Round is a reset, but not a free-for-all",
+      "heading": "Round 12 is an Origin week puzzle, not a normal full slate",
       "lines": [
-        "As of Wednesday, 13 May 2026, official Magic Round team lists are in and the board can settle around actual personnel rather than guesswork.",
-        "The charity ledger remains at 2-2 and -$3.50, so the process should stay disciplined instead of trying to get square in one weekend.",
-        "Round 11 has plenty of edge, but several of the sharpest games also look the least predictable."
+        "As of Wednesday, 21 May 2026, official Round 12 team lists and late mail are in and the board has to be read through an Origin-depletion lens.",
+        "There are only five games, which means each bad read carries more weight than usual.",
+        "The charity ledger is still parked at 2-2 and -$3.50, so patience remains part of the strategy."
       ]
     },
     {
@@ -161,46 +157,40 @@
       "title": "Bet Analysis",
       "badge": "charity pick",
       "tone": "cyan",
-      "heading": "No charity bet yet is a feature, not a bug",
+      "heading": "Bulldogs are the first serious charity look of the week",
       "lines": [
-        "This round does not present an obvious charity lock from the official team-list picture alone, so patience is part of the strategy.",
-        "Knights and Panthers look cleaner as tipping plays than as likely worthwhile betting prices.",
-        "Sharks and Warriors are still interesting football reads, while the Roosters now look like the clearer tipping side against a Dearden-less Cowboys outfit.",
-        "The right move is to keep the stake at $5 if a bet appears, not drift higher just because we want the bank moving again."
+        "Melbourne lose Cameron Munster, Harry Grant and Trent Loiero to Origin while the Bulldogs get Jacob Kiraz back and keep more of their structure intact.",
+        "That does not make Canterbury bulletproof, but it gives them the clearest roster edge of Round 12.",
+        "This is still an origin week, so the right move is to wait for a fair price rather than blindly lock a favourite.",
+        "If the number is good enough, the Bulldogs are the side most likely to become the week's $5 charity play."
       ]
     },
     {
       "id": "tips",
-      "title": "Round 11 Tips",
-      "badge": "8 games",
+      "title": "Round 12 Tips",
+      "badge": "5 games",
       "tone": "green",
-      "heading": "Magic Round tip card before lockout",
+      "heading": "Origin-week tip card before lockout",
       "lines": [
-        "Sharks over Bulldogs",
-        "Rabbitohs over Dolphins",
-        "Sea Eagles over Wests Tigers",
-        "Roosters over Cowboys",
-        "Storm over Eels",
-        "Knights over Titans",
-        "Warriors over Broncos",
-        "Panthers over Dragons"
+        "Dolphins over Raiders",
+        "Bulldogs over Storm",
+        "Warriors over Dragons",
+        "Sea Eagles over Titans",
+        "Cowboys over Rabbitohs"
       ]
     },
     {
       "id": "fixtures",
-      "title": "Round 11 Fixtures",
+      "title": "Round 12 Fixtures",
       "badge": "schedule",
       "tone": "amber",
-      "heading": "Magic Round slate at Suncorp",
+      "heading": "Reduced Round 12 slate",
       "lines": [
-        "Sharks vs Bulldogs",
-        "Rabbitohs vs Dolphins",
-        "Wests Tigers vs Sea Eagles",
-        "Roosters vs Cowboys",
-        "Eels vs Storm",
-        "Titans vs Knights",
-        "Warriors vs Broncos",
-        "Panthers vs Dragons"
+        "Raiders vs Dolphins",
+        "Bulldogs vs Storm",
+        "Dragons vs Warriors",
+        "Sea Eagles vs Titans",
+        "Cowboys vs Rabbitohs"
       ]
     },
     {
@@ -210,9 +200,9 @@
       "tone": "red",
       "heading": "Who deserves the upgrade or downgrade this week",
       "lines": [
-        "Hot: Panthers, Knights, and the healthier version of Cronulla.",
-        "Cold: Bulldogs, Eels, and any blind faith that Melbourne are suddenly fixed forever.",
-        "The biggest coin-flip game on the board is Rabbitohs versus Dolphins because both sides have enough attack to make the form line wobble."
+        "Hot: Warriors, Bulldogs in this specific matchup, and a healthier Cowboys middle.",
+        "Cold: Dragons, Storm's round-specific depth, and the Rabbitohs' attacking ceiling without Latrell and Campbell Graham.",
+        "The biggest trap game on the board is Sea Eagles versus Titans because both line-ups have enough disruption to turn logic upside down."
       ]
     },
     {
@@ -222,11 +212,10 @@
       "tone": "red",
       "heading": "The data points most worth checking before any charity lock",
       "lines": [
-        "Latrell Mitchell returning matters a lot for South Sydney's ceiling and makes Friday night much less comfortable for Dolphins backers.",
-        "Reynolds is back for Brisbane, but the Warriors also welcome back major middle and spine help, which keeps Sunday tricky.",
-        "The Sharks regain strike through Ronaldo Mulitalo and Jesse Ramien, while the Bulldogs also get Matt Burton and Max King back.",
-        "Tom Dearden out, Liam Sutton debuting, and Taumalolo being rested all push Roosters versus Cowboys back toward Sydney.",
-        "The current priority is getting the tips right before trying to squeeze value out of the market."
+        "Herbie Farnworth dropped out late, so the Dolphins still have to win through system rather than star power.",
+        "Kiraz back in for Canterbury and the Storm's Origin holes make Friday the cleanest structural edge of the round.",
+        "Roger Tuivasa-Sheck's return is the single biggest ceiling boost in Dragons versus Warriors.",
+        "South Sydney are missing Latrell Mitchell and Campbell Graham, which matters enough to swing the Cowboys game toward North Queensland."
       ]
     }
   ],
