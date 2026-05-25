@@ -1,9 +1,15 @@
 {
   "round": "Round 12",
-  "verifiedAt": "2026-05-21T11:30:00+10:00",
-  "verificationLabel": "Round 12 team lists checked Wednesday 21 May 2026",
-  "summary": "Round 12 is an Origin-hit five-game slate, with the Bulldogs carrying the clearest roster edge on paper and no charity bet locked yet while the market settles.",
+  "verifiedAt": "2026-05-25T09:15:00+10:00",
+  "verificationLabel": "Round 12 results checked Monday 25 May 2026",
+  "summary": "Round 12 is complete and the tip card went 5 from 5: Dolphins, Bulldogs, Warriors, Sea Eagles and Cowboys all won. No charity bet was locked, so the Mark Hughes Foundation ledger remains unchanged at 2-2 and -$3.50.",
   "sources": [
+    {
+      "label": "NRL Draw: Round 12 Results",
+      "url": "https://www.nrl.com/draw",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-05-25T00:00:00+10:00"
+    },
     {
       "label": "NRL Team Lists: Round 12",
       "url": "https://www.nrl.com/news/2026/05/19/nrl-team-lists-round-12/",
@@ -15,12 +21,6 @@
       "url": "https://www.nrl.com/news/2026/05/20/nrl-late-mail-round-12-farnworth-drops-out-kiraz-back-in/",
       "publisher": "NRL.com",
       "publishedAt": "2026-05-20T00:32:00+10:00"
-    },
-    {
-      "label": "NRL Casualty Ward",
-      "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-05-19T18:37:00+10:00"
     }
   ],
   "scoreboard": [
@@ -28,72 +28,72 @@
       "match": "Raiders vs Dolphins",
       "kickoff": "Thu 21 May, 7:50pm",
       "venue": "GIO Stadium",
-      "status": "Lean Dolphins",
-      "result": "Current tip: Dolphins",
-      "tipOutcome": "Farnworth out, still edge Dolphins",
-      "note": "Herbie Farnworth dropping out hurts, but Canberra are also heavily carved up by Origin with Ethan Strange and Hudson Young missing."
+      "status": "Tip won",
+      "result": "Dolphins won 30-22",
+      "tipOutcome": "Correct tip: Dolphins",
+      "note": "The Dolphins held on despite missing key Queensland Origin names and defending long second-half pressure."
     },
     {
       "match": "Bulldogs vs Storm",
       "kickoff": "Fri 22 May, 8:00pm",
       "venue": "Accor Stadium",
-      "status": "Lean Bulldogs",
-      "result": "Current tip: Bulldogs",
-      "tipOutcome": "Kiraz back, Storm depleted",
-      "note": "Canterbury regain Jacob Kiraz while Melbourne lose Munster, Grant and Loiero to Origin, making this the clearest structural edge of the round."
+      "status": "Tip won",
+      "result": "Bulldogs won 30-20",
+      "tipOutcome": "Correct tip: Bulldogs",
+      "note": "The clean roster-depletion read landed, with Canterbury punishing a Storm side missing major Origin talent."
     },
     {
       "match": "Dragons vs Warriors",
       "kickoff": "Sat 23 May, 5:30pm",
       "venue": "Jubilee Stadium",
-      "status": "Lean Warriors",
-      "result": "Current tip: Warriors",
-      "tipOutcome": "RTS returns",
-      "note": "Roger Tuivasa-Sheck's return gives the Warriors more strike and they still look the cleaner side against a struggling Dragons outfit."
+      "status": "Tip won",
+      "result": "Warriors won 30-12",
+      "tipOutcome": "Correct tip: Warriors",
+      "note": "The Warriors stayed too clean for the winless Dragons and confirmed the strongest Saturday read."
     },
     {
       "match": "Sea Eagles vs Titans",
       "kickoff": "Sat 23 May, 7:35pm",
       "venue": "4 Pines Park",
-      "status": "Lean Sea Eagles",
-      "result": "Current tip: Sea Eagles",
-      "tipOutcome": "Trap-game alert",
-      "note": "Manly are patched up, but the Titans also lose key Origin names and the safer lean still sits with the home side."
+      "status": "Tip won",
+      "result": "Sea Eagles won 12-10",
+      "tipOutcome": "Correct tip: Sea Eagles",
+      "note": "The trap-game warning was real: Manly survived a late Titans scare and only won by two."
     },
     {
       "match": "Cowboys vs Rabbitohs",
       "kickoff": "Sun 24 May, 4:05pm",
       "venue": "Queensland Country Bank Stadium",
-      "status": "Lean Cowboys",
-      "result": "Current tip: Cowboys",
-      "tipOutcome": "Souths missing stars",
-      "note": "Taumalolo returns for North Queensland while South Sydney are without Latrell Mitchell and Campbell Graham, which drags the game toward the Cowboys."
+      "status": "Tip won",
+      "result": "Cowboys won 30-18",
+      "tipOutcome": "Correct tip: Cowboys",
+      "note": "North Queensland closed the round cleanly at home while South Sydney's missing stars kept their ceiling lower."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 12 is shorter, so taking the cleaner Origin-depletion reads matters more than usual."
+      "text": "Round 12 is complete: TipBot went 5 from 5 on the shortened Origin-week slate."
     },
     {
       "tone": "amber",
-      "text": "The Mark Hughes Foundation ledger stays at 2-2 and -$3.50, so no charity bet should be forced without a clear price edge."
+      "text": "The Mark Hughes Foundation ledger stays at 2-2 and -$3.50 because no Round 12 charity bet was locked."
     },
     {
       "tone": "green",
-      "text": "Bulldogs versus Storm is the clearest roster-tilt matchup of the week."
+      "text": "Bulldogs versus Storm was the cleanest roster-tilt matchup and it landed 30-20."
     },
     {
       "tone": "red",
-      "text": "Raiders versus Dolphins and Sea Eagles versus Titans both have enough personnel churn to punish overconfidence."
+      "text": "Sea Eagles versus Titans was correctly flagged as dangerous, finishing only 12-10."
     },
     {
       "tone": "amber",
-      "text": "Roger Tuivasa-Sheck back for the Warriors and Kiraz back for the Bulldogs are the key reinforcements to respect."
+      "text": "Warriors over Dragons and Cowboys over Rabbitohs both validated the stronger-side Sunday and Saturday reads."
     },
     {
       "tone": "amber",
-      "text": "No Round 12 charity bet is locked yet, which is disciplined on a messy Origin slate."
+      "text": "Validated read: do not change the 5 from 5 result without re-checking official NRL scores."
     }
   ]
 }
