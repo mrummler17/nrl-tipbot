@@ -5,7 +5,7 @@
 - Repo: `/Users/marcusrummler/Documents/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest commit: `1e12570 Wrap TipBot Round 12 results`
+- Latest known pushed commit before README cleanup: `da2a307 Document TipBot repo metadata`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -22,6 +22,7 @@
 - Synced `dist/index.html` to root `index.html` for GitHub Pages.
 - Added this `HANDOVER.md`.
 - Updated GitHub repo About metadata with description, website URL, and topics.
+- Rewrote root `README.md` to match current project state, live site, update workflow, deployment rules, and charity-ledger discipline.
 
 ## Verified
 
@@ -54,6 +55,7 @@
 - `dist/index.html`: Generated dashboard.
 - `index.html`: Public GitHub Pages entry file.
 - `dist/README.md`: Generated text summary.
+- `README.md`: Human-facing repo overview and weekly update workflow.
 
 ## Commands
 
@@ -75,9 +77,9 @@
 
 ## Risks / Unfinished
 
-- `HANDOVER.md` has a local metadata-note update after the `1e12570` deployment commit. Commit and push it if you want the handover note preserved remotely.
+- README cleanup changes should be committed and pushed so GitHub displays the updated project overview.
 
 ## Recommended Next Steps
 
-- Commit and push the latest `HANDOVER.md` note if desired.
+- Commit and push the README cleanup.
 - For the next weekly update, edit `data/briefing.json` and `data/live-round.json`, run `npm run build`, sync `dist/index.html` to `index.html`, verify locally, commit, and push `main`.
