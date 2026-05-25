@@ -5,10 +5,14 @@
 - Repo: `/Users/marcusrummler/Documents/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest commit at start of this handover: `ed2c1e2 Reset TipBot for Round 12`
+- Latest commit: `1e12570 Wrap TipBot Round 12 results`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
+- GitHub repo About metadata:
+  - Description: `Codex-managed NRL tipping dashboard with weekly verified round notes, charity bet tracking, and static GitHub Pages deployment.`
+  - Website: `https://mrummler17.github.io/nrl-tipbot/`
+  - Topics: `nrl`, `tipping`, `github-pages`, `static-site`, `sports-dashboard`
 
 ## Changed This Session
 
@@ -17,6 +21,7 @@
 - Regenerated `dist/index.html` and `dist/README.md` with `npm run build`.
 - Synced `dist/index.html` to root `index.html` for GitHub Pages.
 - Added this `HANDOVER.md`.
+- Updated GitHub repo About metadata with description, website URL, and topics.
 
 ## Verified
 
@@ -24,6 +29,9 @@
 - `npm run build` completed successfully.
 - Root `index.html` was synced from `dist/index.html`.
 - Local browser QA passed at `http://127.0.0.1:4173/index.html`: page title rendered, 5/5 result rendered, Cowboys 30-18 rendered, no-bet copy rendered, ledger values rendered, and browser console had 0 errors.
+- GitHub Pages build for `1e12570` completed successfully.
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/`.
+- GitHub repo About metadata was updated through `gh repo edit`.
 - Round 12 tips are marked validated through official NRL results:
   - Dolphins over Raiders: won 30-22.
   - Bulldogs over Storm: won 30-20.
@@ -67,12 +75,9 @@
 
 ## Risks / Unfinished
 
-- Changes are not yet committed or pushed.
-- GitHub Pages will not update until changes are committed and pushed to `main`.
+- `HANDOVER.md` has a local metadata-note update after the `1e12570` deployment commit. Commit and push it if you want the handover note preserved remotely.
 
 ## Recommended Next Steps
 
-- Run a quick browser check against the local `index.html` or served page.
-- Review `git diff`.
-- Commit with a message such as `Wrap TipBot Round 12 results`.
-- Push `main` and confirm GitHub Pages serves the new root `index.html`.
+- Commit and push the latest `HANDOVER.md` note if desired.
+- For the next weekly update, edit `data/briefing.json` and `data/live-round.json`, run `npm run build`, sync `dist/index.html` to `index.html`, verify locally, commit, and push `main`.
