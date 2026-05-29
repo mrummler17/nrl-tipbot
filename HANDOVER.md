@@ -5,11 +5,11 @@
 - Repo: `/Users/marcusrummler/Documents/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest deployed commit before this update: `b9e5da2 Record Round 13 deployment handover`
+- Latest deployed bet-lock content commit: `a4fa21e Lock Round 13 Penrith charity bet`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current version being deployed: Round 13, 2026 preview with Penrith charity bet locked
+- Current production version: Round 13, 2026 preview with Penrith charity bet locked
 
 ## Changed This Session
 
@@ -42,6 +42,8 @@
   - Pending ledger record rendered as `2-2 + 1 pending` / `2-2 + 1P`.
   - Round 12 guard copy rendered.
   - Browser console had 0 errors.
+- GitHub Pages build for `a4fa21e98ef4a793834bbc739980a689f54a4f2a` completed successfully.
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the locked Penrith bet details.
 - Round 12 remains validated through official NRL results:
   - Dolphins over Raiders: won 30-22.
   - Bulldogs over Storm: won 30-20.
@@ -94,12 +96,9 @@
 
 - Penrith H2H remains pending and was previously the lowest-confidence tip on the card, so do not overstate certainty.
 - Re-check Panthers v Warriors 90-minute teams for awareness, but do not alter the recorded stake unless the user confirms the TAB bet changed.
-- Deployment still needs commit, push, GitHub Pages build check, and live page check for this bet-lock update.
+- Deployment for the bet-lock content commit has been verified. Re-check the live page if a later handover-only commit triggers another Pages build.
 
 ## Recommended Next Steps
 
-- Commit and push the bet-lock update.
-- Confirm the GitHub Pages build completes.
-- Check the live page at `https://mrummler17.github.io/nrl-tipbot/`.
 - After Panthers versus Warriors, settle only from the actual TAB result and return.
 - After Round 13, update results carefully and keep the Round 12 validated 5 from 5 history intact.
