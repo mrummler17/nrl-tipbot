@@ -1,8 +1,8 @@
 {
   "round": "Round 13",
-  "verifiedAt": "2026-05-29T15:32:44+10:00",
-  "verificationLabel": "Round 13 preview checked Friday 29 May 2026",
-  "summary": "Round 13 is a seven-game post-Origin slate. TipBot is live with a preview card, but no Mark Hughes Foundation charity bet is locked because Origin back-up calls and final 24-hour team updates still carry too much movement.",
+  "verifiedAt": "2026-05-29T16:05:00+10:00",
+  "verificationLabel": "Round 13 charity bet locked Friday 29 May 2026",
+  "summary": "Round 13 is a seven-game post-Origin slate with one locked Mark Hughes Foundation charity bet: Penrith Panthers H2H at TAB $1.62 for a $6.50 stake and $10.53 potential collect. The bet is pending until Panthers versus Warriors is final.",
   "sources": [
     {
       "label": "NRL Draw: Round 13",
@@ -27,6 +27,12 @@
       "url": "https://www.nrl.com/news/2026/05/29/expert-tipping-nrl-round-13/",
       "publisher": "NRL.com",
       "publishedAt": "2026-05-29T08:15:00+10:00"
+    },
+    {
+      "label": "User-confirmed TAB market: Panthers H2H $1.62",
+      "url": "https://www.tab.com.au/sports/betting/Rugby%20League/competitions/NRL",
+      "publisher": "TAB",
+      "publishedAt": "2026-05-29T16:05:00+10:00"
     }
   ],
   "scoreboard": [
@@ -88,16 +94,16 @@
       "match": "Panthers vs Warriors",
       "kickoff": "Sun 31 May, 6:15pm",
       "venue": "CommBank Stadium",
-      "status": "Preview",
+      "status": "Charity bet",
       "result": "",
-      "tipOutcome": "Tip: Panthers",
-      "note": "This is the round closer and the lowest-confidence tip. Penrith have Nathan Cleary, Isaah Yeo, Casey McLean and Brian To'o in reserve for monitoring, while the Warriors rest Mitch Barnett and Kurt Capewell and have lost Roger Tuivasa-Sheck."
+      "tipOutcome": "Tip: Panthers | Bet: Panthers H2H $1.62, stake $6.50, collect $10.53",
+      "note": "This is the locked charity play and still the lowest-confidence tip. Penrith have Nathan Cleary, Isaah Yeo, Casey McLean and Brian To'o in reserve for monitoring, while the Warriors rest Mitch Barnett and Kurt Capewell and have lost Roger Tuivasa-Sheck."
     }
   ],
   "liveAlerts": [
     {
       "tone": "amber",
-      "text": "Round 13 preview is live: seven games across Friday 29 May to Sunday 31 May 2026."
+      "text": "Round 13 charity bet locked: Panthers H2H at TAB $1.62 for $6.50, potential collect $10.53."
     },
     {
       "tone": "green",
@@ -105,11 +111,11 @@
     },
     {
       "tone": "amber",
-      "text": "No charity bet is locked yet; require confirmed price, stake, and final team news before moving the Mark Hughes Foundation ledger."
+      "text": "No extra stake: the full available TAB balance is already committed and the bet stays pending until full-time."
     },
     {
       "tone": "red",
-      "text": "Origin back-up risk is highest in Storm v Roosters and Panthers v Warriors."
+      "text": "Panthers v Warriors remains high risk because of Origin back-up monitoring and Warriors resilience."
     },
     {
       "tone": "red",

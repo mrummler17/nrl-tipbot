@@ -20,9 +20,9 @@ The app started as a single prototype file and now keeps content, live round dat
 
 - Round: Round 13, 2026
 - Tip card: seven-game preview
-- Charity bet status: no Round 13 bet locked; Knights H2H is shortlist only
-- Charity ledger: 2-2, $25.00 invested, $21.50 returned, -$3.50 profit
-- Validation rule: do not move the Round 13 shortlist into the ledger without recorded odds, stake, and final team confirmation
+- Charity bet status: Penrith Panthers H2H locked at TAB $1.62, $6.50 stake, $10.53 potential collect
+- Charity ledger: 2-2 settled plus 1 pending; $31.50 invested incl. pending, $21.50 returned, -$3.50 settled profit
+- Validation rule: do not settle the Round 13 charity bet until Panthers v Warriors is final and the TAB return is confirmed
 
 Round 13 tips currently published:
 
@@ -117,6 +117,7 @@ Recent Round 13 updates used:
 - NRL Team Lists Round 13: https://www.nrl.com/news/2026/05/26/nrl-team-lists-round-13/
 - NRL Late Mail Round 13: https://www.nrl.com/news/2026/05/28/nrl-late-mail-round-13---haas-primed-haumole-rested/
 - Expert Tipping Round 13: https://www.nrl.com/news/2026/05/29/expert-tipping-nrl-round-13/
+- TAB NRL market: https://www.tab.com.au/sports/betting/Rugby%20League/competitions/NRL
 
 ## License
 

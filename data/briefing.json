@@ -1,17 +1,17 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 13 preview board for tipping, charity betting discipline, and post-Origin team-news edges",
+    "subhead": "Round 13 preview board with a locked Penrith charity play, tip card, and post-Origin team-news edges",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 13 preview live"
+    "status": "Round 13 charity bet locked"
   },
   "meta": {
-    "description": "Codex-managed NRL TipBot dashboard for Round 13 tips, post-Origin late mail, and charity betting discipline."
+    "description": "Codex-managed NRL TipBot dashboard for Round 13 tips, a locked Penrith charity bet, and post-Origin late mail."
   },
   "ticker": [
     "round 13 is live with seven games from friday 29 may to sunday 31 may",
-    "no charity bet is locked until price stake and final team news are confirmed",
+    "round 13 charity bet locked: panthers h2h at tab $1.62 for $6.50 to collect $10.53",
     "cleanest shortlist read is knights over eels with ponga backing up and parramatta missing moses and paulo",
     "broncos over dragons is the strongest raw tip with payne haas named to return",
     "storm versus roosters and panthers versus warriors carry heavy origin back-up risk",
@@ -27,8 +27,8 @@
     },
     {
       "label": "Bet Record",
-      "value": "2-2",
-      "delta": "-$3.50",
+      "value": "2-2 + 1P",
+      "delta": "$6.50 pending",
       "tone": "green"
     },
     {
@@ -39,9 +39,9 @@
     },
     {
       "label": "Charity Play",
-      "value": "Hold",
-      "delta": "no locked stake",
-      "tone": "red"
+      "value": "Locked",
+      "delta": "Panthers $1.62",
+      "tone": "green"
     }
   ],
   "featurePanels": [
@@ -52,7 +52,7 @@
         "Round 13 is about post-Origin recovery, late scratches, and whether named stars actually back up",
         "The cleanest team-news edge is Newcastle over Parramatta because Ponga is set to play while Moses and Paulo are out",
         "Brisbane get a major front-row lift with Payne Haas named to return against a still-thin Dragons side",
-        "Penrith versus Warriors is the showcase game, but both sides have major availability questions"
+        "Penrith versus Warriors is the locked charity play after TAB showed Panthers H2H at $1.62"
       ]
     },
     {
@@ -62,7 +62,7 @@
         "Storm versus Roosters depends on several Origin players being cleared after short turnarounds",
         "Sharks lose Nicho Hynes, Briton Nikora and KL Iro, so the Friday tip should stay modest",
         "Panthers have Cleary, Yeo, McLean and To'o listed as reserves while the Warriors rest Barnett and Capewell",
-        "A Round 12 clean sweep is validation of process, not permission to force a Round 13 bet"
+        "The Panthers play is live, but it remains the lowest-confidence tip on the card and must be reviewed honestly after full-time"
       ]
     },
     {
@@ -70,16 +70,16 @@
       "tone": "amber",
       "items": [
         "Separate tip confidence from charity-bet execution",
-        "Wait for final 24-hour and 90-minute updates before turning any shortlist lean into a locked bet",
+        "Record the Penrith stake exactly as placed and do not add top-ups or chase bets",
         "Track whether Origin players are named, trained, and actually kept in the final 17",
-        "Keep the ledger frozen unless there is a real stake and price"
+        "Keep the result pending until full-time, then settle the ledger from the actual TAB return"
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Knights price against an Eels spine missing Mitchell Moses",
+        "Panthers 90-minute team confirmation before kickoff",
         "Broncos response with Haas and Piakura back",
         "Whether Matt Burton and Stephen Crichton are managed differently by Canterbury after Origin",
         "Warriors resilience without Roger Tuivasa-Sheck, Mitch Barnett and Kurt Capewell"
@@ -88,33 +88,33 @@
   ],
   "betCard": {
     "title": "Round 13 Charity Bet",
-    "status": "No bet locked",
-    "pick": "Shortlist only: Knights H2H",
-    "odds": "TBC",
-    "stake": "$0.00",
-    "potentialReturn": "$0.00",
-    "potentialProfit": "$0.00",
-    "match": "Knights vs Eels",
-    "kickoff": "Saturday 30 May 2026, 3:00pm",
-    "venue": "McDonald Jones Stadium",
+    "status": "Locked",
+    "pick": "Panthers H2H",
+    "odds": "$1.62",
+    "stake": "$6.50",
+    "potentialReturn": "$10.53",
+    "potentialProfit": "$4.03",
+    "match": "Panthers vs Warriors",
+    "kickoff": "Sunday 31 May 2026, 6:15pm",
+    "venue": "CommBank Stadium",
     "why": [
-      "Kalyn Ponga has been confirmed as feeling good and set to back up from Origin One.",
-      "Parramatta are missing Mitchell Moses and Junior Paulo, which hits both control and middle-field stability.",
-      "The shortlist fits the team-news-first process, but still needs a real price and final team confirmation."
+      "TAB price was confirmed at $1.62, meeting the value threshold for a capped charity play.",
+      "The stake is the full available TAB balance of $6.50, with no top-up and no chase position.",
+      "The Warriors are missing Roger Tuivasa-Sheck, Mitch Barnett and Kurt Capewell, while Penrith still have enough class if their monitored Origin players are handled cleanly."
     ],
     "risks": [
-      "Do not move this into the charity ledger without a recorded stake and odds.",
-      "Ponga backing up still carries fatigue and late-management risk.",
-      "Newcastle are not a set-and-forget side, so price discipline matters."
+      "This was already the lowest-confidence tip on the card, so it must not be framed as a safe bet.",
+      "Penrith still carry Origin back-up uncertainty around Nathan Cleary, Isaah Yeo, Casey McLean and Brian To'o.",
+      "If it loses, the correct action is to record the loss and stop; no extra stake and no recovery bet."
     ]
   },
   "charity": {
     "title": "Mark Hughes Foundation Ledger",
     "summary": "All profits are earmarked for the Mark Hughes Foundation.",
-    "record": "2-2",
-    "invested": "$25.00",
+    "record": "2-2 + 1 pending",
+    "invested": "$31.50 incl. pending",
     "returned": "$21.50",
-    "profit": "-$3.50",
+    "profit": "-$3.50 settled",
     "donated": "$0.00",
     "nextDonation": "After a positive locked-bet balance",
     "notes": [
@@ -125,12 +125,13 @@
       "Round 9: Bulldogs head to head at $1.77 lost after a Cowboys comeback win.",
       "Rounds 10 and 11: No charity bet locked, so the ledger stayed unchanged.",
       "Round 12: No charity bet locked; tips went 5 from 5, but the ledger stayed unchanged.",
-      "Round 13: Shortlist only at preview time; no stake or odds recorded, so the ledger is unchanged."
+      "Round 13: Penrith Panthers head to head at $1.62 is locked for $6.50; potential collect is $10.53 and potential profit is $4.03.",
+      "Round 13 remains pending until Panthers versus Warriors is final; do not settle profit before full-time."
     ]
   },
   "watchlist": [
-    "Re-check Knights versus Eels 24-hour teams before using it as a charity play.",
-    "Do not count a shortlist lean as a bet unless the stake and odds are recorded before kickoff.",
+    "Re-check Panthers versus Warriors 90-minute teams before kickoff for risk awareness, but do not change the recorded stake.",
+    "Do not add any extra stake beyond the $6.50 already locked.",
     "Watch Friday late mail carefully: Sharks and Sea Eagles both carry forced changes.",
     "Storm, Roosters, Panthers and Warriors need extra caution because of Origin back-up and rest decisions.",
     "Preserve the Round 12 validated 5 from 5 result separately from this Round 13 preview."
@@ -150,23 +151,23 @@
       "title": "Situation Report",
       "badge": "preview",
       "tone": "amber",
-      "heading": "Round 13 is a post-Origin week, so team certainty matters more than bravado",
+      "heading": "Round 13 now has one locked charity play, but the post-Origin caution still matters",
       "lines": [
         "As of Friday, 29 May 2026, official NRL team lists and late mail have been checked for Round 13.",
         "The round runs from Sharks versus Sea Eagles on Friday night through Panthers versus Warriors on Sunday evening.",
-        "The board is a preview and tip card only; no Mark Hughes Foundation charity bet has been locked."
+        "The board now includes one locked Mark Hughes Foundation charity bet: Penrith H2H at TAB $1.62 for $6.50."
       ]
     },
     {
       "id": "bet",
       "title": "Bet Analysis",
-      "badge": "shortlist",
+      "badge": "locked",
       "tone": "cyan",
-      "heading": "Newcastle are the shortlist, not the ledger",
+      "heading": "Penrith are now the ledger play",
       "lines": [
-        "Knights over Eels is the cleanest betting watch because Ponga is set to back up while Parramatta lose Mitchell Moses and Junior Paulo.",
-        "The edge is not enough by itself: it needs a price, stake, and final team confirmation before kickoff.",
-        "If those details are not recorded before the match, the correct ledger action is no bet."
+        "Panthers H2H is locked at TAB $1.62 for a $6.50 stake and $10.53 potential collect.",
+        "This is a capped account-balance play, not a top-up or chase bet.",
+        "The bet remains pending until full-time; settle the ledger only from the actual result and TAB return."
       ]
     },
     {
@@ -231,6 +232,6 @@
   "footerNotes": [
     "Built from the Codex-maintained data workflow and regenerated for Round 13 on Friday 29 May 2026.",
     "Round 12 tips remain validated 5 from 5 through official NRL results; do not change that wrap without re-checking source scores.",
-    "Round 13 charity bet status is shortlist only; do not change the ledger without recorded stake, odds and final team confirmation."
+    "Round 13 charity bet is locked as Penrith H2H at TAB $1.62 for $6.50; do not settle the ledger until full-time."
   ]
 }
