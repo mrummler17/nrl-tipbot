@@ -5,11 +5,11 @@
 - Repo: `/Users/marcusrummler/Documents/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest commit before Round 13 update: `a69a165 Refresh TipBot README`
+- Latest deployed Round 13 content commit: `3a9c5d1 Update TipBot for Round 13`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current production version being prepared: Round 13, 2026 preview
+- Current production version: Round 13, 2026 preview
 
 ## Changed This Session
 
@@ -35,6 +35,8 @@
   - Ledger values `2-2` and `-$3.50` rendered.
   - Round 12 guard copy rendered.
   - Browser console had 0 errors.
+- GitHub Pages build for `3a9c5d19cf258265033bcad07cce28eaecc6c149` completed successfully.
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 13 generated HTML.
 - Round 12 remains validated through official NRL results:
   - Dolphins over Raiders: won 30-22.
   - Bulldogs over Storm: won 30-20.
@@ -83,11 +85,9 @@
 
 - Round 13 is still pre-match/live-week content. Re-check 24-hour and 90-minute team updates before kickoff, especially for Origin back-up decisions.
 - `Knights H2H` is only a shortlist note; no bet has been placed or priced in the app.
-- Deployment status is not verified until changes are committed, pushed, and GitHub Pages build is checked.
+- Deployment for the Round 13 content commit has been verified. Re-check the live page if a later handover-only commit triggers another Pages build.
 
 ## Recommended Next Steps
 
-- Commit and push the Round 13 update.
-- Confirm the GitHub Pages build completes.
-- Check the live page at `https://mrummler17.github.io/nrl-tipbot/`.
 - After Round 13, update results carefully and keep the Round 12 validated 5 from 5 history intact.
+- Before any charity bet is recorded, add the actual price, stake, and final team confirmation source.
