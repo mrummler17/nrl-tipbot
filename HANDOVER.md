@@ -5,35 +5,37 @@
 - Repo: `/Users/marcusrummler/Documents/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest known pushed commit before README cleanup: `da2a307 Document TipBot repo metadata`
+- Latest commit before Round 13 update: `a69a165 Refresh TipBot README`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- GitHub repo About metadata:
-  - Description: `Codex-managed NRL tipping dashboard with weekly verified round notes, charity bet tracking, and static GitHub Pages deployment.`
-  - Website: `https://mrummler17.github.io/nrl-tipbot/`
-  - Topics: `nrl`, `tipping`, `github-pages`, `static-site`, `sports-dashboard`
+- Current production version being prepared: Round 13, 2026 preview
 
 ## Changed This Session
 
-- Updated `data/briefing.json` from Round 12 preview/setup to Round 12 wrap.
-- Updated `data/live-round.json` to verified Round 12 results.
+- Updated `data/briefing.json` from the Round 12 wrap to a Round 13 preview board.
+- Updated `data/live-round.json` with Round 13 fixtures, tips, late-mail notes, sources, and live alerts.
+- Kept the Mark Hughes Foundation ledger unchanged at `2-2`, `$25.00` invested, `$21.50` returned, `-$3.50` profit.
+- Marked the Round 13 charity bet as not locked; `Knights H2H` is shortlist only and has no recorded odds or stake.
 - Regenerated `dist/index.html` and `dist/README.md` with `npm run build`.
 - Synced `dist/index.html` to root `index.html` for GitHub Pages.
-- Added this `HANDOVER.md`.
-- Updated GitHub repo About metadata with description, website URL, and topics.
-- Rewrote root `README.md` to match current project state, live site, update workflow, deployment rules, and charity-ledger discipline.
+- Updated `README.md` current snapshot and source list for Round 13.
+- Captured local QA screenshot at `/private/tmp/nrl-tipbot-round13-qa.png`.
 
 ## Verified
 
 - JSON parse validation passed for `data/briefing.json` and `data/live-round.json`.
 - `npm run build` completed successfully.
 - Root `index.html` was synced from `dist/index.html`.
-- Local browser QA passed at `http://127.0.0.1:4173/index.html`: page title rendered, 5/5 result rendered, Cowboys 30-18 rendered, no-bet copy rendered, ledger values rendered, and browser console had 0 errors.
-- GitHub Pages build for `1e12570` completed successfully.
-- Live page responded at `https://mrummler17.github.io/nrl-tipbot/`.
-- GitHub repo About metadata was updated through `gh repo edit`.
-- Round 12 tips are marked validated through official NRL results:
+- Local browser QA passed at `http://127.0.0.1:4173/index.html`:
+  - Page title rendered as `NRL TipBot Briefing 2026`.
+  - Round 13 preview content rendered.
+  - `Shortlist only: Knights H2H` rendered.
+  - `No bet locked` rendered.
+  - Ledger values `2-2` and `-$3.50` rendered.
+  - Round 12 guard copy rendered.
+  - Browser console had 0 errors.
+- Round 12 remains validated through official NRL results:
   - Dolphins over Raiders: won 30-22.
   - Bulldogs over Storm: won 30-20.
   - Warriors over Dragons: won 30-12.
@@ -42,7 +44,7 @@
 
 ## Must Not Change Casually
 
-- Do not convert the Bulldogs shortlist/read into a charity bet result. No Round 12 charity bet was locked.
+- Do not convert `Knights H2H` from shortlist to charity bet without recorded odds, stake, and final team confirmation before kickoff.
 - Charity ledger remains `2-2`, invested `$25.00`, returned `$21.50`, profit `-$3.50`.
 - The validated Round 12 5 from 5 tip result should not be changed without re-checking official NRL scores.
 - Keep `index.html` synced with `dist/index.html` before deploy because GitHub Pages serves the root entry.
@@ -50,7 +52,7 @@
 ## Important Files
 
 - `data/briefing.json`: Durable dashboard content, charity ledger, feature panels, and round narrative.
-- `data/live-round.json`: Current verified round tracker, sources, results, and live alerts.
+- `data/live-round.json`: Current round tracker, official sources, tips, fixtures, alerts, and notes.
 - `generate.js`: Static generator that merges briefing data and live round data.
 - `dist/index.html`: Generated dashboard.
 - `index.html`: Public GitHub Pages entry file.
@@ -65,21 +67,27 @@
   `npm run build`
 - Sync public entry:
   `cp dist/index.html index.html`
+- Local preview:
+  `python3 -m http.server 4173`
 - Check repo:
   `git status --short --branch`
 
 ## Sources Used
 
 - NRL Draw: `https://www.nrl.com/draw`
-- NRL Team Lists Round 12: `https://www.nrl.com/news/2026/05/19/nrl-team-lists-round-12/`
-- NRL Late Mail Round 12: `https://www.nrl.com/news/2026/05/20/nrl-late-mail-round-12-farnworth-drops-out-kiraz-back-in/`
-- NRL live blog snippets confirmed final scores for Raiders-Dolphins, Bulldogs-Storm, Dragons-Warriors, Sea Eagles-Titans, and Cowboys-Rabbitohs.
+- NRL Team Lists Round 13: `https://www.nrl.com/news/2026/05/26/nrl-team-lists-round-13/`
+- NRL Late Mail Round 13: `https://www.nrl.com/news/2026/05/28/nrl-late-mail-round-13---haas-primed-haumole-rested/`
+- NRL Expert Tipping Round 13: `https://www.nrl.com/news/2026/05/29/expert-tipping-nrl-round-13/`
 
 ## Risks / Unfinished
 
-- README cleanup changes should be committed and pushed so GitHub displays the updated project overview.
+- Round 13 is still pre-match/live-week content. Re-check 24-hour and 90-minute team updates before kickoff, especially for Origin back-up decisions.
+- `Knights H2H` is only a shortlist note; no bet has been placed or priced in the app.
+- Deployment status is not verified until changes are committed, pushed, and GitHub Pages build is checked.
 
 ## Recommended Next Steps
 
-- Commit and push the README cleanup.
-- For the next weekly update, edit `data/briefing.json` and `data/live-round.json`, run `npm run build`, sync `dist/index.html` to `index.html`, verify locally, commit, and push `main`.
+- Commit and push the Round 13 update.
+- Confirm the GitHub Pages build completes.
+- Check the live page at `https://mrummler17.github.io/nrl-tipbot/`.
+- After Round 13, update results carefully and keep the Round 12 validated 5 from 5 history intact.

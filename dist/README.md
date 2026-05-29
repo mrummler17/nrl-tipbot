@@ -1,41 +1,44 @@
 # NRL TipBot Briefing 2026
 
-Round 12 wrap board for tipping, charity betting, and weekly NRL intel
+Round 13 preview board for tipping, charity betting discipline, and post-Origin team-news edges
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
 ## Current Pick
 
-- No Round 12 charity play was locked
-- Odds: N/A
+- Shortlist only: Knights H2H
+- Odds: TBC
 - Stake: $0.00
 - Potential profit: $0.00
-- Status: No bet placed
+- Status: No bet locked
 
 ## Live Round Status
 
-- Round 12 results checked Monday 25 May 2026
-- Round 12 is complete and the tip card went 5 from 5: Dolphins, Bulldogs, Warriors, Sea Eagles and Cowboys all won. No charity bet was locked, so the Mark Hughes Foundation ledger remains unchanged at 2-2 and -$3.50.
+- Round 13 preview checked Friday 29 May 2026
+- Round 13 is a seven-game post-Origin slate. TipBot is live with a preview card, but no Mark Hughes Foundation charity bet is locked because Origin back-up calls and final 24-hour team updates still carry too much movement.
 
 
 ## Confidence Order
 
-1. Dolphins over Raiders - won 30-22
-2. Bulldogs over Storm - won 30-20
-3. Warriors over Dragons - won 30-12
-4. Sea Eagles over Titans - won 12-10
-5. Cowboys over Rabbitohs - won 30-18
+1. Broncos over Dragons - strongest raw side and Haas return
+2. Knights over Eels - cleanest shortlist edge, pending price
+3. Bulldogs over Wests Tigers - steadier structure if Burton backs up
+4. Raiders over Cowboys - home lean with Strange, Young and Kris back
+5. Storm over Roosters - AAMI lean, heavy Origin caveat
+6. Sharks over Sea Eagles - home lean only, high roster-loss risk
+7. Panthers over Warriors - lowest confidence showcase tip
 
 ## Board Sections
 
-- **Situation Report** — Round 12 finished as a clean sweep, but the process stays boring
-- **Bet Analysis** — Bulldogs won the shortlist read, but the ledger does not move
-- **Round 12 Tips** — Origin-week tip card after full-time
-- **Round 12 Fixtures** — Reduced Round 12 slate results
-- **Form Radar** — Who deserves the upgrade or downgrade after Round 12
-- **Intel Notes** — The data points validated by the final scores
+- **Situation Report** — Round 13 is a post-Origin week, so team certainty matters more than bravado
+- **Bet Analysis** — Newcastle are the shortlist, not the ledger
+- **Round 13 Tips** — Tip card ranked from cleaner read to messier read
+- **Round 13 Fixtures** — Official Round 13 fixture board
+- **Form Radar** — Who gets upgraded or held back this week
+- **Intel Notes** — The late-mail details driving the card
 
 ## Notes
 
-- Built from the attached Claude prototype and reorganised into a maintainable Codex workflow.
-- Round 12 tips are validated 5 from 5 through official NRL results; do not change this wrap without re-checking source scores.
+- Built from the Codex-maintained data workflow and regenerated for Round 13 on Friday 29 May 2026.
+- Round 12 tips remain validated 5 from 5 through official NRL results; do not change that wrap without re-checking source scores.
+- Round 13 charity bet status is shortlist only; do not change the ledger without recorded stake, odds and final team confirmation.

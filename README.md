@@ -18,19 +18,23 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 12, 2026
-- Tip result: 5 from 5
-- Charity bet status: no Round 12 bet placed
+- Round: Round 13, 2026
+- Tip card: seven-game preview
+- Charity bet status: no Round 13 bet locked; Knights H2H is shortlist only
 - Charity ledger: 2-2, $25.00 invested, $21.50 returned, -$3.50 profit
-- Validation rule: do not change the Round 12 result or charity ledger without re-checking official NRL scores and the betting log
+- Validation rule: do not move the Round 13 shortlist into the ledger without recorded odds, stake, and final team confirmation
 
-Round 12 tips currently marked as validated:
+Round 13 tips currently published:
 
-1. Dolphins over Raiders - won 30-22
-2. Bulldogs over Storm - won 30-20
-3. Warriors over Dragons - won 30-12
-4. Sea Eagles over Titans - won 12-10
-5. Cowboys over Rabbitohs - won 30-18
+1. Broncos over Dragons
+2. Knights over Eels
+3. Bulldogs over Wests Tigers
+4. Raiders over Cowboys
+5. Storm over Roosters
+6. Sharks over Sea Eagles
+7. Panthers over Warriors
+
+Round 12 remains validated as a 5 from 5 result and must not be changed without re-checking official NRL scores.
 
 ## Project Structure
 
@@ -107,11 +111,12 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 12 updates used:
+Recent Round 13 updates used:
 
 - NRL Draw: https://www.nrl.com/draw
-- NRL Team Lists Round 12: https://www.nrl.com/news/2026/05/19/nrl-team-lists-round-12/
-- NRL Late Mail Round 12: https://www.nrl.com/news/2026/05/20/nrl-late-mail-round-12-farnworth-drops-out-kiraz-back-in/
+- NRL Team Lists Round 13: https://www.nrl.com/news/2026/05/26/nrl-team-lists-round-13/
+- NRL Late Mail Round 13: https://www.nrl.com/news/2026/05/28/nrl-late-mail-round-13---haas-primed-haumole-rested/
+- Expert Tipping Round 13: https://www.nrl.com/news/2026/05/29/expert-tipping-nrl-round-13/
 
 ## License
 

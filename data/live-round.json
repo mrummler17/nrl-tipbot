@@ -1,99 +1,123 @@
 {
-  "round": "Round 12",
-  "verifiedAt": "2026-05-25T09:15:00+10:00",
-  "verificationLabel": "Round 12 results checked Monday 25 May 2026",
-  "summary": "Round 12 is complete and the tip card went 5 from 5: Dolphins, Bulldogs, Warriors, Sea Eagles and Cowboys all won. No charity bet was locked, so the Mark Hughes Foundation ledger remains unchanged at 2-2 and -$3.50.",
+  "round": "Round 13",
+  "verifiedAt": "2026-05-29T15:32:44+10:00",
+  "verificationLabel": "Round 13 preview checked Friday 29 May 2026",
+  "summary": "Round 13 is a seven-game post-Origin slate. TipBot is live with a preview card, but no Mark Hughes Foundation charity bet is locked because Origin back-up calls and final 24-hour team updates still carry too much movement.",
   "sources": [
     {
-      "label": "NRL Draw: Round 12 Results",
+      "label": "NRL Draw: Round 13",
       "url": "https://www.nrl.com/draw",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-25T00:00:00+10:00"
+      "publishedAt": "2026-05-29T00:00:00+10:00"
     },
     {
-      "label": "NRL Team Lists: Round 12",
-      "url": "https://www.nrl.com/news/2026/05/19/nrl-team-lists-round-12/",
+      "label": "NRL Team Lists: Round 13",
+      "url": "https://www.nrl.com/news/2026/05/26/nrl-team-lists-round-13/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-19T15:59:00+10:00"
+      "publishedAt": "2026-05-26T16:24:00+10:00"
     },
     {
-      "label": "NRL Late Mail: Round 12",
-      "url": "https://www.nrl.com/news/2026/05/20/nrl-late-mail-round-12-farnworth-drops-out-kiraz-back-in/",
+      "label": "NRL Late Mail: Round 13",
+      "url": "https://www.nrl.com/news/2026/05/28/nrl-late-mail-round-13---haas-primed-haumole-rested/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-20T00:32:00+10:00"
+      "publishedAt": "2026-05-28T00:00:00+10:00"
+    },
+    {
+      "label": "Expert Tipping: NRL Round 13",
+      "url": "https://www.nrl.com/news/2026/05/29/expert-tipping-nrl-round-13/",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-05-29T08:15:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Raiders vs Dolphins",
-      "kickoff": "Thu 21 May, 7:50pm",
+      "match": "Sharks vs Sea Eagles",
+      "kickoff": "Fri 29 May, 8:00pm",
+      "venue": "Ocean Protect Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Sharks",
+      "note": "Cronulla lose Nicho Hynes, Briton Nikora and KL Iro, while Manly rest Haumole Olakau'atu and lose Tolu Koula. Home field keeps the Sharks narrowly on top, but this is not a charity-bet profile."
+    },
+    {
+      "match": "Knights vs Eels",
+      "kickoff": "Sat 30 May, 3:00pm",
+      "venue": "McDonald Jones Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Knights",
+      "note": "Kalyn Ponga has been confirmed to back up and Jacob Saifiti is good to go, while Parramatta are without Mitchell Moses and Junior Paulo. This is the cleanest shortlist read, pending price."
+    },
+    {
+      "match": "Wests Tigers vs Bulldogs",
+      "kickoff": "Sat 30 May, 5:30pm",
+      "venue": "CommBank Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Bulldogs",
+      "note": "The Tigers regain Jahream Bula, Api Koroisau, Alex Twal and Heamasi Makasini, but Canterbury still look the steadier side if Matt Burton backs up as named."
+    },
+    {
+      "match": "Storm vs Roosters",
+      "kickoff": "Sat 30 May, 7:35pm",
+      "venue": "AAMI Park",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Storm",
+      "note": "Melbourne have Cameron Munster, Harry Grant and Trent Loiero under post-Origin watch. The Roosters also have multiple Origin back-up decisions, so the AAMI Park lean is real but fragile."
+    },
+    {
+      "match": "Broncos vs Dragons",
+      "kickoff": "Sun 31 May, 2:00pm",
+      "venue": "Suncorp Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Broncos",
+      "note": "Payne Haas and Brendan Piakura are named to return, and the Broncos have enough spine quality even with Origin monitoring. The Dragons regain Moses Suli and Jacob Liddle but remain undermanned."
+    },
+    {
+      "match": "Raiders vs Cowboys",
+      "kickoff": "Sun 31 May, 4:05pm",
       "venue": "GIO Stadium",
-      "status": "Tip won",
-      "result": "Dolphins won 30-22",
-      "tipOutcome": "Correct tip: Dolphins",
-      "note": "The Dolphins held on despite missing key Queensland Origin names and defending long second-half pressure."
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Raiders",
+      "note": "Canberra regain Ethan Strange, Hudson Young and Seb Kris while Jayden Brailey is out. North Queensland have Reuben Cotter and Murray Taulagi back, but the travel and Raiders home edge matter."
     },
     {
-      "match": "Bulldogs vs Storm",
-      "kickoff": "Fri 22 May, 8:00pm",
-      "venue": "Accor Stadium",
-      "status": "Tip won",
-      "result": "Bulldogs won 30-20",
-      "tipOutcome": "Correct tip: Bulldogs",
-      "note": "The clean roster-depletion read landed, with Canterbury punishing a Storm side missing major Origin talent."
-    },
-    {
-      "match": "Dragons vs Warriors",
-      "kickoff": "Sat 23 May, 5:30pm",
-      "venue": "Jubilee Stadium",
-      "status": "Tip won",
-      "result": "Warriors won 30-12",
-      "tipOutcome": "Correct tip: Warriors",
-      "note": "The Warriors stayed too clean for the winless Dragons and confirmed the strongest Saturday read."
-    },
-    {
-      "match": "Sea Eagles vs Titans",
-      "kickoff": "Sat 23 May, 7:35pm",
-      "venue": "4 Pines Park",
-      "status": "Tip won",
-      "result": "Sea Eagles won 12-10",
-      "tipOutcome": "Correct tip: Sea Eagles",
-      "note": "The trap-game warning was real: Manly survived a late Titans scare and only won by two."
-    },
-    {
-      "match": "Cowboys vs Rabbitohs",
-      "kickoff": "Sun 24 May, 4:05pm",
-      "venue": "Queensland Country Bank Stadium",
-      "status": "Tip won",
-      "result": "Cowboys won 30-18",
-      "tipOutcome": "Correct tip: Cowboys",
-      "note": "North Queensland closed the round cleanly at home while South Sydney's missing stars kept their ceiling lower."
+      "match": "Panthers vs Warriors",
+      "kickoff": "Sun 31 May, 6:15pm",
+      "venue": "CommBank Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Panthers",
+      "note": "This is the round closer and the lowest-confidence tip. Penrith have Nathan Cleary, Isaah Yeo, Casey McLean and Brian To'o in reserve for monitoring, while the Warriors rest Mitch Barnett and Kurt Capewell and have lost Roger Tuivasa-Sheck."
     }
   ],
   "liveAlerts": [
     {
+      "tone": "amber",
+      "text": "Round 13 preview is live: seven games across Friday 29 May to Sunday 31 May 2026."
+    },
+    {
       "tone": "green",
-      "text": "Round 12 is complete: TipBot went 5 from 5 on the shortened Origin-week slate."
+      "text": "Cleanest shortlist lean: Knights over Eels, with Ponga backing up and Parramatta missing Moses and Paulo."
     },
     {
       "tone": "amber",
-      "text": "The Mark Hughes Foundation ledger stays at 2-2 and -$3.50 because no Round 12 charity bet was locked."
-    },
-    {
-      "tone": "green",
-      "text": "Bulldogs versus Storm was the cleanest roster-tilt matchup and it landed 30-20."
+      "text": "No charity bet is locked yet; require confirmed price, stake, and final team news before moving the Mark Hughes Foundation ledger."
     },
     {
       "tone": "red",
-      "text": "Sea Eagles versus Titans was correctly flagged as dangerous, finishing only 12-10."
+      "text": "Origin back-up risk is highest in Storm v Roosters and Panthers v Warriors."
+    },
+    {
+      "tone": "red",
+      "text": "Sharks v Sea Eagles is a Friday danger game because both sides have late roster losses."
     },
     {
       "tone": "amber",
-      "text": "Warriors over Dragons and Cowboys over Rabbitohs both validated the stronger-side Sunday and Saturday reads."
-    },
-    {
-      "tone": "amber",
-      "text": "Validated read: do not change the 5 from 5 result without re-checking official NRL scores."
+      "text": "Do not overwrite the validated Round 12 5 from 5 result when wrapping Round 13."
     }
   ]
 }
