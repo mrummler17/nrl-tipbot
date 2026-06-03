@@ -5,11 +5,11 @@
 - Repo: `/Users/marcusrummler/Documents/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest deployed commit before this update: `a60cbb9 Record Penrith bet deployment handover`
+- Latest deployed Round 14 content commit: `19d92c7 Update TipBot for Round 14`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current version being prepared: Round 14, 2026 preview
+- Current production version: Round 14, 2026 preview
 
 ## Changed This Session
 
@@ -47,6 +47,8 @@
   - Round 13 settled copy rendered.
   - Browser console had 0 errors.
 - Captured local QA screenshot at `/private/tmp/nrl-tipbot-round14-qa.png`.
+- GitHub Pages build for `19d92c7257fb4ac3be5e07560b4637ac5fe5d3a2` completed successfully.
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served Round 14 content with `3-2`, `+$0.53`, `No bet locked`, and `Panthers over Wests Tigers`.
 
 ## Must Not Change Casually
 
@@ -94,11 +96,10 @@
 
 ## Risks / Unfinished
 
-- Commit, push, GitHub Pages build check, and live page check are still required for this Round 14 update.
+- Deployment for the Round 14 content commit has been verified. Re-check the live page if a later handover-only commit triggers another Pages build.
 - Round 14 tips are preview reads only. Final 24-hour and 90-minute team updates can still move the risk profile.
 - No Round 14 charity bet is locked. Any bet requires a fresh TAB price and explicit user confirmation.
 
 ## Recommended Next Steps
 
-- Commit and push the Round 14 update.
-- Confirm GitHub Pages build completes and the live URL serves Round 14 content.
+- Watch Round 14 final teams before any charity-bet discussion.
