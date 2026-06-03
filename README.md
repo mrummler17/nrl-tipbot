@@ -18,21 +18,27 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 13, 2026
-- Tip card: seven-game preview
-- Charity bet status: Penrith Panthers H2H locked at TAB $1.62, $6.50 stake, $10.53 potential collect
-- Charity ledger: 2-2 settled plus 1 pending; $31.50 invested incl. pending, $21.50 returned, -$3.50 settled profit
-- Validation rule: do not settle the Round 13 charity bet until Panthers v Warriors is final and the TAB return is confirmed
+- Round: Round 14, 2026
+- Tip card: eight-game preview
+- Charity bet status: no Round 14 bet locked
+- Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
+- Validation rule: do not roll the Round 13 collect into a new Round 14 charity bet without recorded TAB odds, stake, and user confirmation
 
-Round 13 tips currently published:
+Round 14 tips currently published:
 
-1. Broncos over Dragons
-2. Knights over Eels
-3. Bulldogs over Wests Tigers
-4. Raiders over Cowboys
-5. Storm over Roosters
-6. Sharks over Sea Eagles
-7. Panthers over Warriors
+1. Panthers over Wests Tigers
+2. Sharks over Dragons
+3. Broncos over Titans
+4. Sea Eagles over Rabbitohs
+5. Roosters over Raiders
+6. Storm over Knights
+7. Dolphins over Cowboys
+8. Bulldogs over Eels
+
+Round 13 is settled:
+
+- Tip result: 5 from 7
+- Charity bet: Penrith Panthers H2H at TAB $1.62 won 20-18, returning $10.53 from a $6.50 stake
 
 Round 12 remains validated as a 5 from 5 result and must not be changed without re-checking official NRL scores.
 
@@ -111,13 +117,15 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 13 updates used:
+Recent Round 14 updates used:
 
 - NRL Draw: https://www.nrl.com/draw
-- NRL Team Lists Round 13: https://www.nrl.com/news/2026/05/26/nrl-team-lists-round-13/
-- NRL Late Mail Round 13: https://www.nrl.com/news/2026/05/28/nrl-late-mail-round-13---haas-primed-haumole-rested/
-- Expert Tipping Round 13: https://www.nrl.com/news/2026/05/29/expert-tipping-nrl-round-13/
-- TAB NRL market: https://www.tab.com.au/sports/betting/Rugby%20League/competitions/NRL
+- NRL Team Lists Round 14: https://www.nrl.com/news/2026/06/02/nrl-team-lists-round-14/
+- NRL Fantasy Team List Analysis Round 14: https://www.nrl.com/news/2026/06/02/lone-scouts-fantasyteamlistanalysisround14/
+- Round 14 Team Lists and Fixtures: https://rugbyleaguezone.com/nrl-round-14-team-lists-2026-430190/
+- Sportsbet Round 14 Tips: https://www.sportsbet.com.au/huddle/nrl/predictions/round-14-tips-2026
+- Round 13 Saturday Results: https://www.roosters.com.au/news/2026/05/30/match-report--round-13-v-storm/
+- Round 13 Sunday Results: https://www.nrl.com/news/2026/05/31/sizzling-sunday-broncos-v-dragons-raiders-v-cowboys-panthers-v-warriors/
 
 ## License
 

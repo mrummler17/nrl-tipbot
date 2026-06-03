@@ -1,129 +1,150 @@
 {
-  "round": "Round 13",
-  "verifiedAt": "2026-05-29T16:05:00+10:00",
-  "verificationLabel": "Round 13 charity bet locked Friday 29 May 2026",
-  "summary": "Round 13 is a seven-game post-Origin slate with one locked Mark Hughes Foundation charity bet: Penrith Panthers H2H at TAB $1.62 for a $6.50 stake and $10.53 potential collect. The bet is pending until Panthers versus Warriors is final.",
+  "round": "Round 14",
+  "verifiedAt": "2026-06-03T10:58:53+10:00",
+  "verificationLabel": "Round 14 preview checked Wednesday 3 June 2026",
+  "summary": "Round 14 is the King's Birthday long-weekend slate with eight games from Thursday 4 June to Monday 8 June. Round 13 has been settled: TipBot went 5 from 7, and the locked Penrith charity bet won 20-18 to move the Mark Hughes Foundation ledger to 3-2 and +$0.53 settled profit.",
   "sources": [
     {
-      "label": "NRL Draw: Round 13",
+      "label": "NRL Draw: Round 14",
       "url": "https://www.nrl.com/draw",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-29T00:00:00+10:00"
+      "publishedAt": "2026-06-03T00:00:00+10:00"
     },
     {
-      "label": "NRL Team Lists: Round 13",
-      "url": "https://www.nrl.com/news/2026/05/26/nrl-team-lists-round-13/",
+      "label": "NRL Team Lists: Round 14",
+      "url": "https://www.nrl.com/news/2026/06/02/nrl-team-lists-round-14/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-26T16:24:00+10:00"
+      "publishedAt": "2026-06-02T15:59:00+10:00"
     },
     {
-      "label": "NRL Late Mail: Round 13",
-      "url": "https://www.nrl.com/news/2026/05/28/nrl-late-mail-round-13---haas-primed-haumole-rested/",
+      "label": "NRL Fantasy Team List Analysis: Round 14",
+      "url": "https://www.nrl.com/news/2026/06/02/lone-scouts-fantasyteamlistanalysisround14/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-28T00:00:00+10:00"
+      "publishedAt": "2026-06-02T18:51:00+10:00"
     },
     {
-      "label": "Expert Tipping: NRL Round 13",
-      "url": "https://www.nrl.com/news/2026/05/29/expert-tipping-nrl-round-13/",
+      "label": "Round 14 Team Lists and Fixtures",
+      "url": "https://rugbyleaguezone.com/nrl-round-14-team-lists-2026-430190/",
+      "publisher": "Rugby League Zone",
+      "publishedAt": "2026-06-03T00:00:00+10:00"
+    },
+    {
+      "label": "Sportsbet Round 14 Tips",
+      "url": "https://www.sportsbet.com.au/huddle/nrl/predictions/round-14-tips-2026",
+      "publisher": "Sportsbet",
+      "publishedAt": "2026-06-02T00:00:00+10:00"
+    },
+    {
+      "label": "Round 13 Saturday Results",
+      "url": "https://www.roosters.com.au/news/2026/05/30/match-report--round-13-v-storm/",
+      "publisher": "NRL.com / Roosters",
+      "publishedAt": "2026-05-30T22:43:00+10:00"
+    },
+    {
+      "label": "Round 13 Sunday Results",
+      "url": "https://www.nrl.com/news/2026/05/31/sizzling-sunday-broncos-v-dragons-raiders-v-cowboys-panthers-v-warriors/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-05-29T08:15:00+10:00"
-    },
-    {
-      "label": "User-confirmed TAB market: Panthers H2H $1.62",
-      "url": "https://www.tab.com.au/sports/betting/Rugby%20League/competitions/NRL",
-      "publisher": "TAB",
-      "publishedAt": "2026-05-29T16:05:00+10:00"
+      "publishedAt": "2026-05-31T00:00:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Sharks vs Sea Eagles",
-      "kickoff": "Fri 29 May, 8:00pm",
-      "venue": "Ocean Protect Stadium",
+      "match": "Sea Eagles vs Rabbitohs",
+      "kickoff": "Thu 4 Jun, 7:50pm",
+      "venue": "4 Pines Park",
       "status": "Preview",
       "result": "",
-      "tipOutcome": "Tip: Sharks",
-      "note": "Cronulla lose Nicho Hynes, Briton Nikora and KL Iro, while Manly rest Haumole Olakau'atu and lose Tolu Koula. Home field keeps the Sharks narrowly on top, but this is not a charity-bet profile."
+      "tipOutcome": "Tip: Sea Eagles",
+      "note": "Manly regain Tolu Koula and Haumole Olakau'atu and get the Thursday home edge. South Sydney regain Cameron Murray, Campbell Graham, Brandon Smith and David Fifita, so this is a close opener rather than a banker."
     },
     {
-      "match": "Knights vs Eels",
-      "kickoff": "Sat 30 May, 3:00pm",
-      "venue": "McDonald Jones Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Knights",
-      "note": "Kalyn Ponga has been confirmed to back up and Jacob Saifiti is good to go, while Parramatta are without Mitchell Moses and Junior Paulo. This is the cleanest shortlist read, pending price."
-    },
-    {
-      "match": "Wests Tigers vs Bulldogs",
-      "kickoff": "Sat 30 May, 5:30pm",
-      "venue": "CommBank Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Bulldogs",
-      "note": "The Tigers regain Jahream Bula, Api Koroisau, Alex Twal and Heamasi Makasini, but Canterbury still look the steadier side if Matt Burton backs up as named."
-    },
-    {
-      "match": "Storm vs Roosters",
-      "kickoff": "Sat 30 May, 7:35pm",
+      "match": "Storm vs Knights",
+      "kickoff": "Fri 5 Jun, 6:00pm",
       "venue": "AAMI Park",
       "status": "Preview",
       "result": "",
       "tipOutcome": "Tip: Storm",
-      "note": "Melbourne have Cameron Munster, Harry Grant and Trent Loiero under post-Origin watch. The Roosters also have multiple Origin back-up decisions, so the AAMI Park lean is real but fragile."
+      "note": "Newcastle are hot after four straight wins and a 28-22 result over Parramatta, but Melbourne's 18-4 response against the Roosters and AAMI Park tilt keep the Storm narrowly on top."
     },
     {
-      "match": "Broncos vs Dragons",
-      "kickoff": "Sun 31 May, 2:00pm",
+      "match": "Raiders vs Roosters",
+      "kickoff": "Fri 5 Jun, 8:00pm",
+      "venue": "GIO Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Roosters",
+      "note": "Canberra beat the Cowboys 26-12 and regain Jayden Brailey, but the Roosters run back a strong spine with Tedesco, Daly Cherry-Evans, Sam Walker, Reece Robson and Victor Radley."
+    },
+    {
+      "match": "Cowboys vs Dolphins",
+      "kickoff": "Sat 6 Jun, 5:30pm",
+      "venue": "Queensland Country Bank Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Dolphins",
+      "note": "North Queensland get Reuben Cotter back, but the Dolphins regain Hamiso Tabuai-Fidow, Herbie Farnworth, Selwyn Cobbo, Thomas Flegler and Max Plath. The travel risk keeps this volatile."
+    },
+    {
+      "match": "Broncos vs Titans",
+      "kickoff": "Sat 6 Jun, 7:35pm",
       "venue": "Suncorp Stadium",
       "status": "Preview",
       "result": "",
       "tipOutcome": "Tip: Broncos",
-      "note": "Payne Haas and Brendan Piakura are named to return, and the Broncos have enough spine quality even with Origin monitoring. The Dragons regain Moses Suli and Jacob Liddle but remain undermanned."
+      "note": "Brisbane must respond after losing 30-26 to the previously winless Dragons. The Titans regain Tino Fa'asuamaleaui and Jojo Fifita, but Suncorp and Broncos spine quality still get the nod."
     },
     {
-      "match": "Raiders vs Cowboys",
-      "kickoff": "Sun 31 May, 4:05pm",
-      "venue": "GIO Stadium",
+      "match": "Wests Tigers vs Panthers",
+      "kickoff": "Sun 7 Jun, 2:00pm",
+      "venue": "CommBank Stadium",
       "status": "Preview",
       "result": "",
-      "tipOutcome": "Tip: Raiders",
-      "note": "Canberra regain Ethan Strange, Hudson Young and Seb Kris while Jayden Brailey is out. North Queensland have Reuben Cotter and Murray Taulagi back, but the travel and Raiders home edge matter."
+      "tipOutcome": "Tip: Panthers",
+      "note": "Penrith won 20-18 without Cleary, Yeo and To'o, and all three are named to return. The Tigers upset the Bulldogs 22-16, but this is still the strongest raw tip."
     },
     {
-      "match": "Panthers vs Warriors",
-      "kickoff": "Sun 31 May, 6:15pm",
-      "venue": "CommBank Stadium",
-      "status": "Charity bet",
+      "match": "Sharks vs Dragons",
+      "kickoff": "Sun 7 Jun, 4:05pm",
+      "venue": "Ocean Protect Stadium",
+      "status": "Preview",
       "result": "",
-      "tipOutcome": "Tip: Panthers | Bet: Panthers H2H $1.62, stake $6.50, collect $10.53",
-      "note": "This is the locked charity play and still the lowest-confidence tip. Penrith have Nathan Cleary, Isaah Yeo, Casey McLean and Brian To'o in reserve for monitoring, while the Warriors rest Mitch Barnett and Kurt Capewell and have lost Roger Tuivasa-Sheck."
+      "tipOutcome": "Tip: Sharks",
+      "note": "Cronulla survived Manly 28-22 and regain Briton Nikora. The Dragons finally broke through 30-26 over Brisbane, which makes this derby dangerous rather than automatic."
+    },
+    {
+      "match": "Bulldogs vs Eels",
+      "kickoff": "Mon 8 Jun, 4:05pm",
+      "venue": "Accor Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Bulldogs",
+      "note": "The Bulldogs lost 22-16 but still had enough late pressure to scare the Tigers. Parramatta were brave in a 28-22 loss to Newcastle, but the listed Eels spine still lacks Mitchell Moses."
     }
   ],
   "liveAlerts": [
     {
-      "tone": "amber",
-      "text": "Round 13 charity bet locked: Panthers H2H at TAB $1.62 for $6.50, potential collect $10.53."
+      "tone": "green",
+      "text": "Round 13 settled: TipBot went 5 from 7 and the Penrith charity bet won 20-18."
     },
     {
       "tone": "green",
-      "text": "Cleanest shortlist lean: Knights over Eels, with Ponga backing up and Parramatta missing Moses and Paulo."
+      "text": "Charity ledger is now 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
     },
     {
       "tone": "amber",
-      "text": "No extra stake: the full available TAB balance is already committed and the bet stays pending until full-time."
+      "text": "Round 14 has no locked charity bet yet; do not roll the $10.53 collect into another stake without a fresh TAB price and user confirmation."
+    },
+    {
+      "tone": "green",
+      "text": "Strongest raw Round 14 tip: Panthers over Wests Tigers with Cleary, Yeo and To'o named back."
     },
     {
       "tone": "red",
-      "text": "Panthers v Warriors remains high risk because of Origin back-up monitoring and Warriors resilience."
-    },
-    {
-      "tone": "red",
-      "text": "Sharks v Sea Eagles is a Friday danger game because both sides have late roster losses."
+      "text": "Most dangerous Round 14 reads: Sea Eagles v Rabbitohs, Cowboys v Dolphins, and Bulldogs v Eels."
     },
     {
       "tone": "amber",
-      "text": "Do not overwrite the validated Round 12 5 from 5 result when wrapping Round 13."
+      "text": "Warriors are on the Round 14 bye; keep their Round 13 top-two loss separate from this week's board."
     }
   ]
 }

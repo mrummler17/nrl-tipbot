@@ -5,58 +5,55 @@
 - Repo: `/Users/marcusrummler/Documents/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest deployed bet-lock content commit: `a4fa21e Lock Round 13 Penrith charity bet`
+- Latest deployed commit before this update: `a60cbb9 Record Penrith bet deployment handover`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current production version: Round 13, 2026 preview with Penrith charity bet locked
+- Current version being prepared: Round 14, 2026 preview
 
 ## Changed This Session
 
-- Locked Round 13 charity bet from user-confirmed TAB market:
-  - Pick: Penrith Panthers H2H.
-  - Odds: `$1.62`.
+- Settled Round 13:
+  - Tip result: `5 from 7`.
+  - Correct tips: Sharks, Knights, Storm, Raiders, Panthers.
+  - Missed tips: Bulldogs, Broncos.
+  - Charity bet: Penrith Panthers H2H at TAB `$1.62` won 20-18.
   - Stake: `$6.50`.
-  - Potential collect: `$10.53`.
-  - Potential profit: `$4.03`.
-- Updated `data/briefing.json` from Round 13 shortlist/no-bet state to locked Penrith bet state.
-- Updated `data/live-round.json` with locked bet status, TAB market source, pending-bet alert, and Panthers v Warriors tracker note.
+  - Return: `$10.53`.
+  - Profit on Round 13 bet: `$4.03`.
+- Updated Mark Hughes Foundation ledger:
+  - Record: `3-2`.
+  - Invested: `$31.50`.
+  - Returned: `$32.03`.
+  - Settled profit: `+$0.53`.
+- Updated `data/briefing.json` to a Round 14 preview with no new charity bet locked.
+- Updated `data/live-round.json` with Round 14 fixtures, tips, sources, alerts, and match notes.
 - Updated `README.md` current snapshot and source list.
-- Regenerated `dist/index.html` and `dist/README.md` with `npm run build`.
-- Synced `dist/index.html` to root `index.html` for GitHub Pages.
-- Captured local QA screenshot at `/private/tmp/nrl-tipbot-round13-bet-lock-qa.png`.
 
-## Verified
+## Verified So Far
 
 - JSON parse validation passed for `data/briefing.json` and `data/live-round.json`.
 - `npm run build` completed successfully.
 - Root `index.html` was synced from `dist/index.html`.
-- Generated outputs contain `Panthers H2H`, `$1.62`, `$6.50`, and `$10.53`, and no longer contain stale `No bet locked` copy.
+- Generated outputs contain Round 14 content, `3-2`, `+$0.53`, `No bet locked`, and `Panthers over Wests Tigers`, with no stale `2-2 + 1 pending` text.
 - Local browser QA passed at `http://127.0.0.1:4173/index.html`:
   - Page title rendered as `NRL TipBot Briefing 2026`.
-  - Round 13 charity-bet-locked status rendered.
-  - Panthers H2H pick rendered.
-  - `$1.62` odds rendered.
-  - `$6.50` stake rendered.
-  - `$10.53` potential collect rendered.
-  - Pending ledger record rendered as `2-2 + 1 pending` / `2-2 + 1P`.
-  - Round 12 guard copy rendered.
+  - Round 14 preview status rendered.
+  - Ledger record `3-2` rendered.
+  - Profit `+$0.53` rendered.
+  - `No bet locked` rendered.
+  - Panthers over Wests Tigers tip rendered.
+  - Warriors bye copy rendered.
+  - Round 13 settled copy rendered.
   - Browser console had 0 errors.
-- GitHub Pages build for `a4fa21e98ef4a793834bbc739980a689f54a4f2a` completed successfully.
-- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the locked Penrith bet details.
-- Round 12 remains validated through official NRL results:
-  - Dolphins over Raiders: won 30-22.
-  - Bulldogs over Storm: won 30-20.
-  - Warriors over Dragons: won 30-12.
-  - Sea Eagles over Titans: won 12-10.
-  - Cowboys over Rabbitohs: won 30-18.
+- Captured local QA screenshot at `/private/tmp/nrl-tipbot-round14-qa.png`.
 
 ## Must Not Change Casually
 
-- Do not replace the locked Round 13 charity bet unless the user explicitly says the TAB bet was cancelled or changed.
-- Round 13 charity bet is Penrith Panthers H2H at TAB `$1.62`, stake `$6.50`, potential collect `$10.53`.
-- Charity ledger is `2-2 + 1 pending`, invested `$31.50 incl. pending`, returned `$21.50`, settled profit `-$3.50`.
-- Do not settle the pending bet before Panthers versus Warriors is final and the TAB return is confirmed.
+- Do not roll the Round 13 `$10.53` collect into a new Round 14 bet without user confirmation.
+- Do not change the settled Round 13 Penrith charity win unless an official score or TAB settlement correction is found.
+- Charity ledger is now `3-2`, invested `$31.50`, returned `$32.03`, settled profit `+$0.53`.
+- Round 14 charity bet status is `No bet locked`.
 - The validated Round 12 5 from 5 tip result should not be changed without re-checking official NRL scores.
 - Keep `index.html` synced with `dist/index.html` before deploy because GitHub Pages serves the root entry.
 
@@ -86,19 +83,22 @@
 ## Sources Used
 
 - NRL Draw: `https://www.nrl.com/draw`
-- NRL Team Lists Round 13: `https://www.nrl.com/news/2026/05/26/nrl-team-lists-round-13/`
-- NRL Late Mail Round 13: `https://www.nrl.com/news/2026/05/28/nrl-late-mail-round-13---haas-primed-haumole-rested/`
-- NRL Expert Tipping Round 13: `https://www.nrl.com/news/2026/05/29/expert-tipping-nrl-round-13/`
-- TAB NRL market: `https://www.tab.com.au/sports/betting/Rugby%20League/competitions/NRL`
-- User-confirmed TAB price: Penrith H2H `$1.62`, stake `$6.50`, potential collect `$10.53`.
+- NRL Team Lists Round 14: `https://www.nrl.com/news/2026/06/02/nrl-team-lists-round-14/`
+- NRL Fantasy Team List Analysis Round 14: `https://www.nrl.com/news/2026/06/02/lone-scouts-fantasyteamlistanalysisround14/`
+- Round 14 Team Lists and Fixtures: `https://rugbyleaguezone.com/nrl-round-14-team-lists-2026-430190/`
+- Sportsbet Round 14 Tips: `https://www.sportsbet.com.au/huddle/nrl/predictions/round-14-tips-2026`
+- Round 13 Saturday Results: `https://www.roosters.com.au/news/2026/05/30/match-report--round-13-v-storm/`
+- Round 13 Sunday Results: `https://www.nrl.com/news/2026/05/31/sizzling-sunday-broncos-v-dragons-raiders-v-cowboys-panthers-v-warriors/`
+- Panthers v Warriors Round 13 final score cross-check: `https://www.zerotackle.com/fulltime-panthers-warriors-round-13-2026-mc10396413-234074/`
+- User-confirmed Round 13 TAB price from previous session: Penrith H2H `$1.62`, stake `$6.50`, potential collect `$10.53`.
 
 ## Risks / Unfinished
 
-- Penrith H2H remains pending and was previously the lowest-confidence tip on the card, so do not overstate certainty.
-- Re-check Panthers v Warriors 90-minute teams for awareness, but do not alter the recorded stake unless the user confirms the TAB bet changed.
-- Deployment for the bet-lock content commit has been verified. Re-check the live page if a later handover-only commit triggers another Pages build.
+- Commit, push, GitHub Pages build check, and live page check are still required for this Round 14 update.
+- Round 14 tips are preview reads only. Final 24-hour and 90-minute team updates can still move the risk profile.
+- No Round 14 charity bet is locked. Any bet requires a fresh TAB price and explicit user confirmation.
 
 ## Recommended Next Steps
 
-- After Panthers versus Warriors, settle only from the actual TAB result and return.
-- After Round 13, update results carefully and keep the Round 12 validated 5 from 5 history intact.
+- Commit and push the Round 14 update.
+- Confirm GitHub Pages build completes and the live URL serves Round 14 content.
