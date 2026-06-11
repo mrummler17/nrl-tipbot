@@ -51,6 +51,11 @@
   - `Warriors over Sharks` and `Dolphins over Roosters` tips rendered.
   - Round 15 bye copy rendered.
   - Browser console had 0 errors.
+- Pushed `main` to GitHub with:
+  - `ca4fe1f Update TipBot for Round 15`
+  - `751ffcb Record Round 15 deployment handover`
+- GitHub Pages build for `751ffcb70a39194cee48064d25c51964e5f987ac` completed successfully.
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served Round 15 content, including the Round 15 meta description, `Warriors over Sharks`, `No bet locked`, `3-2`, and `+$0.53`.
 
 ## Must Not Change Casually
 
@@ -101,14 +106,11 @@
 
 ## Risks / Unfinished
 
-- GitHub push, GitHub Pages build, and live-page verification are not yet complete.
+- Deployment for the Round 15 content commit has been verified. Re-check the live page if a later handover-only commit triggers another Pages build.
 - Round 15 tips are preview reads only. Final 24-hour and 90-minute team updates can still move the risk profile.
 - No Round 15 charity bet is locked. Any bet requires a fresh TAB price and explicit user confirmation.
 - Sharks v Dragons Round 14 needs a clean official-score source before publishing a final Round 14 tip-count headline.
 
 ## Recommended Next Steps
 
-- Run local browser QA against `index.html`.
-- Push the Round 15 content update if QA passes.
-- Verify the GitHub Pages build and live site after push.
 - Re-check final 24-hour team updates before any charity-bet discussion.
