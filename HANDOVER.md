@@ -5,11 +5,11 @@
 - Repo: `/Users/marcusrummler/AI Developer Files/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest committed baseline before Round 15 work: `2dfdb85 Record Round 14 deployment handover`
+- Latest Round 15 content commit: `ca4fe1f Update TipBot for Round 15`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current working version: Round 15, 2026 preview
+- Current production-intended version: Round 15, 2026 preview
 
 ## Changed This Session
 
@@ -101,7 +101,7 @@
 
 ## Risks / Unfinished
 
-- Git commit, push, GitHub Pages build, and live-page verification are not yet complete.
+- GitHub push, GitHub Pages build, and live-page verification are not yet complete.
 - Round 15 tips are preview reads only. Final 24-hour and 90-minute team updates can still move the risk profile.
 - No Round 15 charity bet is locked. Any bet requires a fresh TAB price and explicit user confirmation.
 - Sharks v Dragons Round 14 needs a clean official-score source before publishing a final Round 14 tip-count headline.
@@ -109,6 +109,6 @@
 ## Recommended Next Steps
 
 - Run local browser QA against `index.html`.
-- Commit and push the Round 15 content update if QA passes.
+- Push the Round 15 content update if QA passes.
 - Verify the GitHub Pages build and live site after push.
 - Re-check final 24-hour team updates before any charity-bet discussion.
