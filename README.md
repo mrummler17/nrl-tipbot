@@ -18,27 +18,25 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 14, 2026
-- Tip card: eight-game preview
-- Charity bet status: no Round 14 bet locked
+- Round: Round 15, 2026
+- Tip card: five-game Origin-bye preview
+- Charity bet status: no Round 15 bet locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
-- Validation rule: do not roll the Round 13 collect into a new Round 14 charity bet without recorded TAB odds, stake, and user confirmation
+- Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
 
-Round 14 tips currently published:
+Round 15 tips currently published:
 
-1. Panthers over Wests Tigers
-2. Sharks over Dragons
-3. Broncos over Titans
-4. Sea Eagles over Rabbitohs
-5. Roosters over Raiders
-6. Storm over Knights
-7. Dolphins over Cowboys
-8. Bulldogs over Eels
+1. Warriors over Sharks
+2. Dolphins over Roosters
+3. Raiders over Eels
+4. Titans over Wests Tigers
+5. Rabbitohs over Broncos
 
-Round 13 is settled:
+Round 14 notes:
 
-- Tip result: 5 from 7
-- Charity bet: Penrith Panthers H2H at TAB $1.62 won 20-18, returning $10.53 from a $6.50 stake
+- No charity bet was locked, so the Mark Hughes Foundation ledger stayed unchanged.
+- Verified result notes used for the update include Manly 28-14 Rabbitohs, Storm 32-30 Knights, Roosters 26-0 Raiders, Dolphins 40-14 Cowboys, Titans 28-23 Broncos, Penrith 68-0 Wests Tigers, and Bulldogs 14-12 Eels.
+- Sharks v Dragons result still needs a clean official-score cross-check before using Round 14 as a final tip-count headline.
 
 Round 12 remains validated as a 5 from 5 result and must not be changed without re-checking official NRL scores.
 
@@ -117,15 +115,19 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 14 updates used:
+Recent Round 15 updates used:
 
 - NRL Draw: https://www.nrl.com/draw
-- NRL Team Lists Round 14: https://www.nrl.com/news/2026/06/02/nrl-team-lists-round-14/
-- NRL Fantasy Team List Analysis Round 14: https://www.nrl.com/news/2026/06/02/lone-scouts-fantasyteamlistanalysisround14/
-- Round 14 Team Lists and Fixtures: https://rugbyleaguezone.com/nrl-round-14-team-lists-2026-430190/
-- Sportsbet Round 14 Tips: https://www.sportsbet.com.au/huddle/nrl/predictions/round-14-tips-2026
-- Round 13 Saturday Results: https://www.roosters.com.au/news/2026/05/30/match-report--round-13-v-storm/
-- Round 13 Sunday Results: https://www.nrl.com/news/2026/05/31/sizzling-sunday-broncos-v-dragons-raiders-v-cowboys-panthers-v-warriors/
+- NRL teams Round 15: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-teams-round-15-nicho-hynes-races-clock-rookies-galore-as-origin-stars-out/news-story/ffd093cbbf3f5afd347528a753944b60
+- Round 15 team lists: https://www.news.com.au/sport/nrl/round-15-team-lists-souths-name-jai-arrow-in-touching-act-as-ezra-mam-remains-on-the-broncos-bench/news-story/7351f114ebb128e84079d20c148782c2
+- Round 15 early mail: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-round-15-early-mail-surprise-origin-selections-rip-apart-teams-jaydn-sua-pec-injury/news-story/ef33cae0fcc52940d02dedbfb5c03d39
+- Round 14 Manly result: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-14-manly-sea-eagles-win-2814-over-south-sydney-rabbitohs/news-story/a2cb34925bb2f5db7ac913acc9ded47d
+- Round 14 Storm result: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-14-phoenix-crossland-taken-to-hospital-in-knights-v-storm-clash/news-story/a7de6d131fc490e9c6cbceab3e1921ce
+- Round 14 Roosters result: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-14-sydney-roosters-win-260-over-canberra-raiders/news-story/60545427a9c3f952ad385c7fd90836e8
+- Round 14 Dolphins result: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-14-dolphins-win-4014-over-north-queensland-cowboys/news-story/7227bdb3e8f92f46700006719513c119
+- Round 14 Titans result: https://www.couriermail.com.au/sport/nrl/nrl-round-14-keano-kini-steals-victory-as-gold-coast-titans-win-2823-over-brisbane-broncos/news-story/db3b0bb3d1d5f09b73358319fc9af389
+- Round 14 Panthers review: https://www.dailytelegraph.com.au/sport/nrl/the-tackle-why-the-bunker-must-be-given-more-power-after-play-the-ball-howlers/news-story/e98a9d9058e8b430cb5f90e3227e9d49
+- Round 14 Bulldogs result: https://www.dailytelegraph.com.au/sport/bulldogs-snatch-thrilling-win-over-eels-after-controversial-late-penalty-call/news-story/dff262036f2d60496208983999d71a64
 
 ## License
 

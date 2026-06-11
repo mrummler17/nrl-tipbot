@@ -1,28 +1,28 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 14 preview board with Round 13 charity profit settled and no new bet locked",
+    "subhead": "Round 15 Origin-bye preview with the charity ledger held positive",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 14 preview live"
+    "status": "Round 15 preview live"
   },
   "meta": {
-    "description": "Codex-managed NRL TipBot dashboard for Round 14 tips, settled Round 13 charity profit, and weekly NRL team news."
+    "description": "Codex-managed NRL TipBot dashboard for Round 15 tips, Round 14 result notes, and weekly NRL team news."
   },
   "ticker": [
-    "round 13 settled at 5 from 7 tips with the panthers charity bet winning 20 to 18",
-    "mark hughes foundation ledger moves to 3 and 2 with $31.50 invested $32.03 returned and plus $0.53 settled profit",
-    "round 14 is an eight-game king's birthday slate from thursday 4 june to monday 8 june",
-    "no round 14 charity bet is locked until a fresh tab price stake and user confirmation are recorded",
-    "strongest raw tip is panthers over wests tigers with cleary yeo and to'o named back",
-    "sharks over dragons and broncos over titans are strong but both carry round 13 hangover risk",
-    "warriors are on the bye this week"
+    "round 15 is a five-game origin-bye slate from thursday 11 june to sunday 14 june",
+    "charity ledger stays at 3 and 2 with $31.50 invested $32.03 returned and plus $0.53 settled profit",
+    "no round 15 charity bet is locked until a fresh tab price stake and user confirmation are recorded",
+    "strongest raw tip is warriors over sharks with cronulla missing nicho hynes and several key forwards",
+    "dolphins over roosters is a form lean but origin absences make the lineups thinner",
+    "rabbitohs versus broncos is the lowest-confidence opener with both sides badly disrupted",
+    "bulldogs sea eagles storm knights cowboys panthers and dragons are on the bye"
   ],
   "heroCards": [
     {
       "label": "Round Mode",
       "value": "Preview",
-      "delta": "Round 14",
+      "delta": "Round 15",
       "tone": "cyan"
     },
     {
@@ -33,14 +33,14 @@
     },
     {
       "label": "Tip Card",
-      "value": "8 games",
-      "delta": "King's Birthday round",
+      "value": "5 games",
+      "delta": "Origin bye round",
       "tone": "amber"
     },
     {
       "label": "Charity Play",
       "value": "Hold",
-      "delta": "no Round 14 stake",
+      "delta": "no Round 15 stake",
       "tone": "red"
     }
   ],
@@ -49,62 +49,62 @@
       "title": "Round Read",
       "tone": "cyan",
       "items": [
-        "Round 13 was messy but profitable: the tip card went 5 from 7 and the Penrith charity bet landed 20-18",
-        "Round 14 is a fuller eight-game slate with the Warriors on the bye",
-        "The Panthers are the cleanest raw tip with Nathan Cleary, Isaah Yeo and Brian To'o all named to return",
-        "Sharks and Broncos are strong leans, but both are coming out of emotionally strange Round 13 results"
+        "Round 15 is a major bye round with only five NRL games and seven clubs idle.",
+        "The strongest read is Warriors over Sharks because Cronulla are still without Nicho Hynes and have Origin/injury strain in the pack.",
+        "Dolphins over Roosters is the next-best lean on form, but both sides are reshuffled by representative duty.",
+        "Rabbitohs versus Broncos is a survival spot rather than a clean betting spot."
       ]
     },
     {
       "title": "Risk Flags",
       "tone": "red",
       "items": [
-        "Do not automatically roll the $10.53 TAB collect into another bet",
-        "Sea Eagles versus Rabbitohs is loaded with returning South Sydney personnel and Manly home-ground edge",
-        "Cowboys versus Dolphins is a genuine volatility game with major Dolphins ins and Townsville travel",
-        "Bulldogs versus Eels is a Monday trap because Parramatta were better than the 28-22 loss suggests"
+        "Do not force a charity bet during a disrupted Origin-bye round.",
+        "Brisbane are desperate but missing Reece Walsh, Payne Haas and Kotoni Staggs.",
+        "The Roosters still have Daly Cherry-Evans and Angus Crichton, so the Dolphins tip is not a banker.",
+        "Tigers versus Titans is volatile after Penrith put 68 on Wests Tigers and Gold Coast stole the M1 derby late."
       ]
     },
     {
       "title": "Weekly Focus",
       "tone": "amber",
       "items": [
-        "Protect the newly positive charity ledger instead of forcing a Round 14 play",
-        "Wait for TAB prices and final 24-hour teams before any new stake",
-        "Track whether Brisbane respond mentally after the Dragons loss",
-        "Keep the Round 13 Penrith charity win settled and do not rewrite it during Round 14 preview work"
+        "Protect the positive Mark Hughes Foundation ledger at +$0.53.",
+        "Wait for final 24-hour teams before discussing any stake.",
+        "Treat Round 15 tips as lineup-driven reads, not normal-strength ratings.",
+        "Keep Round 14 as a tips review only because no Round 14 charity bet was locked."
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Penrith spine and leadership back against Wests Tigers",
-        "Dolphins backline and middle reinforcements against North Queensland",
-        "Storm home response with Nick Meaney out but Grant, Munster and Hughes intact",
-        "Dragons confidence after their first win of the season"
+        "Warriors home side against a Sharks spine missing Nicho Hynes.",
+        "Dolphins outside backs with Jamayne Isaako, Jack Bostock and Herbie Farnworth against a depleted Roosters backline.",
+        "Raiders forward base against an Eels spine listed without Mitchell Moses.",
+        "Titans confidence after Keano Kini and Jayden Campbell broke the Broncos late."
       ]
     }
   ],
   "betCard": {
-    "title": "Round 14 Charity Bet",
+    "title": "Round 15 Charity Bet",
     "status": "No bet locked",
-    "pick": "No Round 14 charity play locked",
+    "pick": "No Round 15 charity play locked",
     "odds": "TBC",
     "stake": "$0.00",
     "potentialReturn": "$0.00",
     "potentialProfit": "$0.00",
-    "match": "Round 14 price watch",
-    "kickoff": "Round runs Thursday 4 June to Monday 8 June 2026",
-    "venue": "NRL Round 14",
+    "match": "Round 15 price watch",
+    "kickoff": "Round runs Thursday 11 June to Sunday 14 June 2026",
+    "venue": "NRL Round 15",
     "why": [
-      "Round 13 produced the correct betting outcome: Penrith H2H won at $1.62 and returned $10.53.",
-      "The ledger is finally positive at +$0.53, so the correct default is to protect it.",
-      "Panthers H2H and Sharks H2H can be price-watched, but neither becomes a charity bet without a fresh TAB price and user confirmation."
+      "The ledger is positive at +$0.53 and there is no need to chase a bet in an Origin-bye round.",
+      "Warriors H2H and Dolphins H2H are the only price-watch candidates from the current read.",
+      "Neither becomes a charity bet without a fresh TAB price, stake, match, and explicit user confirmation."
     ],
     "risks": [
-      "Do not roll the full $10.53 collect into a new bet by default.",
-      "Round 14 has several rivalry and response spots where favourites can be over-short.",
+      "Major Origin-bye rounds produce unusual lineups and late player movement.",
+      "Several favourites may be shorter than their disrupted team sheets justify.",
       "Any new charity play needs recorded odds, stake, match, and final team context before kickoff."
     ]
   },
@@ -126,25 +126,23 @@
       "Rounds 10 and 11: No charity bet locked, so the ledger stayed unchanged.",
       "Round 12: No charity bet locked; tips went 5 from 5, but the ledger stayed unchanged.",
       "Round 13: Penrith Panthers head to head at $1.62 won 20-18, returning $10.53 from a $6.50 stake.",
-      "After Round 13: Ledger is 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
+      "Round 14: No charity bet was locked, so the ledger stayed unchanged.",
+      "After Round 14: Ledger is 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
     ]
   },
   "watchlist": [
-    "Price-watch Panthers over Wests Tigers only if TAB offers enough value; it is likely to be very short.",
-    "Price-watch Sharks over Dragons, but respect the derby and the Dragons' first-win confidence bump.",
-    "Do not bet Sea Eagles versus Rabbitohs, Cowboys versus Dolphins, or Bulldogs versus Eels without a clear market edge.",
-    "Keep the $10.53 Round 13 collect separate from any new Round 14 decision.",
-    "Warriors are on the bye, so no Warriors tip or bet this week."
+    "Price-watch Warriors over Sharks only if the market does not overreact to Cronulla's missing spine.",
+    "Price-watch Dolphins over Roosters, but respect the Roosters' remaining senior spine and edge power.",
+    "Do not bet Rabbitohs v Broncos or Tigers v Titans without a clear market edge.",
+    "Keep the $10.53 Round 13 collect separate from any new Round 15 decision.",
+    "Bulldogs, Sea Eagles, Storm, Knights, Cowboys, Panthers and Dragons are on the bye."
   ],
   "confidence": [
-    "Panthers over Wests Tigers - strongest raw read with Cleary, Yeo and To'o named back",
-    "Sharks over Dragons - home derby lean, Dragons confidence caveat",
-    "Broncos over Titans - Suncorp response spot, Titans regain Tino and Jojo",
-    "Sea Eagles over Rabbitohs - home edge in a close Thursday opener",
-    "Roosters over Raiders - stronger spine, Canberra danger acknowledged",
-    "Storm over Knights - AAMI lean against a hot Newcastle side",
-    "Dolphins over Cowboys - reinforcements edge, Townsville risk",
-    "Bulldogs over Eels - lowest-confidence Monday tip"
+    "Warriors over Sharks - strongest raw read with Cronulla missing Nicho Hynes",
+    "Dolphins over Roosters - form lean, Roosters Origin depletion caveat",
+    "Raiders over Eels - pack and defensive edge against a thin Eels spine",
+    "Titans over Wests Tigers - confidence bounce against a side coming off 68 conceded",
+    "Rabbitohs over Broncos - lowest-confidence home lean in a heavily disrupted opener"
   ],
   "sections": [
     {
@@ -152,12 +150,12 @@
       "title": "Situation Report",
       "badge": "preview",
       "tone": "amber",
-      "heading": "Round 13 banked the charity bet; Round 14 starts from discipline",
+      "heading": "Round 15 is all about disciplined reads through Origin disruption",
       "lines": [
-        "As of Wednesday, 3 June 2026, Round 13 has been settled and Round 14 team lists have been checked.",
-        "TipBot went 5 from 7 in Round 13: Sharks, Knights, Storm, Raiders and Panthers were correct; Bulldogs and Broncos missed.",
-        "The locked Penrith charity bet won 20-18 at $1.62, returning $10.53 from a $6.50 stake.",
-        "Round 14 is live as a preview board only; no new charity bet is locked."
+        "As of Thursday, 11 June 2026, Round 15 team lists have been checked against current published reports.",
+        "Round 15 has five games: Rabbitohs v Broncos, Dolphins v Roosters, Warriors v Sharks, Eels v Raiders, and Wests Tigers v Titans.",
+        "The charity ledger remains 3-2 with +$0.53 settled profit because no Round 14 charity bet was locked.",
+        "Round 15 is live as a preview board only; no new charity bet is locked."
       ]
     },
     {
@@ -165,47 +163,41 @@
       "title": "Bet Analysis",
       "badge": "hold",
       "tone": "cyan",
-      "heading": "The ledger is positive, so no forced follow-up",
+      "heading": "The best bet is still patience unless the price is real",
       "lines": [
-        "The Mark Hughes Foundation ledger is now 3-2 with $31.50 invested, $32.03 returned and +$0.53 settled profit.",
-        "The cleanest raw Round 14 tip is Panthers over Wests Tigers, but the market is likely to be short.",
-        "Sharks over Dragons is the next price-watch candidate, but the Dragons finally won and derby variance is real.",
-        "No Round 14 charity bet should be recorded without a fresh TAB price, stake and user confirmation."
+        "The Mark Hughes Foundation ledger is 3-2 with $31.50 invested, $32.03 returned and +$0.53 settled profit.",
+        "Warriors over Sharks is the cleanest raw Round 15 tip, but it may be priced accordingly.",
+        "Dolphins over Roosters has form appeal, yet the Dolphins also lose Hamiso Tabuai-Fidow and the Roosters still carry Daly Cherry-Evans.",
+        "No Round 15 charity bet should be recorded without a fresh TAB price, stake and user confirmation."
       ]
     },
     {
       "id": "tips",
-      "title": "Round 14 Tips",
-      "badge": "8 games",
+      "title": "Round 15 Tips",
+      "badge": "5 games",
       "tone": "green",
       "heading": "Tip card ranked from cleaner read to messier read",
       "lines": [
-        "Panthers over Wests Tigers.",
-        "Sharks over Dragons.",
-        "Broncos over Titans.",
-        "Sea Eagles over Rabbitohs.",
-        "Roosters over Raiders.",
-        "Storm over Knights.",
-        "Dolphins over Cowboys.",
-        "Bulldogs over Eels."
+        "Warriors over Sharks.",
+        "Dolphins over Roosters.",
+        "Raiders over Eels.",
+        "Titans over Wests Tigers.",
+        "Rabbitohs over Broncos."
       ]
     },
     {
       "id": "fixtures",
-      "title": "Round 14 Fixtures",
+      "title": "Round 15 Fixtures",
       "badge": "schedule",
       "tone": "amber",
-      "heading": "Official Round 14 fixture board",
+      "heading": "Round 15 fixture board",
       "lines": [
-        "Sea Eagles v Rabbitohs - Thursday 4 June, 7:50pm at 4 Pines Park.",
-        "Storm v Knights - Friday 5 June, 6:00pm at AAMI Park.",
-        "Raiders v Roosters - Friday 5 June, 8:00pm at GIO Stadium.",
-        "Cowboys v Dolphins - Saturday 6 June, 5:30pm at Queensland Country Bank Stadium.",
-        "Broncos v Titans - Saturday 6 June, 7:35pm at Suncorp Stadium.",
-        "Wests Tigers v Panthers - Sunday 7 June, 2:00pm at CommBank Stadium.",
-        "Sharks v Dragons - Sunday 7 June, 4:05pm at Ocean Protect Stadium.",
-        "Bulldogs v Eels - Monday 8 June, 4:05pm at Accor Stadium.",
-        "Warriors have the bye."
+        "Rabbitohs v Broncos - Thursday 11 June, 7:50pm at Accor Stadium.",
+        "Dolphins v Roosters - Friday 12 June, 8:00pm at Suncorp Stadium.",
+        "Warriors v Sharks - Saturday 13 June, 5:30pm at Go Media Stadium.",
+        "Eels v Raiders - Saturday 13 June, 7:30pm at CommBank Stadium.",
+        "Wests Tigers v Titans - Sunday 14 June, 4:05pm at Leichhardt Oval.",
+        "Bulldogs, Sea Eagles, Storm, Knights, Cowboys, Panthers and Dragons have the bye."
       ]
     },
     {
@@ -215,10 +207,10 @@
       "tone": "red",
       "heading": "Who gets upgraded or held back this week",
       "lines": [
-        "Upgrade: Panthers, Sharks home profile, Storm at AAMI, and Dolphins personnel returning from the bye.",
-        "Hold: Knights, because the form is real but Melbourne away is a harder test than Parramatta at home.",
-        "Downgrade: Bulldogs after another loss, Eels without a stable top-line spine, and Titans despite Tino returning.",
-        "Volatility bucket: Sea Eagles v Rabbitohs, Cowboys v Dolphins, and Bulldogs v Eels."
+        "Upgrade: Warriors at home, Dolphins form, Raiders pack base, and Titans confidence after the M1 comeback.",
+        "Hold: Rabbitohs because the home tribute night helps, but the backline is patched together.",
+        "Downgrade: Broncos without Walsh, Haas and Staggs; Sharks without Hynes; Tigers after the 68-0 Penrith loss.",
+        "Volatility bucket: Rabbitohs v Broncos and Tigers v Titans."
       ]
     },
     {
@@ -226,19 +218,19 @@
       "title": "Intel Notes",
       "badge": "team lists",
       "tone": "red",
-      "heading": "The Round 14 team-list details driving the card",
+      "heading": "The Round 15 team-list details driving the card",
       "lines": [
-        "Manly still have no Tom Trbojevic, but Tolu Koula and Haumole Olakau'atu are named.",
-        "South Sydney name Cameron Murray, Campbell Graham, Brandon Smith and David Fifita, but Latrell Mitchell remains out.",
-        "Penrith name Nathan Cleary, Isaah Yeo and Brian To'o back after beating the Warriors without them.",
-        "The Dolphins regain major strike through Hamiso Tabuai-Fidow, Herbie Farnworth, Selwyn Cobbo, Thomas Flegler and Max Plath.",
-        "The Titans regain Tino Fa'asuamaleaui and Jojo Fifita, but Brisbane at Suncorp remains the better side."
+        "South Sydney name Jai Arrow in jersey 23 for a tribute night, while Campbell Graham and several Origin players are unavailable.",
+        "Brisbane list Hayze Perham at fullback with Reece Walsh, Payne Haas and Kotoni Staggs unavailable; Ezra Mam remains on the bench.",
+        "The Dolphins list Trai Fuller at fullback for Hamiso Tabuai-Fidow, while Isaiya Katoa is expected to be released from Blues camp.",
+        "The Roosters are without James Tedesco, Sam Walker and Mark Nawaqanitawase; Cody Ramsey starts at fullback.",
+        "Cronulla remain without Nicho Hynes, while the Warriors get the home-ground edge in Auckland."
       ]
     }
   ],
   "footerNotes": [
-    "Built from the Codex-maintained data workflow and regenerated for Round 14 on Wednesday 3 June 2026.",
-    "Round 13 charity bet is settled as a win: Panthers H2H at TAB $1.62, stake $6.50, collect $10.53.",
-    "Round 14 charity bet status is no bet locked; do not move the ledger without recorded stake, odds and user confirmation."
+    "Built from the Codex-maintained data workflow and regenerated for Round 15 on Thursday 11 June 2026.",
+    "Round 14 charity bet status was no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
+    "Round 15 charity bet status is no bet locked; do not move the ledger without recorded stake, odds and user confirmation."
   ]
 }

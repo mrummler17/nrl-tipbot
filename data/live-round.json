@@ -1,150 +1,147 @@
 {
-  "round": "Round 14",
-  "verifiedAt": "2026-06-03T10:58:53+10:00",
-  "verificationLabel": "Round 14 preview checked Wednesday 3 June 2026",
-  "summary": "Round 14 is the King's Birthday long-weekend slate with eight games from Thursday 4 June to Monday 8 June. Round 13 has been settled: TipBot went 5 from 7, and the locked Penrith charity bet won 20-18 to move the Mark Hughes Foundation ledger to 3-2 and +$0.53 settled profit.",
+  "round": "Round 15",
+  "verifiedAt": "2026-06-11T12:00:00+10:00",
+  "verificationLabel": "Round 15 preview checked Thursday 11 June 2026",
+  "summary": "Round 15 is a five-game Origin-bye slate from Thursday 11 June to Sunday 14 June. The strongest raw tips are Warriors over Sharks and Dolphins over Roosters, but no Round 15 charity bet is locked and the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
   "sources": [
     {
-      "label": "NRL Draw: Round 14",
+      "label": "NRL Draw: Round 15",
       "url": "https://www.nrl.com/draw",
       "publisher": "NRL.com",
-      "publishedAt": "2026-06-03T00:00:00+10:00"
+      "publishedAt": "2026-06-11T00:00:00+10:00"
     },
     {
-      "label": "NRL Team Lists: Round 14",
-      "url": "https://www.nrl.com/news/2026/06/02/nrl-team-lists-round-14/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-06-02T15:59:00+10:00"
+      "label": "NRL teams Round 15: Nicho Hynes ruled out",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-teams-round-15-nicho-hynes-races-clock-rookies-galore-as-origin-stars-out/news-story/ffd093cbbf3f5afd347528a753944b60",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-09T16:10:00+10:00"
     },
     {
-      "label": "NRL Fantasy Team List Analysis: Round 14",
-      "url": "https://www.nrl.com/news/2026/06/02/lone-scouts-fantasyteamlistanalysisround14/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-06-02T18:51:00+10:00"
+      "label": "Round 15 team lists: Rabbitohs honour Jai Arrow",
+      "url": "https://www.news.com.au/sport/nrl/round-15-team-lists-souths-name-jai-arrow-in-touching-act-as-ezra-mam-remains-on-the-broncos-bench/news-story/7351f114ebb128e84079d20c148782c2",
+      "publisher": "news.com.au",
+      "publishedAt": "2026-06-09T15:51:00+10:00"
     },
     {
-      "label": "Round 14 Team Lists and Fixtures",
-      "url": "https://rugbyleaguezone.com/nrl-round-14-team-lists-2026-430190/",
-      "publisher": "Rugby League Zone",
-      "publishedAt": "2026-06-03T00:00:00+10:00"
+      "label": "Round 15 early mail: Origin selections rip apart teams",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-round-15-early-mail-surprise-origin-selections-rip-apart-teams-jaydn-sua-pec-injury/news-story/ef33cae0fcc52940d02dedbfb5c03d39",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-08T00:00:00+10:00"
     },
     {
-      "label": "Sportsbet Round 14 Tips",
-      "url": "https://www.sportsbet.com.au/huddle/nrl/predictions/round-14-tips-2026",
-      "publisher": "Sportsbet",
-      "publishedAt": "2026-06-02T00:00:00+10:00"
+      "label": "Round 14 result: Manly 28-14 Rabbitohs",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-14-manly-sea-eagles-win-2814-over-south-sydney-rabbitohs/news-story/a2cb34925bb2f5db7ac913acc9ded47d",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-05T10:20:00+10:00"
     },
     {
-      "label": "Round 13 Saturday Results",
-      "url": "https://www.roosters.com.au/news/2026/05/30/match-report--round-13-v-storm/",
-      "publisher": "NRL.com / Roosters",
-      "publishedAt": "2026-05-30T22:43:00+10:00"
+      "label": "Round 14 result: Storm 32-30 Knights",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-14-phoenix-crossland-taken-to-hospital-in-knights-v-storm-clash/news-story/a7de6d131fc490e9c6cbceab3e1921ce",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-06T00:00:00+10:00"
     },
     {
-      "label": "Round 13 Sunday Results",
-      "url": "https://www.nrl.com/news/2026/05/31/sizzling-sunday-broncos-v-dragons-raiders-v-cowboys-panthers-v-warriors/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-05-31T00:00:00+10:00"
+      "label": "Round 14 result: Roosters 26-0 Raiders",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-14-sydney-roosters-win-260-over-canberra-raiders/news-story/60545427a9c3f952ad385c7fd90836e8",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-05T22:04:00+10:00"
+    },
+    {
+      "label": "Round 14 result: Dolphins 40-14 Cowboys",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-14-dolphins-win-4014-over-north-queensland-cowboys/news-story/7227bdb3e8f92f46700006719513c119",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-06T20:35:00+10:00"
+    },
+    {
+      "label": "Round 14 result: Titans 28-23 Broncos",
+      "url": "https://www.couriermail.com.au/sport/nrl/nrl-round-14-keano-kini-steals-victory-as-gold-coast-titans-win-2823-over-brisbane-broncos/news-story/db3b0bb3d1d5f09b73358319fc9af389",
+      "publisher": "Courier Mail",
+      "publishedAt": "2026-06-06T22:13:00+10:00"
+    },
+    {
+      "label": "Round 14 review: Penrith 68-0 Wests Tigers",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/the-tackle-why-the-bunker-must-be-given-more-power-after-play-the-ball-howlers/news-story/e98a9d9058e8b430cb5f90e3227e9d49",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-10T12:59:00+10:00"
+    },
+    {
+      "label": "Round 14 result: Bulldogs 14-12 Eels",
+      "url": "https://www.dailytelegraph.com.au/sport/bulldogs-snatch-thrilling-win-over-eels-after-controversial-late-penalty-call/news-story/dff262036f2d60496208983999d71a64",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-08T18:20:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Sea Eagles vs Rabbitohs",
-      "kickoff": "Thu 4 Jun, 7:50pm",
-      "venue": "4 Pines Park",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Sea Eagles",
-      "note": "Manly regain Tolu Koula and Haumole Olakau'atu and get the Thursday home edge. South Sydney regain Cameron Murray, Campbell Graham, Brandon Smith and David Fifita, so this is a close opener rather than a banker."
-    },
-    {
-      "match": "Storm vs Knights",
-      "kickoff": "Fri 5 Jun, 6:00pm",
-      "venue": "AAMI Park",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Storm",
-      "note": "Newcastle are hot after four straight wins and a 28-22 result over Parramatta, but Melbourne's 18-4 response against the Roosters and AAMI Park tilt keep the Storm narrowly on top."
-    },
-    {
-      "match": "Raiders vs Roosters",
-      "kickoff": "Fri 5 Jun, 8:00pm",
-      "venue": "GIO Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Roosters",
-      "note": "Canberra beat the Cowboys 26-12 and regain Jayden Brailey, but the Roosters run back a strong spine with Tedesco, Daly Cherry-Evans, Sam Walker, Reece Robson and Victor Radley."
-    },
-    {
-      "match": "Cowboys vs Dolphins",
-      "kickoff": "Sat 6 Jun, 5:30pm",
-      "venue": "Queensland Country Bank Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Dolphins",
-      "note": "North Queensland get Reuben Cotter back, but the Dolphins regain Hamiso Tabuai-Fidow, Herbie Farnworth, Selwyn Cobbo, Thomas Flegler and Max Plath. The travel risk keeps this volatile."
-    },
-    {
-      "match": "Broncos vs Titans",
-      "kickoff": "Sat 6 Jun, 7:35pm",
-      "venue": "Suncorp Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Broncos",
-      "note": "Brisbane must respond after losing 30-26 to the previously winless Dragons. The Titans regain Tino Fa'asuamaleaui and Jojo Fifita, but Suncorp and Broncos spine quality still get the nod."
-    },
-    {
-      "match": "Wests Tigers vs Panthers",
-      "kickoff": "Sun 7 Jun, 2:00pm",
-      "venue": "CommBank Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Panthers",
-      "note": "Penrith won 20-18 without Cleary, Yeo and To'o, and all three are named to return. The Tigers upset the Bulldogs 22-16, but this is still the strongest raw tip."
-    },
-    {
-      "match": "Sharks vs Dragons",
-      "kickoff": "Sun 7 Jun, 4:05pm",
-      "venue": "Ocean Protect Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Sharks",
-      "note": "Cronulla survived Manly 28-22 and regain Briton Nikora. The Dragons finally broke through 30-26 over Brisbane, which makes this derby dangerous rather than automatic."
-    },
-    {
-      "match": "Bulldogs vs Eels",
-      "kickoff": "Mon 8 Jun, 4:05pm",
+      "match": "Rabbitohs vs Broncos",
+      "kickoff": "Thu 11 Jun, 7:50pm",
       "venue": "Accor Stadium",
       "status": "Preview",
       "result": "",
-      "tipOutcome": "Tip: Bulldogs",
-      "note": "The Bulldogs lost 22-16 but still had enough late pressure to scare the Tigers. Parramatta were brave in a 28-22 loss to Newcastle, but the listed Eels spine still lacks Mitchell Moses."
+      "tipOutcome": "Tip: Rabbitohs",
+      "note": "Lowest-confidence home lean. Souths are disrupted and without Campbell Graham, but Brisbane are missing Reece Walsh, Payne Haas and Kotoni Staggs, with Hayze Perham at fullback and Ezra Mam still on the bench."
+    },
+    {
+      "match": "Dolphins vs Roosters",
+      "kickoff": "Fri 12 Jun, 8:00pm",
+      "venue": "Suncorp Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Dolphins",
+      "note": "Dolphins are the form side after five straight wins, even with Trai Fuller replacing Hamiso Tabuai-Fidow. The Roosters lose James Tedesco, Sam Walker and Mark Nawaqanitawase, though Daly Cherry-Evans keeps them dangerous."
+    },
+    {
+      "match": "Warriors vs Sharks",
+      "kickoff": "Sat 13 Jun, 5:30pm",
+      "venue": "Go Media Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Warriors",
+      "note": "Strongest raw tip. The Warriors get the Auckland home edge, while Cronulla are still without Nicho Hynes and are reshuffled through Origin and injury strain."
+    },
+    {
+      "match": "Eels vs Raiders",
+      "kickoff": "Sat 13 Jun, 7:30pm",
+      "venue": "CommBank Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Raiders",
+      "note": "Canberra need a response after the 26-0 Roosters loss, but their listed pack with Corey Horsburgh, Joseph Tapine, Tom Starling and Jayden Brailey gets the edge over an Eels spine listed without Mitchell Moses."
+    },
+    {
+      "match": "Wests Tigers vs Titans",
+      "kickoff": "Sun 14 Jun, 4:05pm",
+      "venue": "Leichhardt Oval",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Titans",
+      "note": "Gold Coast carry a confidence bump after Keano Kini and Jayden Campbell helped steal the M1 derby. Wests Tigers regain Taylan May but must recover from a 68-0 Penrith loss."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 13 settled: TipBot went 5 from 7 and the Penrith charity bet won 20-18."
+      "text": "Round 15 preview is live with five games and seven teams on the bye."
     },
     {
       "tone": "green",
-      "text": "Charity ledger is now 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
+      "text": "Charity ledger remains 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
     },
     {
       "tone": "amber",
-      "text": "Round 14 has no locked charity bet yet; do not roll the $10.53 collect into another stake without a fresh TAB price and user confirmation."
+      "text": "No Round 15 charity bet is locked; do not move the ledger without a fresh TAB price, stake and user confirmation."
     },
     {
       "tone": "green",
-      "text": "Strongest raw Round 14 tip: Panthers over Wests Tigers with Cleary, Yeo and To'o named back."
+      "text": "Strongest raw Round 15 tip: Warriors over Sharks with Nicho Hynes still out."
     },
     {
       "tone": "red",
-      "text": "Most dangerous Round 14 reads: Sea Eagles v Rabbitohs, Cowboys v Dolphins, and Bulldogs v Eels."
+      "text": "Most dangerous Round 15 read: Rabbitohs v Broncos, because both teams are heavily disrupted."
     },
     {
       "tone": "amber",
-      "text": "Warriors are on the Round 14 bye; keep their Round 13 top-two loss separate from this week's board."
+      "text": "Bulldogs, Sea Eagles, Storm, Knights, Cowboys, Panthers and Dragons are on the Round 15 bye."
     }
   ]
 }
