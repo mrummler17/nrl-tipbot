@@ -5,11 +5,11 @@
 - Repo: `/Users/marcusrummler/AI Developer Files/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest baseline before Round 16 work: `8556a90 Record Round 15 deployment verification`
+- Latest Round 16 content commit: `9b40188 Update TipBot for Round 16`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current working version: Round 16, 2026 preview
+- Current production-intended version: Round 16, 2026 preview
 
 ## Changed This Session
 
@@ -99,13 +99,13 @@
 
 ## Risks / Unfinished
 
-- Git commit, push, GitHub Pages build, and live-page verification are not yet complete.
+- GitHub push, GitHub Pages build, and live-page verification are not yet complete.
 - Round 16 tips are preview reads only. Final 24-hour and 90-minute team updates can still move the risk profile.
 - No Round 16 charity bet is locked. Any bet requires a fresh TAB price and explicit user confirmation.
 - Round 15 Eels v Raiders and Wests Tigers v Titans need clean official-score sources before publishing a final Round 15 tip-count headline.
 
 ## Recommended Next Steps
 
-- Commit and push the Round 16 content update if QA passes.
+- Push the Round 16 content update if QA passes.
 - Verify the GitHub Pages build and live site after push.
 - Re-check final 24-hour team updates before any charity-bet discussion.
