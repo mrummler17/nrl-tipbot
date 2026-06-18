@@ -53,6 +53,11 @@
   - `Storm over Raiders` and `Warriors over Cowboys` tips rendered.
   - Round 16 bye copy rendered.
   - Browser console had 0 errors.
+- Pushed `main` to GitHub with:
+  - `9b40188 Update TipBot for Round 16`
+  - `b31176f Record Round 16 deployment handover`
+- GitHub Pages build for `b31176f2d3c53d02381fc58017cf2bcedcfb8152` completed successfully.
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served Round 16 content, including the Round 16 meta description, `Storm over Raiders`, `Warriors over Cowboys`, `No bet locked`, `3-2`, and `+$0.53`.
 
 ## Must Not Change Casually
 
@@ -99,13 +104,11 @@
 
 ## Risks / Unfinished
 
-- GitHub push, GitHub Pages build, and live-page verification are not yet complete.
+- Deployment for the Round 16 content commit has been verified. Re-check the live page if a later handover-only commit triggers another Pages build.
 - Round 16 tips are preview reads only. Final 24-hour and 90-minute team updates can still move the risk profile.
 - No Round 16 charity bet is locked. Any bet requires a fresh TAB price and explicit user confirmation.
 - Round 15 Eels v Raiders and Wests Tigers v Titans need clean official-score sources before publishing a final Round 15 tip-count headline.
 
 ## Recommended Next Steps
 
-- Push the Round 16 content update if QA passes.
-- Verify the GitHub Pages build and live site after push.
 - Re-check final 24-hour team updates before any charity-bet discussion.
