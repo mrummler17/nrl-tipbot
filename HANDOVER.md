@@ -6,6 +6,7 @@
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
 - Latest Round 17 content commit: `7dd0b10 Update TipBot for Round 17`
+- Latest Round 17 handover commit: `454c5b3 Record Round 17 deployment handover`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -59,6 +60,20 @@
   - Browser console had 0 errors.
 - Round 17 content commit created:
   - `7dd0b10 Update TipBot for Round 17`
+- Pushed `main` to GitHub with:
+  - `7dd0b10 Update TipBot for Round 17`
+  - `454c5b3 Record Round 17 deployment handover`
+- GitHub Pages build for `454c5b35f2d562d9d8806a78f9d659a9f4bfea3e` completed successfully after one clean rebuild:
+  - First automatic/manual overlapping builds produced cancelled/failed deployment statuses.
+  - Clean rebuild created at `2026-06-24T14:02:11Z` finished with status `built` at `2026-06-24T14:02:30Z`.
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served Round 17 HTML, including the Round 17 meta description.
+- Production browser QA passed with cache-busted URL `https://mrummler17.github.io/nrl-tipbot/?v=round17-454c5b3`:
+  - Round 17 content rendered.
+  - Ledger record `3-2` and profit `+$0.53` rendered.
+  - `No bet locked` rendered.
+  - `Panthers over Cowboys` and `Roosters over Broncos` rendered.
+  - Sharks bye copy rendered.
+  - Browser console had 0 errors.
 
 ## Must Not Change Casually
 
@@ -114,10 +129,9 @@
 - Round 17 tips are preview reads only. Final 24-hour and 90-minute team updates can still move the risk profile.
 - No Round 17 charity bet is locked. Any bet requires a fresh TAB price and explicit user confirmation.
 - Round 16 Sunday games need clean official-score sources before publishing a final Round 16 tip-count headline.
-- Push, Pages build check, and live-site verification still need to be completed for the Round 17 update.
+- No deployment work is currently unfinished.
+- Browser cache may retain the previous Round 16 page briefly; a hard refresh or cache-busted URL showed the Round 17 production page correctly.
 
 ## Recommended Next Steps
 
-- Push `main` to GitHub.
-- Check GitHub Pages build status and live page content.
 - Re-check final 24-hour team updates before any charity-bet discussion.
