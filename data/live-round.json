@@ -1,115 +1,136 @@
 {
-  "round": "Round 16",
-  "verifiedAt": "2026-06-18T12:00:00+10:00",
-  "verificationLabel": "Round 16 preview checked Thursday 18 June 2026",
-  "summary": "Round 16 is a seven-game post-Origin slate from Friday 19 June to Sunday 21 June. The strongest raw tips are Storm over Raiders and Warriors over Cowboys, but no Round 16 charity bet is locked and the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
+  "round": "Round 17",
+  "verifiedAt": "2026-06-24T12:00:00+10:00",
+  "verificationLabel": "Round 17 preview checked Wednesday 24 June 2026",
+  "summary": "Round 17 is Beanie for Brain Cancer Round with eight games from Thursday 25 June to Sunday 28 June. The strongest raw tips are Panthers over Cowboys, Roosters over Broncos and Raiders over Dragons, but no Round 17 charity bet is locked and the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
   "sources": [
     {
-      "label": "NRL Draw: Round 16",
+      "label": "NRL Draw: Round 17",
       "url": "https://www.nrl.com/draw",
       "publisher": "NRL.com",
-      "publishedAt": "2026-06-18T00:00:00+10:00"
+      "publishedAt": "2026-06-24T00:00:00+10:00"
     },
     {
-      "label": "NRL teams Round 16: Nicho Hynes, Blayke Brailey named",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-teams-round-16-nicho-hynes-blayke-brailey-named-for-remodelled-sharks/news-story/9381912a00d3d4a6388a80d93df87ecd",
+      "label": "NRL teams Round 17: Jackson Ford ruled out 10-12 weeks",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-teams-round-17-jackson-ford-ruled-out-for-1012-weeks-with-pectoral-injury/news-story/44bfb71903f585a72d4c6d518b1c5a02",
       "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-17T00:00:00+10:00"
+      "publishedAt": "2026-06-23T16:13:00+10:00"
     },
     {
-      "label": "Round 16 team lists: Sharks set to receive double boost",
-      "url": "https://www.news.com.au/sport/nrl/round-16-team-lists-sharks-set-to-receive-double-boost-as-clubs-make-huge-calls-on-origin-stars/news-story/7b31f313ea3768ee076c1df5b6a2bdef",
-      "publisher": "news.com.au",
-      "publishedAt": "2026-06-16T00:00:00+10:00"
-    },
-    {
-      "label": "NRL Late Mail Round 16: Origin back-up tracker",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-16-tony-sukkar-out-to-cement-spot-as-kai-pearcepaul-out-longterm/news-story/fd01c7a3b67db7f285e2683191dce3e0",
+      "label": "NRL Late Mail Round 17: Alex Twal rehab, Samuela Fainu return watch",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-17-alex-twal-trains-with-rehab-group-samuela-fainu-eyes-early-return/news-story/f57d09280ff63aeb741b681b1e99f8e4",
       "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-18T00:00:00+10:00"
+      "publishedAt": "2026-06-24T00:00:00+10:00"
     },
     {
-      "label": "NRL Early Mail Round 16: Ezra Mam injury, Sharks and Roosters notes",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-early-mail-round-16-key-cronulla-forward-toby-rudolf-sidelined-with-knee-injury/news-story/adbb68c658c26a3f884a689f2188124b",
+      "label": "Round 16 result: Knights 22-20 Dragons",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-heartbreak-for-saints-as-knights-win-2220-over-dragons/news-story/8e1bead5870457b0bdc55ef5202ecea6",
       "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-16T00:00:00+10:00"
+      "publishedAt": "2026-06-20T00:00:00+10:00"
     },
     {
-      "label": "2026 NRL season results: Round 16 fixture table",
+      "label": "Round 16 result: Dolphins 36-22 Wests Tigers",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-dolphins-win-3622-over-wests-tigers/news-story/d60954cfd473bc75fde5d600770a32d6",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-20T18:18:00+10:00"
+    },
+    {
+      "label": "Round 16 result: Titans 19-18 Panthers",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-zane-harrison-stars-as-gold-coast-titans-win-1918-over-penrith-panthers/news-story/910997d676a77a79f5639ed1a5b30bdb",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-20T00:00:00+10:00"
+    },
+    {
+      "label": "Round 16 result: Bulldogs 13-12 Sea Eagles",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-bulldogs-win-1312-over-manly-sea-eagles-in-golden-point-thriller/news-story/49d7af9e7585233397fb8c8ba8d81959",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-20T00:00:00+10:00"
+    },
+    {
+      "label": "2026 NRL season results: Round 17 fixture table",
       "url": "https://en.wikipedia.org/wiki/2026_NRL_season_results",
       "publisher": "Wikipedia",
-      "publishedAt": "2026-06-18T00:00:00+10:00"
+      "publishedAt": "2026-06-24T00:00:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Knights vs Dragons",
-      "kickoff": "Fri 19 Jun, 8:00pm",
+      "match": "Eels vs Rabbitohs",
+      "kickoff": "Thu 25 Jun, 7:50pm",
+      "venue": "CommBank Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Rabbitohs",
+      "note": "Lowest-confidence opener. Parramatta get Mitchell Moses and home field, but South Sydney's Cody Walker, Cameron Murray, Brandon Smith and David Fifita profile gives them the narrow attacking edge."
+    },
+    {
+      "match": "Titans vs Bulldogs",
+      "kickoff": "Fri 26 Jun, 6:00pm",
+      "venue": "Cbus Super Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Bulldogs",
+      "note": "Canterbury are the quality lean with Connor Tracey, Stephen Crichton, Lachlan Galvin, Max King and Leo Thompson named. Titans confidence is real after the Panthers upset, so this stays a trap."
+    },
+    {
+      "match": "Broncos vs Roosters",
+      "kickoff": "Fri 26 Jun, 8:00pm",
+      "venue": "Suncorp Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Roosters",
+      "note": "Roosters have the cleaner spine with Tedesco, Daly Cherry-Evans, Sam Walker, Reece Robson and Victor Radley. Brisbane regain Walsh, Staggs and Haas, but Ezra Mam is out."
+    },
+    {
+      "match": "Dolphins vs Warriors",
+      "kickoff": "Sat 27 Jun, 3:00pm",
+      "venue": "Suncorp Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Dolphins",
+      "note": "Dolphins regain major strike and middle power after the rest cycle. Warriors remain structured but lose Jackson Ford for 10-12 weeks and are still without Roger Tuivasa-Sheck."
+    },
+    {
+      "match": "Cowboys vs Panthers",
+      "kickoff": "Sat 27 Jun, 5:30pm",
+      "venue": "Queensland Country Bank Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Panthers",
+      "note": "Strongest raw tip. Penrith name Dylan Edwards, Brian To'o, Nathan Cleary, Isaah Yeo and Liam Martin, while North Queensland still list Jaxon Purdue and Jake Clifford in the halves."
+    },
+    {
+      "match": "Sea Eagles vs Storm",
+      "kickoff": "Sat 27 Jun, 7:35pm",
+      "venue": "4 Pines Park",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Storm",
+      "note": "Storm class lean through Munster, Grant and Loiero, but 4 Pines and Tom Trbojevic make this a dangerous away favourite spot."
+    },
+    {
+      "match": "Raiders vs Dragons",
+      "kickoff": "Sun 28 Jun, 2:00pm",
+      "venue": "GIO Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Raiders",
+      "note": "Canberra get the GIO edge and a stronger forward platform through Horsburgh, Tapine, Hudson Young, Hosking and Brailey. Dragons are improved but still need a road proof point."
+    },
+    {
+      "match": "Knights vs Wests Tigers",
+      "kickoff": "Sun 28 Jun, 4:05pm",
       "venue": "McDonald Jones Stadium",
       "status": "Preview",
       "result": "",
       "tipOutcome": "Tip: Knights",
-      "note": "Lowest-confidence home lean. Newcastle get McDonald Jones Stadium and Kalyn Ponga availability is being watched after Origin, while the Dragons remain without Jaydn Su'a after the pec injury."
-    },
-    {
-      "match": "Wests Tigers vs Dolphins",
-      "kickoff": "Sat 20 Jun, 3:00pm",
-      "venue": "Campbelltown Sports Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Dolphins",
-      "note": "Dolphins are still the form lean even with Origin rest across Hamiso Tabuai-Fidow, Selwyn Cobbo and Thomas Flegler. Wests Tigers lose Kai Pearce-Paul long-term and remain volatile."
-    },
-    {
-      "match": "Titans vs Panthers",
-      "kickoff": "Sat 20 Jun, 5:30pm",
-      "venue": "Cbus Super Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Panthers",
-      "note": "Penrith are the class side, but this is not a betting lock until final teams confirm the status of Nathan Cleary, Isaah Yeo and Brian To'o after they were listed on reserves."
-    },
-    {
-      "match": "Bulldogs vs Sea Eagles",
-      "kickoff": "Sat 20 Jun, 7:30pm",
-      "venue": "Accor Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Bulldogs",
-      "note": "The Bulldogs come off the bye with Stephen Crichton named, but Manly naming Tom Trbojevic back from a hamstring injury makes this a live Saturday-night trap."
-    },
-    {
-      "match": "Warriors vs Cowboys",
-      "kickoff": "Sun 21 Jun, 2:00pm",
-      "venue": "One New Zealand Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Warriors",
-      "note": "Cleanest travel and spine read. The Warriors get the Auckland home edge while Tom Dearden's return has been delayed by an ankle fracture and North Queensland must travel off a disrupted build."
-    },
-    {
-      "match": "Storm vs Raiders",
-      "kickoff": "Sun 21 Jun, 4:05pm",
-      "venue": "AAMI Park",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Storm",
-      "note": "Strongest raw tip if Melbourne's Origin players back up. The Storm home profile and spine give them the edge over Canberra, even with Raiders reinforcements."
-    },
-    {
-      "match": "Roosters vs Sharks",
-      "kickoff": "Sun 21 Jun, 6:15pm",
-      "venue": "Allianz Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Roosters",
-      "note": "Home lean only. The Roosters regain a stack of Origin talent, but Cronulla's pack strengthens if Addin Fonua-Blake and Briton Nikora back up, while Nicho Hynes remains the key watch."
+      "note": "Newcastle get the home-spine edge with Kalyn Ponga, Fletcher Sharpe and Dylan Brown. Tigers regain Adam Doueihi and Alex Twal but lose Jock Madden and Patrick Herbert."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 16 preview is live with seven games and three teams on the bye."
+      "text": "Round 17 Beanie for Brain Cancer preview is live with eight games and the Sharks on the bye."
     },
     {
       "tone": "green",
@@ -117,19 +138,19 @@
     },
     {
       "tone": "amber",
-      "text": "No Round 16 charity bet is locked; do not move the ledger without a fresh TAB price, stake and user confirmation."
+      "text": "No Round 17 charity bet is locked; do not move the ledger without a fresh TAB price, stake and user confirmation."
     },
     {
       "tone": "green",
-      "text": "Strongest raw Round 16 tip: Storm over Raiders, with Origin backup status still the key condition."
+      "text": "Strongest raw Round 17 tip: Panthers over Cowboys with Penrith's senior spine named."
     },
     {
       "tone": "red",
-      "text": "Most dangerous Round 16 reads: Bulldogs v Sea Eagles, Titans v Panthers, and Roosters v Sharks."
+      "text": "Most dangerous Round 17 reads: Eels v Rabbitohs, Sea Eagles v Storm, Titans v Bulldogs and Knights v Tigers."
     },
     {
       "tone": "amber",
-      "text": "Broncos, Eels and Rabbitohs are on the Round 16 bye."
+      "text": "Sharks are on the Round 17 bye."
     }
   ]
 }

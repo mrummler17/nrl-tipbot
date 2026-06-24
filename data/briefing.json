@@ -1,28 +1,28 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 16 post-Origin preview with the charity ledger protected",
+    "subhead": "Round 17 Beanie for Brain Cancer preview with the charity ledger protected",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 16 preview live"
+    "status": "Round 17 preview live"
   },
   "meta": {
-    "description": "Codex-managed NRL TipBot dashboard for Round 16 tips, Round 15 result notes, and weekly NRL team news."
+    "description": "Codex-managed NRL TipBot dashboard for Round 17 tips, Round 16 result notes, and weekly NRL team news."
   },
   "ticker": [
-    "round 16 is a seven-game post-origin slate from friday 19 june to sunday 21 june",
+    "round 17 is beanie for brain cancer round from thursday 25 june to sunday 28 june",
     "charity ledger stays at 3 and 2 with $31.50 invested $32.03 returned and plus $0.53 settled profit",
-    "no round 16 charity bet is locked until a fresh tab price stake and user confirmation are recorded",
-    "strongest raw tip is storm over raiders at aami park if the maroons trio back up",
-    "warriors over cowboys is the cleanest travel and spine read with tom dearden delayed",
-    "panthers over titans is strong but origin-rest risk remains around cleary yeo and to'o",
-    "broncos eels and rabbitohs are on the bye this week"
+    "no round 17 charity bet is locked until a fresh tab price stake and user confirmation are recorded",
+    "strongest raw tip is panthers over cowboys with cleary yeo and to'o named back",
+    "roosters over broncos is a strong form and spine read while brisbane manage ezra mam's shoulder issue",
+    "dolphins over warriors is strong but jackson ford's injury does not make the warriors an automatic fade",
+    "sharks are on the bye this week"
   ],
   "heroCards": [
     {
       "label": "Round Mode",
       "value": "Preview",
-      "delta": "Round 16",
+      "delta": "Round 17",
       "tone": "cyan"
     },
     {
@@ -33,14 +33,14 @@
     },
     {
       "label": "Tip Card",
-      "value": "7 games",
-      "delta": "post-Origin round",
+      "value": "8 games",
+      "delta": "Beanie round",
       "tone": "amber"
     },
     {
       "label": "Charity Play",
       "value": "Hold",
-      "delta": "no Round 16 stake",
+      "delta": "no Round 17 stake",
       "tone": "red"
     }
   ],
@@ -49,20 +49,20 @@
       "title": "Round Read",
       "tone": "cyan",
       "items": [
-        "Round 16 is a post-Origin round with seven games and three byes.",
-        "The Storm and Warriors are the cleanest reads because they combine home ground, spine stability and opponent disruption.",
-        "The Panthers are still a strong tip, but Nathan Cleary, Isaah Yeo and Brian To'o being managed on reserves keeps it off the charity-bet line.",
-        "Roosters versus Sharks is the toughest quality game because the Roosters regain stars while Cronulla get pack reinforcements."
+        "Round 17 is Beanie for Brain Cancer Round, which makes the charity framing especially relevant but still does not force a bet.",
+        "The Panthers are the cleanest raw tip with Nathan Cleary, Isaah Yeo and Brian To'o all named after the Titans upset.",
+        "Roosters over Broncos and Dolphins over Warriors are strong reads, but both are away from pure banker territory.",
+        "Storm over Sea Eagles and Rabbitohs over Eels are the two tips most exposed to venue and momentum swings."
       ]
     },
     {
       "title": "Risk Flags",
       "tone": "red",
       "items": [
-        "Do not force a charity bet while post-Origin backup decisions are live.",
-        "Melbourne's Maroons trio are expected to play but backup minutes still matter.",
-        "Penrith can still change complexion late if Cleary, Yeo or To'o are rested again.",
-        "Cronulla can turn the Roosters game if Addin Fonua-Blake and Briton Nikora back up cleanly."
+        "Do not force a Mark Hughes Foundation bet just because it is Beanie round.",
+        "The Broncos regain Reece Walsh and Payne Haas, so Roosters H2H may be shorter than the risk profile deserves.",
+        "The Warriors lose Jackson Ford long-term but still keep enough structure to trouble the Dolphins.",
+        "The Titans just beat Penrith, so Bulldogs over Titans is a confidence lean rather than a lock."
       ]
     },
     {
@@ -71,40 +71,40 @@
       "items": [
         "Protect the positive Mark Hughes Foundation ledger at +$0.53.",
         "Wait for final 24-hour teams before any stake discussion.",
-        "Treat Round 16 as a lineup-management round, especially in Titans v Panthers, Storm v Raiders and Roosters v Sharks.",
-        "Round 15 had no locked charity bet, so no ledger movement is recorded."
+        "Keep Round 17 price-watch candidates separate from actual charity bets.",
+        "Round 16 had no locked charity bet, so no ledger movement is recorded."
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Storm at AAMI Park with Harry Grant, Cameron Munster and Xavier Coates expected to back up.",
-        "Warriors at One New Zealand Stadium against a Cowboys side still without Tom Dearden.",
-        "Dolphins form line against a Tigers side losing Kai Pearce-Paul long-term.",
-        "Tom Trbojevic returning for Manly against a rested Bulldogs side."
+        "Panthers spine and middle leadership back at Townsville.",
+        "Dolphins full-strength outside backs and forward bench against a Warriors side missing Jackson Ford.",
+        "Roosters full spine against Brisbane's reshuffled halves.",
+        "Knights home spine of Kalyn Ponga, Fletcher Sharpe and Dylan Brown against a Tigers side still carrying injuries."
       ]
     }
   ],
   "betCard": {
-    "title": "Round 16 Charity Bet",
+    "title": "Round 17 Charity Bet",
     "status": "No bet locked",
-    "pick": "No Round 16 charity play locked",
+    "pick": "No Round 17 charity play locked",
     "odds": "TBC",
     "stake": "$0.00",
     "potentialReturn": "$0.00",
     "potentialProfit": "$0.00",
-    "match": "Round 16 price watch",
-    "kickoff": "Round runs Friday 19 June to Sunday 21 June 2026",
-    "venue": "NRL Round 16",
+    "match": "Round 17 price watch",
+    "kickoff": "Round runs Thursday 25 June to Sunday 28 June 2026",
+    "venue": "NRL Round 17",
     "why": [
-      "The ledger is positive at +$0.53 and this is a post-Origin round with several backup variables.",
-      "Storm H2H and Warriors H2H are the only price-watch candidates from the current read.",
-      "Neither becomes a charity bet without a fresh TAB price, stake, match, and explicit user confirmation."
+      "The ledger is positive at +$0.53 and Beanie for Brain Cancer Round is a good week to stay disciplined.",
+      "Panthers H2H, Roosters H2H and Dolphins H2H are the only price-watch candidates from the current read.",
+      "None becomes a charity bet without a fresh TAB price, stake, match, and explicit user confirmation."
     ],
     "risks": [
-      "Origin backup and late-rest decisions can materially change the best plays.",
-      "Several favourites may be short enough that the value is gone before final teams.",
+      "Beanie round theme can create emotional pressure to force a bet.",
+      "Several favourites have short-price risk despite strong team-list reads.",
       "Any new charity play needs recorded odds, stake, match, and final team context before kickoff."
     ]
   },
@@ -128,24 +128,26 @@
       "Round 13: Penrith Panthers head to head at $1.62 won 20-18, returning $10.53 from a $6.50 stake.",
       "Round 14: No charity bet was locked, so the ledger stayed unchanged.",
       "Round 15: No charity bet was locked, so the ledger stayed unchanged.",
-      "After Round 15: Ledger is 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
+      "Round 16: No charity bet was locked, so the ledger stayed unchanged.",
+      "After Round 16: Ledger is 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
     ]
   },
   "watchlist": [
-    "Price-watch Storm over Raiders only if the backup status of Melbourne's Origin players stays positive.",
-    "Price-watch Warriors over Cowboys, but do not ignore North Queensland's forward return through Jeremiah Nanai.",
-    "Do not bet Panthers v Titans until Penrith's final team clarifies whether Cleary, Yeo and To'o play.",
-    "Do not use Roosters v Sharks as a charity bet without a clear late-mail edge.",
-    "Broncos, Eels and Rabbitohs are on the bye."
+    "Price-watch Panthers over Cowboys only if the Townsville premium is enough to keep the price useful.",
+    "Price-watch Roosters over Broncos, but respect Walsh and Haas returning at Suncorp.",
+    "Price-watch Dolphins over Warriors, but do not overreact to Jackson Ford's injury without a market edge.",
+    "Do not bet Rabbitohs v Eels, Bulldogs v Titans, Sea Eagles v Storm, or Knights v Tigers without a clean late-mail edge.",
+    "Sharks are on the bye."
   ],
   "confidence": [
-    "Storm over Raiders - strongest raw read at AAMI if Origin stars back up",
-    "Warriors over Cowboys - home and spine edge with Tom Dearden delayed",
-    "Panthers over Titans - class edge, Origin-rest caveat",
-    "Dolphins over Wests Tigers - form and injury edge",
-    "Bulldogs over Sea Eagles - rested Dogs, but Turbo return makes it live",
-    "Roosters over Sharks - home lean, Sharks pack danger",
-    "Knights over Dragons - home lean in the lowest-confidence game"
+    "Panthers over Cowboys - strongest raw read with Cleary, Yeo and To'o named back",
+    "Roosters over Broncos - full spine and Brisbane halves uncertainty",
+    "Raiders over Dragons - GIO and forward-platform edge",
+    "Dolphins over Warriors - form and personnel edge, Warriors injury caveat",
+    "Knights over Wests Tigers - home spine edge",
+    "Bulldogs over Titans - quality lean after both Round 16 thrillers",
+    "Storm over Sea Eagles - class lean but 4 Pines and Turbo keep it live",
+    "Rabbitohs over Eels - lowest-confidence Thursday lean"
   ],
   "sections": [
     {
@@ -153,12 +155,12 @@
       "title": "Situation Report",
       "badge": "preview",
       "tone": "amber",
-      "heading": "Round 16 starts with backup calls and no charity stake",
+      "heading": "Round 17 is Beanie round, but the ledger still starts with discipline",
       "lines": [
-        "As of Thursday, 18 June 2026, Round 16 team lists and late mail have been checked against current published reports.",
-        "Round 16 has seven games: Knights v Dragons, Wests Tigers v Dolphins, Titans v Panthers, Bulldogs v Sea Eagles, Warriors v Cowboys, Storm v Raiders, and Roosters v Sharks.",
-        "The charity ledger remains 3-2 with +$0.53 settled profit because no Round 15 charity bet was locked.",
-        "Round 16 is live as a preview board only; no new charity bet is locked."
+        "As of Wednesday, 24 June 2026, Round 17 team lists and late mail have been checked against current published reports.",
+        "Round 17 has eight games: Eels v Rabbitohs, Titans v Bulldogs, Broncos v Roosters, Dolphins v Warriors, Cowboys v Panthers, Sea Eagles v Storm, Raiders v Dragons, and Knights v Wests Tigers.",
+        "The charity ledger remains 3-2 with +$0.53 settled profit because no Round 16 charity bet was locked.",
+        "Round 17 is live as a preview board only; no new charity bet is locked."
       ]
     },
     {
@@ -166,45 +168,47 @@
       "title": "Bet Analysis",
       "badge": "hold",
       "tone": "cyan",
-      "heading": "Wait for backup clarity before staking anything",
+      "heading": "Beanie round is exactly when the bet discipline matters",
       "lines": [
         "The Mark Hughes Foundation ledger is 3-2 with $31.50 invested, $32.03 returned and +$0.53 settled profit.",
-        "Storm over Raiders is the cleanest raw tip, but only if Melbourne's Origin players back up as expected.",
-        "Warriors over Cowboys is the next price-watch candidate because Tom Dearden's delayed return leaves North Queensland short in the halves.",
-        "No Round 16 charity bet should be recorded without a fresh TAB price, stake and user confirmation."
+        "Panthers over Cowboys is the cleanest raw tip, with the Penrith first-choice spine and senior middle named.",
+        "Roosters over Broncos and Dolphins over Warriors are also price-watch candidates, but both have opponent-backbone risk.",
+        "No Round 17 charity bet should be recorded without a fresh TAB price, stake and user confirmation."
       ]
     },
     {
       "id": "tips",
-      "title": "Round 16 Tips",
-      "badge": "7 games",
+      "title": "Round 17 Tips",
+      "badge": "8 games",
       "tone": "green",
       "heading": "Tip card ranked from cleaner read to messier read",
       "lines": [
-        "Storm over Raiders.",
-        "Warriors over Cowboys.",
-        "Panthers over Titans.",
-        "Dolphins over Wests Tigers.",
-        "Bulldogs over Sea Eagles.",
-        "Roosters over Sharks.",
-        "Knights over Dragons."
+        "Panthers over Cowboys.",
+        "Roosters over Broncos.",
+        "Raiders over Dragons.",
+        "Dolphins over Warriors.",
+        "Knights over Wests Tigers.",
+        "Bulldogs over Titans.",
+        "Storm over Sea Eagles.",
+        "Rabbitohs over Eels."
       ]
     },
     {
       "id": "fixtures",
-      "title": "Round 16 Fixtures",
+      "title": "Round 17 Fixtures",
       "badge": "schedule",
       "tone": "amber",
-      "heading": "Round 16 fixture board",
+      "heading": "Round 17 fixture board",
       "lines": [
-        "Knights v Dragons - Friday 19 June, 8:00pm at McDonald Jones Stadium.",
-        "Wests Tigers v Dolphins - Saturday 20 June, 3:00pm at Campbelltown Sports Stadium.",
-        "Titans v Panthers - Saturday 20 June, 5:30pm at Cbus Super Stadium.",
-        "Bulldogs v Sea Eagles - Saturday 20 June, 7:30pm at Accor Stadium.",
-        "Warriors v Cowboys - Sunday 21 June, 2:00pm at One New Zealand Stadium.",
-        "Storm v Raiders - Sunday 21 June, 4:05pm at AAMI Park.",
-        "Roosters v Sharks - Sunday 21 June, 6:15pm at Allianz Stadium.",
-        "Broncos, Eels and Rabbitohs have the bye."
+        "Eels v Rabbitohs - Thursday 25 June, 7:50pm at CommBank Stadium.",
+        "Titans v Bulldogs - Friday 26 June, 6:00pm at Cbus Super Stadium.",
+        "Broncos v Roosters - Friday 26 June, 8:00pm at Suncorp Stadium.",
+        "Dolphins v Warriors - Saturday 27 June, 3:00pm at Suncorp Stadium.",
+        "Cowboys v Panthers - Saturday 27 June, 5:30pm at Queensland Country Bank Stadium.",
+        "Sea Eagles v Storm - Saturday 27 June, 7:35pm at 4 Pines Park.",
+        "Raiders v Dragons - Sunday 28 June, 2:00pm at GIO Stadium.",
+        "Knights v Wests Tigers - Sunday 28 June, 4:05pm at McDonald Jones Stadium.",
+        "Sharks have the bye."
       ]
     },
     {
@@ -214,10 +218,10 @@
       "tone": "red",
       "heading": "Who gets upgraded or held back this week",
       "lines": [
-        "Upgrade: Storm at home, Warriors at the special One New Zealand Stadium fixture, Dolphins form, and Panthers class if their spine plays.",
-        "Hold: Bulldogs because they are rested but draw a Manly side with Tom Trbojevic named back.",
-        "Downgrade: Cowboys without Tom Dearden, Tigers without Kai Pearce-Paul, and Sharks if Nicho Hynes is held out another week.",
-        "Volatility bucket: Bulldogs v Sea Eagles, Panthers v Titans, and Roosters v Sharks."
+        "Upgrade: Panthers full-strength response, Roosters spine, Dolphins reinforcements, Raiders at GIO, and Knights home spine.",
+        "Hold: Bulldogs because the Titans just beat Penrith and play at Cbus.",
+        "Downgrade: Warriors because Jackson Ford joins Roger Tuivasa-Sheck on the long-term injury list.",
+        "Volatility bucket: Eels v Rabbitohs, Sea Eagles v Storm, Titans v Bulldogs, and Knights v Wests Tigers."
       ]
     },
     {
@@ -225,19 +229,19 @@
       "title": "Intel Notes",
       "badge": "team lists",
       "tone": "red",
-      "heading": "The Round 16 team-list details driving the card",
+      "heading": "The Round 17 team-list details driving the card",
       "lines": [
-        "Tom Dearden's return has been delayed by a missed ankle fracture, keeping the Cowboys short against the Warriors.",
-        "Penrith list Cleary, Yeo and To'o on reserves again, so final-team confirmation matters against the Titans.",
-        "The Dolphins rest key Origin players but still keep enough form and structure to rate over Wests Tigers.",
-        "Manly name Tom Trbojevic back from a hamstring injury, raising the Bulldogs game's volatility.",
-        "Cronulla name Nicho Hynes and Blayke Brailey around the squad, but Hynes remains a watch and Toby Rudolf is out."
+        "Jackson Ford is out 10-12 weeks with a pectoral injury, weakening a Warriors side already without Roger Tuivasa-Sheck.",
+        "Penrith name Dylan Edwards, Brian To'o, Nathan Cleary, Isaah Yeo and Liam Martin for the Townsville trip.",
+        "The Broncos name Reece Walsh, Kotoni Staggs and Payne Haas, but Ezra Mam is out and Thomas Duffy partners Ben Hunt.",
+        "The Dolphins regain Hamiso Tabuai-Fidow, Selwyn Cobbo, Thomas Flegler, Max Plath and Kulikefu Finefeuiaki from the Round 16 rest cycle.",
+        "The Tigers name Adam Doueihi and Alex Twal back, but Jock Madden and Patrick Herbert are out after Round 16 injuries."
       ]
     }
   ],
   "footerNotes": [
-    "Built from the Codex-maintained data workflow and regenerated for Round 16 on Thursday 18 June 2026.",
-    "Round 15 charity bet status was no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
-    "Round 16 charity bet status is no bet locked; do not move the ledger without recorded stake, odds and user confirmation."
+    "Built from the Codex-maintained data workflow and regenerated for Round 17 on Wednesday 24 June 2026.",
+    "Round 16 charity bet status was no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
+    "Round 17 charity bet status is no bet locked; do not move the ledger without recorded stake, odds and user confirmation."
   ]
 }

@@ -18,27 +18,28 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 16, 2026
-- Tip card: seven-game post-Origin preview
-- Charity bet status: no Round 16 bet locked
+- Round: Round 17, 2026
+- Tip card: eight-game Beanie for Brain Cancer Round preview
+- Charity bet status: no Round 17 bet locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
 
-Round 16 tips currently published:
+Round 17 tips currently published:
 
-1. Storm over Raiders
-2. Warriors over Cowboys
-3. Panthers over Titans
-4. Dolphins over Wests Tigers
-5. Bulldogs over Sea Eagles
-6. Roosters over Sharks
-7. Knights over Dragons
+1. Panthers over Cowboys
+2. Roosters over Broncos
+3. Raiders over Dragons
+4. Dolphins over Warriors
+5. Knights over Wests Tigers
+6. Bulldogs over Titans
+7. Storm over Sea Eagles
+8. Rabbitohs over Eels
 
-Round 15 notes:
+Round 16 notes:
 
 - No charity bet was locked, so the Mark Hughes Foundation ledger stayed unchanged.
-- Current-source result notes support Rabbitohs over Broncos and Dolphins over Roosters as correct, and Warriors over Sharks as a miss.
-- Eels v Raiders and Wests Tigers v Titans still need clean official-score cross-checks before using Round 15 as a final tip-count headline.
+- Current-source result notes support Knights over Dragons, Dolphins over Wests Tigers, and Bulldogs over Sea Eagles as correct, and Panthers over Titans as a miss.
+- Sunday Round 16 games still need clean official-score cross-checks before using Round 16 as a final tip-count headline.
 
 Round 12 remains validated as a 5 from 5 result and must not be changed without re-checking official NRL scores.
 
@@ -117,14 +118,16 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 16 updates used:
+Recent Round 17 updates used:
 
 - NRL Draw: https://www.nrl.com/draw
-- NRL teams Round 16: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-teams-round-16-nicho-hynes-blayke-brailey-named-for-remodelled-sharks/news-story/9381912a00d3d4a6388a80d93df87ecd
-- Round 16 team lists: https://www.news.com.au/sport/nrl/round-16-team-lists-sharks-set-to-receive-double-boost-as-clubs-make-huge-calls-on-origin-stars/news-story/7b31f313ea3768ee076c1df5b6a2bdef
-- Round 16 late mail: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-16-tony-sukkar-out-to-cement-spot-as-kai-pearcepaul-out-longterm/news-story/fd01c7a3b67db7f285e2683191dce3e0
-- Round 16 early mail: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-early-mail-round-16-key-cronulla-forward-toby-rudolf-sidelined-with-knee-injury/news-story/adbb68c658c26a3f884a689f2188124b
-- Round 16 fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
+- NRL teams Round 17: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-teams-round-17-jackson-ford-ruled-out-for-1012-weeks-with-pectoral-injury/news-story/44bfb71903f585a72d4c6d518b1c5a02
+- Round 17 late mail: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-17-alex-twal-trains-with-rehab-group-samuela-fainu-eyes-early-return/news-story/f57d09280ff63aeb741b681b1e99f8e4
+- Round 17 fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
+- Round 16 result: Knights 22-20 Dragons: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-heartbreak-for-saints-as-knights-win-2220-over-dragons/news-story/8e1bead5870457b0bdc55ef5202ecea6
+- Round 16 result: Dolphins 36-22 Wests Tigers: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-dolphins-win-3622-over-wests-tigers/news-story/d60954cfd473bc75fde5d600770a32d6
+- Round 16 result: Titans 19-18 Panthers: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-zane-harrison-stars-as-gold-coast-titans-win-1918-over-penrith-panthers/news-story/910997d676a77a79f5639ed1a5b30bdb
+- Round 16 result: Bulldogs 13-12 Sea Eagles: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-bulldogs-win-1312-over-manly-sea-eagles-in-golden-point-thriller/news-story/49d7af9e7585233397fb8c8ba8d81959
 
 ## License
 
