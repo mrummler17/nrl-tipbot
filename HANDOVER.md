@@ -5,7 +5,7 @@
 - Repo: `/Users/marcusrummler/AI Developer Files/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
-- Latest commit before Round 17 work: `7da52a8 Record Round 16 deployment verification`
+- Latest Round 17 content commit: `7dd0b10 Update TipBot for Round 17`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -57,6 +57,8 @@
   - `Panthers over Cowboys` and `Roosters over Broncos` tips rendered.
   - Sharks bye copy rendered.
   - Browser console had 0 errors.
+- Round 17 content commit created:
+  - `7dd0b10 Update TipBot for Round 17`
 
 ## Must Not Change Casually
 
@@ -112,10 +114,10 @@
 - Round 17 tips are preview reads only. Final 24-hour and 90-minute team updates can still move the risk profile.
 - No Round 17 charity bet is locked. Any bet requires a fresh TAB price and explicit user confirmation.
 - Round 16 Sunday games need clean official-score sources before publishing a final Round 16 tip-count headline.
-- Commit, push, Pages build check, and live-site verification still need to be completed for the Round 17 update.
+- Push, Pages build check, and live-site verification still need to be completed for the Round 17 update.
 
 ## Recommended Next Steps
 
-- Commit and push to GitHub.
+- Push `main` to GitHub.
 - Check GitHub Pages build status and live page content.
 - Re-check final 24-hour team updates before any charity-bet discussion.
