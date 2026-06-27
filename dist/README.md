@@ -1,6 +1,6 @@
 # NRL TipBot Briefing 2026
 
-Round 17 Beanie for Brain Cancer preview with the charity ledger protected
+Round 17 result tracker with the charity ledger protected
 
 A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
 
@@ -14,32 +14,32 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Live Round Status
 
-- Round 17 preview checked Wednesday 24 June 2026
-- Round 17 is Beanie for Brain Cancer Round with eight games from Thursday 25 June to Sunday 28 June. The strongest raw tips are Panthers over Cowboys, Roosters over Broncos and Raiders over Dragons, but no Round 17 charity bet is locked and the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
+- Round 17 result tracker updated Saturday 27 June 2026
+- Round 17 result tracking is live. Rabbitohs over Eels and Bulldogs over Titans are verified correct, while Panthers over Cowboys and Storm over Sea Eagles are logged as user-reported misses pending a clean score cross-check. No Round 17 charity bet was locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
 
 
 ## Confidence Order
 
-1. Panthers over Cowboys - strongest raw read with Cleary, Yeo and To'o named back
-2. Roosters over Broncos - full spine and Brisbane halves uncertainty
-3. Raiders over Dragons - GIO and forward-platform edge
-4. Dolphins over Warriors - form and personnel edge, Warriors injury caveat
-5. Knights over Wests Tigers - home spine edge
-6. Bulldogs over Titans - quality lean after both Round 16 thrillers
-7. Storm over Sea Eagles - class lean but 4 Pines and Turbo keep it live
-8. Rabbitohs over Eels - lowest-confidence Thursday lean
+1. Rabbitohs over Eels - correct, Rabbitohs 32 def Eels 12
+2. Bulldogs over Titans - correct, Bulldogs 30 def Titans 12
+3. Panthers over Cowboys - missed, exact score pending clean cross-check
+4. Storm over Sea Eagles - missed, exact score pending clean cross-check
+5. Roosters over Broncos - pending clean result check
+6. Dolphins over Warriors - pending clean result check
+7. Raiders over Dragons - Sunday pending
+8. Knights over Wests Tigers - Sunday pending
 
 ## Board Sections
 
-- **Situation Report** — Round 17 is Beanie round, but the ledger still starts with discipline
-- **Bet Analysis** — Beanie round is exactly when the bet discipline matters
-- **Round 17 Tips** — Tip card ranked from cleaner read to messier read
+- **Situation Report** — Round 17 has moved from preview to damage-control tracking
+- **Bet Analysis** — Do not let a losing slip rewrite the charity ledger
+- **Round 17 Tips** — Tip card status, not a final record yet
 - **Round 17 Fixtures** — Round 17 fixture board
-- **Form Radar** — Who gets upgraded or held back this week
+- **Form Radar** — What the misses taught the board
 - **Intel Notes** — The Round 17 team-list details driving the card
 
 ## Notes
 
-- Built from the Codex-maintained data workflow and regenerated for Round 17 on Wednesday 24 June 2026.
-- Round 16 charity bet status was no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
-- Round 17 charity bet status is no bet locked; do not move the ledger without recorded stake, odds and user confirmation.
+- Built from the Codex-maintained data workflow and updated for Round 17 result tracking on Saturday 27 June 2026.
+- Round 17 charity bet status was no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
+- User-reported Panthers and Storm losses are recorded as external slip damage, not charity-ledger movement.

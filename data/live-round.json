@@ -1,8 +1,8 @@
 {
   "round": "Round 17",
-  "verifiedAt": "2026-06-24T12:00:00+10:00",
-  "verificationLabel": "Round 17 preview checked Wednesday 24 June 2026",
-  "summary": "Round 17 is Beanie for Brain Cancer Round with eight games from Thursday 25 June to Sunday 28 June. The strongest raw tips are Panthers over Cowboys, Roosters over Broncos and Raiders over Dragons, but no Round 17 charity bet is locked and the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
+  "verifiedAt": "2026-06-27T23:30:00+10:00",
+  "verificationLabel": "Round 17 result tracker updated Saturday 27 June 2026",
+  "summary": "Round 17 result tracking is live. Rabbitohs over Eels and Bulldogs over Titans are verified correct, while Panthers over Cowboys and Storm over Sea Eagles are logged as user-reported misses pending a clean score cross-check. No Round 17 charity bet was locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
   "sources": [
     {
       "label": "NRL Draw: Round 17",
@@ -47,10 +47,16 @@
       "publishedAt": "2026-06-20T00:00:00+10:00"
     },
     {
-      "label": "2026 NRL season results: Round 17 fixture table",
+      "label": "2026 NRL season results: Round 17 result and fixture table",
       "url": "https://en.wikipedia.org/wiki/2026_NRL_season_results",
       "publisher": "Wikipedia",
-      "publishedAt": "2026-06-24T00:00:00+10:00"
+      "publishedAt": "2026-06-27T00:00:00+10:00"
+    },
+    {
+      "label": "NRL live Round 17 scores, team updates and latest news",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-live-scores-and-updates-every-saturday-fixture-plus-news-from-around-the-grounds/news-story/ac58d7f3abf73cdebeb0380a357e9622",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-06-27T08:00:00+10:00"
     }
   ],
   "scoreboard": [
@@ -58,61 +64,61 @@
       "match": "Eels vs Rabbitohs",
       "kickoff": "Thu 25 Jun, 7:50pm",
       "venue": "CommBank Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Rabbitohs",
-      "note": "Lowest-confidence opener. Parramatta get Mitchell Moses and home field, but South Sydney's Cody Walker, Cameron Murray, Brandon Smith and David Fifita profile gives them the narrow attacking edge."
+      "status": "Final",
+      "result": "Rabbitohs 32 def Eels 12",
+      "tipOutcome": "Correct: Rabbitohs",
+      "note": "Verified result. The lowest-confidence Thursday lean landed, but it stays separate from the charity ledger because no Round 17 charity bet was locked."
     },
     {
       "match": "Titans vs Bulldogs",
       "kickoff": "Fri 26 Jun, 6:00pm",
       "venue": "Cbus Super Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Bulldogs",
-      "note": "Canterbury are the quality lean with Connor Tracey, Stephen Crichton, Lachlan Galvin, Max King and Leo Thompson named. Titans confidence is real after the Panthers upset, so this stays a trap."
+      "status": "Final",
+      "result": "Bulldogs 30 def Titans 12",
+      "tipOutcome": "Correct: Bulldogs",
+      "note": "Verified result. Canterbury handled the Cbus trap spot cleanly and kept the Round 17 card alive early."
     },
     {
       "match": "Broncos vs Roosters",
       "kickoff": "Fri 26 Jun, 8:00pm",
       "venue": "Suncorp Stadium",
-      "status": "Preview",
+      "status": "Pending cross-check",
       "result": "",
       "tipOutcome": "Tip: Roosters",
-      "note": "Roosters have the cleaner spine with Tedesco, Daly Cherry-Evans, Sam Walker, Reece Robson and Victor Radley. Brisbane regain Walsh, Staggs and Haas, but Ezra Mam is out."
+      "note": "Score still needs a clean public cross-check before this tip is marked correct or missed."
     },
     {
       "match": "Dolphins vs Warriors",
       "kickoff": "Sat 27 Jun, 3:00pm",
       "venue": "Suncorp Stadium",
-      "status": "Preview",
+      "status": "Pending cross-check",
       "result": "",
       "tipOutcome": "Tip: Dolphins",
-      "note": "Dolphins regain major strike and middle power after the rest cycle. Warriors remain structured but lose Jackson Ford for 10-12 weeks and are still without Roger Tuivasa-Sheck."
+      "note": "Score still needs a clean public cross-check before this tip is marked correct or missed."
     },
     {
       "match": "Cowboys vs Panthers",
       "kickoff": "Sat 27 Jun, 5:30pm",
       "venue": "Queensland Country Bank Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Panthers",
-      "note": "Strongest raw tip. Penrith name Dylan Edwards, Brian To'o, Nathan Cleary, Isaah Yeo and Liam Martin, while North Queensland still list Jaxon Purdue and Jake Clifford in the halves."
+      "status": "User-reported loss",
+      "result": "Cowboys def Panthers, exact score pending",
+      "tipOutcome": "Missed: Panthers",
+      "note": "User reported a loss on the Panthers leg. Exact score still needs clean public cross-check, but this was the biggest miss because it was the top-ranked raw tip."
     },
     {
       "match": "Sea Eagles vs Storm",
       "kickoff": "Sat 27 Jun, 7:35pm",
       "venue": "4 Pines Park",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Storm",
-      "note": "Storm class lean through Munster, Grant and Loiero, but 4 Pines and Tom Trbojevic make this a dangerous away favourite spot."
+      "status": "User-reported loss",
+      "result": "Sea Eagles def Storm, exact score pending",
+      "tipOutcome": "Missed: Storm",
+      "note": "User reported a loss on the Storm leg. The preview flagged 4 Pines and Tom Trbojevic as the danger, but the page now records the miss honestly."
     },
     {
       "match": "Raiders vs Dragons",
       "kickoff": "Sun 28 Jun, 2:00pm",
       "venue": "GIO Stadium",
-      "status": "Preview",
+      "status": "Pending",
       "result": "",
       "tipOutcome": "Tip: Raiders",
       "note": "Canberra get the GIO edge and a stronger forward platform through Horsburgh, Tapine, Hudson Young, Hosking and Brailey. Dragons are improved but still need a road proof point."
@@ -121,7 +127,7 @@
       "match": "Knights vs Wests Tigers",
       "kickoff": "Sun 28 Jun, 4:05pm",
       "venue": "McDonald Jones Stadium",
-      "status": "Preview",
+      "status": "Pending",
       "result": "",
       "tipOutcome": "Tip: Knights",
       "note": "Newcastle get the home-spine edge with Kalyn Ponga, Fletcher Sharpe and Dylan Brown. Tigers regain Adam Doueihi and Alex Twal but lose Jock Madden and Patrick Herbert."
@@ -130,7 +136,7 @@
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 17 Beanie for Brain Cancer preview is live with eight games and the Sharks on the bye."
+      "text": "Round 17 result tracking is live: Rabbitohs and Bulldogs verified correct, Panthers and Storm logged as user-reported misses."
     },
     {
       "tone": "green",
@@ -138,15 +144,15 @@
     },
     {
       "tone": "amber",
-      "text": "No Round 17 charity bet is locked; do not move the ledger without a fresh TAB price, stake and user confirmation."
+      "text": "No Round 17 charity bet was locked; external bet-slip losses do not move the Mark Hughes Foundation ledger."
     },
     {
       "tone": "green",
-      "text": "Strongest raw Round 17 tip: Panthers over Cowboys with Penrith's senior spine named."
+      "text": "Biggest miss so far: Panthers over Cowboys was the top-ranked raw tip and failed."
     },
     {
       "tone": "red",
-      "text": "Most dangerous Round 17 reads: Eels v Rabbitohs, Sea Eagles v Storm, Titans v Bulldogs and Knights v Tigers."
+      "text": "Storm over Sea Eagles also failed according to the user; exact score still needs a clean cross-check."
     },
     {
       "tone": "amber",
