@@ -59,6 +59,20 @@
   - `Panthers over Cowboys - missed` and `Storm over Sea Eagles - missed` rendered.
   - `external slip damage`, ledger record `3-2`, and profit `+$0.53` rendered.
   - Browser console had 0 errors.
+- Round 17 partial tracker commit created and pushed:
+  - `d64ba94 Track Round 17 tip results`
+- GitHub Pages build for `d64ba947173bb4780de698c3c6810bbe3b12b48d` completed successfully:
+  - Build status: `built`
+  - Created at `2026-06-27T12:27:24Z`
+  - Updated at `2026-06-27T12:27:41Z`
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 17 result-tracker HTML.
+- Production browser QA passed with cache-busted URL `https://mrummler17.github.io/nrl-tipbot/?v=round17-results-d64ba94`:
+  - `Round 17 result tracking` rendered.
+  - `2-2 known` rendered.
+  - `Rabbitohs 32 def Eels 12` and `Bulldogs 30 def Titans 12` rendered.
+  - `Panthers over Cowboys - missed` and `Storm over Sea Eagles - missed` rendered.
+  - `external slip damage`, ledger record `3-2`, and profit `+$0.53` rendered.
+  - Browser console had 0 errors.
 - Local browser QA passed at `http://127.0.0.1:4173/index.html`:
   - Page title rendered as `NRL TipBot Briefing 2026`.
   - Round 17 content rendered.
