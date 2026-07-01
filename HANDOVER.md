@@ -6,10 +6,11 @@
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
 - Latest known commit before this Round 18 update: `ea9e181 Record Round 17 result tracker deployment`
+- Latest Round 18 content commit: `afac91f Update TipBot for Round 18`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current production-intended version: Round 18, 2026 preview
+- Current production version: Round 18, 2026 preview
 
 ## Changed This Session
 
@@ -53,6 +54,20 @@
 - Wikipedia Round 18 fixture table was used as a secondary schedule cross-check.
 - Daily Telegraph Round 18 late-mail search result was checked for current injury/selection context.
 - Local browser QA passed at `http://127.0.0.1:4173/index.html`:
+  - `Round 18 briefing live` rendered.
+  - Five tips rendered: Rabbitohs, Dragons, Sharks, Sea Eagles and Knights.
+  - `No bet locked`, ledger record `3-2`, and profit `+$0.53` rendered.
+  - Bye teams rendered: Raiders, Bulldogs, Titans, Storm, Warriors, Cowboys and Roosters.
+  - Old `Round 17 result tracking` copy did not render.
+  - Browser console had 0 errors.
+- Round 18 content commit created and pushed:
+  - `afac91f Update TipBot for Round 18`
+- GitHub Pages build for `afac91fbeb5788bba61801290f2ce3c6bead2297` completed successfully:
+  - Build status: `built`
+  - Created at `2026-07-01T08:18:28Z`
+  - Updated at `2026-07-01T08:18:47Z`
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 18 HTML, including the Round 18 meta description.
+- Production browser QA passed with cache-busted URL `https://mrummler17.github.io/nrl-tipbot/?v=round18-afac91f`:
   - `Round 18 briefing live` rendered.
   - Five tips rendered: Rabbitohs, Dragons, Sharks, Sea Eagles and Knights.
   - `No bet locked`, ledger record `3-2`, and profit `+$0.53` rendered.
@@ -113,9 +128,9 @@
 - Rabbitohs over Panthers is an upset lean and should not be promoted to a charity-bet anchor without re-checking final teams.
 - Broncos v Sharks depends partly on Brisbane's final forward reshuffle and any Xavier Willison clearance update.
 - Round 17 full final tip count still needs clean score cross-checking before it is published as a final wrap.
-- Deployment verification is still pending for this Round 18 update until commit, push and Pages check are complete.
+- Browser cache may briefly retain the previous Round 17 page; a hard refresh or cache-busted URL showed the Round 18 production page correctly.
 
 ## Recommended Next Steps
 
-- Commit and push to `main`.
-- Verify GitHub Pages build and live production page.
+- Re-check Round 18 final team cuts before kickoff, especially Panthers v Rabbitohs and Broncos v Sharks.
+- Only convert Sharks from price watch to charity bet if fresh odds, stake and explicit user confirmation are recorded before kickoff.
