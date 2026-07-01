@@ -18,34 +18,32 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 17, 2026
-- Tip card: partial Round 17 result tracker
-- Charity bet status: no Round 17 bet locked; external slip losses do not move the ledger
+- Round: Round 18, 2026
+- Tip card: five-game Round 18 preview
+- Charity bet status: no Round 18 bet locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
 
-Round 17 tips currently tracked:
+Round 18 tips:
 
-1. Rabbitohs over Eels - correct, Rabbitohs 32 def Eels 12
-2. Bulldogs over Titans - correct, Bulldogs 30 def Titans 12
-3. Panthers over Cowboys - missed, exact score pending clean cross-check
-4. Storm over Sea Eagles - missed, exact score pending clean cross-check
-5. Roosters over Broncos - pending clean result check
-6. Dolphins over Warriors - pending clean result check
-7. Raiders over Dragons - Sunday pending
-8. Knights over Wests Tigers - Sunday pending
+1. Sharks over Broncos - best raw edge; Brisbane are missing Walsh, Haas, Carrigan and multiple forwards
+2. Sea Eagles over Eels - Manly keep Tom Trbojevic and Fogarty while Parramatta lose Mitchell Moses
+3. Knights over Dolphins - Newcastle at home against a Dolphins spine missing Katoa and Tabuai-Fidow
+4. Dragons over Wests Tigers - home lean with Tigers missing Luai and Taylan May
+5. Rabbitohs over Panthers - upset lean only with Penrith missing Cleary, Yeo, Martin and Papali'i
 
-Round 17 notes:
+Round 18 notes:
 
-- The user selected the TipBot card externally and reported losses on Panthers and Storm.
+- This is an Origin-distorted short round with only five games.
+- Sharks are the only serious charity-bet watch candidate, but no price or stake has been locked.
+- Rabbitohs over Panthers is deliberately marked as an upset lean, not a bet anchor.
+- Byes: Raiders, Bulldogs, Titans, Storm, Warriors, Cowboys and Roosters.
+
+Round 17 notes carried forward:
+
+- The user selected the Round 17 TipBot card externally and reported losses on Panthers and Storm.
 - Those external slip results are not charity-bet ledger movement because no Round 17 charity bet was locked with stake, price, and confirmation.
-- Do not publish a final Round 17 tip count until the Panthers and Storm scores, Broncos v Roosters, Dolphins v Warriors, and Sunday games have clean public cross-checks.
-
-Round 16 notes:
-
-- No charity bet was locked, so the Mark Hughes Foundation ledger stayed unchanged.
-- Current-source result notes support Knights over Dragons, Dolphins over Wests Tigers, and Bulldogs over Sea Eagles as correct, and Panthers over Titans as a miss.
-- Sunday Round 16 games still need clean official-score cross-checks before using Round 16 as a final tip-count headline.
+- Do not publish a final Round 17 tip count until all remaining scores have clean public cross-checks.
 
 Round 12 remains validated as a 5 from 5 result and must not be changed without re-checking official NRL scores.
 
@@ -124,17 +122,12 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 17 updates used:
+Recent Round 18 updates used:
 
-- NRL Draw: https://www.nrl.com/draw
-- NRL teams Round 17: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-teams-round-17-jackson-ford-ruled-out-for-1012-weeks-with-pectoral-injury/news-story/44bfb71903f585a72d4c6d518b1c5a02
-- Round 17 late mail: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-17-alex-twal-trains-with-rehab-group-samuela-fainu-eyes-early-return/news-story/f57d09280ff63aeb741b681b1e99f8e4
-- Round 17 result and fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
-- Round 17 live scores and updates: https://www.dailytelegraph.com.au/sport/nrl/nrl-live-scores-and-updates-every-saturday-fixture-plus-news-from-around-the-grounds/news-story/ac58d7f3abf73cdebeb0380a357e9622
-- Round 16 result: Knights 22-20 Dragons: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-heartbreak-for-saints-as-knights-win-2220-over-dragons/news-story/8e1bead5870457b0bdc55ef5202ecea6
-- Round 16 result: Dolphins 36-22 Wests Tigers: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-dolphins-win-3622-over-wests-tigers/news-story/d60954cfd473bc75fde5d600770a32d6
-- Round 16 result: Titans 19-18 Panthers: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-zane-harrison-stars-as-gold-coast-titans-win-1918-over-penrith-panthers/news-story/910997d676a77a79f5639ed1a5b30bdb
-- Round 16 result: Bulldogs 13-12 Sea Eagles: https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-bulldogs-win-1312-over-manly-sea-eagles-in-golden-point-thriller/news-story/49d7af9e7585233397fb8c8ba8d81959
+- NRL Team Lists Round 18: https://www.nrl.com/news/2026/06/30/nrl-team-lists-round-18/
+- NRL Draw Round 18: https://www.nrl.com/draw/?competition=111&round=18&season=2026
+- Round 18 fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
+- Round 18 late mail: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-18-oryn-keeley-set-to-start-as-ativalu-lisati-ruled-out-for-up-to-two-months/news-story/e3e99476ba2c9cff60053d6cca70703e
 
 ## License
 

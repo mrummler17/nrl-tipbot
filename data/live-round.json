@@ -1,142 +1,85 @@
 {
-  "round": "Round 17",
-  "verifiedAt": "2026-06-27T23:30:00+10:00",
-  "verificationLabel": "Round 17 result tracker updated Saturday 27 June 2026",
-  "summary": "Round 17 result tracking is live. Rabbitohs over Eels and Bulldogs over Titans are verified correct, while Panthers over Cowboys and Storm over Sea Eagles are logged as user-reported misses pending a clean score cross-check. No Round 17 charity bet was locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
+  "round": "Round 18",
+  "verifiedAt": "2026-07-01T18:30:00+10:00",
+  "verificationLabel": "Round 18 preview updated Wednesday 1 July 2026",
+  "summary": "Round 18 preview is live with five tips: Rabbitohs, Dragons, Sharks, Sea Eagles and Knights. No Round 18 charity bet is locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
   "sources": [
     {
-      "label": "NRL Draw: Round 17",
-      "url": "https://www.nrl.com/draw",
+      "label": "NRL Team Lists: Round 18",
+      "url": "https://www.nrl.com/news/2026/06/30/nrl-team-lists-round-18/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-06-24T00:00:00+10:00"
+      "publishedAt": "2026-06-30T16:00:00+10:00"
     },
     {
-      "label": "NRL teams Round 17: Jackson Ford ruled out 10-12 weeks",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-teams-round-17-jackson-ford-ruled-out-for-1012-weeks-with-pectoral-injury/news-story/44bfb71903f585a72d4c6d518b1c5a02",
-      "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-23T16:13:00+10:00"
+      "label": "NRL Draw: Round 18, 2026 Telstra Premiership",
+      "url": "https://www.nrl.com/draw/?competition=111&round=18&season=2026",
+      "publisher": "NRL.com",
+      "publishedAt": "2026-07-01T00:00:00+10:00"
     },
     {
-      "label": "NRL Late Mail Round 17: Alex Twal rehab, Samuela Fainu return watch",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-17-alex-twal-trains-with-rehab-group-samuela-fainu-eyes-early-return/news-story/f57d09280ff63aeb741b681b1e99f8e4",
-      "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-24T00:00:00+10:00"
-    },
-    {
-      "label": "Round 16 result: Knights 22-20 Dragons",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-heartbreak-for-saints-as-knights-win-2220-over-dragons/news-story/8e1bead5870457b0bdc55ef5202ecea6",
-      "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-20T00:00:00+10:00"
-    },
-    {
-      "label": "Round 16 result: Dolphins 36-22 Wests Tigers",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-dolphins-win-3622-over-wests-tigers/news-story/d60954cfd473bc75fde5d600770a32d6",
-      "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-20T18:18:00+10:00"
-    },
-    {
-      "label": "Round 16 result: Titans 19-18 Panthers",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-zane-harrison-stars-as-gold-coast-titans-win-1918-over-penrith-panthers/news-story/910997d676a77a79f5639ed1a5b30bdb",
-      "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-20T00:00:00+10:00"
-    },
-    {
-      "label": "Round 16 result: Bulldogs 13-12 Sea Eagles",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-round-16-bulldogs-win-1312-over-manly-sea-eagles-in-golden-point-thriller/news-story/49d7af9e7585233397fb8c8ba8d81959",
-      "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-20T00:00:00+10:00"
-    },
-    {
-      "label": "2026 NRL season results: Round 17 result and fixture table",
+      "label": "2026 NRL season results: Round 18 fixture table",
       "url": "https://en.wikipedia.org/wiki/2026_NRL_season_results",
       "publisher": "Wikipedia",
-      "publishedAt": "2026-06-27T00:00:00+10:00"
+      "publishedAt": "2026-07-01T00:00:00+10:00"
     },
     {
-      "label": "NRL live Round 17 scores, team updates and latest news",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/nrl-live-scores-and-updates-every-saturday-fixture-plus-news-from-around-the-grounds/news-story/ac58d7f3abf73cdebeb0380a357e9622",
+      "label": "NRL Late Mail Round 18: Oryn Keeley set to start as Ativalu Lisati ruled out",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-18-oryn-keeley-set-to-start-as-ativalu-lisati-ruled-out-for-up-to-two-months/news-story/e3e99476ba2c9cff60053d6cca70703e",
       "publisher": "Daily Telegraph",
-      "publishedAt": "2026-06-27T08:00:00+10:00"
+      "publishedAt": "2026-07-01T00:00:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Eels vs Rabbitohs",
-      "kickoff": "Thu 25 Jun, 7:50pm",
+      "match": "Panthers vs Rabbitohs",
+      "kickoff": "Fri 3 Jul, 8:00pm",
       "venue": "CommBank Stadium",
-      "status": "Final",
-      "result": "Rabbitohs 32 def Eels 12",
-      "tipOutcome": "Correct: Rabbitohs",
-      "note": "Verified result. The lowest-confidence Thursday lean landed, but it stays separate from the charity ledger because no Round 17 charity bet was locked."
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Rabbitohs",
+      "note": "Upset lean only. Penrith are without Nathan Cleary, Isaah Yeo, Liam Martin and Isaiah Papali'i, while Souths regain Jack Wighton but lose Cameron Murray and Alex Johnston."
     },
     {
-      "match": "Titans vs Bulldogs",
-      "kickoff": "Fri 26 Jun, 6:00pm",
-      "venue": "Cbus Super Stadium",
-      "status": "Final",
-      "result": "Bulldogs 30 def Titans 12",
-      "tipOutcome": "Correct: Bulldogs",
-      "note": "Verified result. Canterbury handled the Cbus trap spot cleanly and kept the Round 17 card alive early."
+      "match": "Dragons vs Wests Tigers",
+      "kickoff": "Sat 4 Jul, 5:30pm",
+      "venue": "St George Venues Jubilee Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Dragons",
+      "note": "Low-confidence home lean. Tigers regain Alex Twal but lose Jarome Luai to delayed concussion symptoms and Taylan May to a shoulder injury."
     },
     {
-      "match": "Broncos vs Roosters",
-      "kickoff": "Fri 26 Jun, 8:00pm",
+      "match": "Broncos vs Sharks",
+      "kickoff": "Sat 4 Jul, 7:35pm",
       "venue": "Suncorp Stadium",
-      "status": "Pending cross-check",
+      "status": "Preview",
       "result": "",
-      "tipOutcome": "Tip: Roosters",
-      "note": "Score still needs a clean public cross-check before this tip is marked correct or missed."
+      "tipOutcome": "Tip: Sharks",
+      "note": "Top confidence tip. Brisbane are missing Reece Walsh, Payne Haas, Pat Carrigan and multiple depth pieces; Cronulla lose key forwards but retain Hynes and Trindall."
     },
     {
-      "match": "Dolphins vs Warriors",
-      "kickoff": "Sat 27 Jun, 3:00pm",
-      "venue": "Suncorp Stadium",
-      "status": "Pending cross-check",
+      "match": "Eels vs Sea Eagles",
+      "kickoff": "Sun 5 Jul, 2:00pm",
+      "venue": "CommBank Stadium",
+      "status": "Preview",
       "result": "",
-      "tipOutcome": "Tip: Dolphins",
-      "note": "Score still needs a clean public cross-check before this tip is marked correct or missed."
+      "tipOutcome": "Tip: Sea Eagles",
+      "note": "Manly lose Luke Brooks and Haumole Olakau'atu, but still carry Tom Trbojevic and Jamal Fogarty. Parramatta lose Mitchell Moses, with Jonah Pezet coming in."
     },
     {
-      "match": "Cowboys vs Panthers",
-      "kickoff": "Sat 27 Jun, 5:30pm",
-      "venue": "Queensland Country Bank Stadium",
-      "status": "User-reported loss",
-      "result": "Cowboys def Panthers, exact score pending",
-      "tipOutcome": "Missed: Panthers",
-      "note": "User reported a loss on the Panthers leg. Exact score still needs clean public cross-check, but this was the biggest miss because it was the top-ranked raw tip."
-    },
-    {
-      "match": "Sea Eagles vs Storm",
-      "kickoff": "Sat 27 Jun, 7:35pm",
-      "venue": "4 Pines Park",
-      "status": "User-reported loss",
-      "result": "Sea Eagles def Storm, exact score pending",
-      "tipOutcome": "Missed: Storm",
-      "note": "User reported a loss on the Storm leg. The preview flagged 4 Pines and Tom Trbojevic as the danger, but the page now records the miss honestly."
-    },
-    {
-      "match": "Raiders vs Dragons",
-      "kickoff": "Sun 28 Jun, 2:00pm",
-      "venue": "GIO Stadium",
-      "status": "Pending",
-      "result": "",
-      "tipOutcome": "Tip: Raiders",
-      "note": "Canberra get the GIO edge and a stronger forward platform through Horsburgh, Tapine, Hudson Young, Hosking and Brailey. Dragons are improved but still need a road proof point."
-    },
-    {
-      "match": "Knights vs Wests Tigers",
-      "kickoff": "Sun 28 Jun, 4:05pm",
+      "match": "Knights vs Dolphins",
+      "kickoff": "Sun 5 Jul, 4:05pm",
       "venue": "McDonald Jones Stadium",
-      "status": "Pending",
+      "status": "Preview",
       "result": "",
       "tipOutcome": "Tip: Knights",
-      "note": "Newcastle get the home-spine edge with Kalyn Ponga, Fletcher Sharpe and Dylan Brown. Tigers regain Adam Doueihi and Alex Twal but lose Jock Madden and Patrick Herbert."
+      "note": "Home lean. Newcastle miss Kalyn Ponga and Bradman Best, but Dolphins are without Isaiya Katoa, Hamiso Tabuai-Fidow, Jack Bostock, Selwyn Cobbo, Max Plath and Thomas Flegler."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 17 result tracking is live: Rabbitohs and Bulldogs verified correct, Panthers and Storm logged as user-reported misses."
+      "text": "Round 18 preview is live: tips are Rabbitohs, Dragons, Sharks, Sea Eagles and Knights."
     },
     {
       "tone": "green",
@@ -144,19 +87,15 @@
     },
     {
       "tone": "amber",
-      "text": "No Round 17 charity bet was locked; external bet-slip losses do not move the Mark Hughes Foundation ledger."
-    },
-    {
-      "tone": "green",
-      "text": "Biggest miss so far: Panthers over Cowboys was the top-ranked raw tip and failed."
+      "text": "No Round 18 charity bet is locked; Sharks are a price-watch candidate only."
     },
     {
       "tone": "red",
-      "text": "Storm over Sea Eagles also failed according to the user; exact score still needs a clean cross-check."
+      "text": "Origin-week volatility is high: do not chase last week's Panthers and Storm losses."
     },
     {
       "tone": "amber",
-      "text": "Sharks are on the Round 17 bye."
+      "text": "Byes: Raiders, Bulldogs, Titans, Storm, Warriors, Cowboys and Roosters."
     }
   ]
 }
