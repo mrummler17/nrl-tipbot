@@ -6,10 +6,11 @@
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
 - Latest known commit before this Round 19 update: `39e5fff Record Round 18 deployment handover`
+- Latest Round 19 content commit: `c40c172 Update TipBot for Round 19`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current production-intended version: Round 19, 2026 preview
+- Current production version: Round 19, 2026 preview
 
 ## Changed This Session
 
@@ -54,6 +55,20 @@
 - NRL official team-list page was checked for Round 19 named sides.
 - Wikipedia Round 19 fixture table was used as a secondary schedule cross-check.
 - Local browser QA passed at `http://127.0.0.1:4173/index.html`:
+  - `Round 19 briefing live` rendered.
+  - Seven tips rendered: Warriors, Sharks, Bulldogs, Eels, Knights, Sea Eagles and Storm.
+  - `No bet locked`, ledger record `3-2`, and profit `+$0.53` rendered.
+  - Bye teams rendered: Broncos, Panthers and Dragons.
+  - Old `Round 18 briefing live` and `Round 18 preview with Origin-week` copy did not render.
+  - Browser console had 0 errors.
+- Round 19 content commit created and pushed:
+  - `c40c172 Update TipBot for Round 19`
+- GitHub Pages build for `c40c1723b2507bfe56d89c2c6fd2437f92f0d709` completed successfully:
+  - Build status: `built`
+  - Created at `2026-07-09T11:51:47Z`
+  - Updated at `2026-07-09T11:52:12Z`
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 19 HTML, including the Round 19 meta description.
+- Production browser QA passed with cache-busted URL `https://mrummler17.github.io/nrl-tipbot/?v=round19-c40c172`:
   - `Round 19 briefing live` rendered.
   - Seven tips rendered: Warriors, Sharks, Bulldogs, Eels, Knights, Sea Eagles and Storm.
   - `No bet locked`, ledger record `3-2`, and profit `+$0.53` rendered.
@@ -113,9 +128,9 @@
 - Storm and Sharks are price-watch candidates only.
 - Origin back-up calls can still materially alter Dolphins v Sharks, Bulldogs v Raiders, Roosters v Eels, Rabbitohs v Knights, Sea Eagles v Cowboys and Storm v Titans.
 - Round 18 full final tip count still needs clean score cross-checking before it is published as a final wrap.
-- Deployment verification is still pending for this Round 19 update until commit, push and Pages check are complete.
+- Browser cache may briefly retain the previous Round 18 page; a hard refresh or cache-busted URL showed the Round 19 production page correctly.
 
 ## Recommended Next Steps
 
-- Commit and push to `main`.
-- Verify GitHub Pages build and live production page.
+- Re-check final team cuts before kickoff, especially Tigers v Warriors and Dolphins v Sharks.
+- Only convert Storm or Sharks from price watch to charity bet if fresh odds, stake and explicit user confirmation are recorded before kickoff.
