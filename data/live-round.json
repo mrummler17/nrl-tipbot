@@ -1,85 +1,97 @@
 {
-  "round": "Round 18",
-  "verifiedAt": "2026-07-01T18:30:00+10:00",
-  "verificationLabel": "Round 18 preview updated Wednesday 1 July 2026",
-  "summary": "Round 18 preview is live with five tips: Rabbitohs, Dragons, Sharks, Sea Eagles and Knights. No Round 18 charity bet is locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
+  "round": "Round 19",
+  "verifiedAt": "2026-07-09T21:30:00+10:00",
+  "verificationLabel": "Round 19 preview updated Thursday 9 July 2026",
+  "summary": "Round 19 preview is live with seven tips: Warriors, Sharks, Bulldogs, Eels, Knights, Sea Eagles and Storm. No Round 19 charity bet is locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
   "sources": [
     {
-      "label": "NRL Team Lists: Round 18",
-      "url": "https://www.nrl.com/news/2026/06/30/nrl-team-lists-round-18/",
+      "label": "NRL Late Mail Round 19: All eyes on Origin stars; Dearden nears return",
+      "url": "https://www.nrl.com/news/2026/07/09/nrl-late-mail-round-19-all-eyes-on-origin-stars-deardon-eyes-return/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-06-30T16:00:00+10:00"
+      "publishedAt": "2026-07-09T20:07:00+10:00"
     },
     {
-      "label": "NRL Draw: Round 18, 2026 Telstra Premiership",
-      "url": "https://www.nrl.com/draw/?competition=111&round=18&season=2026",
+      "label": "NRL Team Lists: Round 19",
+      "url": "https://www.nrl.com/news/2026/07/07/nrl-team-lists-round-19/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-07-01T00:00:00+10:00"
+      "publishedAt": "2026-07-07T16:00:00+10:00"
     },
     {
-      "label": "2026 NRL season results: Round 18 fixture table",
+      "label": "2026 NRL season results: Round 19 fixture table",
       "url": "https://en.wikipedia.org/wiki/2026_NRL_season_results",
       "publisher": "Wikipedia",
-      "publishedAt": "2026-07-01T00:00:00+10:00"
-    },
-    {
-      "label": "NRL Late Mail Round 18: Oryn Keeley set to start as Ativalu Lisati ruled out",
-      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-18-oryn-keeley-set-to-start-as-ativalu-lisati-ruled-out-for-up-to-two-months/news-story/e3e99476ba2c9cff60053d6cca70703e",
-      "publisher": "Daily Telegraph",
-      "publishedAt": "2026-07-01T00:00:00+10:00"
+      "publishedAt": "2026-07-09T00:00:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Panthers vs Rabbitohs",
-      "kickoff": "Fri 3 Jul, 8:00pm",
-      "venue": "CommBank Stadium",
+      "match": "Wests Tigers vs Warriors",
+      "kickoff": "Fri 10 Jul, 8:00pm",
+      "venue": "Campbelltown Stadium",
       "status": "Preview",
       "result": "",
-      "tipOutcome": "Tip: Rabbitohs",
-      "note": "Upset lean only. Penrith are without Nathan Cleary, Isaah Yeo, Liam Martin and Isaiah Papali'i, while Souths regain Jack Wighton but lose Cameron Murray and Alex Johnston."
+      "tipOutcome": "Tip: Warriors",
+      "note": "Warriors lose Barnett and Capewell from the extended squad but regain James Fisher-Harris and Leka Halasima. Tigers regain Luai but lose Api Koroisau to a pectoral injury."
     },
     {
-      "match": "Dragons vs Wests Tigers",
-      "kickoff": "Sat 4 Jul, 5:30pm",
-      "venue": "St George Venues Jubilee Stadium",
-      "status": "Preview",
-      "result": "",
-      "tipOutcome": "Tip: Dragons",
-      "note": "Low-confidence home lean. Tigers regain Alex Twal but lose Jarome Luai to delayed concussion symptoms and Taylan May to a shoulder injury."
-    },
-    {
-      "match": "Broncos vs Sharks",
-      "kickoff": "Sat 4 Jul, 7:35pm",
-      "venue": "Suncorp Stadium",
+      "match": "Dolphins vs Sharks",
+      "kickoff": "Sat 11 Jul, 3:00pm",
+      "venue": "Kayo Stadium",
       "status": "Preview",
       "result": "",
       "tipOutcome": "Tip: Sharks",
-      "note": "Top confidence tip. Brisbane are missing Reece Walsh, Payne Haas, Pat Carrigan and multiple depth pieces; Cronulla lose key forwards but retain Hynes and Trindall."
+      "note": "Sharks keep Hynes and Trindall together. Dolphins are set to lose Jack Bostock after an Origin head knock and still need final calls on several Origin reserves."
     },
     {
-      "match": "Eels vs Sea Eagles",
-      "kickoff": "Sun 5 Jul, 2:00pm",
-      "venue": "CommBank Stadium",
+      "match": "Bulldogs vs Raiders",
+      "kickoff": "Sat 11 Jul, 5:30pm",
+      "venue": "Accor Stadium",
       "status": "Preview",
       "result": "",
-      "tipOutcome": "Tip: Sea Eagles",
-      "note": "Manly lose Luke Brooks and Haumole Olakau'atu, but still carry Tom Trbojevic and Jamal Fogarty. Parramatta lose Mitchell Moses, with Jonah Pezet coming in."
+      "tipOutcome": "Tip: Bulldogs",
+      "note": "Home lean only. Crichton is expected to back up for Canterbury; Raiders are boosted by Papalii and Noah Martin but still carry Origin back-up uncertainty around Young and Strange."
     },
     {
-      "match": "Knights vs Dolphins",
-      "kickoff": "Sun 5 Jul, 4:05pm",
-      "venue": "McDonald Jones Stadium",
+      "match": "Roosters vs Eels",
+      "kickoff": "Sat 11 Jul, 7:35pm",
+      "venue": "Allianz Stadium",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Eels",
+      "note": "Upset lean. Roosters are set to lose James Tedesco after an Origin head knock, while Mitchell Moses is expected to back up for Parramatta."
+    },
+    {
+      "match": "Rabbitohs vs Knights",
+      "kickoff": "Sun 12 Jul, 2:00pm",
+      "venue": "Accor Stadium",
       "status": "Preview",
       "result": "",
       "tipOutcome": "Tip: Knights",
-      "note": "Home lean. Newcastle miss Kalyn Ponga and Bradman Best, but Dolphins are without Isaiya Katoa, Hamiso Tabuai-Fidow, Jack Bostock, Selwyn Cobbo, Max Plath and Thomas Flegler."
+      "note": "Ponga and Bradman Best are expected to back up, and Dylan Brown remains the key spine edge. Souths regain Cameron Murray and Campbell Graham but lose Cody Walker to suspension."
+    },
+    {
+      "match": "Sea Eagles vs Cowboys",
+      "kickoff": "Sun 12 Jul, 4:05pm",
+      "venue": "4 Pines Park",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Sea Eagles",
+      "note": "Manly home lean with Tom Trbojevic, Jamal Fogarty, Tolu Koula and Haumole Olakau'atu named. Cowboys have Cotter, Nanai and Taulagi set to back up, with Tom Dearden nearing a return."
+    },
+    {
+      "match": "Storm vs Titans",
+      "kickoff": "Sun 12 Jul, 6:15pm",
+      "venue": "AAMI Park",
+      "status": "Preview",
+      "result": "",
+      "tipOutcome": "Tip: Storm",
+      "note": "Top confidence tip. Melbourne regain Hughes, Meaney and Howarth, while Munster, Grant and Loiero are named to back up from Origin."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 18 preview is live: tips are Rabbitohs, Dragons, Sharks, Sea Eagles and Knights."
+      "text": "Round 19 preview is live: tips are Warriors, Sharks, Bulldogs, Eels, Knights, Sea Eagles and Storm."
     },
     {
       "tone": "green",
@@ -87,15 +99,15 @@
     },
     {
       "tone": "amber",
-      "text": "No Round 18 charity bet is locked; Sharks are a price-watch candidate only."
+      "text": "No Round 19 charity bet is locked; Storm and Sharks are price-watch candidates only."
     },
     {
       "tone": "red",
-      "text": "Origin-week volatility is high: do not chase last week's Panthers and Storm losses."
+      "text": "Late mail matters: Tedesco and Bostock are set to miss, and several Origin players are still monitored."
     },
     {
       "tone": "amber",
-      "text": "Byes: Raiders, Bulldogs, Titans, Storm, Warriors, Cowboys and Roosters."
+      "text": "Byes: Broncos, Panthers and Dragons."
     }
   ]
 }

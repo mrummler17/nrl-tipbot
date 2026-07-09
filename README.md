@@ -18,32 +18,34 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 18, 2026
-- Tip card: five-game Round 18 preview
-- Charity bet status: no Round 18 bet locked
+- Round: Round 19, 2026
+- Tip card: seven-game Round 19 preview
+- Charity bet status: no Round 19 bet locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
 
-Round 18 tips:
+Round 19 tips:
 
-1. Sharks over Broncos - best raw edge; Brisbane are missing Walsh, Haas, Carrigan and multiple forwards
-2. Sea Eagles over Eels - Manly keep Tom Trbojevic and Fogarty while Parramatta lose Mitchell Moses
-3. Knights over Dolphins - Newcastle at home against a Dolphins spine missing Katoa and Tabuai-Fidow
-4. Dragons over Wests Tigers - home lean with Tigers missing Luai and Taylan May
-5. Rabbitohs over Panthers - upset lean only with Penrith missing Cleary, Yeo, Martin and Papali'i
+1. Storm over Titans - best raw edge with Hughes, Meaney and Howarth returning
+2. Sharks over Dolphins - Dolphins lose Bostock and still have Origin availability calls
+3. Warriors over Wests Tigers - Tigers lose Api Koroisau while Warriors regain James Fisher-Harris and Leka Halasima
+4. Knights over Rabbitohs - Ponga and Bradman Best are expected to back up while Souths lose Cody Walker
+5. Sea Eagles over Cowboys - Manly home lean with Trbojevic, Fogarty and Olakau'atu
+6. Bulldogs over Raiders - home lean only, with several Origin/injury watch points
+7. Eels over Roosters - upset lean with Tedesco set to miss and Moses expected to back up
 
-Round 18 notes:
+Round 19 notes:
 
-- This is an Origin-distorted short round with only five games.
-- Sharks are the only serious charity-bet watch candidate, but no price or stake has been locked.
-- Rabbitohs over Panthers is deliberately marked as an upset lean, not a bet anchor.
-- Byes: Raiders, Bulldogs, Titans, Storm, Warriors, Cowboys and Roosters.
+- This is a post-Origin round, so late mail and final cut-downs matter.
+- Storm and Sharks are price-watch candidates only; no stake or price is locked.
+- James Tedesco and Jack Bostock are set to miss after Origin head knocks.
+- Warriors lose Mitchell Barnett and Kurt Capewell, but regain James Fisher-Harris, Leka Halasima and Alofiana Khan-Pereira.
+- Byes: Broncos, Panthers and Dragons.
 
-Round 17 notes carried forward:
+Round 18 notes carried forward:
 
-- The user selected the Round 17 TipBot card externally and reported losses on Panthers and Storm.
-- Those external slip results are not charity-bet ledger movement because no Round 17 charity bet was locked with stake, price, and confirmation.
-- Do not publish a final Round 17 tip count until all remaining scores have clean public cross-checks.
+- No Round 18 charity bet was locked, so the Mark Hughes Foundation ledger stayed unchanged.
+- Round 18 should not be published as a final tip-count wrap without clean result cross-checking.
 
 Round 12 remains validated as a 5 from 5 result and must not be changed without re-checking official NRL scores.
 
@@ -122,12 +124,11 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 18 updates used:
+Recent Round 19 updates used:
 
-- NRL Team Lists Round 18: https://www.nrl.com/news/2026/06/30/nrl-team-lists-round-18/
-- NRL Draw Round 18: https://www.nrl.com/draw/?competition=111&round=18&season=2026
-- Round 18 fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
-- Round 18 late mail: https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-late-mail-round-18-oryn-keeley-set-to-start-as-ativalu-lisati-ruled-out-for-up-to-two-months/news-story/e3e99476ba2c9cff60053d6cca70703e
+- NRL Late Mail Round 19: https://www.nrl.com/news/2026/07/09/nrl-late-mail-round-19-all-eyes-on-origin-stars-deardon-eyes-return/
+- NRL Team Lists Round 19: https://www.nrl.com/news/2026/07/07/nrl-team-lists-round-19/
+- Round 19 fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
 
 ## License
 

@@ -1,27 +1,28 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 18 preview with Origin-week risk controls switched on",
+    "subhead": "Round 19 preview after the Origin decider",
     "intro": "A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 18 briefing live"
+    "status": "Round 19 briefing live"
   },
   "meta": {
-    "description": "Codex-managed NRL TipBot dashboard for Round 18 tips, team-list risk, and Mark Hughes Foundation ledger tracking."
+    "description": "Codex-managed NRL TipBot dashboard for Round 19 tips, post-Origin late mail, and Mark Hughes Foundation ledger tracking."
   },
   "ticker": [
-    "round 18 briefing is live with five games across friday to sunday",
+    "round 19 briefing is live with seven games from friday to sunday",
     "charity ledger stays at 3 and 2 with $31.50 invested $32.03 returned and plus $0.53 settled profit",
-    "no round 18 charity bet is locked without fresh odds stake and explicit confirmation",
-    "top confidence is sharks over broncos because brisbane lose walsh haas carrigan and more",
-    "rabbitohs over panthers is an upset lean only because penrith are missing cleary yeo martin and papalii",
-    "raiders bulldogs titans storm warriors cowboys and roosters are on the bye"
+    "no round 19 charity bet is locked without fresh odds stake and explicit confirmation",
+    "top confidence is storm over titans with hughes meaney and howarth set to return",
+    "tedesco and bostock are set to miss after origin head knocks",
+    "warriors lose barnett and capewell but regain james fisher-harris leka halasima and alofiana khan-pereira",
+    "broncos panthers and dragons are on the bye"
   ],
   "heroCards": [
     {
       "label": "Round Mode",
       "value": "Preview",
-      "delta": "Round 18 live",
+      "delta": "Round 19 live",
       "tone": "cyan"
     },
     {
@@ -32,8 +33,8 @@
     },
     {
       "label": "Tip Card",
-      "value": "5 games",
-      "delta": "Origin risk",
+      "value": "7 games",
+      "delta": "post-Origin risk",
       "tone": "amber"
     },
     {
@@ -48,20 +49,20 @@
       "title": "Round Read",
       "tone": "cyan",
       "items": [
-        "Round 18 is a short five-game slate shaped by Origin absences and a seven-team bye group.",
-        "The cleanest raw edge is Sharks over Broncos because Brisbane lose Reece Walsh, Payne Haas and Pat Carrigan, while Cronulla still keep Nicho Hynes and Braydon Trindall together.",
-        "Manly over Parramatta and Newcastle over Dolphins are both spine-and-injury reads rather than form-table locks.",
-        "Rabbitohs over Panthers is marked as an upset lean, not an anchor, because Penrith are missing Nathan Cleary, Isaah Yeo, Liam Martin and Isaiah Papali'i."
+        "Round 19 is a seven-game slate played immediately after the State of Origin decider.",
+        "The cleanest raw edge is Storm over Titans because Jahrome Hughes, Nick Meaney and Jack Howarth are all on track to return, while Munster, Grant and Loiero are named to back up.",
+        "Sharks over Dolphins remains strong because Jack Bostock is set to miss and several Dolphins Origin players are still being monitored.",
+        "Warriors over Wests Tigers is a good Friday lean despite Barnett and Capewell dropping out, because James Fisher-Harris and Leka Halasima are on track to return while the Tigers lose Api Koroisau."
       ]
     },
     {
       "title": "Risk Flags",
       "tone": "red",
       "items": [
-        "This is not a round to build a big multi after the Panthers and Storm hurt last week.",
-        "Panthers still have enough system strength to punish an overconfident Rabbitohs lean.",
-        "Broncos v Sharks carries late-mail risk because Xavier Willison still needs the NRL concussion exemption pathway to hold.",
-        "Dolphins lose Isaiya Katoa, Hamiso Tabuai-Fidow, Jack Bostock, Selwyn Cobbo, Max Plath and Thomas Flegler, but Newcastle also miss Kalyn Ponga and Bradman Best."
+        "This is a post-Origin round, so final 24-hour cuts matter more than the first named teams.",
+        "James Tedesco is set to miss for the Roosters, which pushes the Eels lean up, but Mitchell Moses still has to back up cleanly from Origin.",
+        "Bulldogs v Raiders is the most fragile pick because Crichton, Young and Strange all sit in the Origin back-up watch zone.",
+        "Sea Eagles v Cowboys can flip if North Queensland's Origin trio all back up strongly and Tom Dearden comes in late."
       ]
     },
     {
@@ -69,42 +70,42 @@
       "tone": "amber",
       "items": [
         "Protect the positive Mark Hughes Foundation ledger at +$0.53.",
-        "Keep Round 18 as a tips board until a price, stake and charity-bet confirmation are recorded.",
-        "Treat Sharks as the only serious charity-bet watch candidate if the market offers value.",
-        "Do not chase last week's Panthers and Storm losses through a larger stake."
+        "Keep Round 19 as a tips board until a price, stake and charity-bet confirmation are recorded.",
+        "Treat Storm as the first price-watch candidate, then Sharks if the market is sensible.",
+        "Do not turn late-mail uncertainty into a bigger stake."
       ]
     },
     {
       "title": "Watchlist",
       "tone": "green",
       "items": [
-        "Check final 24-hour cuts for Panthers v Rabbitohs before kickoff on Friday night.",
-        "Monitor Xavier Willison clearance and any late Brisbane forward reshuffle.",
-        "Watch Manly's five-eighth Joey Walsh in his first Luke Brooks replacement start.",
-        "Confirm no late Dolphins spine shuffle before locking confidence on Knights."
+        "Check Friday 24-hour cuts for Tigers v Warriors, especially Warriors forward reshuffle after Barnett and Capewell drop out.",
+        "Monitor Dolphins and Sharks reserves: Bostock is out, Nikora likely rests, Brailey expected to back up and Fonua-Blake is a game-day call.",
+        "Watch Roosters fullback replacement for Tedesco and whether Sam Walker or Reece Robson comes into the side.",
+        "Confirm Ponga, Bradman Best, Cameron Murray, Munster, Grant and Loiero all remain in their final teams."
       ]
     }
   ],
   "betCard": {
-    "title": "Round 18 Charity Bet",
+    "title": "Round 19 Charity Bet",
     "status": "No bet locked",
-    "pick": "No Round 18 charity play locked",
+    "pick": "No Round 19 charity play locked",
     "odds": "TBC",
     "stake": "$0.00",
     "potentialReturn": "$0.00",
     "potentialProfit": "$0.00",
-    "match": "Round 18 price watch",
-    "kickoff": "Round runs Friday 3 July to Sunday 5 July 2026",
-    "venue": "NRL Round 18",
+    "match": "Round 19 price watch",
+    "kickoff": "Round runs Friday 10 July to Sunday 12 July 2026",
+    "venue": "NRL Round 19",
     "why": [
-      "The best raw tip is Sharks over Broncos, but no TAB price and stake have been recorded.",
-      "The ledger is positive at +$0.53 and should not be risked casually during an Origin-distorted round.",
+      "Storm over Titans is the best raw tip, but no TAB price and stake have been recorded.",
+      "Sharks over Dolphins is also a watch candidate, but both sides still have post-Origin availability questions.",
       "A charity bet only becomes official after explicit user confirmation before kickoff."
     ],
     "risks": [
-      "Origin absences can create volatile lineups and late reshuffles.",
-      "Last week's external slip losses are emotionally tempting, but they are not a reason to chase.",
-      "Any Round 18 charity play still needs recorded odds, stake, match, and explicit confirmation before kickoff."
+      "Origin back-up decisions can change team strength quickly across Saturday and Sunday.",
+      "A short turnaround after the Origin decider makes fatigue and late withdrawals a real risk.",
+      "Any Round 19 charity play still needs recorded odds, stake, match, and explicit confirmation before kickoff."
     ]
   },
   "charity": {
@@ -129,22 +130,25 @@
       "Round 15: No charity bet was locked, so the ledger stayed unchanged.",
       "Round 16: No charity bet was locked, so the ledger stayed unchanged.",
       "Round 17: No charity bet was locked, so the external Panthers and Storm slip losses did not move the ledger.",
-      "After Round 17: Ledger is 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
+      "Round 18: No charity bet was locked, so the ledger stayed unchanged.",
+      "After Round 18: Ledger is 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
     ]
   },
   "watchlist": [
-    "Sharks over Broncos is the top confidence tip, but only a price-watch candidate until odds and stake are recorded.",
-    "Sea Eagles over Eels leans on Tom Trbojevic, Jamal Fogarty and Parramatta losing Mitchell Moses.",
-    "Knights over Dolphins is a home lean against a Dolphins side missing Isaiya Katoa and several Origin players.",
-    "Dragons over Wests Tigers is low-confidence because both teams are volatile, but Tigers lose Jarome Luai and Taylan May.",
-    "Rabbitohs over Panthers is the upset swing and should not be used as a bet anchor."
+    "Storm over Titans is the top confidence tip, but only a price-watch candidate until odds and stake are recorded.",
+    "Sharks over Dolphins is strong but still needs final calls on Fonua-Blake, Brailey, Nikora and the Dolphins Origin group.",
+    "Warriors over Wests Tigers is a Friday lean even with Barnett and Capewell out because the Tigers lose Api Koroisau.",
+    "Bulldogs over Raiders is low-confidence because both sides have important Origin and injury watch points.",
+    "Eels over Roosters leans on Tedesco's expected absence and Moses backing up."
   ],
   "confidence": [
-    "Sharks over Broncos - best raw edge; Brisbane are missing Walsh, Haas, Carrigan and multiple forwards",
-    "Sea Eagles over Eels - Manly keep Tom Trbojevic and Fogarty while Parramatta lose Mitchell Moses",
-    "Knights over Dolphins - Newcastle at home against a Dolphins spine missing Katoa and Tabuai-Fidow",
-    "Dragons over Wests Tigers - home lean with Tigers missing Luai and Taylan May",
-    "Rabbitohs over Panthers - upset lean only with Penrith missing Cleary, Yeo, Martin and Papali'i"
+    "Storm over Titans - best raw edge with Hughes, Meaney and Howarth returning and Grant, Munster and Loiero named",
+    "Sharks over Dolphins - Dolphins lose Bostock and still have Origin availability calls across their reserves",
+    "Warriors over Wests Tigers - Tigers lose Api Koroisau while Warriors regain James Fisher-Harris and Leka Halasima",
+    "Knights over Rabbitohs - Ponga and Bradman Best are expected to back up while Souths lose Cody Walker",
+    "Sea Eagles over Cowboys - Manly home lean with Tom Trbojevic, Fogarty and Haumole Olakau'atu",
+    "Bulldogs over Raiders - home lean only, with Crichton backing up and Raiders still juggling Origin/injury returns",
+    "Eels over Roosters - upset lean with Tedesco set to miss and Moses expected to back up"
   ],
   "sections": [
     {
@@ -152,12 +156,12 @@
       "title": "Situation Report",
       "badge": "preview",
       "tone": "amber",
-      "heading": "Round 18 is a five-game Origin-week puzzle",
+      "heading": "Round 19 starts one day after the Origin decider",
       "lines": [
-        "As of Wednesday, 1 July 2026, Round 18 team lists are live.",
-        "The round runs from Friday 3 July to Sunday 5 July 2026.",
-        "The five tips are Rabbitohs, Dragons, Sharks, Sea Eagles and Knights.",
-        "The charity ledger remains 3-2 with +$0.53 settled profit because no Round 18 charity bet has been locked."
+        "As of Thursday, 9 July 2026, Round 19 late mail is live.",
+        "The round runs from Friday 10 July to Sunday 12 July 2026.",
+        "The seven tips are Warriors, Sharks, Bulldogs, Eels, Knights, Sea Eagles and Storm.",
+        "The charity ledger remains 3-2 with +$0.53 settled profit because no Round 19 charity bet has been locked."
       ]
     },
     {
@@ -165,41 +169,45 @@
       "title": "Bet Analysis",
       "badge": "hold",
       "tone": "cyan",
-      "heading": "Best tip does not automatically mean a charity bet",
+      "heading": "Storm are the watch candidate, not a locked charity play",
       "lines": [
-        "Sharks over Broncos is the clearest card lean, but it is still a price-watch item until a fresh TAB number is recorded.",
+        "Storm over Titans is the clearest card lean, but it is still a price-watch item until a fresh TAB number is recorded.",
         "The Mark Hughes Foundation ledger remains 3-2 with $31.50 invested, $32.03 returned and +$0.53 settled profit.",
-        "No Round 18 charity result should be added without a pre-recorded stake, price and explicit charity-bet confirmation.",
-        "After the Panthers and Storm misses last week, discipline matters more than trying to win the week back in one swing."
+        "No Round 19 charity result should be added without a pre-recorded stake, price and explicit charity-bet confirmation.",
+        "Post-Origin late withdrawals are the main reason to keep staking discipline tight this week."
       ]
     },
     {
       "id": "tips",
-      "title": "Round 18 Tips",
-      "badge": "5 games",
+      "title": "Round 19 Tips",
+      "badge": "7 games",
       "tone": "green",
-      "heading": "Confidence order for the short round",
+      "heading": "Confidence order for the post-Origin round",
       "lines": [
-        "Sharks over Broncos - top pick; Brisbane are missing Reece Walsh, Payne Haas, Pat Carrigan and other forward depth.",
-        "Sea Eagles over Eels - Manly have the higher ceiling with Tom Trbojevic and Jamal Fogarty; Parramatta lose Mitchell Moses.",
-        "Knights over Dolphins - Newcastle get the home lean while Dolphins are without Isaiya Katoa, Hamiso Tabuai-Fidow, Jack Bostock, Selwyn Cobbo, Max Plath and Thomas Flegler.",
-        "Dragons over Wests Tigers - home lean because Tigers are without Jarome Luai and Taylan May, even with Alex Twal back.",
-        "Rabbitohs over Panthers - upset lean only; Penrith's Origin outs make the usual Panthers trust less automatic."
+        "Storm over Titans - top pick; Melbourne regain Jahrome Hughes, Nick Meaney and Jack Howarth, with Munster, Grant and Loiero named to back up.",
+        "Sharks over Dolphins - Cronulla keep Hynes and Trindall together, while Bostock is set to miss and Dolphins' Origin group is still monitored.",
+        "Warriors over Wests Tigers - Warriors regain James Fisher-Harris and Leka Halasima; Tigers regain Luai but lose Api Koroisau.",
+        "Knights over Rabbitohs - Newcastle get the Ponga/Best/Dylan Brown spine-and-strike edge, while Souths lose Cody Walker to suspension.",
+        "Sea Eagles over Cowboys - 4 Pines lean with Tom Trbojevic, Jamal Fogarty, Koula and Haumole Olakau'atu named.",
+        "Bulldogs over Raiders - home lean only; Crichton is expected to back up and Kiraz is named despite a rib issue.",
+        "Eels over Roosters - upset lean because Tedesco is set to miss and the Roosters are reshuffling at fullback."
       ]
     },
     {
       "id": "fixtures",
-      "title": "Round 18 Fixtures",
+      "title": "Round 19 Fixtures",
       "badge": "schedule",
       "tone": "amber",
-      "heading": "Round 18 fixture board",
+      "heading": "Round 19 fixture board",
       "lines": [
-        "Panthers v Rabbitohs - Friday 3 July, 8:00pm at CommBank Stadium.",
-        "Dragons v Wests Tigers - Saturday 4 July, 5:30pm at St George Venues Jubilee Stadium.",
-        "Broncos v Sharks - Saturday 4 July, 7:35pm at Suncorp Stadium.",
-        "Eels v Sea Eagles - Sunday 5 July, 2:00pm at CommBank Stadium.",
-        "Knights v Dolphins - Sunday 5 July, 4:05pm at McDonald Jones Stadium.",
-        "Byes: Raiders, Bulldogs, Titans, Storm, Warriors, Cowboys and Roosters."
+        "Wests Tigers v Warriors - Friday 10 July, 8:00pm at Campbelltown Stadium.",
+        "Dolphins v Sharks - Saturday 11 July, 3:00pm at Kayo Stadium.",
+        "Bulldogs v Raiders - Saturday 11 July, 5:30pm at Accor Stadium.",
+        "Roosters v Eels - Saturday 11 July, 7:35pm at Allianz Stadium.",
+        "Rabbitohs v Knights - Sunday 12 July, 2:00pm at Accor Stadium.",
+        "Sea Eagles v Cowboys - Sunday 12 July, 4:05pm at 4 Pines Park.",
+        "Storm v Titans - Sunday 12 July, 6:15pm at AAMI Park.",
+        "Byes: Broncos, Panthers and Dragons."
       ]
     },
     {
@@ -207,32 +215,32 @@
       "title": "Form Radar",
       "badge": "hot and cold",
       "tone": "red",
-      "heading": "What last week changes in the tipping posture",
+      "heading": "What the week asks us to respect",
       "lines": [
-        "Panthers cannot be treated as an automatic bounce-back team this week because Cleary, Yeo, Martin and Papali'i are out.",
-        "Storm are on the bye, so last week's Manly upset should only feed the Manly v Eels read through Tom Trbojevic and confidence at 4 Pines, not direct form-line overreach.",
-        "Rabbitohs and Bulldogs both cashed early Round 17 reads, but Bulldogs are on the bye this week.",
-        "Short-round cards are easier to overbet because there are fewer options; keep stake logic separate from tip confidence."
+        "Do not over-weight Tuesday's team lists when Thursday late mail has already moved major players.",
+        "Tedesco and Bostock head knocks directly change Roosters/Eels and Dolphins/Sharks confidence.",
+        "Barnett and Capewell dropping out weakens the Warriors, but the Tigers losing Koroisau keeps the Warriors lean alive.",
+        "Bulldogs v Raiders and Sea Eagles v Cowboys are the two most likely games to shift after final cut-downs."
       ]
     },
     {
       "id": "intel",
       "title": "Intel Notes",
-      "badge": "team lists",
+      "badge": "late mail",
       "tone": "red",
-      "heading": "The Round 18 team-list details driving the card",
+      "heading": "The Round 19 late-mail details driving the card",
       "lines": [
-        "Panthers are without Nathan Cleary, Isaah Yeo, Liam Martin and Isaiah Papali'i; Rabbitohs regain Jack Wighton but lose Cameron Murray and Alex Johnston.",
-        "Wests Tigers rest Jarome Luai after delayed concussion symptoms and lose Taylan May to a shoulder injury; Alex Twal returns at lock.",
-        "Broncos lose Reece Walsh, Payne Haas and Pat Carrigan to Origin, plus Aublix Tawha, Jack Gosiewski and Josiah Karapani; Sharks lose Addin Fonua-Blake, Blayke Brailey and Briton Nikora.",
-        "Parramatta lose Mitchell Moses, with Jonah Pezet coming in; Manly lose Luke Brooks for the season but still field Tom Trbojevic and Jamal Fogarty.",
-        "Knights lose Kalyn Ponga and Bradman Best to Origin; Dolphins lose Isaiya Katoa to a fractured wrist and are also missing Hamiso Tabuai-Fidow, Jack Bostock, Selwyn Cobbo, Max Plath and Thomas Flegler."
+        "Wests Tigers regain Jarome Luai and Samuela Fainu but lose Api Koroisau; Warriors lose Mitchell Barnett and Kurt Capewell but regain James Fisher-Harris, Leka Halasima and Alofiana Khan-Pereira.",
+        "Dolphins winger Jack Bostock is set to miss after an Origin head knock; Hamiso Tabuai-Fidow, Selwyn Cobbo, Max Plath and Thomas Flegler remain back-up decisions.",
+        "Sharks likely rest Briton Nikora, expect Blayke Brailey to back up, and will decide on Addin Fonua-Blake closer to game day.",
+        "Roosters need to replace James Tedesco after his Origin head knock, while Parramatta expect Mitchell Moses to back up.",
+        "Storm regain Jahrome Hughes, Nick Meaney and Jack Howarth; Titans expect Tino Fa'asuamaleaui and Jojo Fifita to back up."
       ]
     }
   ],
   "footerNotes": [
-    "Built from the Codex-maintained data workflow and updated for Round 18 preview on Wednesday 1 July 2026.",
-    "Round 18 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
-    "Round 17 external slip damage is acknowledged, but it does not move the charity ledger without a locked charity stake."
+    "Built from the Codex-maintained data workflow and updated for Round 19 preview on Thursday 9 July 2026.",
+    "Round 19 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
+    "Post-Origin late mail is the main risk control for this week's card."
   ]
 }
