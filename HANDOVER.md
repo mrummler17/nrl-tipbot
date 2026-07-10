@@ -8,6 +8,7 @@
 - Latest known commit before this Round 19 update: `39e5fff Record Round 18 deployment handover`
 - Latest Round 19 content commit: `c40c172 Update TipBot for Round 19`
 - Latest commit before disaster recovery work: `a654fb6 Record Round 19 deployment handover`
+- Latest disaster recovery pack commit: `b060a0c Add disaster recovery pack`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -25,6 +26,13 @@
   - Shape: `repo-snapshot/` plus `metadata/`
   - Secret check: no real `.env` files; `.env.example` only.
 - Added a concise Notion milestone note to the `TipBot NRL` Command Centre page on 2026-07-10. Notion is continuity context only; repo docs remain authoritative.
+- Disaster recovery pack commit created and pushed:
+  - `b060a0c Add disaster recovery pack`
+- GitHub Pages build for `b060a0c541d043a908e47be38647f521e5da7b5f` completed successfully:
+  - Build status: `built`
+  - Created at `2026-07-10T00:13:55Z`
+  - Updated at `2026-07-10T00:14:15Z`
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and still served the Round 19 HTML after the recovery-pack push.
 - Updated `data/briefing.json` from Round 18 preview to Round 19 preview.
 - Updated `data/live-round.json` with the Round 19 fixture board, seven tips, source list, and live alerts.
 - Updated `README.md` with the Round 19 snapshot, workflow, and source list.
