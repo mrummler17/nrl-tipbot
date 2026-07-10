@@ -7,6 +7,7 @@
 - Branch: `main`
 - Latest known commit before this Round 19 update: `39e5fff Record Round 18 deployment handover`
 - Latest Round 19 content commit: `c40c172 Update TipBot for Round 19`
+- Latest commit before disaster recovery work: `a654fb6 Record Round 19 deployment handover`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -14,6 +15,16 @@
 
 ## Changed This Session
 
+- Created `DISASTER_RECOVERY.md` as the repo-local restore and resilience source of truth.
+- Added `scripts/backup-recovery-pack.sh` to create local recovery archives.
+- Added `.env.example` with explicit no-required-env status and safe placeholder notes.
+- Added `.gitignore` entries for backups, env files, archives, logs, `node_modules/`, and `.DS_Store`.
+- Ran and inspected a real backup archive:
+  - `/Users/marcusrummler/AI Developer Files/New project/nrl-tipbot/backups/nrl-tipbot-recovery-20260710-101027.tar.gz`
+  - Size: 43 KB
+  - Shape: `repo-snapshot/` plus `metadata/`
+  - Secret check: no real `.env` files; `.env.example` only.
+- Added a concise Notion milestone note to the `TipBot NRL` Command Centre page on 2026-07-10. Notion is continuity context only; repo docs remain authoritative.
 - Updated `data/briefing.json` from Round 18 preview to Round 19 preview.
 - Updated `data/live-round.json` with the Round 19 fixture board, seven tips, source list, and live alerts.
 - Updated `README.md` with the Round 19 snapshot, workflow, and source list.
@@ -97,6 +108,9 @@
 - `dist/README.md`: Generated text summary.
 - `README.md`: Human-facing repo overview and weekly update workflow.
 - `HANDOVER.md`: Continuity notes; update before ending or risky changes.
+- `DISASTER_RECOVERY.md`: Disaster recovery, backup, restore, validation, and resilience instructions.
+- `.env.example`: Safe placeholder file documenting that no env vars are required.
+- `scripts/backup-recovery-pack.sh`: Creates a local no-secrets recovery archive.
 
 ## Commands
 
@@ -114,6 +128,8 @@
   `gh api repos/mrummler17/nrl-tipbot/pages/builds --jq '.[0] | {status: .status, error: .error.message, commit: .commit, created_at: .created_at, updated_at: .updated_at}'`
 - Check live site:
   `curl -L https://mrummler17.github.io/nrl-tipbot/`
+- Create disaster recovery backup:
+  `./scripts/backup-recovery-pack.sh`
 
 ## Sources Used
 
@@ -123,6 +139,7 @@
 
 ## Risks / Unfinished
 
+- Disaster recovery pack is local/repo authoritative; Notion was updated as optional shared continuity only.
 - Round 19 is currently a preview, not a result tracker.
 - No Round 19 charity bet is locked. Any future bet requires a fresh TAB price and explicit user confirmation.
 - Storm and Sharks are price-watch candidates only.
@@ -134,3 +151,5 @@
 
 - Re-check final team cuts before kickoff, especially Tigers v Warriors and Dolphins v Sharks.
 - Only convert Storm or Sharks from price watch to charity bet if fresh odds, stake and explicit user confirmation are recorded before kickoff.
+- Add GitHub Actions JSON/build validation for resilience.
+- Store backup archives outside the repo on an encrypted external or cloud location.
