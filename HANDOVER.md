@@ -12,6 +12,7 @@
 - Latest disaster recovery pack commit: `b060a0c Add disaster recovery pack`
 - Latest disaster recovery verification commit: `4195782 Record disaster recovery verification`
 - Latest ladder-chase tracker commit: `f8f26fb Update TipBot ladder chase tracker`
+- Latest Storm closure commit: `e12f4c3 Close Round 19 Storm result`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -69,6 +70,13 @@
   - Created at `2026-07-12T08:50:53Z`
   - Updated at `2026-07-12T08:51:15Z`
 - Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 19 live tracker HTML, including `Prince_of_Penrith`, `5 pts`, `2-4 + live`, and the Round 19 result board before the post-Storm closure.
+- Storm closure commit created and pushed:
+  - `e12f4c3 Close Round 19 Storm result`
+- GitHub Pages build for `e12f4c32ddea55fe5544b2707a222b0914666a91` completed successfully:
+  - Build status: `built`
+  - Created at `2026-07-12T10:17:15Z`
+  - Updated at `2026-07-12T10:17:35Z`
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Storm closure HTML, including `3-4`, `Storm correct`, and `Storm def Titans, exact score pending official cross-check`.
 
 ## Prior Disaster Recovery Session
 
