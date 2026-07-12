@@ -1,8 +1,8 @@
 {
   "round": "Round 19",
-  "verifiedAt": "2026-07-12T18:45:00+10:00",
-  "verificationLabel": "Round 19 live tracker updated Sunday 12 July 2026",
-  "summary": "Round 19 tracking is live. The card is 2-4 with Storm v Titans live/pending at update time. Prince_of_Penrith is 3rd on 194 points in the supplied tipping-comp ladder, 5 points behind 2nd, so the board now prioritises controlled top-two chase strategy.",
+  "verifiedAt": "2026-07-12T20:15:00+10:00",
+  "verificationLabel": "Round 19 final-direction tracker updated Sunday 12 July 2026",
+  "summary": "Round 19 tracking is now 3-4 after a user-reported Storm win over the Titans. The exact Storm v Titans score still needs official cross-checking, but the tip direction is correct. Prince_of_Penrith is 3rd on 194 points in the supplied tipping-comp ladder, 5 points behind 2nd, so the board keeps prioritising controlled top-two chase strategy.",
   "sources": [
     {
       "label": "NRL Live Round 19: Storm v Titans, Sea Eagles v Cowboys, Rabbitohs v Knights",
@@ -88,10 +88,10 @@
       "match": "Storm vs Titans",
       "kickoff": "Sun 12 Jul, 6:15pm",
       "venue": "AAMI Park",
-      "status": "Live at update",
-      "result": "Live/pending, early score level on official live blog",
-      "tipOutcome": "Tip: Storm",
-      "note": "Still pending at update time. This is the only remaining chance to improve the Round 19 card before finalising the record."
+      "status": "Final direction",
+      "result": "Storm def Titans, exact score pending official cross-check",
+      "tipOutcome": "Correct: Storm",
+      "note": "Correct final tip per user report. Emotional note: the Storm tip landed, but the Titans underdog push was still the fun side to cheer."
     }
   ],
   "liveAlerts": [
@@ -101,7 +101,7 @@
     },
     {
       "tone": "red",
-      "text": "Round 19 card status: Warriors and Sharks correct; Bulldogs, Eels, Knights and Sea Eagles missed; Storm live/pending."
+      "text": "Round 19 card status: Warriors, Sharks and Storm correct; Bulldogs, Eels, Knights and Sea Eagles missed. Final direction is 3-4."
     },
     {
       "tone": "amber",
@@ -110,6 +110,10 @@
     {
       "tone": "green",
       "text": "Charity ledger remains 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
+    },
+    {
+      "tone": "amber",
+      "text": "Storm v Titans exact score still needs official cross-checking before the final score line is published."
     },
     {
       "tone": "amber",

@@ -22,7 +22,7 @@ The app started as a single prototype file and now keeps content, live round dat
 - Mode: live tracker and ladder-chase strategy
 - Tipping comp handle: `Prince_of_Penrith`
 - Ladder target: 3rd on 194 points, 5 points behind 2nd from the supplied Round 19 screenshot
-- Tip card: 2 correct, 4 missed, Storm v Titans live/pending at the 12 July 2026 update
+- Tip card: 3 correct, 4 missed after a user-reported Storm win over the Titans
 - Charity bet status: no Round 19 bet locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
@@ -35,7 +35,7 @@ Round 19 tracker:
 4. Eels over Roosters - missed, Roosters 28 def Eels 12
 5. Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24
 6. Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point
-7. Storm over Titans - live/pending at update time
+7. Storm over Titans - correct from user-reported final result; exact score pending official cross-check
 
 Round 19 notes:
 
@@ -43,7 +43,7 @@ Round 19 notes:
 - A 5-point swing is the immediate target; 1st place is a longer chase and should not distort weekly risk.
 - Use one or two controlled differentials per full round after modelling likely leader tips.
 - No Round 19 charity bet was locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
-- Storm v Titans still needs final confirmation before publishing a final Round 19 card count.
+- Storm v Titans exact score still needs official confirmation before publishing the final score line.
 
 Round 18 notes carried forward:
 

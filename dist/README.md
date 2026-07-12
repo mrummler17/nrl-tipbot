@@ -14,13 +14,13 @@ A weekly NRL command board for sharper tipping, cleaner ladder strategy, and ban
 
 ## Live Round Status
 
-- Round 19 live tracker updated Sunday 12 July 2026
-- Round 19 tracking is live. The card is 2-4 with Storm v Titans live/pending at update time. Prince_of_Penrith is 3rd on 194 points in the supplied tipping-comp ladder, 5 points behind 2nd, so the board now prioritises controlled top-two chase strategy.
+- Round 19 final-direction tracker updated Sunday 12 July 2026
+- Round 19 tracking is now 3-4 after a user-reported Storm win over the Titans. The exact Storm v Titans score still needs official cross-checking, but the tip direction is correct. Prince_of_Penrith is 3rd on 194 points in the supplied tipping-comp ladder, 5 points behind 2nd, so the board keeps prioritising controlled top-two chase strategy.
 
 
 ## Confidence Order
 
-1. Storm over Titans - live/pending at update time; only remaining chance to improve Round 19 card
+1. Storm over Titans - correct from user-reported final result; exact score pending official cross-check
 2. Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6
 3. Sharks over Dolphins - correct, Sharks 66 def Dolphins 0
 4. Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16
@@ -39,6 +39,6 @@ A weekly NRL command board for sharper tipping, cleaner ladder strategy, and ban
 
 ## Notes
 
-- Built from the Codex-maintained data workflow and updated for Round 19 live tracking on Sunday 12 July 2026.
+- Built from the Codex-maintained data workflow and updated for Round 19 final-direction tracking on Sunday 12 July 2026.
 - Prince_of_Penrith ladder context came from the user-supplied Round 19 overall ladder screenshot: 3rd, 194 points, 5 behind 2nd.
 - Round 19 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.

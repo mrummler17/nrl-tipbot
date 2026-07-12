@@ -15,10 +15,15 @@
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current production version: Round 19, 2026 live tracker and `Prince_of_Penrith` top-two chase
+- Current local working version: Round 19, 2026 final-direction tracker and `Prince_of_Penrith` top-two chase
 
 ## Changed This Session
 
+- Post-Storm result update:
+  - User reported Storm beat Titans after the previous live update.
+  - The app now records Storm over Titans as correct, making the Round 19 card `3-4`.
+  - Exact Storm v Titans score is still marked for official cross-check before publishing the final score line.
+  - The dashboard includes the human note that backing Storm was rational, even though cheering the Titans underdog push was more fun.
 - Updated `data/briefing.json` from Round 19 preview mode to Round 19 live tracker and ladder-chase mode.
 - Added the user-supplied tipping-comp context:
   - Handle: `Prince_of_Penrith`
@@ -29,7 +34,7 @@
 - Updated Round 19 result tracking:
   - Correct: Warriors over Wests Tigers, Sharks over Dolphins
   - Missed: Bulldogs over Raiders, Eels over Roosters, Knights over Rabbitohs, Sea Eagles over Cowboys
-  - Live/pending at update time: Storm over Titans
+  - Correct from user-reported final result: Storm over Titans, exact score pending official cross-check
 - Updated strategy from generic tip preview to controlled top-two chase:
   - Protect obvious favourites where leaders likely match.
   - Use one or two controlled differentials per full round.
@@ -46,7 +51,7 @@
   - Official NRL late mail Round 19 page
   - NRL Round 19 team lists
   - 2026 NRL season results table as secondary result cross-check
-- Storm v Titans was not final at the update time and must remain `live/pending` until a clean final score is verified.
+- Storm v Titans was later user-reported as a Storm win. Treat the tip as correct, but keep the exact score pending until a clean official score is verified.
 - JSON validation passed after the live tracker update.
 - `npm run build` completed successfully after the live tracker update.
 - Root `index.html` was synced from `dist/index.html`.
@@ -57,13 +62,13 @@
   - Old copy did not render: `Round 19 preview after the Origin decider`, `Round 18 briefing live`.
   - Browser console had 0 errors.
 - Notion milestone note was not added for this update because the Notion fetch/read tool was not exposed in the session, and the Notion skill requires reading existing page content before editing. Repo-local docs remain authoritative.
-- Ladder-chase tracker commit created and pushed:
+- Previous ladder-chase tracker commit created and pushed:
   - `f8f26fb Update TipBot ladder chase tracker`
 - GitHub Pages build for `f8f26fb1c5b5ba88b4140bbff08e2de2429af50d` completed successfully:
   - Build status: `built`
   - Created at `2026-07-12T08:50:53Z`
   - Updated at `2026-07-12T08:51:15Z`
-- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 19 live tracker HTML, including `Prince_of_Penrith`, `5 pts`, `2-4 + live`, and the Round 19 result board.
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 19 live tracker HTML, including `Prince_of_Penrith`, `5 pts`, `2-4 + live`, and the Round 19 result board before the post-Storm closure.
 
 ## Prior Disaster Recovery Session
 
@@ -106,7 +111,7 @@
   4. Eels over Roosters - missed, Roosters 28 def Eels 12
   5. Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24
   6. Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point
-  7. Storm over Titans - live/pending at the 6:45pm AEST update
+  7. Storm over Titans - correct from user-reported final result, exact score pending official cross-check
 - Charity bet status: `No bet locked`
 - Charity ledger: `3-2`, `+$0.53`
 - Bye teams: Broncos, Panthers and Dragons
@@ -114,7 +119,7 @@
   - The supplied screenshot makes the operational objective explicit: get `Prince_of_Penrith` from 3rd to 2nd or better before finals.
   - The app should prioritise top-two ladder strategy over emotional chase tipping.
   - No Round 19 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
-  - Storm v Titans needs final confirmation before the final Round 19 card count is published.
+  - Storm v Titans direction is correct from user report; exact score needs official confirmation before the final score line is published.
 
 ## Verified So Far
 
@@ -204,7 +209,7 @@
 ## Risks / Unfinished
 
 - Disaster recovery pack is local/repo authoritative; Notion was updated as optional shared continuity only.
-- Round 19 is currently a live tracker; Storm v Titans still needs clean final confirmation before final card count.
+- Round 19 is currently a final-direction tracker at `3-4`; Storm v Titans exact score still needs official confirmation before final score line.
 - No Round 19 charity bet is locked. Do not add one retrospectively.
 - The current top-two plan depends on modelling likely leader tips from Round 20 onward; that feature is strategic guidance only until the next update.
 - Round 18 full final tip count still needs clean score cross-checking before it is published as a final wrap.
@@ -212,7 +217,7 @@
 
 ## Recommended Next Steps
 
-- Confirm Storm v Titans final score after full time and publish the final Round 19 tip count.
+- Confirm Storm v Titans exact score from an official source and publish the final score line.
 - Build Round 20 with a leader-differential column: likely NourilM tip, likely Kristy W13 tip, recommended `Prince_of_Penrith` action.
 - Re-check Round 20 team lists and late mail before any locks.
 - Keep charity bets separate from tipping-comp ladder aggression.
