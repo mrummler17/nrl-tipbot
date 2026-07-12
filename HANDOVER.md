@@ -25,6 +25,11 @@
   - The app now records Storm over Titans as correct, making the Round 19 card `3-4`.
   - Exact Storm v Titans score is still marked for official cross-check before publishing the final score line.
   - The dashboard includes the human note that backing Storm was rational, even though cheering the Titans underdog push was more fun.
+- Forward strategy update:
+  - User noted the two people ahead are likely to take betting-market favourites to protect position.
+  - TipBot now treats market favourites as the first proxy for likely leader-safe picks.
+  - Weekly cards should classify every game as favourite match, controlled split, or avoid.
+  - Market data is tipping-comp intelligence, not an automatic charity-bet trigger.
 - Updated `data/briefing.json` from Round 19 preview mode to Round 19 live tracker and ladder-chase mode.
 - Added the user-supplied tipping-comp context:
   - Handle: `Prince_of_Penrith`
@@ -39,6 +44,7 @@
 - Updated strategy from generic tip preview to controlled top-two chase:
   - Protect obvious favourites where leaders likely match.
   - Use one or two controlled differentials per full round.
+  - Use betting-market favourite status to model leader behaviour.
   - Model likely tips for NourilM and Kristy W13 before Round 20 locks.
   - Do not let a poor Round 19 card trigger reckless charity betting.
 - Updated `README.md` to match the live tracker and `Prince_of_Penrith` objective.
@@ -173,6 +179,7 @@
 - Do not publish a final Round 18 tip-count headline until every Round 18 game has a clean public score cross-check.
 - Keep `index.html` synced with `dist/index.html` before deploy because GitHub Pages serves the root entry.
 - Keep `Prince_of_Penrith` ladder strategy conservative: the app can recommend controlled differentials, but should not chase every underdog simply to make up 5 points.
+- Treat market favourites as leader-behaviour intelligence; do not convert market reads into bets unless the charity-bet workflow has explicit odds, stake and user confirmation.
 
 ## Important Files
 
@@ -227,6 +234,7 @@
 
 - Confirm Storm v Titans exact score from an official source and publish the final score line.
 - Build Round 20 with a leader-differential column: likely NourilM tip, likely Kristy W13 tip, recommended `Prince_of_Penrith` action.
+- Add market columns to Round 20 prep: heavy favourite, narrow favourite, coin flip, upset price, likely leader-safe pick.
 - Re-check Round 20 team lists and late mail before any locks.
 - Keep charity bets separate from tipping-comp ladder aggression.
 - Add GitHub Actions JSON/build validation for resilience.

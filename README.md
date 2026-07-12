@@ -42,6 +42,8 @@ Round 19 notes:
 - The board now prioritises getting `Prince_of_Penrith` to 2nd before finals without reckless full-card chasing.
 - A 5-point swing is the immediate target; 1st place is a longer chase and should not distort weekly risk.
 - Use one or two controlled differentials per full round after modelling likely leader tips.
+- Use betting-market favourites each week as a proxy for safe leader picks; NourilM and Kristy W13 are likely to protect position by backing favourites.
+- Classify every game as favourite match, controlled split, or avoid before lockout.
 - No Round 19 charity bet was locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
 - Storm v Titans exact score still needs official confirmation before publishing the final score line.
 
@@ -120,6 +122,7 @@ https://mrummler17.github.io/nrl-tipbot/
 ## Data Discipline
 
 - Treat NRL tips and charity bets as separate records.
+- Treat market prices as tipping-comp intelligence first, not as permission to place a bet.
 - Do not retrospectively count an unplaced lean as a charity bet.
 - Keep the Mark Hughes Foundation ledger factual and conservative.
 - Re-check official NRL sources before publishing a round preview, wrap, or result correction.

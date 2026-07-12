@@ -16,6 +16,7 @@
     "goal is top 2 before finals not wild chasing",
     "charity ledger stays at 3 and 2 with $31.50 invested $32.03 returned and plus $0.53 settled profit",
     "no round 19 charity bet is locked without fresh odds stake and explicit confirmation",
+    "weekly market favourites should be treated as likely leader-safe picks not automatic bets",
     "round 20 is watchlist only until team list tuesday"
   ],
   "heroCards": [
@@ -73,6 +74,7 @@
         "Do not chase the 5-point gap by tipping every underdog; that is how a top-three position becomes 7th.",
         "Use one or two controlled differentials per full round, ideally in games where team-list news gives us a real edge.",
         "Protect obvious heavy favourites when the top two are likely to take them too.",
+        "Use the betting market as a crowd-expectation signal: short-priced favourites are probably the safe picks NourilM and Kristy W13 will lean on.",
         "Attack games where the public follows reputation but late mail points the other way."
       ]
     },
@@ -81,7 +83,8 @@
       "tone": "green",
       "items": [
         "Round 20 stays watchlist-only until Team List Tuesday; no early locks.",
-        "Start each week by estimating what NourilM and Kristy W13 are likely to tip, then choose where to match and where to split.",
+        "Start each week by listing market favourites, then estimating what NourilM and Kristy W13 are likely to tip.",
+        "Mark each game as match the favourite, controlled split, or avoid.",
         "Track joker users around positions 6-14 because they can jump fast and change the risk profile.",
         "Keep the charity ledger separate from tipping-comp aggression."
       ]
@@ -139,6 +142,7 @@
   "watchlist": [
     "Prince_of_Penrith needs a 5-point swing to catch 2nd, not a miracle card to catch 1st immediately.",
     "Round 20 must start with team-list verification and likely-rival-tip modelling.",
+    "Add market-favourite tracking each week because the two leaders are likely to protect position by taking safe favourites.",
     "Use controlled differentials only where late mail or matchup context gives real edge.",
     "Do not let the Round 19 miss cluster force an aggressive charity-bet decision.",
     "Storm v Titans exact score still needs official confirmation before publishing the final score line."
@@ -220,8 +224,9 @@
       "heading": "How Prince_of_Penrith gets to 2nd before finals",
       "lines": [
         "Protect the base: match obvious high-confidence favourites where leaders are also likely to tip them.",
+        "Use betting-market favourite status as the first proxy for leader behaviour, because the top two are likely to protect position with safe picks.",
         "Find one or two edge-based splits per round, preferably late-mail-driven and not just emotional underdogs.",
-        "Before lockout, estimate likely tips for NourilM and Kristy W13 and mark each game as match, split, or avoid.",
+        "Before lockout, estimate likely tips for NourilM and Kristy W13 and mark each game as favourite match, controlled split, or avoid.",
         "The 5-point gap to 2nd can be closed with two good differential weeks; it does not require a reckless full-card gamble.",
         "Joker status below the top five matters because chasing users can create sudden pressure from behind."
       ]
@@ -235,8 +240,9 @@
       "lines": [
         "Round 20 should not be locked from fixture names alone.",
         "Use NRL team lists and late mail first, then build a top-two chase card.",
+        "Add market price bands to the next card: heavy favourite, narrow favourite, coin flip and upset price.",
         "Prioritise games where public confidence is likely to be stale after Round 19 upsets.",
-        "Add a leader-differential column to the next TipBot update so we can decide where Prince_of_Penrith should match or split."
+        "Add a leader-differential column to the next TipBot update so we can decide where Prince_of_Penrith should match the market favourite or split."
       ]
     }
   ],
