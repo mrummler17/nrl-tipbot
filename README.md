@@ -19,28 +19,31 @@ The app started as a single prototype file and now keeps content, live round dat
 ## Current Snapshot
 
 - Round: Round 19, 2026
-- Tip card: seven-game Round 19 preview
+- Mode: live tracker and ladder-chase strategy
+- Tipping comp handle: `Prince_of_Penrith`
+- Ladder target: 3rd on 194 points, 5 points behind 2nd from the supplied Round 19 screenshot
+- Tip card: 2 correct, 4 missed, Storm v Titans live/pending at the 12 July 2026 update
 - Charity bet status: no Round 19 bet locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
 
-Round 19 tips:
+Round 19 tracker:
 
-1. Storm over Titans - best raw edge with Hughes, Meaney and Howarth returning
-2. Sharks over Dolphins - Dolphins lose Bostock and still have Origin availability calls
-3. Warriors over Wests Tigers - Tigers lose Api Koroisau while Warriors regain James Fisher-Harris and Leka Halasima
-4. Knights over Rabbitohs - Ponga and Bradman Best are expected to back up while Souths lose Cody Walker
-5. Sea Eagles over Cowboys - Manly home lean with Trbojevic, Fogarty and Olakau'atu
-6. Bulldogs over Raiders - home lean only, with several Origin/injury watch points
-7. Eels over Roosters - upset lean with Tedesco set to miss and Moses expected to back up
+1. Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6
+2. Sharks over Dolphins - correct, Sharks 66 def Dolphins 0
+3. Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16
+4. Eels over Roosters - missed, Roosters 28 def Eels 12
+5. Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24
+6. Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point
+7. Storm over Titans - live/pending at update time
 
 Round 19 notes:
 
-- This is a post-Origin round, so late mail and final cut-downs matter.
-- Storm and Sharks are price-watch candidates only; no stake or price is locked.
-- James Tedesco and Jack Bostock are set to miss after Origin head knocks.
-- Warriors lose Mitchell Barnett and Kurt Capewell, but regain James Fisher-Harris, Leka Halasima and Alofiana Khan-Pereira.
-- Byes: Broncos, Panthers and Dragons.
+- The board now prioritises getting `Prince_of_Penrith` to 2nd before finals without reckless full-card chasing.
+- A 5-point swing is the immediate target; 1st place is a longer chase and should not distort weekly risk.
+- Use one or two controlled differentials per full round after modelling likely leader tips.
+- No Round 19 charity bet was locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
+- Storm v Titans still needs final confirmation before publishing a final Round 19 card count.
 
 Round 18 notes carried forward:
 
@@ -126,9 +129,10 @@ https://mrummler17.github.io/nrl-tipbot/
 
 Recent Round 19 updates used:
 
+- NRL Live Round 19: https://www.nrl.com/news/2026/07/12/nrl-live-round-19-rabbitohs-v-knights-sea-eagles-v-cowboys-storm-v-titans/
 - NRL Late Mail Round 19: https://www.nrl.com/news/2026/07/09/nrl-late-mail-round-19-all-eyes-on-origin-stars-deardon-eyes-return/
 - NRL Team Lists Round 19: https://www.nrl.com/news/2026/07/07/nrl-team-lists-round-19/
-- Round 19 fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
+- Round 19 results cross-check: https://en.wikipedia.org/wiki/2026_NRL_season_results
 
 ## License
 

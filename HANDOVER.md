@@ -5,16 +5,59 @@
 - Repo: `/Users/marcusrummler/AI Developer Files/New project/nrl-tipbot`
 - Remote: `https://github.com/mrummler17/nrl-tipbot.git`
 - Branch: `main`
+- Latest local commit before this ladder-chase update: `4195782 Record disaster recovery verification`
 - Latest known commit before this Round 19 update: `39e5fff Record Round 18 deployment handover`
 - Latest Round 19 content commit: `c40c172 Update TipBot for Round 19`
 - Latest commit before disaster recovery work: `a654fb6 Record Round 19 deployment handover`
 - Latest disaster recovery pack commit: `b060a0c Add disaster recovery pack`
+- Latest disaster recovery verification commit: `4195782 Record disaster recovery verification`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current production version: Round 19, 2026 preview
+- Current local working version: Round 19, 2026 live tracker and `Prince_of_Penrith` top-two chase
 
 ## Changed This Session
+
+- Updated `data/briefing.json` from Round 19 preview mode to Round 19 live tracker and ladder-chase mode.
+- Added the user-supplied tipping-comp context:
+  - Handle: `Prince_of_Penrith`
+  - Current ladder position: 3rd
+  - Current points: 194
+  - Gap to 2nd: 5 points behind Kristy W13 on 199
+  - 1st place: NourilM on 211, 17 points ahead
+- Updated Round 19 result tracking:
+  - Correct: Warriors over Wests Tigers, Sharks over Dolphins
+  - Missed: Bulldogs over Raiders, Eels over Roosters, Knights over Rabbitohs, Sea Eagles over Cowboys
+  - Live/pending at update time: Storm over Titans
+- Updated strategy from generic tip preview to controlled top-two chase:
+  - Protect obvious favourites where leaders likely match.
+  - Use one or two controlled differentials per full round.
+  - Model likely tips for NourilM and Kristy W13 before Round 20 locks.
+  - Do not let a poor Round 19 card trigger reckless charity betting.
+- Updated `README.md` to match the live tracker and `Prince_of_Penrith` objective.
+- Kept the Mark Hughes Foundation ledger unchanged:
+  - Record: `3-2`
+  - Invested: `$31.50`
+  - Returned: `$32.03`
+  - Settled profit: `+$0.53`
+- Current source checks were performed on Sunday 12 July 2026 at about 6:45pm AEST:
+  - Official NRL live Round 19 blog for Rabbitohs v Knights, Sea Eagles v Cowboys and Storm v Titans
+  - Official NRL late mail Round 19 page
+  - NRL Round 19 team lists
+  - 2026 NRL season results table as secondary result cross-check
+- Storm v Titans was not final at the update time and must remain `live/pending` until a clean final score is verified.
+- JSON validation passed after the live tracker update.
+- `npm run build` completed successfully after the live tracker update.
+- Root `index.html` was synced from `dist/index.html`.
+- Local preview QA passed at `http://127.0.0.1:4174/index.html`:
+  - Visible: `Round 19 live tracker and Prince_of_Penrith top-two chase`.
+  - Rendered: `Prince_of_Penrith`, `5 pts`, `2-4 + live`, `No bet locked`, `3-2`, `+$0.53`.
+  - Rendered result lines for Warriors, Sharks, Raiders, Roosters, Rabbitohs and Cowboys.
+  - Old copy did not render: `Round 19 preview after the Origin decider`, `Round 18 briefing live`.
+  - Browser console had 0 errors.
+- Notion milestone note was not added for this update because the Notion fetch/read tool was not exposed in the session, and the Notion skill requires reading existing page content before editing. Repo-local docs remain authoritative.
+
+## Prior Disaster Recovery Session
 
 - Created `DISASTER_RECOVERY.md` as the repo-local restore and resilience source of truth.
 - Added `scripts/backup-recovery-pack.sh` to create local recovery archives.
@@ -45,24 +88,25 @@
 ## Current Published Content To Verify
 
 - Round: Round 19, 2026
-- Mode: Preview
-- Tip card:
-  1. Storm over Titans
-  2. Sharks over Dolphins
-  3. Warriors over Wests Tigers
-  4. Knights over Rabbitohs
-  5. Sea Eagles over Cowboys
-  6. Bulldogs over Raiders
-  7. Eels over Roosters
+- Mode: Live tracker and ladder-chase strategy
+- Tipping comp handle: `Prince_of_Penrith`
+- Ladder target: 3rd on 194, 5 points behind 2nd
+- Tip card at update time:
+  1. Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6
+  2. Sharks over Dolphins - correct, Sharks 66 def Dolphins 0
+  3. Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16
+  4. Eels over Roosters - missed, Roosters 28 def Eels 12
+  5. Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24
+  6. Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point
+  7. Storm over Titans - live/pending at the 6:45pm AEST update
 - Charity bet status: `No bet locked`
 - Charity ledger: `3-2`, `+$0.53`
 - Bye teams: Broncos, Panthers and Dragons
 - Main source logic:
-  - James Tedesco and Jack Bostock are set to miss after Origin head knocks.
-  - Warriors lose Mitchell Barnett and Kurt Capewell but regain James Fisher-Harris and Leka Halasima.
-  - Wests Tigers regain Jarome Luai but lose Api Koroisau.
-  - Storm regain Jahrome Hughes, Nick Meaney and Jack Howarth.
-  - Bulldogs v Raiders and Sea Eagles v Cowboys still carry heavy late-mail risk.
+  - The supplied screenshot makes the operational objective explicit: get `Prince_of_Penrith` from 3rd to 2nd or better before finals.
+  - The app should prioritise top-two ladder strategy over emotional chase tipping.
+  - No Round 19 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
+  - Storm v Titans needs final confirmation before the final Round 19 card count is published.
 
 ## Verified So Far
 
@@ -70,7 +114,9 @@
 - `npm run build` completed successfully.
 - Root `index.html` was synced from `dist/index.html`.
 - Current source checks were performed on Thursday 9 July 2026.
+- Current source checks for the live tracker were performed on Sunday 12 July 2026.
 - NRL official late-mail page is live for Round 19 and includes post-Origin updates.
+- NRL official live Round 19 blog was checked for the Sunday games and Storm v Titans live state.
 - NRL official team-list page was checked for Round 19 named sides.
 - Wikipedia Round 19 fixture table was used as a secondary schedule cross-check.
 - Local browser QA passed at `http://127.0.0.1:4173/index.html`:
@@ -105,6 +151,7 @@
 - Round 12 validated 5 from 5 and Round 13 settled 5 from 7 should not be changed without re-checking official NRL scores.
 - Do not publish a final Round 18 tip-count headline until every Round 18 game has a clean public score cross-check.
 - Keep `index.html` synced with `dist/index.html` before deploy because GitHub Pages serves the root entry.
+- Keep `Prince_of_Penrith` ladder strategy conservative: the app can recommend controlled differentials, but should not chase every underdog simply to make up 5 points.
 
 ## Important Files
 
@@ -142,22 +189,24 @@
 ## Sources Used
 
 - NRL Late Mail Round 19: `https://www.nrl.com/news/2026/07/09/nrl-late-mail-round-19-all-eyes-on-origin-stars-deardon-eyes-return/`
+- NRL Live Round 19: `https://www.nrl.com/news/2026/07/12/nrl-live-round-19-rabbitohs-v-knights-sea-eagles-v-cowboys-storm-v-titans/`
 - NRL Team Lists Round 19: `https://www.nrl.com/news/2026/07/07/nrl-team-lists-round-19/`
 - Round 19 fixture table: `https://en.wikipedia.org/wiki/2026_NRL_season_results`
 
 ## Risks / Unfinished
 
 - Disaster recovery pack is local/repo authoritative; Notion was updated as optional shared continuity only.
-- Round 19 is currently a preview, not a result tracker.
-- No Round 19 charity bet is locked. Any future bet requires a fresh TAB price and explicit user confirmation.
-- Storm and Sharks are price-watch candidates only.
-- Origin back-up calls can still materially alter Dolphins v Sharks, Bulldogs v Raiders, Roosters v Eels, Rabbitohs v Knights, Sea Eagles v Cowboys and Storm v Titans.
+- Round 19 is currently a live tracker; Storm v Titans still needs clean final confirmation before final card count.
+- No Round 19 charity bet is locked. Do not add one retrospectively.
+- The current top-two plan depends on modelling likely leader tips from Round 20 onward; that feature is strategic guidance only until the next update.
 - Round 18 full final tip count still needs clean score cross-checking before it is published as a final wrap.
 - Browser cache may briefly retain the previous Round 18 page; a hard refresh or cache-busted URL showed the Round 19 production page correctly.
 
 ## Recommended Next Steps
 
-- Re-check final team cuts before kickoff, especially Tigers v Warriors and Dolphins v Sharks.
-- Only convert Storm or Sharks from price watch to charity bet if fresh odds, stake and explicit user confirmation are recorded before kickoff.
+- Confirm Storm v Titans final score after full time and publish the final Round 19 tip count.
+- Build Round 20 with a leader-differential column: likely NourilM tip, likely Kristy W13 tip, recommended `Prince_of_Penrith` action.
+- Re-check Round 20 team lists and late mail before any locks.
+- Keep charity bets separate from tipping-comp ladder aggression.
 - Add GitHub Actions JSON/build validation for resilience.
 - Store backup archives outside the repo on an encrypted external or cloud location.

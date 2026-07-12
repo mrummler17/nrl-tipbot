@@ -1,8 +1,8 @@
 # NRL TipBot Briefing 2026
 
-Round 19 preview after the Origin decider
+Round 19 live tracker and Prince_of_Penrith top-two chase
 
-A weekly NRL command board for sharper tipping, cleaner bet tracking, and banking any wins for charity.
+A weekly NRL command board for sharper tipping, cleaner ladder strategy, and banking any wins for charity.
 
 ## Current Pick
 
@@ -14,31 +14,31 @@ A weekly NRL command board for sharper tipping, cleaner bet tracking, and bankin
 
 ## Live Round Status
 
-- Round 19 preview updated Thursday 9 July 2026
-- Round 19 preview is live with seven tips: Warriors, Sharks, Bulldogs, Eels, Knights, Sea Eagles and Storm. No Round 19 charity bet is locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
+- Round 19 live tracker updated Sunday 12 July 2026
+- Round 19 tracking is live. The card is 2-4 with Storm v Titans live/pending at update time. Prince_of_Penrith is 3rd on 194 points in the supplied tipping-comp ladder, 5 points behind 2nd, so the board now prioritises controlled top-two chase strategy.
 
 
 ## Confidence Order
 
-1. Storm over Titans - best raw edge with Hughes, Meaney and Howarth returning and Grant, Munster and Loiero named
-2. Sharks over Dolphins - Dolphins lose Bostock and still have Origin availability calls across their reserves
-3. Warriors over Wests Tigers - Tigers lose Api Koroisau while Warriors regain James Fisher-Harris and Leka Halasima
-4. Knights over Rabbitohs - Ponga and Bradman Best are expected to back up while Souths lose Cody Walker
-5. Sea Eagles over Cowboys - Manly home lean with Tom Trbojevic, Fogarty and Haumole Olakau'atu
-6. Bulldogs over Raiders - home lean only, with Crichton backing up and Raiders still juggling Origin/injury returns
-7. Eels over Roosters - upset lean with Tedesco set to miss and Moses expected to back up
+1. Storm over Titans - live/pending at update time; only remaining chance to improve Round 19 card
+2. Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6
+3. Sharks over Dolphins - correct, Sharks 66 def Dolphins 0
+4. Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16
+5. Eels over Roosters - missed, Roosters 28 def Eels 12
+6. Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24
+7. Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point
 
 ## Board Sections
 
-- **Situation Report** — Round 19 starts one day after the Origin decider
-- **Bet Analysis** — Storm are the watch candidate, not a locked charity play
-- **Round 19 Tips** — Confidence order for the post-Origin round
-- **Round 19 Fixtures** — Round 19 fixture board
-- **Form Radar** — What the week asks us to respect
-- **Intel Notes** — The Round 19 late-mail details driving the card
+- **Situation Report** — The ladder chase is now explicit
+- **Bet Analysis** — No charity chase after a bad tipping card
+- **Round 19 Tips** — Round 19 card status
+- **Round 19 Fixtures** — Round 19 result board
+- **Top-Two Plan** — How Prince_of_Penrith gets to 2nd before finals
+- **Round 20 Prep** — No early locks until Team List Tuesday
 
 ## Notes
 
-- Built from the Codex-maintained data workflow and updated for Round 19 preview on Thursday 9 July 2026.
+- Built from the Codex-maintained data workflow and updated for Round 19 live tracking on Sunday 12 July 2026.
+- Prince_of_Penrith ladder context came from the user-supplied Round 19 overall ladder screenshot: 3rd, 194 points, 5 behind 2nd.
 - Round 19 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
-- Post-Origin late mail is the main risk control for this week's card.
