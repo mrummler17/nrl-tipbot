@@ -11,10 +11,11 @@
 - Latest commit before disaster recovery work: `a654fb6 Record Round 19 deployment handover`
 - Latest disaster recovery pack commit: `b060a0c Add disaster recovery pack`
 - Latest disaster recovery verification commit: `4195782 Record disaster recovery verification`
+- Latest ladder-chase tracker commit: `f8f26fb Update TipBot ladder chase tracker`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 19, 2026 live tracker and `Prince_of_Penrith` top-two chase
+- Current production version: Round 19, 2026 live tracker and `Prince_of_Penrith` top-two chase
 
 ## Changed This Session
 
@@ -56,6 +57,13 @@
   - Old copy did not render: `Round 19 preview after the Origin decider`, `Round 18 briefing live`.
   - Browser console had 0 errors.
 - Notion milestone note was not added for this update because the Notion fetch/read tool was not exposed in the session, and the Notion skill requires reading existing page content before editing. Repo-local docs remain authoritative.
+- Ladder-chase tracker commit created and pushed:
+  - `f8f26fb Update TipBot ladder chase tracker`
+- GitHub Pages build for `f8f26fb1c5b5ba88b4140bbff08e2de2429af50d` completed successfully:
+  - Build status: `built`
+  - Created at `2026-07-12T08:50:53Z`
+  - Updated at `2026-07-12T08:51:15Z`
+- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 19 live tracker HTML, including `Prince_of_Penrith`, `5 pts`, `2-4 + live`, and the Round 19 result board.
 
 ## Prior Disaster Recovery Session
 
