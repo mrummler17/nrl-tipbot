@@ -1,123 +1,126 @@
 {
-  "round": "Round 19",
-  "verifiedAt": "2026-07-12T20:15:00+10:00",
-  "verificationLabel": "Round 19 final-direction tracker updated Sunday 12 July 2026",
-  "summary": "Round 19 tracking is now 3-4 after a user-reported Storm win over the Titans. The exact Storm v Titans score still needs official cross-checking, but the tip direction is correct. Prince_of_Penrith is 3rd on 194 points in the supplied tipping-comp ladder, 5 points behind 2nd, so the board keeps prioritising controlled top-two chase strategy.",
+  "round": "Round 20",
+  "verifiedAt": "2026-07-15T23:56:54+10:00",
+  "verificationLabel": "Round 20 preview updated Wednesday 15 July 2026",
+  "summary": "Round 20 card is Broncos, Sharks, Roosters, Raiders, Warriors, Bulldogs, Titans and Dolphins. Exact market prices were not recorded, so market reads are being used as leader-behaviour estimates. Prince_of_Penrith is chasing a 5-point gap to 2nd before finals.",
   "sources": [
     {
-      "label": "NRL Live Round 19: Storm v Titans, Sea Eagles v Cowboys, Rabbitohs v Knights",
-      "url": "https://www.nrl.com/news/2026/07/12/nrl-live-round-19-rabbitohs-v-knights-sea-eagles-v-cowboys-storm-v-titans/",
+      "label": "NRL Late Mail: Round 20 - Broncos' boost; Dearden primed",
+      "url": "https://www.nrl.com/news/2026/07/15/nrl-late-mail-round-20/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-07-12T13:30:00+10:00"
+      "publishedAt": "2026-07-15T20:20:00+10:00"
     },
     {
-      "label": "NRL Late Mail Round 19: All eyes on Origin stars; Dearden nears return",
-      "url": "https://www.nrl.com/news/2026/07/09/nrl-late-mail-round-19-all-eyes-on-origin-stars-deardon-eyes-return/",
+      "label": "NRL Team Lists: Round 20",
+      "url": "https://www.nrl.com/news/2026/07/14/nrl-team-lists-round-20/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-07-12T18:35:00+10:00"
+      "publishedAt": "2026-07-14T15:59:00+10:00"
     },
     {
-      "label": "2026 NRL season results: Round 19 result table",
+      "label": "2026 NRL season results: Round 20 fixture table",
       "url": "https://en.wikipedia.org/wiki/2026_NRL_season_results",
       "publisher": "Wikipedia",
-      "publishedAt": "2026-07-12T00:00:00+10:00"
-    },
-    {
-      "label": "NRL Team Lists: Round 19",
-      "url": "https://www.nrl.com/news/2026/07/07/nrl-team-lists-round-19/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-07-07T16:00:00+10:00"
+      "publishedAt": "2026-07-15T00:00:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Wests Tigers vs Warriors",
-      "kickoff": "Fri 10 Jul, 8:00pm",
-      "venue": "Campbelltown Stadium",
-      "status": "Final",
-      "result": "Warriors 32 def Wests Tigers 6",
-      "tipOutcome": "Correct: Warriors",
-      "note": "Correct opener. The Friday lean held despite the Warriors losing Barnett and Capewell from the extended squad."
+      "match": "Panthers vs Broncos",
+      "kickoff": "Thu 16 Jul, 7:50pm",
+      "venue": "CommBank Stadium",
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Broncos",
+      "note": "Controlled split: market likely treats Panthers as leader-safe, but Brisbane get Walsh, Mam, Reynolds, Haas and Carrigan back. Panthers also regain Cleary, Martin and Yeo, so this is high-risk and high-upside."
     },
     {
-      "match": "Dolphins vs Sharks",
-      "kickoff": "Sat 11 Jul, 3:00pm",
-      "venue": "Kayo Stadium",
-      "status": "Final",
-      "result": "Sharks 66 def Dolphins 0",
-      "tipOutcome": "Correct: Sharks",
-      "note": "Correct and emphatic. Cronulla was the best Saturday edge once Jack Bostock dropped out and the Dolphins carried Origin disruption."
+      "match": "Sharks vs Knights",
+      "kickoff": "Fri 17 Jul, 6:00pm",
+      "venue": "Ocean Protect Stadium",
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Sharks",
+      "note": "Favourite match: Nikora is back, Addin Fonua-Blake starts and Hynes has a strong Knights record. Newcastle regain Best but carry injury reshuffle."
     },
     {
-      "match": "Bulldogs vs Raiders",
-      "kickoff": "Sat 11 Jul, 5:30pm",
-      "venue": "Accor Stadium",
-      "status": "Final",
-      "result": "Raiders 40 def Bulldogs 16",
-      "tipOutcome": "Missed: Bulldogs",
-      "note": "Miss. Canberra punished the fragile home lean and turned the middle of the card against us."
-    },
-    {
-      "match": "Roosters vs Eels",
-      "kickoff": "Sat 11 Jul, 7:35pm",
+      "match": "Roosters vs Storm",
+      "kickoff": "Fri 17 Jul, 8:00pm",
       "venue": "Allianz Stadium",
-      "status": "Final",
-      "result": "Roosters 28 def Eels 12",
-      "tipOutcome": "Missed: Eels",
-      "note": "Miss. The Tedesco absence did not create enough Parramatta edge."
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Roosters",
+      "note": "Favourite match: Storm are without Munster and Hughes. Roosters miss Tedesco and Collins but regain Sam Walker and Reece Robson."
     },
     {
-      "match": "Rabbitohs vs Knights",
-      "kickoff": "Sun 12 Jul, 2:00pm",
+      "match": "Raiders vs Rabbitohs",
+      "kickoff": "Sat 18 Jul, 3:00pm",
+      "venue": "GIO Stadium",
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Raiders",
+      "note": "Favourite match: Raiders at GIO with Strange and Hudson Young back. Souths regain Cody Walker and Alex Johnston but lose Dayne Jennings and Jayden Sullivan."
+    },
+    {
+      "match": "Warriors vs Dragons",
+      "kickoff": "Sat 18 Jul, 5:35pm AEST",
+      "venue": "Go Media Stadium",
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Warriors",
+      "note": "Protect pick: Warriors regain Barnett, Capewell and Dallin Watene-Zelezniak at Go Media. Dragons still have Tyrell Sloan hamstring watch."
+    },
+    {
+      "match": "Bulldogs vs Wests Tigers",
+      "kickoff": "Sat 18 Jul, 7:35pm",
       "venue": "Accor Stadium",
-      "status": "Final",
-      "result": "Rabbitohs 26 def Knights 24",
-      "tipOutcome": "Missed: Knights",
-      "note": "Miss. Souths edged Newcastle by two and made the 2pm Sunday lean a tipping-comp loss."
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Bulldogs",
+      "note": "Protect pick but fragile: Bulldogs are at home with Preston back, while Crichton and Kikau sit in the reserves. Tigers have Api Koroisau as an outside-chance reserve and Bunty Afoa suspended."
     },
     {
-      "match": "Sea Eagles vs Cowboys",
-      "kickoff": "Sun 12 Jul, 4:05pm",
-      "venue": "4 Pines Park",
-      "status": "Final",
-      "result": "Cowboys 19 def Sea Eagles 18",
-      "tipOutcome": "Missed: Sea Eagles",
-      "note": "Miss. North Queensland won a golden-point thriller, so the 4 Pines home lean failed by one."
+      "match": "Titans vs Sea Eagles",
+      "kickoff": "Sun 19 Jul, 2:00pm",
+      "venue": "Cbus Super Stadium",
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Titans",
+      "note": "Controlled split: Titans nearly got Storm and are at Cbus. Manly lose Ben Trbojevic to HIA protocols and Corey Waddell to an ankle injury."
     },
     {
-      "match": "Storm vs Titans",
-      "kickoff": "Sun 12 Jul, 6:15pm",
-      "venue": "AAMI Park",
-      "status": "Final direction",
-      "result": "Storm def Titans, exact score pending official cross-check",
-      "tipOutcome": "Correct: Storm",
-      "note": "Correct final tip per user report. Emotional note: the Storm tip landed, but the Titans underdog push was still the fun side to cheer."
+      "match": "Dolphins vs Cowboys",
+      "kickoff": "Sun 19 Jul, 4:05pm",
+      "venue": "Suncorp Stadium",
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Dolphins",
+      "note": "Coin-flip lean: Dolphins regain Tabuai-Fidow, Bostock and Cobbo, and have won their last five at Suncorp. Cowboys have Dearden in the reserves and likely to return, so recheck final mail."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Prince_of_Penrith ladder target: 3rd on 194, 5 points behind 2nd and 17 behind 1st from the supplied Round 19 screenshot."
-    },
-    {
-      "tone": "red",
-      "text": "Round 19 card status: Warriors, Sharks and Storm correct; Bulldogs, Eels, Knights and Sea Eagles missed. Final direction is 3-4."
+      "text": "Round 20 card live: Broncos, Sharks, Roosters, Raiders, Warriors, Bulldogs, Titans and Dolphins."
     },
     {
       "tone": "amber",
-      "text": "Top-two chase strategy: use one or two controlled differentials per round, not full-card underdog chasing."
+      "text": "Market-aware strategy is active, but exact market prices were not recorded in this update. Treat bands as leader-behaviour estimates until final odds are checked."
+    },
+    {
+      "tone": "cyan",
+      "text": "Controlled splits: Broncos over Panthers and Titans over Sea Eagles. Dolphins over Cowboys is a low-confidence coin-flip lean."
     },
     {
       "tone": "green",
-      "text": "Charity ledger remains 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
+      "text": "Prince_of_Penrith target remains 3rd on 194, 5 points behind 2nd from the supplied ladder screenshot."
     },
     {
       "tone": "amber",
-      "text": "Storm v Titans exact score still needs official cross-checking before the final score line is published."
+      "text": "No Round 20 charity bet is locked; tipping-comp strategy does not move the Mark Hughes Foundation ledger."
     },
     {
-      "tone": "amber",
-      "text": "No Round 19 charity bet is locked; tipping-comp results do not move the Mark Hughes Foundation ledger."
+      "tone": "cyan",
+      "text": "Round 20 bye: Parramatta Eels."
     }
   ]
 }

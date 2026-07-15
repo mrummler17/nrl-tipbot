@@ -13,12 +13,42 @@
 - Latest disaster recovery verification commit: `4195782 Record disaster recovery verification`
 - Latest ladder-chase tracker commit: `f8f26fb Update TipBot ladder chase tracker`
 - Latest Storm closure commit: `e12f4c3 Close Round 19 Storm result`
+- Latest market-aware strategy commit: `3ece7e2 Add market-aware ladder strategy`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 19, 2026 final-direction tracker and `Prince_of_Penrith` top-two chase
+- Current local working version: Round 20, 2026 market-aware top-two chase
 
 ## Changed This Session
+
+- Round 20 update:
+  - Updated `data/briefing.json` from Round 19 tracker mode to Round 20 market-aware top-two chase mode.
+  - Updated `data/live-round.json` with the Round 20 fixture board, source list, alerts, and eight recommended tips.
+  - Updated `README.md` with the current Round 20 snapshot and source list.
+  - Round 20 tips:
+    1. Broncos over Panthers - controlled split
+    2. Sharks over Knights - favourite match
+    3. Roosters over Storm - favourite match
+    4. Raiders over Rabbitohs - favourite match
+    5. Warriors over Dragons - protect pick
+    6. Bulldogs over Wests Tigers - protect pick with late-mail watch
+    7. Titans over Sea Eagles - controlled split
+    8. Dolphins over Cowboys - coin-flip home lean
+  - Strategy:
+    - Market favourites are now explicitly used as leader-behaviour estimates for NourilM and Kristy W13.
+    - Exact market prices were not recorded in this update, so odds/bands must be rechecked before lockout.
+    - Main controlled splits are Broncos over Panthers and Titans over Sea Eagles.
+    - Dolphins over Cowboys is lowest confidence and should be rechecked if Tom Dearden is confirmed to start.
+  - Charity ledger:
+    - No Round 20 charity bet is locked.
+    - Ledger remains `3-2`, `$31.50` invested, `$32.03` returned, `+$0.53` settled profit.
+  - Sources checked on Wednesday 15 July 2026:
+    - Official NRL Late Mail Round 20
+    - Official NRL Team Lists Round 20
+    - 2026 NRL season results Round 20 fixture table
+  - Notion milestone note added to the `TipBot NRL` Command Centre page on Wednesday 15 July 2026. Repo-local docs remain authoritative.
+
+## Previous Round 19 Session
 
 - Post-Storm result update:
   - User reported Storm beat Titans after the previous live update.
@@ -114,26 +144,27 @@
 
 ## Current Published Content To Verify
 
-- Round: Round 19, 2026
-- Mode: Live tracker and ladder-chase strategy
+- Round: Round 20, 2026
+- Mode: Market-aware top-two chase
 - Tipping comp handle: `Prince_of_Penrith`
 - Ladder target: 3rd on 194, 5 points behind 2nd
 - Tip card at update time:
-  1. Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6
-  2. Sharks over Dolphins - correct, Sharks 66 def Dolphins 0
-  3. Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16
-  4. Eels over Roosters - missed, Roosters 28 def Eels 12
-  5. Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24
-  6. Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point
-  7. Storm over Titans - correct from user-reported final result, exact score pending official cross-check
+  1. Broncos over Panthers
+  2. Sharks over Knights
+  3. Roosters over Storm
+  4. Raiders over Rabbitohs
+  5. Warriors over Dragons
+  6. Bulldogs over Wests Tigers
+  7. Titans over Sea Eagles
+  8. Dolphins over Cowboys
 - Charity bet status: `No bet locked`
 - Charity ledger: `3-2`, `+$0.53`
-- Bye teams: Broncos, Panthers and Dragons
+- Bye team: Parramatta Eels
 - Main source logic:
   - The supplied screenshot makes the operational objective explicit: get `Prince_of_Penrith` from 3rd to 2nd or better before finals.
   - The app should prioritise top-two ladder strategy over emotional chase tipping.
-  - No Round 19 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
-  - Storm v Titans direction is correct from user report; exact score needs official confirmation before the final score line is published.
+  - Exact market prices must be checked before lockout because this update did not capture live bookmaker odds.
+  - No Round 20 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
 
 ## Verified So Far
 

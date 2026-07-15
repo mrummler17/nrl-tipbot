@@ -1,12 +1,12 @@
 # NRL TipBot Briefing 2026
 
-Round 19 live tracker and Prince_of_Penrith top-two chase
+Round 20 market-aware top-two chase
 
 A weekly NRL command board for sharper tipping, cleaner ladder strategy, and banking any wins for charity.
 
 ## Current Pick
 
-- No Round 19 charity play locked
+- No Round 20 charity play locked
 - Odds: TBC
 - Stake: $0.00
 - Potential profit: $0.00
@@ -14,31 +14,33 @@ A weekly NRL command board for sharper tipping, cleaner ladder strategy, and ban
 
 ## Live Round Status
 
-- Round 19 final-direction tracker updated Sunday 12 July 2026
-- Round 19 tracking is now 3-4 after a user-reported Storm win over the Titans. The exact Storm v Titans score still needs official cross-checking, but the tip direction is correct. Prince_of_Penrith is 3rd on 194 points in the supplied tipping-comp ladder, 5 points behind 2nd, so the board keeps prioritising controlled top-two chase strategy.
+- Round 20 preview updated Wednesday 15 July 2026
+- Round 20 card is Broncos, Sharks, Roosters, Raiders, Warriors, Bulldogs, Titans and Dolphins. Exact market prices were not recorded, so market reads are being used as leader-behaviour estimates. Prince_of_Penrith is chasing a 5-point gap to 2nd before finals.
 
 
 ## Confidence Order
 
-1. Storm over Titans - correct from user-reported final result; exact score pending official cross-check
-2. Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6
-3. Sharks over Dolphins - correct, Sharks 66 def Dolphins 0
-4. Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16
-5. Eels over Roosters - missed, Roosters 28 def Eels 12
-6. Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24
-7. Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point
+1. Warriors over Dragons - strongest protect pick
+2. Sharks over Knights - strong home favourite match
+3. Roosters over Storm - Storm halves disruption creates the edge
+4. Raiders over Rabbitohs - home favourite with Origin forwards back
+5. Bulldogs over Wests Tigers - protect pick but monitor late mail
+6. Broncos over Panthers - controlled split, high upside and high risk
+7. Titans over Sea Eagles - controlled split at Cbus
+8. Dolphins over Cowboys - coin-flip home lean, lowest confidence
 
 ## Board Sections
 
-- **Situation Report** — The ladder chase is now explicit
-- **Bet Analysis** — No charity chase after a bad tipping card
-- **Round 19 Tips** — Round 19 card status
-- **Round 19 Fixtures** — Round 19 result board
-- **Top-Two Plan** — How Prince_of_Penrith gets to 2nd before finals
-- **Round 20 Prep** — No early locks until Team List Tuesday
+- **Situation Report** — The top-two chase now includes market modelling
+- **Bet Analysis** — No charity bet locked for Round 20
+- **Round 20 Tips** — Recommended card for Prince_of_Penrith
+- **Round 20 Fixtures** — Round 20 schedule
+- **Top-Two Plan** — How this card tries to gain without blowing up
+- **Late Mail** — Selection notes driving the card
 
 ## Notes
 
-- Built from the Codex-maintained data workflow and updated for Round 19 final-direction tracking on Sunday 12 July 2026.
+- Built from the Codex-maintained data workflow and updated for Round 20 on Wednesday 15 July 2026.
 - Prince_of_Penrith ladder context came from the user-supplied Round 19 overall ladder screenshot: 3rd, 194 points, 5 behind 2nd.
-- Round 19 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
+- Round 20 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
+- Exact market odds were not recorded in this update; market notes are leader-behaviour estimates until a final price check is added.

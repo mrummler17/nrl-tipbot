@@ -18,34 +18,41 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 19, 2026
-- Mode: live tracker and ladder-chase strategy
+- Round: Round 20, 2026
+- Mode: market-aware top-two chase
 - Tipping comp handle: `Prince_of_Penrith`
 - Ladder target: 3rd on 194 points, 5 points behind 2nd from the supplied Round 19 screenshot
-- Tip card: 3 correct, 4 missed after a user-reported Storm win over the Titans
-- Charity bet status: no Round 19 bet locked
+- Tip card: Broncos, Sharks, Roosters, Raiders, Warriors, Bulldogs, Titans, Dolphins
+- Charity bet status: no Round 20 bet locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
 
-Round 19 tracker:
+Round 20 tips:
 
-1. Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6
-2. Sharks over Dolphins - correct, Sharks 66 def Dolphins 0
-3. Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16
-4. Eels over Roosters - missed, Roosters 28 def Eels 12
-5. Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24
-6. Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point
-7. Storm over Titans - correct from user-reported final result; exact score pending official cross-check
+1. Broncos over Panthers - controlled split, high upside and high risk
+2. Sharks over Knights - strong home favourite match
+3. Roosters over Storm - Storm halves disruption creates the edge
+4. Raiders over Rabbitohs - home favourite with Strange and Hudson Young back
+5. Warriors over Dragons - strongest protect pick
+6. Bulldogs over Wests Tigers - protect pick but monitor late mail
+7. Titans over Sea Eagles - controlled split at Cbus
+8. Dolphins over Cowboys - coin-flip home lean, lowest confidence
 
-Round 19 notes:
+Round 20 notes:
 
 - The board now prioritises getting `Prince_of_Penrith` to 2nd before finals without reckless full-card chasing.
 - A 5-point swing is the immediate target; 1st place is a longer chase and should not distort weekly risk.
 - Use one or two controlled differentials per full round after modelling likely leader tips.
 - Use betting-market favourites each week as a proxy for safe leader picks; NourilM and Kristy W13 are likely to protect position by backing favourites.
 - Classify every game as favourite match, controlled split, or avoid before lockout.
-- No Round 19 charity bet was locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
-- Storm v Titans exact score still needs official confirmation before publishing the final score line.
+- Exact market prices were not recorded in this update, so market bands are leader-behaviour estimates until the final odds check.
+- No Round 20 charity bet is locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
+- Dolphins over Cowboys should be rechecked if Tom Dearden is formally promoted from the reserves.
+
+Round 19 notes carried forward:
+
+- Round 19 card finished as 3 correct and 4 missed after a user-reported Storm win over the Titans.
+- Storm v Titans exact score still needs official confirmation before publishing the final score line, but the tip direction is treated as correct.
 
 Round 18 notes carried forward:
 
@@ -130,12 +137,11 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 19 updates used:
+Recent Round 20 updates used:
 
-- NRL Live Round 19: https://www.nrl.com/news/2026/07/12/nrl-live-round-19-rabbitohs-v-knights-sea-eagles-v-cowboys-storm-v-titans/
-- NRL Late Mail Round 19: https://www.nrl.com/news/2026/07/09/nrl-late-mail-round-19-all-eyes-on-origin-stars-deardon-eyes-return/
-- NRL Team Lists Round 19: https://www.nrl.com/news/2026/07/07/nrl-team-lists-round-19/
-- Round 19 results cross-check: https://en.wikipedia.org/wiki/2026_NRL_season_results
+- NRL Late Mail Round 20: https://www.nrl.com/news/2026/07/15/nrl-late-mail-round-20/
+- NRL Team Lists Round 20: https://www.nrl.com/news/2026/07/14/nrl-team-lists-round-20/
+- Round 20 fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
 
 ## License
 

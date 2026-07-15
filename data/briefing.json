@@ -1,23 +1,22 @@
 {
   "site": {
     "title": "NRL TipBot Briefing 2026",
-    "subhead": "Round 19 live tracker and Prince_of_Penrith top-two chase",
+    "subhead": "Round 20 market-aware top-two chase",
     "intro": "A weekly NRL command board for sharper tipping, cleaner ladder strategy, and banking any wins for charity.",
     "timezone": "Australia/Sydney",
-    "status": "Round 19 chase mode live"
+    "status": "Round 20 briefing live"
   },
   "meta": {
-    "description": "Codex-managed NRL TipBot dashboard for Round 19 live tracking, Prince_of_Penrith ladder strategy, and Mark Hughes Foundation ledger discipline."
+    "description": "Codex-managed NRL TipBot dashboard for Round 20 tips, market-aware ladder strategy, and Mark Hughes Foundation ledger discipline."
   },
   "ticker": [
-    "prince_of_penrith is 3rd on 194 points and 5 points behind 2nd on the supplied round 19 ladder screenshot",
-    "round 19 card is 3 correct 4 missed after a user reported storm win over the titans",
-    "warriors sharks and storm landed but raiders roosters rabbitohs and cowboys beat our leans",
-    "goal is top 2 before finals not wild chasing",
+    "round 20 tips are broncos sharks roosters raiders warriors bulldogs titans and dolphins",
+    "market favourites are leader-behaviour signals not automatic bets",
+    "prince_of_penrith is chasing a 5 point gap to second before finals",
+    "controlled differentials are broncos over panthers and titans over sea eagles",
+    "dolphins over cowboys is a coin flip lean that needs final market and dearden confirmation",
     "charity ledger stays at 3 and 2 with $31.50 invested $32.03 returned and plus $0.53 settled profit",
-    "no round 19 charity bet is locked without fresh odds stake and explicit confirmation",
-    "weekly market favourites should be treated as likely leader-safe picks not automatic bets",
-    "round 20 is watchlist only until team list tuesday"
+    "no round 20 charity bet is locked without fresh odds stake and explicit confirmation"
   ],
   "heroCards": [
     {
@@ -33,10 +32,10 @@
       "tone": "amber"
     },
     {
-      "label": "Round 19 Card",
-      "value": "3-4",
-      "delta": "Storm correct",
-      "tone": "red"
+      "label": "Round 20 Card",
+      "value": "8 tips",
+      "delta": "Market-aware",
+      "tone": "green"
     },
     {
       "label": "Charity Record",
@@ -53,62 +52,65 @@
         "User-supplied Round 19 ladder screenshot shows Prince_of_Penrith 3rd on 194 points.",
         "Second place is Kristy W13 on 199, so the actionable target is a 5-point swing before finals.",
         "First place NourilM is on 211, a 17-point gap; that is a longer chase and should not drive reckless weekly tactics.",
-        "The board now prioritises controlled differentials that can catch 2nd without blowing up the floor."
+        "Round 20 keeps the same plan: match the obvious safe picks, then choose controlled splits where team news creates a real edge."
       ]
     },
     {
-      "title": "Round 19 Read",
-      "tone": "red",
-      "items": [
-        "Round 19 has moved from preview to damage-control tracking.",
-        "Correct: Warriors over Wests Tigers, Sharks over Dolphins and Storm over Titans.",
-        "Misses so far: Bulldogs over Raiders, Eels over Roosters, Knights over Rabbitohs and Sea Eagles over Cowboys.",
-        "Storm over Titans was marked correct from the user-reported final result; the exact score still needs official cross-checking.",
-        "The human note is fair: backing Storm was the rational tip, but the Titans underdog push was still easy to cheer."
-      ]
-    },
-    {
-      "title": "Top-Two Strategy",
+      "title": "Market Read",
       "tone": "amber",
       "items": [
-        "Do not chase the 5-point gap by tipping every underdog; that is how a top-three position becomes 7th.",
-        "Use one or two controlled differentials per full round, ideally in games where team-list news gives us a real edge.",
-        "Protect obvious heavy favourites when the top two are likely to take them too.",
-        "Use the betting market as a crowd-expectation signal: short-priced favourites are probably the safe picks NourilM and Kristy W13 will lean on.",
-        "Attack games where the public follows reputation but late mail points the other way."
+        "Exact live betting prices were not recorded in this update, so market bands are marked as leader-behaviour estimates rather than confirmed odds.",
+        "The top two are likely to protect position by taking favourite-heavy cards.",
+        "Heavy or clear favourites should usually be matched unless late mail gives us a concrete reason to split.",
+        "The two main controlled Round 20 splits are Broncos over Panthers and Titans over Sea Eagles.",
+        "Dolphins over Cowboys is the lowest-confidence coin-flip lean and should be rechecked if Tom Dearden is formally promoted from the reserves."
+      ]
+    },
+    {
+      "title": "Round 20 Tips",
+      "tone": "green",
+      "items": [
+        "Broncos over Panthers - controlled split, high risk but backed by Brisbane's returning spine and middle.",
+        "Sharks over Knights - favourite match, strong home lean with Hynes and Nikora edge.",
+        "Roosters over Storm - favourite match, because Melbourne are without Cameron Munster and Jahrome Hughes.",
+        "Raiders over Rabbitohs - favourite match at GIO with Ethan Strange and Hudson Young back.",
+        "Warriors over Dragons - protect the likely favourite with Capewell, Barnett and Dallin Watene-Zelezniak back.",
+        "Bulldogs over Wests Tigers - protect, but monitor Stephen Crichton, Viliame Kikau and Api Koroisau late mail.",
+        "Titans over Sea Eagles - controlled split at Cbus after the Titans nearly pinched Storm and Manly lost middle depth.",
+        "Dolphins over Cowboys - coin-flip home lean with the Dolphins' outside backs returning."
       ]
     },
     {
       "title": "Watchlist",
-      "tone": "green",
+      "tone": "red",
       "items": [
-        "Round 20 stays watchlist-only until Team List Tuesday; no early locks.",
-        "Start each week by listing market favourites, then estimating what NourilM and Kristy W13 are likely to tip.",
-        "Mark each game as match the favourite, controlled split, or avoid.",
-        "Track joker users around positions 6-14 because they can jump fast and change the risk profile.",
-        "Keep the charity ledger separate from tipping-comp aggression."
+        "Recheck Panthers v Broncos after final 24-hour cut and any late spine changes.",
+        "Do not ignore Melbourne's Roosters record, but missing Munster and Hughes is the deciding selection factor.",
+        "Bulldogs v Tigers can move fast if Kikau or Api Koroisau is promoted.",
+        "Dolphins v Cowboys needs final Dearden confirmation and a market check before lockout.",
+        "No Round 20 charity bet is locked. The card is for tipping-comp strategy first."
       ]
     }
   ],
   "betCard": {
-    "title": "Round 19 Charity Bet",
+    "title": "Round 20 Charity Bet",
     "status": "No bet locked",
-    "pick": "No Round 19 charity play locked",
+    "pick": "No Round 20 charity play locked",
     "odds": "TBC",
     "stake": "$0.00",
     "potentialReturn": "$0.00",
     "potentialProfit": "$0.00",
-    "match": "Round 19 price watch",
-    "kickoff": "Round runs Friday 10 July to Sunday 12 July 2026",
-    "venue": "NRL Round 19",
+    "match": "Round 20 price watch",
+    "kickoff": "Round runs Thursday 16 July to Sunday 19 July 2026",
+    "venue": "NRL Round 20",
     "why": [
-      "The Round 19 tipping card has taken damage and should not be converted into a chase bet after the fact.",
-      "Storm was the best raw candidate, but no TAB price and stake were recorded before kickoff.",
+      "This update is a tipping-comp strategy card, not a confirmed charity-bet slip.",
+      "Exact market odds and stake were not recorded during the update.",
       "A charity bet only becomes official after explicit user confirmation before kickoff."
     ],
     "risks": [
-      "Using a bad tipping round as betting motivation would mix two ledgers that must stay separate.",
-      "Round 19 post-Origin volatility has already punished several leans.",
+      "Using ladder-chase pressure as betting motivation would mix two ledgers that must stay separate.",
+      "Round 20 has several late-mail moving parts, especially Broncos, Storm, Bulldogs, Tigers, Dolphins and Cowboys.",
       "Any future charity play still needs recorded odds, stake, match, and explicit confirmation before kickoff."
     ]
   },
@@ -136,38 +138,41 @@
       "Round 17: No charity bet was locked, so the external Panthers and Storm slip losses did not move the ledger.",
       "Round 18: No charity bet was locked, so the ledger stayed unchanged.",
       "Round 19: No charity bet was locked, so the ledger stays unchanged regardless of tipping-comp outcomes.",
+      "Round 20: No charity bet is locked yet; market prices are used for tipping intelligence only.",
       "Current ledger: 3-2, $31.50 invested, $32.03 returned and +$0.53 settled profit."
     ]
   },
   "watchlist": [
     "Prince_of_Penrith needs a 5-point swing to catch 2nd, not a miracle card to catch 1st immediately.",
-    "Round 20 must start with team-list verification and likely-rival-tip modelling.",
-    "Add market-favourite tracking each week because the two leaders are likely to protect position by taking safe favourites.",
-    "Use controlled differentials only where late mail or matchup context gives real edge.",
-    "Do not let the Round 19 miss cluster force an aggressive charity-bet decision.",
-    "Storm v Titans exact score still needs official confirmation before publishing the final score line."
+    "Final market prices must be checked before lockout because this update uses market behaviour estimates, not captured odds.",
+    "Broncos over Panthers is a controlled split and should be reviewed if Brisbane make late spine changes.",
+    "Roosters over Storm depends heavily on Storm missing Munster and Hughes.",
+    "Bulldogs over Tigers should be rechecked if Stephen Crichton, Viliame Kikau or Api Koroisau is promoted.",
+    "Dolphins over Cowboys is the lowest-confidence tip and should be rechecked if Dearden is confirmed to start."
   ],
   "confidence": [
-    "Storm over Titans - correct from user-reported final result; exact score pending official cross-check",
-    "Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6",
-    "Sharks over Dolphins - correct, Sharks 66 def Dolphins 0",
-    "Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16",
-    "Eels over Roosters - missed, Roosters 28 def Eels 12",
-    "Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24",
-    "Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point"
+    "Warriors over Dragons - strongest protect pick",
+    "Sharks over Knights - strong home favourite match",
+    "Roosters over Storm - Storm halves disruption creates the edge",
+    "Raiders over Rabbitohs - home favourite with Origin forwards back",
+    "Bulldogs over Wests Tigers - protect pick but monitor late mail",
+    "Broncos over Panthers - controlled split, high upside and high risk",
+    "Titans over Sea Eagles - controlled split at Cbus",
+    "Dolphins over Cowboys - coin-flip home lean, lowest confidence"
   ],
   "sections": [
     {
       "id": "sitrep",
       "title": "Situation Report",
-      "badge": "live tracker",
+      "badge": "round 20",
       "tone": "amber",
-      "heading": "The ladder chase is now explicit",
+      "heading": "The top-two chase now includes market modelling",
       "lines": [
-        "As of Sunday, 12 July 2026, the user-supplied Round 19 comp ladder shows Prince_of_Penrith in 3rd on 194 points.",
-        "Kristy W13 is 2nd on 199, so the near-term goal is a 5-point swing before finals.",
-        "NourilM is 1st on 211; catching 1st is possible only through sustained weekly edge, not panic tipping.",
-        "Round 19 has been updated into live tracking mode rather than preview mode."
+        "Round 20 is Women in League Round and runs from Thursday 16 July to Sunday 19 July 2026.",
+        "The Round 20 draw has eight games and Parramatta on the bye.",
+        "Prince_of_Penrith is still working from the supplied ladder target: 3rd on 194 points and 5 points behind 2nd.",
+        "The two leaders are expected to lean favourite-heavy, so the app now treats market favourite status as a proxy for leader-safe behaviour.",
+        "The goal is controlled edge, not full-card chaos."
       ]
     },
     {
@@ -175,45 +180,47 @@
       "title": "Bet Analysis",
       "badge": "hold",
       "tone": "cyan",
-      "heading": "No charity chase after a bad tipping card",
+      "heading": "No charity bet locked for Round 20",
       "lines": [
         "The Mark Hughes Foundation ledger remains 3-2 with $31.50 invested, $32.03 returned and +$0.53 settled profit.",
-        "No Round 19 charity result should be added without a pre-recorded stake, price and explicit charity-bet confirmation.",
-        "Round 19 tipping-comp losses are useful data, not a reason to risk the charity ledger.",
-        "If Storm lands, record it as a tipping-card result only unless a confirmed charity bet slip exists."
+        "No Round 20 charity result should be added without a pre-recorded stake, price and explicit charity-bet confirmation.",
+        "The market is being used here for tipping-comp psychology and leader modelling.",
+        "Any actual charity play needs a separate confirmation before kickoff."
       ]
     },
     {
       "id": "tips",
-      "title": "Round 19 Tips",
-      "badge": "3-4",
-      "tone": "red",
-      "heading": "Round 19 card status",
+      "title": "Round 20 Tips",
+      "badge": "8 picks",
+      "tone": "green",
+      "heading": "Recommended card for Prince_of_Penrith",
       "lines": [
-        "Warriors over Wests Tigers - correct, Warriors 32 def Wests Tigers 6.",
-        "Sharks over Dolphins - correct, Sharks 66 def Dolphins 0.",
-        "Bulldogs over Raiders - missed, Raiders 40 def Bulldogs 16.",
-        "Eels over Roosters - missed, Roosters 28 def Eels 12.",
-        "Knights over Rabbitohs - missed, Rabbitohs 26 def Knights 24.",
-        "Sea Eagles over Cowboys - missed, Cowboys 19 def Sea Eagles 18 in golden point.",
-        "Storm over Titans - correct from user-reported final result; exact score still needs official cross-checking."
+        "Panthers v Broncos - Broncos, controlled split. Brisbane regain Reece Walsh, Ezra Mam, Adam Reynolds, Payne Haas and Patrick Carrigan.",
+        "Sharks v Knights - Sharks, favourite match. Cronulla regain Briton Nikora and start Addin Fonua-Blake, while Newcastle have injury reshuffle around Marzhew, Hopwood and McEwen.",
+        "Roosters v Storm - Roosters, favourite match. Melbourne are without Cameron Munster and Jahrome Hughes; Roosters regain Sam Walker and Reece Robson.",
+        "Raiders v Rabbitohs - Raiders, favourite match. Canberra regain Ethan Strange and Hudson Young at GIO.",
+        "Warriors v Dragons - Warriors, protect. Kurt Capewell, Mitch Barnett and Dallin Watene-Zelezniak return.",
+        "Bulldogs v Wests Tigers - Bulldogs, protect. Canterbury are at home and Jacob Preston is back, but watch Crichton/Kikau/Api late mail.",
+        "Titans v Sea Eagles - Titans, controlled split. Gold Coast nearly upset Storm and Manly are without Ben Trbojevic and Corey Waddell.",
+        "Dolphins v Cowboys - Dolphins, coin-flip lean. The Dolphins regain Hamiso Tabuai-Fidow, Jack Bostock and Selwyn Cobbo, while Cowboys still need final Tom Dearden confirmation."
       ]
     },
     {
       "id": "fixtures",
-      "title": "Round 19 Fixtures",
-      "badge": "results",
+      "title": "Round 20 Fixtures",
+      "badge": "draw",
       "tone": "amber",
-      "heading": "Round 19 result board",
+      "heading": "Round 20 schedule",
       "lines": [
-        "Wests Tigers v Warriors - Warriors 32 def Wests Tigers 6.",
-        "Dolphins v Sharks - Sharks 66 def Dolphins 0.",
-        "Bulldogs v Raiders - Raiders 40 def Bulldogs 16.",
-        "Roosters v Eels - Roosters 28 def Eels 12.",
-        "Rabbitohs v Knights - Rabbitohs 26 def Knights 24.",
-        "Sea Eagles v Cowboys - Cowboys 19 def Sea Eagles 18 in golden point.",
-        "Storm v Titans - Storm def Titans, exact score pending official cross-check.",
-        "Byes: Broncos, Panthers and Dragons."
+        "Panthers v Broncos - Thu 16 Jul, 7:50pm at CommBank Stadium.",
+        "Sharks v Knights - Fri 17 Jul, 6:00pm at Ocean Protect Stadium.",
+        "Roosters v Storm - Fri 17 Jul, 8:00pm at Allianz Stadium.",
+        "Raiders v Rabbitohs - Sat 18 Jul, 3:00pm at GIO Stadium.",
+        "Warriors v Dragons - Sat 18 Jul, 5:35pm AEST, 7:35pm local at Go Media Stadium.",
+        "Bulldogs v Wests Tigers - Sat 18 Jul, 7:35pm at Accor Stadium.",
+        "Titans v Sea Eagles - Sun 19 Jul, 2:00pm at Cbus Super Stadium.",
+        "Dolphins v Cowboys - Sun 19 Jul, 4:05pm at Suncorp Stadium.",
+        "Bye: Parramatta Eels."
       ]
     },
     {
@@ -221,34 +228,36 @@
       "title": "Top-Two Plan",
       "badge": "ladder",
       "tone": "green",
-      "heading": "How Prince_of_Penrith gets to 2nd before finals",
+      "heading": "How this card tries to gain without blowing up",
       "lines": [
-        "Protect the base: match obvious high-confidence favourites where leaders are also likely to tip them.",
-        "Use betting-market favourite status as the first proxy for leader behaviour, because the top two are likely to protect position with safe picks.",
-        "Find one or two edge-based splits per round, preferably late-mail-driven and not just emotional underdogs.",
-        "Before lockout, estimate likely tips for NourilM and Kristy W13 and mark each game as favourite match, controlled split, or avoid.",
-        "The 5-point gap to 2nd can be closed with two good differential weeks; it does not require a reckless full-card gamble.",
-        "Joker status below the top five matters because chasing users can create sudden pressure from behind."
+        "Match clear favourites in Sharks, Raiders, Warriors and Bulldogs so Prince_of_Penrith does not donate points to the field.",
+        "Use Broncos as the main early split because Brisbane's named side is dramatically stronger than Round 18.",
+        "Use Titans as the Sunday controlled split because the market and leaders may favour Manly reputation, but Gold Coast have home ground and better team continuity.",
+        "Keep Dolphins as a flexible coin-flip lean; switch to Cowboys if final market and Dearden confirmation strongly move North Queensland.",
+        "Do not force extra underdogs. A 5-point gap can be closed with two strong split wins across the run home."
       ]
     },
     {
-      "id": "next",
-      "title": "Round 20 Prep",
-      "badge": "watchlist",
+      "id": "late-mail",
+      "title": "Late Mail",
+      "badge": "official",
       "tone": "cyan",
-      "heading": "No early locks until Team List Tuesday",
+      "heading": "Selection notes driving the card",
       "lines": [
-        "Round 20 should not be locked from fixture names alone.",
-        "Use NRL team lists and late mail first, then build a top-two chase card.",
-        "Add market price bands to the next card: heavy favourite, narrow favourite, coin flip and upset price.",
-        "Prioritise games where public confidence is likely to be stale after Round 19 upsets.",
-        "Add a leader-differential column to the next TipBot update so we can decide where Prince_of_Penrith should match the market favourite or split."
+        "Broncos: Walsh, Mam, Reynolds, Haas, Piakura and Carrigan are back; Billy Walters will not face Penrith.",
+        "Panthers: Cleary, Martin, Yeo, Casey McLean and Isaiah Papali'i all return.",
+        "Storm: Munster and Hughes are both sidelined, so Tyran Wishart and Trent Toelau form a new halves pairing.",
+        "Roosters: Tedesco and Lindsay Collins remain sidelined, but Sam Walker and Reece Robson return.",
+        "Warriors: Capewell, Barnett and Watene-Zelezniak return; Charnze Nicoll-Klokstad is listed in the reserves.",
+        "Bulldogs and Tigers: Crichton, Kikau and Koroisau are reserve-list watch items.",
+        "Cowboys: Dearden is expected to be called up from the reserves if he gets through training."
       ]
     }
   ],
   "footerNotes": [
-    "Built from the Codex-maintained data workflow and updated for Round 19 final-direction tracking on Sunday 12 July 2026.",
+    "Built from the Codex-maintained data workflow and updated for Round 20 on Wednesday 15 July 2026.",
     "Prince_of_Penrith ladder context came from the user-supplied Round 19 overall ladder screenshot: 3rd, 194 points, 5 behind 2nd.",
-    "Round 19 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53."
+    "Round 20 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.",
+    "Exact market odds were not recorded in this update; market notes are leader-behaviour estimates until a final price check is added."
   ]
 }
