@@ -14,6 +14,7 @@
 - Latest ladder-chase tracker commit: `f8f26fb Update TipBot ladder chase tracker`
 - Latest Storm closure commit: `e12f4c3 Close Round 19 Storm result`
 - Latest market-aware strategy commit: `3ece7e2 Add market-aware ladder strategy`
+- Latest Round 20 content commit: `360d6c5 Update TipBot for Round 20`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -47,6 +48,19 @@
     - Official NRL Team Lists Round 20
     - 2026 NRL season results Round 20 fixture table
   - Notion milestone note added to the `TipBot NRL` Command Centre page on Wednesday 15 July 2026. Repo-local docs remain authoritative.
+  - Validation and deployment:
+    - JSON parse validation passed for `data/briefing.json` and `data/live-round.json`.
+    - `npm run build` completed successfully.
+    - Root `index.html` was synced from `dist/index.html`.
+    - `git diff --check` passed.
+    - Round 20 content commit created and pushed: `360d6c5 Update TipBot for Round 20`.
+    - GitHub Pages build for `360d6c5d406b3f0273e57384772f56374e380b28` completed successfully:
+      - Build status: `built`
+      - Created at `2026-07-15T14:04:22Z`
+      - Updated at `2026-07-15T14:04:48Z`
+    - Live site responded at `https://mrummler17.github.io/nrl-tipbot/?v=round20-360d6c5` and served the Round 20 HTML.
+    - Live HTML contained `Round 20 briefing live`, `Round 20 market-aware top-two chase`, `Broncos over Panthers`, `Titans over Sea Eagles`, `Dolphins over Cowboys`, `No Round 20 charity play locked`, and `Parramatta Eels`.
+    - Live HTML did not contain old headline strings `Round 19 live tracker`, `Round 19 chase mode live`, or `Round 18 briefing live`.
 
 ## Previous Round 19 Session
 
