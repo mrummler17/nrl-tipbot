@@ -18,9 +18,57 @@
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 20, 2026 market-aware top-two chase
+- Current local working version: Round 21, 2026 market-aware top-two chase
 
 ## Changed This Session
+
+- Round 21 update:
+  - Updated `data/briefing.json` from Round 20 mode to Round 21 market-aware top-two chase mode.
+  - Updated `data/live-round.json` with the Round 21 fixture board, sources, market notes, alerts, and eight recommended tips.
+  - Updated `README.md` with the current Round 21 snapshot and source list.
+  - Round 20 was validated as `8-0` from official NRL Round 20 result lines:
+    1. Broncos over Panthers - correct, Broncos 14 def Panthers 12
+    2. Sharks over Knights - correct, Sharks 20 def Knights 18
+    3. Roosters over Storm - correct, Roosters 14 def Storm 6
+    4. Raiders over Rabbitohs - correct, Raiders 34 def Rabbitohs 24
+    5. Warriors over Dragons - correct, Warriors 20 def Dragons 12
+    6. Bulldogs over Wests Tigers - correct, Bulldogs 32 def Wests Tigers 0
+    7. Titans over Sea Eagles - correct, Titans 38 def Sea Eagles 32
+    8. Dolphins over Cowboys - correct, Dolphins 36 def Cowboys 16
+  - Round 21 tips:
+    1. Panthers over Eels - protect favourite
+    2. Roosters over Knights - favourite match
+    3. Storm over Rabbitohs - controlled split
+    4. Raiders over Wests Tigers - protect favourite
+    5. Warriors over Bulldogs - protect favourite
+    6. Broncos over Cowboys - favourite match
+    7. Titans over Dragons - coin-flip split
+    8. Sharks over Sea Eagles - protect favourite
+  - Sportsbet Round 21 head-to-head favourites captured from the public NRL market page:
+    - Panthers `$1.19`
+    - Roosters `$1.72`
+    - Rabbitohs `$1.57`
+    - Raiders `$1.22`
+    - Warriors `$1.51`
+    - Broncos `$1.77`
+    - Dragons `$1.90`
+    - Sharks `$1.64`
+  - Strategy:
+    - Match six of eight Sportsbet favourites: Panthers, Roosters, Raiders, Warriors, Broncos and Sharks.
+    - Split on Storm over Rabbitohs because official NRL teams name Jahrome Hughes back while Souths lose Cameron Murray and Tallis Duncan.
+    - Split on Titans over Dragons because the market is almost even and Gold Coast carry better attacking upside after beating Manly.
+    - Do not add more underdogs; two splits is enough after an 8 from 8 week.
+  - Charity ledger:
+    - No Round 21 charity bet is locked.
+    - Ledger remains `3-2`, `$31.50` invested, `$32.03` returned, `+$0.53` settled profit.
+  - Sources checked on Tuesday 21 July 2026:
+    - Official NRL Team Lists Round 21
+    - Sportsbet NRL Round 21 head-to-head market
+    - Sportsbet NRL Round 21 tips
+    - Official NRL Team Lists Round 20 for final result-line validation
+  - Notion milestone note added to the `TipBot NRL` Command Centre page on Tuesday 21 July 2026. Repo-local docs remain authoritative.
+
+## Previous Round 20 Session
 
 - Round 20 update:
   - Updated `data/briefing.json` from Round 19 tracker mode to Round 20 market-aware top-two chase mode.
@@ -158,27 +206,28 @@
 
 ## Current Published Content To Verify
 
-- Round: Round 20, 2026
+- Round: Round 21, 2026
 - Mode: Market-aware top-two chase
 - Tipping comp handle: `Prince_of_Penrith`
-- Ladder target: 3rd on 194, 5 points behind 2nd
+- Ladder target: top 2 before finals; latest exact gap needs a fresh comp screenshot after Round 20
 - Tip card at update time:
-  1. Broncos over Panthers
-  2. Sharks over Knights
-  3. Roosters over Storm
-  4. Raiders over Rabbitohs
-  5. Warriors over Dragons
-  6. Bulldogs over Wests Tigers
-  7. Titans over Sea Eagles
-  8. Dolphins over Cowboys
+  1. Panthers over Eels
+  2. Roosters over Knights
+  3. Storm over Rabbitohs
+  4. Raiders over Wests Tigers
+  5. Warriors over Bulldogs
+  6. Broncos over Cowboys
+  7. Titans over Dragons
+  8. Sharks over Sea Eagles
 - Charity bet status: `No bet locked`
 - Charity ledger: `3-2`, `+$0.53`
-- Bye team: Parramatta Eels
+- Bye team: Dolphins
 - Main source logic:
   - The supplied screenshot makes the operational objective explicit: get `Prince_of_Penrith` from 3rd to 2nd or better before finals.
   - The app should prioritise top-two ladder strategy over emotional chase tipping.
-  - Exact market prices must be checked before lockout because this update did not capture live bookmaker odds.
-  - No Round 20 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
+  - Sportsbet favourites are used as likely leader-safe picks.
+  - Storm over Rabbitohs is the main controlled differential because official team lists improved Melbourne and weakened Souths.
+  - No Round 21 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
 
 ## Verified So Far
 

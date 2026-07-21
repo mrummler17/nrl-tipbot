@@ -18,36 +18,43 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 20, 2026
+- Round: Round 21, 2026
 - Mode: market-aware top-two chase
 - Tipping comp handle: `Prince_of_Penrith`
-- Ladder target: 3rd on 194 points, 5 points behind 2nd from the supplied Round 19 screenshot
-- Tip card: Broncos, Sharks, Roosters, Raiders, Warriors, Bulldogs, Titans, Dolphins
-- Charity bet status: no Round 20 bet locked
+- Ladder target: top 2 before finals; latest exact gap needs a fresh comp screenshot after Round 20
+- Last card: Round 20 validated 8 from 8
+- Tip card: Panthers, Roosters, Storm, Raiders, Warriors, Broncos, Titans, Sharks
+- Charity bet status: no Round 21 bet locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
 
-Round 20 tips:
+Round 21 tips:
 
-1. Broncos over Panthers - controlled split, high upside and high risk
-2. Sharks over Knights - strong home favourite match
-3. Roosters over Storm - Storm halves disruption creates the edge
-4. Raiders over Rabbitohs - home favourite with Strange and Hudson Young back
-5. Warriors over Dragons - strongest protect pick
-6. Bulldogs over Wests Tigers - protect pick but monitor late mail
-7. Titans over Sea Eagles - controlled split at Cbus
-8. Dolphins over Cowboys - coin-flip home lean, lowest confidence
+1. Panthers over Eels - heavy favourite protect pick
+2. Roosters over Knights - market match with Tedesco back
+3. Storm over Rabbitohs - controlled split against the market
+4. Raiders over Wests Tigers - heavy favourite protect pick
+5. Warriors over Bulldogs - favourite protect pick
+6. Broncos over Cowboys - narrow favourite match
+7. Titans over Dragons - tiny-market split
+8. Sharks over Sea Eagles - favourite protect pick
 
-Round 20 notes:
+Round 21 notes:
 
 - The board now prioritises getting `Prince_of_Penrith` to 2nd before finals without reckless full-card chasing.
-- A 5-point swing is the immediate target; 1st place is a longer chase and should not distort weekly risk.
+- The last known 5-point gap came from the supplied Round 19 screenshot; a fresh ladder screenshot is needed after Round 20.
 - Use one or two controlled differentials per full round after modelling likely leader tips.
 - Use betting-market favourites each week as a proxy for safe leader picks; NourilM and Kristy W13 are likely to protect position by backing favourites.
 - Classify every game as favourite match, controlled split, or avoid before lockout.
-- Exact market prices were not recorded in this update, so market bands are leader-behaviour estimates until the final odds check.
-- No Round 20 charity bet is locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
-- Dolphins over Cowboys should be rechecked if Tom Dearden is formally promoted from the reserves.
+- Sportsbet favourites for Round 21 are Panthers, Roosters, Rabbitohs, Raiders, Warriors, Broncos, Dragons and Sharks.
+- TipBot matches six favourites and splits on Storm over Rabbitohs plus Titans over Dragons.
+- No Round 21 charity bet is locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
+
+Round 20 notes carried forward:
+
+- Round 20 card was validated as 8 from 8 from official NRL result lines.
+- Correct tips: Broncos, Sharks, Roosters, Raiders, Warriors, Bulldogs, Titans and Dolphins.
+- No Round 20 charity bet was locked, so the Mark Hughes Foundation ledger stayed unchanged.
 
 Round 19 notes carried forward:
 
@@ -137,11 +144,12 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 20 updates used:
+Recent Round 21 updates used:
 
-- NRL Late Mail Round 20: https://www.nrl.com/news/2026/07/15/nrl-late-mail-round-20/
+- NRL Team Lists Round 21: https://www.nrl.com/news/2026/07/21/nrl-team-lists-round-21/
+- Sportsbet NRL Round 21 market: https://www.sportsbet.com.au/betting/rugby-league/nrl
+- Sportsbet NRL Round 21 tips: https://www.sportsbet.com.au/huddle/nrl/predictions/round-21-tips-2026
 - NRL Team Lists Round 20: https://www.nrl.com/news/2026/07/14/nrl-team-lists-round-20/
-- Round 20 fixture table: https://en.wikipedia.org/wiki/2026_NRL_season_results
 
 ## License
 

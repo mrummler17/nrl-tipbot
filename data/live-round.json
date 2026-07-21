@@ -1,126 +1,132 @@
 {
-  "round": "Round 20",
-  "verifiedAt": "2026-07-15T23:56:54+10:00",
-  "verificationLabel": "Round 20 preview updated Wednesday 15 July 2026",
-  "summary": "Round 20 card is Broncos, Sharks, Roosters, Raiders, Warriors, Bulldogs, Titans and Dolphins. Exact market prices were not recorded, so market reads are being used as leader-behaviour estimates. Prince_of_Penrith is chasing a 5-point gap to 2nd before finals.",
+  "round": "Round 21",
+  "verifiedAt": "2026-07-21T19:06:55+10:00",
+  "verificationLabel": "Round 21 preview updated Tuesday 21 July 2026",
+  "summary": "Round 21 card is Panthers, Roosters, Storm, Raiders, Warriors, Broncos, Titans and Sharks. Round 20 has been validated as 8 from 8. Sportsbet market favourites are used as leader-behaviour signals; the two controlled splits are Storm over Rabbitohs and Titans over Dragons.",
   "sources": [
     {
-      "label": "NRL Late Mail: Round 20 - Broncos' boost; Dearden primed",
-      "url": "https://www.nrl.com/news/2026/07/15/nrl-late-mail-round-20/",
+      "label": "NRL Team Lists: Round 21",
+      "url": "https://www.nrl.com/news/2026/07/21/nrl-team-lists-round-21/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-07-15T20:20:00+10:00"
+      "publishedAt": "2026-07-21T15:59:00+10:00"
     },
     {
-      "label": "NRL Team Lists: Round 20",
+      "label": "Sportsbet NRL Round 21 head-to-head market",
+      "url": "https://www.sportsbet.com.au/betting/rugby-league/nrl",
+      "publisher": "Sportsbet",
+      "publishedAt": "2026-07-21T09:01:50+10:00"
+    },
+    {
+      "label": "Sportsbet NRL Tips and Predictions - Round 21",
+      "url": "https://www.sportsbet.com.au/huddle/nrl/predictions/round-21-tips-2026",
+      "publisher": "Sportsbet",
+      "publishedAt": "2026-07-21T00:00:00+10:00"
+    },
+    {
+      "label": "NRL Team Lists: Round 20 result lines",
       "url": "https://www.nrl.com/news/2026/07/14/nrl-team-lists-round-20/",
       "publisher": "NRL.com",
       "publishedAt": "2026-07-14T15:59:00+10:00"
-    },
-    {
-      "label": "2026 NRL season results: Round 20 fixture table",
-      "url": "https://en.wikipedia.org/wiki/2026_NRL_season_results",
-      "publisher": "Wikipedia",
-      "publishedAt": "2026-07-15T00:00:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Panthers vs Broncos",
-      "kickoff": "Thu 16 Jul, 7:50pm",
+      "match": "Eels vs Panthers",
+      "kickoff": "Thu 23 Jul, 7:50pm",
       "venue": "CommBank Stadium",
       "status": "Preview",
       "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Broncos",
-      "note": "Controlled split: market likely treats Panthers as leader-safe, but Brisbane get Walsh, Mam, Reynolds, Haas and Carrigan back. Panthers also regain Cleary, Martin and Yeo, so this is high-risk and high-upside."
+      "tipOutcome": "Tip: Panthers",
+      "note": "Protect pick: Sportsbet has Panthers $1.19. Eels regain Moses, but Penrith remain the leader-safe market pick."
     },
     {
-      "match": "Sharks vs Knights",
-      "kickoff": "Fri 17 Jul, 6:00pm",
-      "venue": "Ocean Protect Stadium",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Sharks",
-      "note": "Favourite match: Nikora is back, Addin Fonua-Blake starts and Hynes has a strong Knights record. Newcastle regain Best but carry injury reshuffle."
-    },
-    {
-      "match": "Roosters vs Storm",
-      "kickoff": "Fri 17 Jul, 8:00pm",
-      "venue": "Allianz Stadium",
+      "match": "Knights vs Roosters",
+      "kickoff": "Fri 24 Jul, 6:00pm",
+      "venue": "McDonald Jones Stadium",
       "status": "Preview",
       "result": "Awaiting kickoff",
       "tipOutcome": "Tip: Roosters",
-      "note": "Favourite match: Storm are without Munster and Hughes. Roosters miss Tedesco and Collins but regain Sam Walker and Reece Robson."
+      "note": "Market match: Sportsbet has Roosters $1.72. Tedesco returns for Sydney and Newcastle lose Dane Gagai to calf tightness."
     },
     {
-      "match": "Raiders vs Rabbitohs",
-      "kickoff": "Sat 18 Jul, 3:00pm",
+      "match": "Rabbitohs vs Storm",
+      "kickoff": "Fri 24 Jul, 8:00pm",
+      "venue": "Accor Stadium",
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Storm",
+      "note": "Controlled split: Sportsbet has Souths $1.57 and Storm $2.41, but official teams name Jahrome Hughes back while Souths are without Cameron Murray and Tallis Duncan."
+    },
+    {
+      "match": "Raiders vs Wests Tigers",
+      "kickoff": "Sat 25 Jul, 3:00pm",
       "venue": "GIO Stadium",
       "status": "Preview",
       "result": "Awaiting kickoff",
       "tipOutcome": "Tip: Raiders",
-      "note": "Favourite match: Raiders at GIO with Strange and Hudson Young back. Souths regain Cody Walker and Alex Johnston but lose Dayne Jennings and Jayden Sullivan."
+      "note": "Protect pick: Sportsbet has Raiders $1.22. Canberra lose Hudson Young and Owen Pattie, but the Tigers are on debut/judiciary watch."
     },
     {
-      "match": "Warriors vs Dragons",
-      "kickoff": "Sat 18 Jul, 5:35pm AEST",
-      "venue": "Go Media Stadium",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Warriors",
-      "note": "Protect pick: Warriors regain Barnett, Capewell and Dallin Watene-Zelezniak at Go Media. Dragons still have Tyrell Sloan hamstring watch."
-    },
-    {
-      "match": "Bulldogs vs Wests Tigers",
-      "kickoff": "Sat 18 Jul, 7:35pm",
+      "match": "Bulldogs vs Warriors",
+      "kickoff": "Sat 25 Jul, 5:30pm",
       "venue": "Accor Stadium",
       "status": "Preview",
       "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Bulldogs",
-      "note": "Protect pick but fragile: Bulldogs are at home with Preston back, while Crichton and Kikau sit in the reserves. Tigers have Api Koroisau as an outside-chance reserve and Bunty Afoa suspended."
+      "tipOutcome": "Tip: Warriors",
+      "note": "Protect pick: Sportsbet has Warriors $1.51. Canterbury regain Crichton and Kikau, but the Warriors remain the stronger ladder side."
     },
     {
-      "match": "Titans vs Sea Eagles",
-      "kickoff": "Sun 19 Jul, 2:00pm",
-      "venue": "Cbus Super Stadium",
+      "match": "Cowboys vs Broncos",
+      "kickoff": "Sat 25 Jul, 7:35pm",
+      "venue": "Queensland Country Bank Stadium",
+      "status": "Preview",
+      "result": "Awaiting kickoff",
+      "tipOutcome": "Tip: Broncos",
+      "note": "Market match: Sportsbet has Broncos $1.77. Brisbane's returning stars beat Penrith last week; Cowboys have Dearden/Clifford but come in off five straight losses."
+    },
+    {
+      "match": "Dragons vs Titans",
+      "kickoff": "Sun 26 Jul, 2:00pm",
+      "venue": "St George Venues Jubilee Stadium",
       "status": "Preview",
       "result": "Awaiting kickoff",
       "tipOutcome": "Tip: Titans",
-      "note": "Controlled split: Titans nearly got Storm and are at Cbus. Manly lose Ben Trbojevic to HIA protocols and Corey Waddell to an ankle injury."
+      "note": "Tiny split: Sportsbet has Dragons $1.90 and Titans $1.94. TipBot takes Gold Coast's attacking upside after the Manly win."
     },
     {
-      "match": "Dolphins vs Cowboys",
-      "kickoff": "Sun 19 Jul, 4:05pm",
-      "venue": "Suncorp Stadium",
+      "match": "Sea Eagles vs Sharks",
+      "kickoff": "Sun 26 Jul, 4:05pm",
+      "venue": "4 Pines Park",
       "status": "Preview",
       "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Dolphins",
-      "note": "Coin-flip lean: Dolphins regain Tabuai-Fidow, Bostock and Cobbo, and have won their last five at Suncorp. Cowboys have Dearden in the reserves and likely to return, so recheck final mail."
+      "tipOutcome": "Tip: Sharks",
+      "note": "Protect pick: Sportsbet has Sharks $1.64. Manly are without Tom Trbojevic; Cronulla regain Ramien, Talakai and Colquhoun."
     }
   ],
   "liveAlerts": [
     {
       "tone": "green",
-      "text": "Round 20 card live: Broncos, Sharks, Roosters, Raiders, Warriors, Bulldogs, Titans and Dolphins."
-    },
-    {
-      "tone": "amber",
-      "text": "Market-aware strategy is active, but exact market prices were not recorded in this update. Treat bands as leader-behaviour estimates until final odds are checked."
-    },
-    {
-      "tone": "cyan",
-      "text": "Controlled splits: Broncos over Panthers and Titans over Sea Eagles. Dolphins over Cowboys is a low-confidence coin-flip lean."
+      "text": "Round 20 validated: TipBot card went 8 from 8."
     },
     {
       "tone": "green",
-      "text": "Prince_of_Penrith target remains 3rd on 194, 5 points behind 2nd from the supplied ladder screenshot."
+      "text": "Round 21 card live: Panthers, Roosters, Storm, Raiders, Warriors, Broncos, Titans and Sharks."
     },
     {
       "tone": "amber",
-      "text": "No Round 20 charity bet is locked; tipping-comp strategy does not move the Mark Hughes Foundation ledger."
+      "text": "Market-aware strategy: match six favourites, split on Storm over Rabbitohs and Titans over Dragons."
     },
     {
       "tone": "cyan",
-      "text": "Round 20 bye: Parramatta Eels."
+      "text": "Main ladder-value pick: Storm over Rabbitohs at $2.41 against a Souths $1.57 market favourite."
+    },
+    {
+      "tone": "amber",
+      "text": "No Round 21 charity bet is locked; tipping-comp strategy does not move the Mark Hughes Foundation ledger."
+    },
+    {
+      "tone": "cyan",
+      "text": "Round 21 bye: Dolphins."
     }
   ]
 }
