@@ -15,6 +15,7 @@
 - Latest Storm closure commit: `e12f4c3 Close Round 19 Storm result`
 - Latest market-aware strategy commit: `3ece7e2 Add market-aware ladder strategy`
 - Latest Round 20 content commit: `360d6c5 Update TipBot for Round 20`
+- Latest Round 21 content commit: `b94e5b3 Update TipBot for Round 21`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -234,33 +235,24 @@
 - JSON parse validation passed for `data/briefing.json` and `data/live-round.json`.
 - `npm run build` completed successfully.
 - Root `index.html` was synced from `dist/index.html`.
-- Current source checks were performed on Thursday 9 July 2026.
-- Current source checks for the live tracker were performed on Sunday 12 July 2026.
-- NRL official late-mail page is live for Round 19 and includes post-Origin updates.
-- NRL official live Round 19 blog was checked for the Sunday games and Storm v Titans live state.
-- NRL official team-list page was checked for Round 19 named sides.
-- Wikipedia Round 19 fixture table was used as a secondary schedule cross-check.
-- Local browser QA passed at `http://127.0.0.1:4173/index.html`:
-  - `Round 19 briefing live` rendered.
-  - Seven tips rendered: Warriors, Sharks, Bulldogs, Eels, Knights, Sea Eagles and Storm.
-  - `No bet locked`, ledger record `3-2`, and profit `+$0.53` rendered.
-  - Bye teams rendered: Broncos, Panthers and Dragons.
-  - Old `Round 18 briefing live` and `Round 18 preview with Origin-week` copy did not render.
-  - Browser console had 0 errors.
-- Round 19 content commit created and pushed:
-  - `c40c172 Update TipBot for Round 19`
-- GitHub Pages build for `c40c1723b2507bfe56d89c2c6fd2437f92f0d709` completed successfully:
+- `git diff --check` passed.
+- Built local files contain the Round 21 markers:
+  - `Round 21 briefing live`
+  - `Round 21 market-aware top-two chase`
+  - `Storm over Rabbitohs`
+  - `Titans over Dragons`
+  - `Round 20 validated`
+  - `No Round 21 charity play locked`
+  - `Round 21 bye: Dolphins`
+- Built local files do not contain stale markers `Round 20 briefing live`, `Round 20 market-aware top-two chase`, or `No Round 20 charity play locked`.
+- Round 21 content commit created and pushed:
+  - `b94e5b3 Update TipBot for Round 21`
+- GitHub Pages build for `b94e5b39a93871e5e9a2b173945c601d6f17b58f` completed successfully:
   - Build status: `built`
-  - Created at `2026-07-09T11:51:47Z`
-  - Updated at `2026-07-09T11:52:12Z`
-- Live page responded at `https://mrummler17.github.io/nrl-tipbot/` and served the Round 19 HTML, including the Round 19 meta description.
-- Production browser QA passed with cache-busted URL `https://mrummler17.github.io/nrl-tipbot/?v=round19-c40c172`:
-  - `Round 19 briefing live` rendered.
-  - Seven tips rendered: Warriors, Sharks, Bulldogs, Eels, Knights, Sea Eagles and Storm.
-  - `No bet locked`, ledger record `3-2`, and profit `+$0.53` rendered.
-  - Bye teams rendered: Broncos, Panthers and Dragons.
-  - Old `Round 18 briefing live` and `Round 18 preview with Origin-week` copy did not render.
-  - Browser console had 0 errors.
+  - Created at `2026-07-21T09:13:54Z`
+  - Updated at `2026-07-21T09:14:16Z`
+- Live cache-busted page responded at `https://mrummler17.github.io/nrl-tipbot/?v=round21-b94e5b3`.
+- Live page contains the Round 21 markers above and does not contain the stale Round 20 headline markers.
 
 ## Must Not Change Casually
 
@@ -274,6 +266,7 @@
 - Keep `index.html` synced with `dist/index.html` before deploy because GitHub Pages serves the root entry.
 - Keep `Prince_of_Penrith` ladder strategy conservative: the app can recommend controlled differentials, but should not chase every underdog simply to make up 5 points.
 - Treat market favourites as leader-behaviour intelligence; do not convert market reads into bets unless the charity-bet workflow has explicit odds, stake and user confirmation.
+- Do not casually refactor the Round 21 controlled-split logic: it intentionally matches six Sportsbet favourites and splits only Storm over Rabbitohs plus Titans over Dragons.
 
 ## Important Files
 
@@ -310,26 +303,26 @@
 
 ## Sources Used
 
-- NRL Late Mail Round 19: `https://www.nrl.com/news/2026/07/09/nrl-late-mail-round-19-all-eyes-on-origin-stars-deardon-eyes-return/`
-- NRL Live Round 19: `https://www.nrl.com/news/2026/07/12/nrl-live-round-19-rabbitohs-v-knights-sea-eagles-v-cowboys-storm-v-titans/`
-- NRL Team Lists Round 19: `https://www.nrl.com/news/2026/07/07/nrl-team-lists-round-19/`
-- Round 19 fixture table: `https://en.wikipedia.org/wiki/2026_NRL_season_results`
+- Official NRL Team Lists Round 21: `https://www.nrl.com/news/2026/07/21/nrl-team-lists-round-21/`
+- Sportsbet NRL Round 21 market: `https://www.sportsbet.com.au/betting/rugby-league/nrl`
+- Sportsbet Round 21 tips: `https://www.sportsbet.com.au/huddle/nrl/predictions/round-21-tips-2026`
+- Official NRL Team Lists Round 20 result lines: `https://www.nrl.com/news/2026/07/14/nrl-team-lists-round-20/`
 
 ## Risks / Unfinished
 
 - Disaster recovery pack is local/repo authoritative; Notion was updated as optional shared continuity only.
-- Round 19 is currently a final-direction tracker at `3-4`; Storm v Titans exact score still needs official confirmation before final score line.
-- No Round 19 charity bet is locked. Do not add one retrospectively.
-- The current top-two plan depends on modelling likely leader tips from Round 20 onward; that feature is strategic guidance only until the next update.
+- Round 21 tips are preview tips. Recheck final 24-hour and 90-minute team updates before lockout, especially Rabbitohs v Storm, Raiders v Tigers and Dragons v Titans.
+- No Round 21 charity bet is locked. Do not add one retrospectively.
+- The current top-two plan depends on modelling likely leader tips from market favourites; that feature is strategic guidance, not a guarantee.
 - Round 18 full final tip count still needs clean score cross-checking before it is published as a final wrap.
-- Browser cache may briefly retain the previous Round 18 page; a hard refresh or cache-busted URL showed the Round 19 production page correctly.
+- Browser cache may briefly retain an older page; a hard refresh or cache-busted URL showed the Round 21 production page correctly.
 
 ## Recommended Next Steps
 
-- Confirm Storm v Titans exact score from an official source and publish the final score line.
-- Build Round 20 with a leader-differential column: likely NourilM tip, likely Kristy W13 tip, recommended `Prince_of_Penrith` action.
-- Add market columns to Round 20 prep: heavy favourite, narrow favourite, coin flip, upset price, likely leader-safe pick.
-- Re-check Round 20 team lists and late mail before any locks.
+- Recheck Rabbitohs v Storm after David Fifita judiciary and final team cuts.
+- Get a fresh tipping-comp ladder screenshot after Round 20 scoring updates so the app can recalibrate the exact gap to 2nd.
+- Add a leader-differential column in a future update: likely NourilM tip, likely Kristy W13 tip, recommended `Prince_of_Penrith` action.
+- Re-check Round 21 team lists and late mail before any locks.
 - Keep charity bets separate from tipping-comp ladder aggression.
 - Add GitHub Actions JSON/build validation for resilience.
 - Store backup archives outside the repo on an encrypted external or cloud location.
