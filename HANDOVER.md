@@ -16,6 +16,7 @@
 - Latest market-aware strategy commit: `3ece7e2 Add market-aware ladder strategy`
 - Latest Round 20 content commit: `360d6c5 Update TipBot for Round 20`
 - Latest Round 21 content commit: `b94e5b3 Update TipBot for Round 21`
+- Latest Round 22 content commit: `8a30f2e Update TipBot for Round 22`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -284,23 +285,24 @@
 - `npm run build` completed successfully.
 - Root `index.html` was synced from `dist/index.html`.
 - `git diff --check` passed.
-- Built local files contain the Round 21 markers:
-  - `Round 21 briefing live`
-  - `Round 21 market-aware top-two chase`
-  - `Storm over Rabbitohs`
-  - `Titans over Dragons`
-  - `Round 20 validated`
-  - `No Round 21 charity play locked`
-  - `Round 21 bye: Dolphins`
-- Built local files do not contain stale markers `Round 20 briefing live`, `Round 20 market-aware top-two chase`, or `No Round 20 charity play locked`.
-- Round 21 content commit created and pushed:
-  - `b94e5b3 Update TipBot for Round 21`
-- GitHub Pages build for `b94e5b39a93871e5e9a2b173945c601d6f17b58f` completed successfully:
+- Built local files contain the Round 22 markers:
+  - `Round 22 briefing live`
+  - `Round 22 ladder-protect chase`
+  - `Roosters over Cowboys`
+  - `Bulldogs over Storm`
+  - `Titans over Warriors`
+  - `Round 21 validated`
+  - `No Round 22 charity play locked`
+  - `Round 22 bye: Sea Eagles`
+- Built local files do not contain stale markers `Round 21 briefing live`, `Round 21 market-aware top-two chase`, or `No Round 21 charity play locked`.
+- Round 22 content commit created and pushed:
+  - `8a30f2e Update TipBot for Round 22`
+- GitHub Pages build for `8a30f2efc9d3bfb6c2d699eb021f5e68ac9ead59` completed successfully:
   - Build status: `built`
-  - Created at `2026-07-21T09:13:54Z`
-  - Updated at `2026-07-21T09:14:16Z`
-- Live cache-busted page responded at `https://mrummler17.github.io/nrl-tipbot/?v=round21-b94e5b3`.
-- Live page contains the Round 21 markers above and does not contain the stale Round 20 headline markers.
+  - Created at `2026-07-30T05:07:18Z`
+  - Updated at `2026-07-30T05:07:36Z`
+- Live cache-busted page responded at `https://mrummler17.github.io/nrl-tipbot/?v=round22-8a30f2e`.
+- Live page contains the Round 22 markers above and does not contain the stale Round 21 headline markers.
 
 ## Must Not Change Casually
 
