@@ -19,9 +19,57 @@
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 21, 2026 market-aware top-two chase
+- Current local working version: Round 22, 2026 ladder-protect chase
 
 ## Changed This Session
+
+- Round 22 update:
+  - Updated `data/briefing.json` from Round 21 mode to Round 22 ladder-protect chase mode.
+  - Updated `data/live-round.json` with the Round 22 fixture board, source list, current Sportsbet prices, alerts, and eight recommended tips.
+  - Updated `README.md` with the current Round 22 snapshot and source list.
+  - User confirmed `Prince_of_Penrith` is currently 3rd in the tipping-comp ladder.
+  - Round 21 was validated as `5-3` from official NRL Round 21 result lines:
+    1. Panthers over Eels - correct, Panthers 24 def Eels 18
+    2. Roosters over Knights - correct, Roosters 23 def Knights 22
+    3. Storm over Rabbitohs - missed, Rabbitohs 28 def Storm 26
+    4. Raiders over Wests Tigers - correct, Raiders 56 def Wests Tigers 10
+    5. Warriors over Bulldogs - missed, Bulldogs 18 def Warriors 6
+    6. Broncos over Cowboys - missed, Cowboys 18 def Broncos 10
+    7. Titans over Dragons - correct, Titans 38 def Dragons 18
+    8. Sharks over Sea Eagles - correct, Sharks 48 def Sea Eagles 12
+  - Round 22 tips:
+    1. Roosters over Cowboys - favourite match
+    2. Dolphins over Dragons - heavy favourite protect pick
+    3. Bulldogs over Storm - favourite match
+    4. Titans over Warriors - controlled split
+    5. Panthers over Raiders - favourite protect pick
+    6. Broncos over Knights - home favourite match
+    7. Sharks over Rabbitohs - heavy favourite protect pick
+    8. Eels over Wests Tigers - favourite match
+  - Sportsbet Round 22 head-to-head favourites captured from the public NRL market page on Thursday 30 July 2026:
+    - Roosters `$1.53`
+    - Dolphins `$1.24`
+    - Bulldogs `$1.52`
+    - Warriors `$1.57`
+    - Panthers `$1.35`
+    - Broncos `$1.50`
+    - Sharks `$1.27`
+    - Eels `$1.41`
+  - Strategy:
+    - Match seven of eight Sportsbet favourites: Roosters, Dolphins, Bulldogs, Panthers, Broncos, Sharks and Eels.
+    - Split only on Titans over Warriors because Gold Coast are at home, carry attacking momentum and the Warriors lose Taine Tuaupiki at fullback.
+    - Do not add more underdogs while sitting 3rd unless a fresh ladder screenshot shows the gap has widened.
+  - Charity ledger:
+    - No Round 22 charity bet is locked.
+    - Ledger remains `3-2`, `$31.50` invested, `$32.03` returned, `+$0.53` settled profit.
+  - Sources checked on Thursday 30 July 2026:
+    - Official NRL Team Lists Round 22
+    - Sportsbet NRL Round 22 head-to-head market
+    - Sportsbet NRL Round 22 tips
+    - Official NRL Team Lists Round 21 for final result-line validation
+  - Notion milestone note added to the `TipBot NRL` Command Centre page on Thursday 30 July 2026. Repo-local docs remain authoritative.
+
+## Previous Round 21 Session
 
 - Round 21 update:
   - Updated `data/briefing.json` from Round 20 mode to Round 21 market-aware top-two chase mode.
@@ -207,28 +255,28 @@
 
 ## Current Published Content To Verify
 
-- Round: Round 21, 2026
-- Mode: Market-aware top-two chase
+- Round: Round 22, 2026
+- Mode: Ladder-protect chase
 - Tipping comp handle: `Prince_of_Penrith`
-- Ladder target: top 2 before finals; latest exact gap needs a fresh comp screenshot after Round 20
+- Ladder target: top 2 before finals; user confirmed currently 3rd, exact gap needs a fresh comp screenshot
 - Tip card at update time:
-  1. Panthers over Eels
-  2. Roosters over Knights
-  3. Storm over Rabbitohs
-  4. Raiders over Wests Tigers
-  5. Warriors over Bulldogs
-  6. Broncos over Cowboys
-  7. Titans over Dragons
-  8. Sharks over Sea Eagles
+  1. Roosters over Cowboys
+  2. Dolphins over Dragons
+  3. Bulldogs over Storm
+  4. Titans over Warriors
+  5. Panthers over Raiders
+  6. Broncos over Knights
+  7. Sharks over Rabbitohs
+  8. Eels over Wests Tigers
 - Charity bet status: `No bet locked`
 - Charity ledger: `3-2`, `+$0.53`
-- Bye team: Dolphins
+- Bye team: Sea Eagles
 - Main source logic:
-  - The supplied screenshot makes the operational objective explicit: get `Prince_of_Penrith` from 3rd to 2nd or better before finals.
+  - User confirmed `Prince_of_Penrith` is currently 3rd and needs Round 22 tips in.
   - The app should prioritise top-two ladder strategy over emotional chase tipping.
   - Sportsbet favourites are used as likely leader-safe picks.
-  - Storm over Rabbitohs is the main controlled differential because official team lists improved Melbourne and weakened Souths.
-  - No Round 21 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
+  - Titans over Warriors is the only controlled split because Gold Coast have home momentum and Warriors have fullback disruption.
+  - No Round 22 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
 
 ## Verified So Far
 
@@ -267,6 +315,7 @@
 - Keep `Prince_of_Penrith` ladder strategy conservative: the app can recommend controlled differentials, but should not chase every underdog simply to make up 5 points.
 - Treat market favourites as leader-behaviour intelligence; do not convert market reads into bets unless the charity-bet workflow has explicit odds, stake and user confirmation.
 - Do not casually refactor the Round 21 controlled-split logic: it intentionally matches six Sportsbet favourites and splits only Storm over Rabbitohs plus Titans over Dragons.
+- Do not casually expand the Round 22 underdog set: it intentionally matches seven Sportsbet favourites and splits only Titans over Warriors while the user is 3rd.
 
 ## Important Files
 
@@ -303,26 +352,27 @@
 
 ## Sources Used
 
-- Official NRL Team Lists Round 21: `https://www.nrl.com/news/2026/07/21/nrl-team-lists-round-21/`
-- Sportsbet NRL Round 21 market: `https://www.sportsbet.com.au/betting/rugby-league/nrl`
-- Sportsbet Round 21 tips: `https://www.sportsbet.com.au/huddle/nrl/predictions/round-21-tips-2026`
-- Official NRL Team Lists Round 20 result lines: `https://www.nrl.com/news/2026/07/14/nrl-team-lists-round-20/`
+- Official NRL Team Lists Round 22: `https://www.nrl.com/news/2026/07/28/nrl-team-lists-round-22/`
+- Sportsbet NRL Round 22 market: `https://www.sportsbet.com.au/betting/rugby-league/nrl`
+- Sportsbet Round 22 tips: `https://www.sportsbet.com.au/huddle/nrl/predictions/round-22-tips-2026`
+- Official NRL Team Lists Round 21 result lines: `https://www.nrl.com/news/2026/07/21/nrl-team-lists-round-21/`
 
 ## Risks / Unfinished
 
 - Disaster recovery pack is local/repo authoritative; Notion was updated as optional shared continuity only.
-- Round 21 tips are preview tips. Recheck final 24-hour and 90-minute team updates before lockout, especially Rabbitohs v Storm, Raiders v Tigers and Dragons v Titans.
-- No Round 21 charity bet is locked. Do not add one retrospectively.
+- Round 22 tips are preview tips. Recheck final 24-hour and 90-minute team updates before lockout, especially Storm v Bulldogs, Titans v Warriors and Broncos v Knights.
+- No Round 22 charity bet is locked. Do not add one retrospectively.
 - The current top-two plan depends on modelling likely leader tips from market favourites; that feature is strategic guidance, not a guarantee.
 - Round 18 full final tip count still needs clean score cross-checking before it is published as a final wrap.
-- Browser cache may briefly retain an older page; a hard refresh or cache-busted URL showed the Round 21 production page correctly.
+- Browser cache may briefly retain an older page; use a cache-busted URL after Round 22 deploy.
 
 ## Recommended Next Steps
 
-- Recheck Rabbitohs v Storm after David Fifita judiciary and final team cuts.
-- Get a fresh tipping-comp ladder screenshot after Round 20 scoring updates so the app can recalibrate the exact gap to 2nd.
+- Recheck Storm v Bulldogs after Melbourne final team cuts.
+- Recheck Titans v Warriors because this is the one Round 22 controlled split.
+- Get a fresh tipping-comp ladder screenshot after Round 21 scoring updates so the app can recalibrate the exact gap to 2nd.
 - Add a leader-differential column in a future update: likely NourilM tip, likely Kristy W13 tip, recommended `Prince_of_Penrith` action.
-- Re-check Round 21 team lists and late mail before any locks.
+- Re-check Round 22 team lists and late mail before any locks.
 - Keep charity bets separate from tipping-comp ladder aggression.
 - Add GitHub Actions JSON/build validation for resilience.
 - Store backup archives outside the repo on an encrypted external or cloud location.
