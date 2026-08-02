@@ -17,6 +17,7 @@
 - Latest Round 20 content commit: `360d6c5 Update TipBot for Round 20`
 - Latest Round 21 content commit: `b94e5b3 Update TipBot for Round 21`
 - Latest Round 22 content commit: `8a30f2e Update TipBot for Round 22`
+- Latest Round 22 P5 result commit verified live: `f8e1766 Update TipBot Round 22 results for P5`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -315,7 +316,24 @@
 - `npm run build` completed successfully.
 - Root `index.html` was synced from `dist/index.html`.
 - `git diff --check` passed.
-- Latest local build/deploy verification for the P5 result tracker still needs to be completed after this edit.
+- Round 22 P5 content commit created and pushed:
+  - `f8e1766 Update TipBot Round 22 results for P5`
+- GitHub Pages build for `f8e1766a41b6521c86f243672310aae59d0f4d97` completed successfully:
+  - Build status: `built`
+  - Created at `2026-08-02T12:07:01Z`
+  - Updated at `2026-08-02T12:07:30Z`
+- Live cache-busted page responded at `https://mrummler17.github.io/nrl-tipbot/?v=round22-p5-f8e1766`.
+- Live page contains P5/result markers:
+  - `Round 22 result tracker live`
+  - `Round 22 settled, P5 recovery mode`
+  - `Prince_of_Penrith is now P5`
+  - `Round 22 settled: TipBot card went 6 from 8`
+  - `Roosters 82 def Cowboys 12`
+  - `Warriors 42 def Titans 6`
+  - `Knights 30 def Broncos 6`
+  - `No Round 22 charity play was locked`
+- Live page does not contain stale preview markers `Round 22 briefing live`, `Round 22 ladder-protect chase`, `Awaiting kickoff`, or `Round 22 card live`.
+- Notion milestone note was added to the `TipBot NRL` Command Centre page; repo docs remain authoritative.
 
 ## Must Not Change Casually
 
