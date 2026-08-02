@@ -20,9 +20,39 @@
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 22, 2026 ladder-protect chase
+- Current local working version: Round 22, 2026 result tracker and P5 recovery mode
 
 ## Changed This Session
+
+- Round 22 result/P5 update:
+  - User confirmed `Prince_of_Penrith` is now P5 in the tipping comp.
+  - Updated `data/briefing.json` from Round 22 preview mode to Round 22 settled P5 recovery mode.
+  - Updated `data/live-round.json` with official full-time result lines for all eight Round 22 games.
+  - Updated `README.md` with the settled Round 22 `6-2` result and P5 recovery guidance.
+  - Round 22 was validated as `6-2` from official NRL Round 22 result lines:
+    1. Roosters over Cowboys - correct, Roosters 82 def Cowboys 12
+    2. Dolphins over Dragons - correct, Dolphins 28 def Dragons 22
+    3. Bulldogs over Storm - correct, Bulldogs 36 def Storm 22
+    4. Titans over Warriors - missed, Warriors 42 def Titans 6
+    5. Panthers over Raiders - correct, Panthers 42 def Raiders 18
+    6. Broncos over Knights - missed, Knights 30 def Broncos 6
+    7. Sharks over Rabbitohs - correct, Sharks 32 def Rabbitohs 16
+    8. Eels over Wests Tigers - correct, Eels 16 def Wests Tigers 13
+  - Strategic read:
+    - P5 means Round 23 can take a little more ladder-value risk than the previous P3 plan.
+    - Do not switch to reckless all-underdog chasing.
+    - Build Round 23 from current market favourites, official team lists and a fresh comp screenshot.
+    - Likely default for Round 23: two controlled differentials if the gap to 2nd is meaningful.
+    - Downgrade Broncos until their injury and form picture stabilises.
+  - Charity ledger:
+    - No Round 22 charity bet was locked in the app before kickoff.
+    - Ledger remains `3-2`, `$31.50` invested, `$32.03` returned, `+$0.53` settled profit.
+  - Sources checked on Sunday 2 August 2026:
+    - Official NRL Team Lists Round 22 result lines
+    - Prior Sportsbet NRL Round 22 head-to-head market used for pre-round strategy
+  - Notion milestone note added to the `TipBot NRL` Command Centre page on Sunday 2 August 2026. Repo-local docs remain authoritative.
+
+## Previous Round 22 Preview Session
 
 - Round 22 update:
   - Updated `data/briefing.json` from Round 21 mode to Round 22 ladder-protect chase mode.
@@ -257,26 +287,26 @@
 ## Current Published Content To Verify
 
 - Round: Round 22, 2026
-- Mode: Ladder-protect chase
+- Mode: Result tracker and P5 recovery mode
 - Tipping comp handle: `Prince_of_Penrith`
-- Ladder target: top 2 before finals; user confirmed currently 3rd, exact gap needs a fresh comp screenshot
-- Tip card at update time:
-  1. Roosters over Cowboys
-  2. Dolphins over Dragons
-  3. Bulldogs over Storm
-  4. Titans over Warriors
-  5. Panthers over Raiders
-  6. Broncos over Knights
-  7. Sharks over Rabbitohs
-  8. Eels over Wests Tigers
-- Charity bet status: `No bet locked`
+- Ladder target: top 2 before finals; user confirmed now P5, exact gap needs a fresh comp screenshot
+- Settled card at update time:
+  1. Roosters over Cowboys - correct, Roosters 82 def Cowboys 12
+  2. Dolphins over Dragons - correct, Dolphins 28 def Dragons 22
+  3. Bulldogs over Storm - correct, Bulldogs 36 def Storm 22
+  4. Titans over Warriors - missed, Warriors 42 def Titans 6
+  5. Panthers over Raiders - correct, Panthers 42 def Raiders 18
+  6. Broncos over Knights - missed, Knights 30 def Broncos 6
+  7. Sharks over Rabbitohs - correct, Sharks 32 def Rabbitohs 16
+  8. Eels over Wests Tigers - correct, Eels 16 def Wests Tigers 13
+- Charity bet status: `No Round 22 bet locked`
 - Charity ledger: `3-2`, `+$0.53`
 - Bye team: Sea Eagles
 - Main source logic:
-  - User confirmed `Prince_of_Penrith` is currently 3rd and needs Round 22 tips in.
-  - The app should prioritise top-two ladder strategy over emotional chase tipping.
-  - Sportsbet favourites are used as likely leader-safe picks.
-  - Titans over Warriors is the only controlled split because Gold Coast have home momentum and Warriors have fullback disruption.
+  - User confirmed `Prince_of_Penrith` is now P5.
+  - The app should move from P3 protect mode to P5 recovery mode before Round 23.
+  - Sportsbet favourites remain leader-behaviour signals, but Round 23 likely needs two controlled differentials after team-list checks.
+  - Titans over Warriors was the failed controlled split; do not carry that same angle forward without stronger evidence.
   - No Round 22 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
 
 ## Verified So Far
@@ -285,24 +315,7 @@
 - `npm run build` completed successfully.
 - Root `index.html` was synced from `dist/index.html`.
 - `git diff --check` passed.
-- Built local files contain the Round 22 markers:
-  - `Round 22 briefing live`
-  - `Round 22 ladder-protect chase`
-  - `Roosters over Cowboys`
-  - `Bulldogs over Storm`
-  - `Titans over Warriors`
-  - `Round 21 validated`
-  - `No Round 22 charity play locked`
-  - `Round 22 bye: Sea Eagles`
-- Built local files do not contain stale markers `Round 21 briefing live`, `Round 21 market-aware top-two chase`, or `No Round 21 charity play locked`.
-- Round 22 content commit created and pushed:
-  - `8a30f2e Update TipBot for Round 22`
-- GitHub Pages build for `8a30f2efc9d3bfb6c2d699eb021f5e68ac9ead59` completed successfully:
-  - Build status: `built`
-  - Created at `2026-07-30T05:07:18Z`
-  - Updated at `2026-07-30T05:07:36Z`
-- Live cache-busted page responded at `https://mrummler17.github.io/nrl-tipbot/?v=round22-8a30f2e`.
-- Live page contains the Round 22 markers above and does not contain the stale Round 21 headline markers.
+- Latest local build/deploy verification for the P5 result tracker still needs to be completed after this edit.
 
 ## Must Not Change Casually
 
@@ -318,6 +331,7 @@
 - Treat market favourites as leader-behaviour intelligence; do not convert market reads into bets unless the charity-bet workflow has explicit odds, stake and user confirmation.
 - Do not casually refactor the Round 21 controlled-split logic: it intentionally matches six Sportsbet favourites and splits only Storm over Rabbitohs plus Titans over Dragons.
 - Do not casually expand the Round 22 underdog set: it intentionally matches seven Sportsbet favourites and splits only Titans over Warriors while the user is 3rd.
+- Round 23 should be built from P5 recovery logic: likely two controlled differentials if the fresh ladder gap supports it, but never an all-underdog chase.
 
 ## Important Files
 
@@ -354,27 +368,25 @@
 
 ## Sources Used
 
-- Official NRL Team Lists Round 22: `https://www.nrl.com/news/2026/07/28/nrl-team-lists-round-22/`
-- Sportsbet NRL Round 22 market: `https://www.sportsbet.com.au/betting/rugby-league/nrl`
-- Sportsbet Round 22 tips: `https://www.sportsbet.com.au/huddle/nrl/predictions/round-22-tips-2026`
-- Official NRL Team Lists Round 21 result lines: `https://www.nrl.com/news/2026/07/21/nrl-team-lists-round-21/`
+- Official NRL Team Lists Round 22 result lines: `https://www.nrl.com/news/2026/07/28/nrl-team-lists-round-22/`
+- Sportsbet NRL Round 22 market used for pre-round strategy: `https://www.sportsbet.com.au/betting/rugby-league/nrl`
+- Sportsbet Round 22 tips used as pre-round context: `https://www.sportsbet.com.au/huddle/nrl/predictions/round-22-tips-2026`
 
 ## Risks / Unfinished
 
-- Disaster recovery pack is local/repo authoritative; Notion was updated as optional shared continuity only.
-- Round 22 tips are preview tips. Recheck final 24-hour and 90-minute team updates before lockout, especially Storm v Bulldogs, Titans v Warriors and Broncos v Knights.
-- No Round 22 charity bet is locked. Do not add one retrospectively.
-- The current top-two plan depends on modelling likely leader tips from market favourites; that feature is strategic guidance, not a guarantee.
+- Disaster recovery pack is local/repo authoritative; Notion is optional shared continuity only.
+- Round 22 is settled at 6 from 8. Do not keep showing it as a preview after this update.
+- No Round 22 charity bet was locked. Do not add one retrospectively.
+- The current top-two plan now starts from P5, so fresh ladder gap and leader tips matter more than earlier P3 assumptions.
 - Round 18 full final tip count still needs clean score cross-checking before it is published as a final wrap.
-- Browser cache may briefly retain an older page; use a cache-busted URL after Round 22 deploy.
+- Browser cache may briefly retain an older page; use a cache-busted URL after this P5 result-tracker deploy.
 
 ## Recommended Next Steps
 
-- Recheck Storm v Bulldogs after Melbourne final team cuts.
-- Recheck Titans v Warriors because this is the one Round 22 controlled split.
-- Get a fresh tipping-comp ladder screenshot after Round 21 scoring updates so the app can recalibrate the exact gap to 2nd.
+- Get a fresh tipping-comp ladder screenshot showing P5, current points and exact gap to 2nd.
+- Build Round 23 only after official team lists and current market prices are available.
 - Add a leader-differential column in a future update: likely NourilM tip, likely Kristy W13 tip, recommended `Prince_of_Penrith` action.
-- Re-check Round 22 team lists and late mail before any locks.
+- Re-check Round 23 team lists and late mail before any locks.
 - Keep charity bets separate from tipping-comp ladder aggression.
 - Add GitHub Actions JSON/build validation for resilience.
 - Store backup archives outside the repo on an encrypted external or cloud location.

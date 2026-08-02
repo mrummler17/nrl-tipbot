@@ -1,17 +1,17 @@
 {
   "round": "Round 22",
-  "verifiedAt": "2026-07-30T15:08:00+10:00",
-  "verificationLabel": "Round 22 preview updated Thursday 30 July 2026",
-  "summary": "Round 22 card is Roosters, Dolphins, Bulldogs, Titans, Panthers, Broncos, Sharks and Eels. Round 21 has been validated as 5 from 8. Sportsbet market favourites are used as leader-behaviour signals; TipBot matches seven favourites and takes one controlled split on Titans over Warriors.",
+  "verifiedAt": "2026-08-02T18:35:00+10:00",
+  "verificationLabel": "Round 22 results validated Sunday 2 August 2026",
+  "summary": "Round 22 is settled as a 6 from 8 TipBot card. Prince_of_Penrith is now P5 in the tipping comp. Correct tips were Roosters, Dolphins, Bulldogs, Panthers, Sharks and Eels; missed tips were Titans and Broncos. No Round 22 charity bet was locked.",
   "sources": [
     {
-      "label": "NRL Team Lists: Round 22",
+      "label": "NRL Team Lists: Round 22 result lines",
       "url": "https://www.nrl.com/news/2026/07/28/nrl-team-lists-round-22/",
       "publisher": "NRL.com",
-      "publishedAt": "2026-07-28T15:59:00+10:00"
+      "publishedAt": "2026-08-02T18:35:00+10:00"
     },
     {
-      "label": "Sportsbet NRL Round 22 head-to-head market",
+      "label": "Sportsbet NRL Round 22 head-to-head market used for pre-round strategy",
       "url": "https://www.sportsbet.com.au/betting/rugby-league/nrl",
       "publisher": "Sportsbet",
       "publishedAt": "2026-07-30T14:49:45+10:00"
@@ -21,12 +21,6 @@
       "url": "https://www.sportsbet.com.au/huddle/nrl/predictions/round-22-tips-2026",
       "publisher": "Sportsbet",
       "publishedAt": "2026-07-27T00:00:00+10:00"
-    },
-    {
-      "label": "NRL Team Lists: Round 21 result lines",
-      "url": "https://www.nrl.com/news/2026/07/21/nrl-team-lists-round-21/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-07-21T22:52:00+10:00"
     }
   ],
   "scoreboard": [
@@ -34,99 +28,99 @@
       "match": "Cowboys vs Roosters",
       "kickoff": "Thu 30 Jul, 7:50pm",
       "venue": "Queensland Country Bank Stadium",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Roosters",
-      "note": "Market match: Sportsbet has Roosters $1.53. Sydney are second and still chasing Penrith; Cowboys lose Reed Mahoney and Griffin Neame."
+      "status": "Full Time",
+      "result": "Roosters 82 def Cowboys 12",
+      "tipOutcome": "Correct: Roosters",
+      "note": "Protect pick landed emphatically. Roosters were the right safe pick while chasing from the ladder pack."
     },
     {
       "match": "Dragons vs Dolphins",
       "kickoff": "Fri 31 Jul, 6:00pm",
       "venue": "WIN Stadium",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Dolphins",
-      "note": "Protect pick: Sportsbet has Dolphins $1.24. Dragons remain stuck on two wins and the Dolphins have fresh troops after the bye."
+      "status": "Full Time",
+      "result": "Dolphins 28 def Dragons 22",
+      "tipOutcome": "Correct: Dolphins",
+      "note": "Heavy-favourite protect pick landed, though the Dragons kept it closer than the market expected."
     },
     {
       "match": "Storm vs Bulldogs",
       "kickoff": "Fri 31 Jul, 8:00pm",
       "venue": "AAMI Park",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Bulldogs",
-      "note": "Market match: Sportsbet has Bulldogs $1.52. Storm are without Harry Grant and Jack Howarth; Canterbury keep the same starting 13 that beat the Warriors."
+      "status": "Full Time",
+      "result": "Bulldogs 36 def Storm 22",
+      "tipOutcome": "Correct: Bulldogs",
+      "note": "Market match landed. Melbourne's Harry Grant and Jack Howarth absences were the right read."
     },
     {
       "match": "Titans vs Warriors",
       "kickoff": "Sat 1 Aug, 3:00pm",
       "venue": "Cbus Super Stadium",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Titans",
-      "note": "Controlled split: Sportsbet has Warriors $1.57 and Titans $2.42. Gold Coast are at home with attacking momentum while the Warriors replace injured Taine Tuaupiki at fullback."
+      "status": "Full Time",
+      "result": "Warriors 42 def Titans 6",
+      "tipOutcome": "Missed: Titans",
+      "note": "The one controlled split failed badly. Do not carry Titans optimism forward without stronger team-news support."
     },
     {
       "match": "Panthers vs Raiders",
       "kickoff": "Sat 1 Aug, 5:30pm",
       "venue": "Glen Willow Oval, Mudgee",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Panthers",
-      "note": "Protect pick: Sportsbet has Panthers $1.35. Dylan Edwards is still out, but Jack Cogger returns alongside Nathan Cleary, Liam Martin and Isaah Yeo."
+      "status": "Full Time",
+      "result": "Panthers 42 def Raiders 18",
+      "tipOutcome": "Correct: Panthers",
+      "note": "Favourite protect pick landed despite Dylan Edwards remaining out."
     },
     {
       "match": "Broncos vs Knights",
       "kickoff": "Sat 1 Aug, 7:35pm",
       "venue": "Suncorp Stadium",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Broncos",
-      "note": "Market match: Sportsbet has Broncos $1.50. Ponga and Gagai return for Newcastle, but Dylan Brown and Dylan Lucas are season-ending outs."
+      "status": "Full Time",
+      "result": "Knights 30 def Broncos 6",
+      "tipOutcome": "Missed: Broncos",
+      "note": "Market match missed. Brisbane need to be downgraded until their form and injury picture stabilises."
     },
     {
       "match": "Sharks vs Rabbitohs",
       "kickoff": "Sun 2 Aug, 2:00pm",
-      "venue": "Sharks Stadium",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Sharks",
-      "note": "Protect pick: Sportsbet has Sharks $1.27. Cronulla are flying after a 48-12 win and regain Tom Hazelton."
+      "venue": "Ocean Protect Stadium",
+      "status": "Full Time",
+      "result": "Sharks 32 def Rabbitohs 16",
+      "tipOutcome": "Correct: Sharks",
+      "note": "Heavy-favourite protect pick landed. Cronulla remained the right low-risk side."
     },
     {
       "match": "Wests Tigers vs Eels",
       "kickoff": "Sun 2 Aug, 4:05pm",
       "venue": "CommBank Stadium",
-      "status": "Preview",
-      "result": "Awaiting kickoff",
-      "tipOutcome": "Tip: Eels",
-      "note": "Market match: Sportsbet has Eels $1.41. Tigers regain Doueihi but remain unsettled; Parramatta get Junior Paulo back via the bench."
+      "status": "Full Time",
+      "result": "Eels 16 def Wests Tigers 13",
+      "tipOutcome": "Correct: Eels",
+      "note": "Market match landed by a narrow margin after a late Eels escape."
     }
   ],
   "liveAlerts": [
     {
       "tone": "amber",
-      "text": "Round 21 validated: TipBot card went 5 from 8."
+      "text": "Prince_of_Penrith is now P5 in the tipping comp."
     },
     {
       "tone": "green",
-      "text": "Round 22 card live: Roosters, Dolphins, Bulldogs, Titans, Panthers, Broncos, Sharks and Eels."
+      "text": "Round 22 settled: TipBot card went 6 from 8."
     },
     {
       "tone": "green",
-      "text": "Market-aware strategy: match seven favourites, split only on Titans over Warriors."
-    },
-    {
-      "tone": "cyan",
-      "text": "Main ladder-value pick: Titans over Warriors at $2.42 against a Warriors $1.57 market favourite."
+      "text": "Correct tips: Roosters, Dolphins, Bulldogs, Panthers, Sharks and Eels."
     },
     {
       "tone": "amber",
-      "text": "No Round 22 charity bet is locked; tipping-comp strategy does not move the Mark Hughes Foundation ledger."
+      "text": "Missed tips: Titans over Warriors and Broncos over Knights."
     },
     {
       "tone": "cyan",
-      "text": "Round 22 bye: Sea Eagles."
+      "text": "Round 23 should move from P3-style protection to P5 recovery: likely two controlled differentials after market and team-list checks."
+    },
+    {
+      "tone": "amber",
+      "text": "No Round 22 charity bet was locked; tipping-comp results do not move the Mark Hughes Foundation ledger."
     }
   ]
 }

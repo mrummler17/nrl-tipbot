@@ -1,47 +1,47 @@
 # NRL TipBot Briefing 2026
 
-Round 22 ladder-protect chase
+Round 22 settled, P5 recovery mode
 
 A weekly NRL command board for sharper tipping, cleaner ladder strategy, and banking any wins for charity.
 
 ## Current Pick
 
-- No Round 22 charity play locked
-- Odds: TBC
+- No Round 22 charity play was locked
+- Odds: N/A
 - Stake: $0.00
 - Potential profit: $0.00
 - Status: No bet locked
 
 ## Live Round Status
 
-- Round 22 preview updated Thursday 30 July 2026
-- Round 22 card is Roosters, Dolphins, Bulldogs, Titans, Panthers, Broncos, Sharks and Eels. Round 21 has been validated as 5 from 8. Sportsbet market favourites are used as leader-behaviour signals; TipBot matches seven favourites and takes one controlled split on Titans over Warriors.
+- Round 22 results validated Sunday 2 August 2026
+- Round 22 is settled as a 6 from 8 TipBot card. Prince_of_Penrith is now P5 in the tipping comp. Correct tips were Roosters, Dolphins, Bulldogs, Panthers, Sharks and Eels; missed tips were Titans and Broncos. No Round 22 charity bet was locked.
 
 
 ## Confidence Order
 
-1. Dolphins over Dragons - heavy favourite protect pick at $1.24 market price
-2. Sharks over Rabbitohs - heavy favourite protect pick at $1.27
-3. Panthers over Raiders - favourite protect pick at $1.35
-4. Eels over Wests Tigers - favourite match at $1.41
-5. Broncos over Knights - home favourite match at $1.50
-6. Bulldogs over Storm - favourite match at $1.52
-7. Roosters over Cowboys - narrow favourite match at $1.53
-8. Titans over Warriors - controlled differential at $2.42, medium risk and useful ladder value
+1. Roosters over Cowboys - correct protect pick, Roosters won 82-12
+2. Sharks over Rabbitohs - correct protect pick, Sharks won 32-16
+3. Dolphins over Dragons - correct protect pick, Dolphins won 28-22
+4. Panthers over Raiders - correct protect pick, Panthers won 42-18
+5. Bulldogs over Storm - correct market match, Bulldogs won 36-22
+6. Eels over Wests Tigers - correct market match, Eels won 16-13
+7. Broncos over Knights - missed market match, Knights won 30-6
+8. Titans over Warriors - missed controlled split, Warriors won 42-6
 
 ## Board Sections
 
-- **Situation Report** — Protect the card, take one real shot
-- **Bet Analysis** — No charity bet locked for Round 22
-- **Round 22 Tips** — Recommended card for Prince_of_Penrith
-- **Round 22 Fixtures** — Round 22 schedule
-- **Market Map** — Likely leader-safe picks
-- **Late Mail** — Selection notes driving the card
+- **Situation Report** — P5 means recover, not panic
+- **Bet Analysis** — No charity movement
+- **Round 22 Results** — Settled card
+- **Round 22 Scoreboard** — Official result lines
+- **Strategic Read** — How to climb from P5
+- **Source Notes** — Round 22 validation source
 
 ## Notes
 
-- Built from the Codex-maintained data workflow and updated for Round 22 on Thursday 30 July 2026.
-- Round 21 was validated as 5 from 8 from official NRL result lines.
-- Prince_of_Penrith is confirmed by the user as currently 3rd; a fresh screenshot is still useful for exact gap modelling.
+- Built from the Codex-maintained data workflow and updated for Round 22 final results on Sunday 2 August 2026.
+- Round 22 was validated as 6 from 8 from official NRL result lines.
+- Prince_of_Penrith is confirmed by the user as now P5; a fresh screenshot is still useful for exact gap modelling.
 - Round 22 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
-- Sportsbet prices were used only for market-aware tipping strategy and leader-behaviour modelling.
+- Sportsbet prices remain useful for leader-behaviour modelling, but Round 23 needs fresh prices before tips are chosen.
