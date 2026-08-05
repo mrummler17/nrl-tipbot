@@ -18,6 +18,7 @@
 - Latest Round 21 content commit: `b94e5b3 Update TipBot for Round 21`
 - Latest Round 22 content commit: `8a30f2e Update TipBot for Round 22`
 - Latest Round 22 P5 result commit verified live: `f8e1766 Update TipBot Round 22 results for P5`
+- Latest Round 23 content commit verified live: `94212f9 Update TipBot for Round 23`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -352,6 +353,28 @@
   - No Round 23 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
 
 ## Verified So Far
+
+- Round 23 pre-lockout update:
+  - JSON parse validation passed for `data/briefing.json` and `data/live-round.json`.
+  - `npm run build` completed successfully.
+  - Root `index.html` was synced from `dist/index.html`.
+  - `git diff --check` passed.
+  - Notion milestone note added to the `TipBot NRL` Command Centre page.
+  - Round 23 content commit created and pushed:
+    - `94212f9 Update TipBot for Round 23`
+  - GitHub Pages build for `94212f98b3d16e3fc121f438f5b62c11a693666a` completed successfully:
+    - Build status: `built`
+    - Created at `2026-08-05T22:21:06Z`
+    - Updated at `2026-08-05T22:21:22Z`
+  - Live cache-busted page responded at `https://mrummler17.github.io/nrl-tipbot/?v=round23-94212f9`.
+  - Live page contains Round 23 markers:
+    - `Round 23 tips live`
+    - `Round 23 pre-lockout card`
+    - `Recommended Round 23 tips: Cowboys, Warriors, Roosters, Sea Eagles, Dolphins, Rabbitohs, Raiders and Sharks`
+    - `Main controlled differential: Warriors over Panthers`
+    - `Second edge: Raiders over Knights`
+    - `No Round 23 charity play is locked`
+  - Live page does not contain stale headline markers `Round 22 result tracker live` or `Round 22 settled, P5 recovery mode`.
 
 - JSON parse validation passed for `data/briefing.json` and `data/live-round.json`.
 - `npm run build` completed successfully.
