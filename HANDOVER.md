@@ -21,9 +21,49 @@
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 22, 2026 result tracker and P5 recovery mode
+- Current local working version: Round 23, 2026 pre-lockout card for P5 ladder protection and controlled climb
 
 ## Changed This Session
+
+- Round 23 pre-lockout update:
+  - User asked to update TipBot for this week while sitting P5, with the goal to hold ladder position or move up.
+  - Updated `data/briefing.json` from Round 22 settled mode to Round 23 tips live mode.
+  - Updated `data/live-round.json` with Round 23 fixture board, Sportsbet prices, model notes, alerts, and eight recommended tips.
+  - Updated `README.md` with the Round 23 current snapshot and tip card.
+  - Round 23 recommended tips:
+    1. Cowboys over Titans - market protect; avoid another Titans split after last week's miss.
+    2. Warriors over Panthers - main controlled differential against Sportsbet favourite Penrith.
+    3. Roosters over Bulldogs - strong market protect; monitor James Tedesco late mail.
+    4. Sea Eagles over Storm - market/model lean; volatile neutral-site game.
+    5. Dolphins over Broncos - strong market protect; Broncos downgraded without Adam Reynolds.
+    6. Rabbitohs over Eels - strong market protect with Souths forwards returning.
+    7. Raiders over Knights - even market, home/model edge.
+    8. Sharks over Dragons - strongest protect pick.
+  - Sportsbet Round 23 head-to-head market checked Thursday 6 August 2026 at about 7:55am AEST:
+    - Cowboys `$1.58`
+    - Panthers `$1.53`
+    - Roosters `$1.35`
+    - Sea Eagles `$1.72`
+    - Dolphins `$1.42`
+    - Rabbitohs `$1.37`
+    - Raiders and Knights both `$1.92`
+    - Sharks `$1.19`
+  - Strategy:
+    - Match six clear market favourites: Cowboys, Roosters, Sea Eagles, Dolphins, Rabbitohs and Sharks.
+    - Split on Warriors over Panthers because P5 needs upside, Warriors are at home and FootyForecaster leans Warriors despite Sportsbet favouring Penrith.
+    - Take Raiders over Knights in the even-money game because GIO Stadium and the model give Canberra a slight edge.
+    - Do not add more than two differentials without a fresh ladder screenshot showing the exact gap to 2nd.
+  - Charity ledger:
+    - No Round 23 charity bet is locked.
+    - Ledger remains `3-2`, `$31.50` invested, `$32.03` returned, `+$0.53` settled profit.
+  - Sources checked on Thursday 6 August 2026:
+    - Sportsbet NRL Round 23 head-to-head market
+    - NRL Countdown Round 23 fixture sync
+    - FootyForecaster Round 23 model
+    - Daily Telegraph Round 23 late-mail snippets
+  - Notion milestone note added to the `TipBot NRL` Command Centre page on Thursday 6 August 2026. Repo-local docs remain authoritative.
+
+## Previous Round 22 Result Session
 
 - Round 22 result/P5 update:
   - User confirmed `Prince_of_Penrith` is now P5 in the tipping comp.
@@ -287,28 +327,29 @@
 
 ## Current Published Content To Verify
 
-- Round: Round 22, 2026
-- Mode: Result tracker and P5 recovery mode
+- Round: Round 23, 2026
+- Mode: Pre-lockout P5 ladder protection and controlled climb
 - Tipping comp handle: `Prince_of_Penrith`
 - Ladder target: top 2 before finals; user confirmed now P5, exact gap needs a fresh comp screenshot
-- Settled card at update time:
-  1. Roosters over Cowboys - correct, Roosters 82 def Cowboys 12
-  2. Dolphins over Dragons - correct, Dolphins 28 def Dragons 22
-  3. Bulldogs over Storm - correct, Bulldogs 36 def Storm 22
-  4. Titans over Warriors - missed, Warriors 42 def Titans 6
-  5. Panthers over Raiders - correct, Panthers 42 def Raiders 18
-  6. Broncos over Knights - missed, Knights 30 def Broncos 6
-  7. Sharks over Rabbitohs - correct, Sharks 32 def Rabbitohs 16
-  8. Eels over Wests Tigers - correct, Eels 16 def Wests Tigers 13
-- Charity bet status: `No Round 22 bet locked`
+- Tip card at update time:
+  1. Cowboys over Titans
+  2. Warriors over Panthers
+  3. Roosters over Bulldogs
+  4. Sea Eagles over Storm
+  5. Dolphins over Broncos
+  6. Rabbitohs over Eels
+  7. Raiders over Knights
+  8. Sharks over Dragons
+- Charity bet status: `No Round 23 bet locked`
 - Charity ledger: `3-2`, `+$0.53`
-- Bye team: Sea Eagles
+- Bye team: Wests Tigers
 - Main source logic:
   - User confirmed `Prince_of_Penrith` is now P5.
-  - The app should move from P3 protect mode to P5 recovery mode before Round 23.
-  - Sportsbet favourites remain leader-behaviour signals, but Round 23 likely needs two controlled differentials after team-list checks.
-  - Titans over Warriors was the failed controlled split; do not carry that same angle forward without stronger evidence.
-  - No Round 22 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
+  - The app should hold P5 first, then create two controlled climb lanes.
+  - Sportsbet favourites remain leader-behaviour signals.
+  - Warriors over Panthers is the main controlled differential.
+  - Raiders over Knights is the second edge because the market is even and the model/home lean supports Canberra.
+  - No Round 23 charity result should be added without a pre-recorded stake, price and explicit user confirmation.
 
 ## Verified So Far
 
@@ -386,23 +427,25 @@
 
 ## Sources Used
 
-- Official NRL Team Lists Round 22 result lines: `https://www.nrl.com/news/2026/07/28/nrl-team-lists-round-22/`
-- Sportsbet NRL Round 22 market used for pre-round strategy: `https://www.sportsbet.com.au/betting/rugby-league/nrl`
-- Sportsbet Round 22 tips used as pre-round context: `https://www.sportsbet.com.au/huddle/nrl/predictions/round-22-tips-2026`
+- Sportsbet NRL Round 23 head-to-head market: `https://www.sportsbet.com.au/betting/rugby-league/nrl`
+- NRL Countdown Round 23 fixture sync: `https://nrlcountdown.com/nrl-schedule-2026/`
+- FootyForecaster Round 23 model: `https://footyforecaster.com/NRL/RoundForecast/2026_Round_23`
+- Daily Telegraph Round 23 late-mail snippets: `https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-round-23-late-mail-roosters-sweat-with-james-tedesco-in-doubt-for-bulldogs-clash/news-story/ed64624c53566f667f73bb4ad248feb5`
 
 ## Risks / Unfinished
 
 - Disaster recovery pack is local/repo authoritative; Notion is optional shared continuity only.
-- Round 22 is settled at 6 from 8. Do not keep showing it as a preview after this update.
-- No Round 22 charity bet was locked. Do not add one retrospectively.
-- The current top-two plan now starts from P5, so fresh ladder gap and leader tips matter more than earlier P3 assumptions.
+- Round 23 is a pre-lockout card. Recheck final 24-hour and 90-minute team updates before each game if possible.
+- No Round 23 charity bet is locked. Do not add one retrospectively.
+- The current top-two plan starts from P5, so fresh ladder gap and leader tips matter more than earlier P3 assumptions.
+- Warriors over Panthers is an intentional ladder differential, not a low-risk protect pick.
 - Round 18 full final tip count still needs clean score cross-checking before it is published as a final wrap.
-- Browser cache may briefly retain an older page; use a cache-busted URL after this P5 result-tracker deploy.
+- Browser cache may briefly retain an older page; use a cache-busted URL after this Round 23 deploy.
 
 ## Recommended Next Steps
 
 - Get a fresh tipping-comp ladder screenshot showing P5, current points and exact gap to 2nd.
-- Build Round 23 only after official team lists and current market prices are available.
+- Submit tips before Titans v Cowboys kicks off on Thursday 6 August 2026 at 7:50pm AEST.
 - Add a leader-differential column in a future update: likely NourilM tip, likely Kristy W13 tip, recommended `Prince_of_Penrith` action.
 - Re-check Round 23 team lists and late mail before any locks.
 - Keep charity bets separate from tipping-comp ladder aggression.

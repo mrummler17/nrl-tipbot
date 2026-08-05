@@ -1,126 +1,132 @@
 {
-  "round": "Round 22",
-  "verifiedAt": "2026-08-02T18:35:00+10:00",
-  "verificationLabel": "Round 22 results validated Sunday 2 August 2026",
-  "summary": "Round 22 is settled as a 6 from 8 TipBot card. Prince_of_Penrith is now P5 in the tipping comp. Correct tips were Roosters, Dolphins, Bulldogs, Panthers, Sharks and Eels; missed tips were Titans and Broncos. No Round 22 charity bet was locked.",
+  "round": "Round 23",
+  "verifiedAt": "2026-08-06T08:20:00+10:00",
+  "verificationLabel": "Round 23 pre-lockout tips checked Thursday 6 August 2026",
+  "summary": "Round 23 card is live for Prince_of_Penrith at P5. Recommended tips are Cowboys, Warriors, Roosters, Sea Eagles, Dolphins, Rabbitohs, Raiders and Sharks. Strategy is to hold position with strong favourites while creating two controlled climb lanes through Warriors and Raiders. No Round 23 charity bet is locked.",
   "sources": [
     {
-      "label": "NRL Team Lists: Round 22 result lines",
-      "url": "https://www.nrl.com/news/2026/07/28/nrl-team-lists-round-22/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-08-02T18:35:00+10:00"
-    },
-    {
-      "label": "Sportsbet NRL Round 22 head-to-head market used for pre-round strategy",
+      "label": "Sportsbet NRL Round 23 head-to-head market",
       "url": "https://www.sportsbet.com.au/betting/rugby-league/nrl",
       "publisher": "Sportsbet",
-      "publishedAt": "2026-07-30T14:49:45+10:00"
+      "publishedAt": "2026-08-06T07:55:00+10:00"
     },
     {
-      "label": "Sportsbet NRL Tips and Predictions - Round 22",
-      "url": "https://www.sportsbet.com.au/huddle/nrl/predictions/round-22-tips-2026",
-      "publisher": "Sportsbet",
-      "publishedAt": "2026-07-27T00:00:00+10:00"
+      "label": "NRL Countdown Round 23 fixture sync",
+      "url": "https://nrlcountdown.com/nrl-schedule-2026/",
+      "publisher": "NRL Countdown",
+      "publishedAt": "2026-08-05T10:49:00+10:00"
+    },
+    {
+      "label": "FootyForecaster Round 23 model",
+      "url": "https://footyforecaster.com/NRL/RoundForecast/2026_Round_23",
+      "publisher": "FootyForecaster",
+      "publishedAt": "2026-08-06T08:00:00+10:00"
+    },
+    {
+      "label": "Daily Telegraph Round 23 late mail snippets",
+      "url": "https://www.dailytelegraph.com.au/sport/nrl/supercoach-news/nrl-round-23-late-mail-roosters-sweat-with-james-tedesco-in-doubt-for-bulldogs-clash/news-story/ed64624c53566f667f73bb4ad248feb5",
+      "publisher": "Daily Telegraph",
+      "publishedAt": "2026-08-06T08:00:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Cowboys vs Roosters",
-      "kickoff": "Thu 30 Jul, 7:50pm",
-      "venue": "Queensland Country Bank Stadium",
-      "status": "Full Time",
-      "result": "Roosters 82 def Cowboys 12",
-      "tipOutcome": "Correct: Roosters",
-      "note": "Protect pick landed emphatically. Roosters were the right safe pick while chasing from the ladder pack."
-    },
-    {
-      "match": "Dragons vs Dolphins",
-      "kickoff": "Fri 31 Jul, 6:00pm",
-      "venue": "WIN Stadium",
-      "status": "Full Time",
-      "result": "Dolphins 28 def Dragons 22",
-      "tipOutcome": "Correct: Dolphins",
-      "note": "Heavy-favourite protect pick landed, though the Dragons kept it closer than the market expected."
-    },
-    {
-      "match": "Storm vs Bulldogs",
-      "kickoff": "Fri 31 Jul, 8:00pm",
-      "venue": "AAMI Park",
-      "status": "Full Time",
-      "result": "Bulldogs 36 def Storm 22",
-      "tipOutcome": "Correct: Bulldogs",
-      "note": "Market match landed. Melbourne's Harry Grant and Jack Howarth absences were the right read."
-    },
-    {
-      "match": "Titans vs Warriors",
-      "kickoff": "Sat 1 Aug, 3:00pm",
+      "match": "Titans vs Cowboys",
+      "kickoff": "Thu 6 Aug, 7:50pm",
       "venue": "Cbus Super Stadium",
-      "status": "Full Time",
-      "result": "Warriors 42 def Titans 6",
-      "tipOutcome": "Missed: Titans",
-      "note": "The one controlled split failed badly. Do not carry Titans optimism forward without stronger team-news support."
+      "status": "Pre-lockout",
+      "result": "Tip: Cowboys",
+      "tipOutcome": "Recommended: Cowboys",
+      "note": "Sportsbet has Cowboys $1.58 favourites. Avoid another Titans split after the Warriors 42-6 result and Titans halves disruption."
     },
     {
-      "match": "Panthers vs Raiders",
-      "kickoff": "Sat 1 Aug, 5:30pm",
-      "venue": "Glen Willow Oval, Mudgee",
-      "status": "Full Time",
-      "result": "Panthers 42 def Raiders 18",
-      "tipOutcome": "Correct: Panthers",
-      "note": "Favourite protect pick landed despite Dylan Edwards remaining out."
+      "match": "Warriors vs Panthers",
+      "kickoff": "Fri 7 Aug, 6:00pm",
+      "venue": "Go Media Stadium",
+      "status": "Pre-lockout",
+      "result": "Tip: Warriors",
+      "tipOutcome": "Recommended: Warriors",
+      "note": "Main controlled differential. Sportsbet favours Panthers at $1.53, but FootyForecaster has Warriors 64.8% and Penrith remain under availability pressure."
     },
     {
-      "match": "Broncos vs Knights",
-      "kickoff": "Sat 1 Aug, 7:35pm",
+      "match": "Roosters vs Bulldogs",
+      "kickoff": "Fri 7 Aug, 8:00pm",
+      "venue": "Allianz Stadium",
+      "status": "Pre-lockout",
+      "result": "Tip: Roosters",
+      "tipOutcome": "Recommended: Roosters",
+      "note": "Sportsbet $1.35 protect pick. Monitor James Tedesco's ankle, but Roosters remain the recommendation unless late mail gets ugly."
+    },
+    {
+      "match": "Storm vs Sea Eagles",
+      "kickoff": "Sat 8 Aug, 3:00pm",
+      "venue": "HBF Park",
+      "status": "Pre-lockout",
+      "result": "Tip: Sea Eagles",
+      "tipOutcome": "Recommended: Sea Eagles",
+      "note": "Sportsbet $1.72 and FootyForecaster lean Manly. Volatile because Melbourne regain Cameron Munster but still miss Jahrome Hughes and Harry Grant."
+    },
+    {
+      "match": "Dolphins vs Broncos",
+      "kickoff": "Sat 8 Aug, 5:30pm",
       "venue": "Suncorp Stadium",
-      "status": "Full Time",
-      "result": "Knights 30 def Broncos 6",
-      "tipOutcome": "Missed: Broncos",
-      "note": "Market match missed. Brisbane need to be downgraded until their form and injury picture stabilises."
+      "status": "Pre-lockout",
+      "result": "Tip: Dolphins",
+      "tipOutcome": "Recommended: Dolphins",
+      "note": "Sportsbet $1.42 and model support Dolphins. Broncos remain downgraded with Adam Reynolds out and form unstable."
     },
     {
-      "match": "Sharks vs Rabbitohs",
-      "kickoff": "Sun 2 Aug, 2:00pm",
-      "venue": "Ocean Protect Stadium",
-      "status": "Full Time",
-      "result": "Sharks 32 def Rabbitohs 16",
-      "tipOutcome": "Correct: Sharks",
-      "note": "Heavy-favourite protect pick landed. Cronulla remained the right low-risk side."
+      "match": "Rabbitohs vs Eels",
+      "kickoff": "Sat 8 Aug, 7:35pm",
+      "venue": "Allianz Stadium",
+      "status": "Pre-lockout",
+      "result": "Tip: Rabbitohs",
+      "tipOutcome": "Recommended: Rabbitohs",
+      "note": "Sportsbet $1.37 protect pick. Souths regain key forwards including Cameron Murray, Tallis Duncan and David Fifita."
     },
     {
-      "match": "Wests Tigers vs Eels",
-      "kickoff": "Sun 2 Aug, 4:05pm",
-      "venue": "CommBank Stadium",
-      "status": "Full Time",
-      "result": "Eels 16 def Wests Tigers 13",
-      "tipOutcome": "Correct: Eels",
-      "note": "Market match landed by a narrow margin after a late Eels escape."
+      "match": "Raiders vs Knights",
+      "kickoff": "Sun 9 Aug, 2:00pm",
+      "venue": "GIO Stadium",
+      "status": "Pre-lockout",
+      "result": "Tip: Raiders",
+      "tipOutcome": "Recommended: Raiders",
+      "note": "Coin-flip market at $1.92 each. Raiders get the nod from home field and FootyForecaster's 57.9% Canberra lean."
+    },
+    {
+      "match": "Dragons vs Sharks",
+      "kickoff": "Sun 9 Aug, 4:05pm",
+      "venue": "Jubilee Stadium",
+      "status": "Pre-lockout",
+      "result": "Tip: Sharks",
+      "tipOutcome": "Recommended: Sharks",
+      "note": "Strongest protect pick. Sportsbet has Sharks $1.19 and FootyForecaster has Cronulla 85.8%."
     }
   ],
   "liveAlerts": [
     {
       "tone": "amber",
-      "text": "Prince_of_Penrith is now P5 in the tipping comp."
+      "text": "Prince_of_Penrith is P5; the Round 23 mission is hold position or move up."
     },
     {
       "tone": "green",
-      "text": "Round 22 settled: TipBot card went 6 from 8."
-    },
-    {
-      "tone": "green",
-      "text": "Correct tips: Roosters, Dolphins, Bulldogs, Panthers, Sharks and Eels."
+      "text": "Recommended Round 23 tips: Cowboys, Warriors, Roosters, Sea Eagles, Dolphins, Rabbitohs, Raiders and Sharks."
     },
     {
       "tone": "amber",
-      "text": "Missed tips: Titans over Warriors and Broncos over Knights."
+      "text": "Main controlled differential: Warriors over Panthers despite Sportsbet favouring Penrith."
     },
     {
       "tone": "cyan",
-      "text": "Round 23 should move from P3-style protection to P5 recovery: likely two controlled differentials after market and team-list checks."
+      "text": "Second edge: Raiders over Knights in the even-money Sunday coin-flip."
+    },
+    {
+      "tone": "green",
+      "text": "Market protects retained: Cowboys, Roosters, Sea Eagles, Dolphins, Rabbitohs and Sharks."
     },
     {
       "tone": "amber",
-      "text": "No Round 22 charity bet was locked; tipping-comp results do not move the Mark Hughes Foundation ledger."
+      "text": "No Round 23 charity bet is locked; tipping-comp choices do not move the ledger."
     }
   ]
 }
