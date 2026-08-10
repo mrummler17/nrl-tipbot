@@ -19,12 +19,54 @@
 - Latest Round 22 content commit: `8a30f2e Update TipBot for Round 22`
 - Latest Round 22 P5 result commit verified live: `f8e1766 Update TipBot Round 22 results for P5`
 - Latest Round 23 content commit verified live: `94212f9 Update TipBot for Round 23`
+- Latest Round 23 deployment handover commit verified live: `ea36d93 Record Round 23 deployment handover`
+- Round 24 content commit: pending this session
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 23, 2026 pre-lockout card for P5 ladder protection and controlled climb
+- Current local working version: Round 24, 2026 early card for P5 ladder protection and a four-point push to the P2 tie
 
 ## Changed This Session
+
+- Round 24 early-card update:
+  - User supplied a Round 24 ladder screenshot confirming `Prince_of_Penrith` is P5 on 238 points.
+  - Exact ladder pressure: P4 is one point ahead on 239; P2 is tied on 242; P6 is one point behind on 237; two P7 tipsters are on 236.
+  - Updated `data/briefing.json` and `data/live-round.json` from Round 23 to Round 24 early-card mode.
+  - Updated `README.md` with the current card, ladder context, prices, model disagreements and Tuesday recheck requirement.
+  - Round 24 early tips:
+    1. Panthers over Roosters - market/model lean; monitor Isaah Yeo, Dylan Edwards and James Tedesco.
+    2. Dolphins over Sea Eagles - market protect; Manly injuries override the FootyForecaster split.
+    3. Bulldogs over Rabbitohs - market protect pending Souths spine availability.
+    4. Sharks over Raiders - strong market/model protect.
+    5. Cowboys over Eels - market protect; Parramatta injuries override the FootyForecaster split.
+    6. Warriors over Broncos - market/model protect.
+    7. Knights over Titans - strongest safe pick.
+    8. Dragons over Wests Tigers - sole controlled edge in a near-even market.
+  - Sportsbet Round 24 head-to-head prices checked Monday 10 August 2026 at about 12:07pm AEST:
+    - Panthers `$1.74`, Roosters `$2.10`
+    - Dolphins `$1.40`, Sea Eagles `$2.94`
+    - Bulldogs `$1.64`, Rabbitohs `$2.27`
+    - Sharks `$1.30`, Raiders `$3.54`
+    - Cowboys `$1.57`, Eels `$2.41`
+    - Warriors `$1.47`, Broncos `$2.71`
+    - Knights `$1.25`, Titans `$4.00`
+    - Wests Tigers `$1.90`, Dragons `$1.94`
+  - FootyForecaster Round 24 model:
+    - Agrees on Panthers 53.6%, Sharks 87.5%, Warriors 70.5% and Knights 78.8%.
+    - Disagrees with the market on Sea Eagles 60.3%, Rabbitohs 53.6%, Eels 69.8% and Dragons 55.2%.
+  - Strategy:
+    - Match seven Sportsbet favourites to defend against likely leader-safe cards and the immediate P6/P7 threat.
+    - Split only on Dragons because the market is virtually even and the model gives St George Illawarra a small edge.
+    - Do not add a second differential before official Tuesday team lists unless availability materially changes the evidence.
+  - Official NRL casualty-ward context checked Monday 10 August 2026:
+    - Penrith lose Isaah Yeo but Dylan Edwards is targeting Round 24; James Tedesco is also targeting Round 24 for the Roosters.
+    - Manly lose Taniela Paseka and Kobe Hetherington and remain heavily depleted.
+    - Parramatta are monitoring Isaiah Iongi's knee and remain injury-hit.
+    - Newcastle expect Bradman Best and Phoenix Crossland back.
+  - Charity ledger remains `3-2`, `$31.50` invested, `$32.03` returned and `+$0.53`; no Round 24 charity bet is locked.
+  - Mandatory next check: official Round 24 team lists on Tuesday, then 24-hour/90-minute updates before each game.
+
+## Previous Round 23 Session
 
 - Round 23 pre-lockout update:
   - User asked to update TipBot for this week while sitting P5, with the goal to hold ladder position or move up.

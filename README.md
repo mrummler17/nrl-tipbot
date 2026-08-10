@@ -18,35 +18,40 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 23, 2026
-- Mode: pre-lockout P5 ladder protection and controlled climb
+- Round: Round 24, 2026
+- Mode: early-card P5 ladder protection with one controlled climb edge
 - Tipping comp handle: `Prince_of_Penrith`
-- Ladder context: user confirmed P5; exact gap to 2nd still needs a fresh screenshot
-- Last card: Round 22 validated 6 from 8
-- Tip card: Cowboys, Warriors, Roosters, Sea Eagles, Dolphins, Rabbitohs, Raiders, Sharks
-- Charity bet status: no Round 23 bet is locked
+- Ladder context: P5 on 238; P4 on 239; P2 is tied on 242; P6 is on 237
+- Tip card: Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights, Dragons
+- Charity bet status: no Round 24 bet is locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
-- Validation rule: do not move the charity ledger without recorded TAB odds, stake, result, and user confirmation
+- Validation rule: do not move the charity ledger without recorded odds, stake, result, and user confirmation
 
-Round 23 tips:
+Round 24 early tips:
 
-1. Cowboys over Titans - market protect, avoid another Titans split
-2. Warriors over Panthers - main controlled differential
-3. Roosters over Bulldogs - strong market protect, Tedesco late-mail watch
-4. Sea Eagles over Storm - market/model lean, volatile neutral-site game
-5. Dolphins over Broncos - strong market protect, Broncos downgraded without Adam Reynolds
-6. Rabbitohs over Eels - strong market protect with Souths forwards returning
-7. Raiders over Knights - coin-flip home/model edge
-8. Sharks over Dragons - strongest protect pick
+1. Panthers over Roosters - market/model lean; Yeo, Edwards and Tedesco watch
+2. Dolphins over Sea Eagles - market protect; Manly injuries override the early model split
+3. Bulldogs over Rabbitohs - market protect pending Souths spine news
+4. Sharks over Raiders - strong market/model protect
+5. Cowboys over Eels - market protect; Parramatta availability risk overrides the model split
+6. Warriors over Broncos - market/model protect
+7. Knights over Titans - strongest safe pick
+8. Dragons over Wests Tigers - sole controlled edge in a near-even market
 
-Round 23 notes:
+Round 24 notes:
 
-- The board prioritises holding P5 first, then moving up with two controlled climb lanes.
-- Sportsbet market leaders at the update were Cowboys, Panthers, Roosters, Sea Eagles, Dolphins, Rabbitohs and Sharks, with Raiders v Knights even.
-- TipBot matches six clear market favourites, splits Warriors over Panthers, and takes Raiders in the even-money game.
-- Do not add more than two differentials without a fresh ladder screenshot showing the exact gap to 2nd.
-- Recheck final team updates before lockout, especially Warriors v Panthers, Roosters v Bulldogs and Storm v Sea Eagles.
-- No Round 23 charity bet is locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
+- The screenshot confirms P2 is only four points away, but P6 is one point behind and P7 is two behind.
+- TipBot follows seven Sportsbet favourites and takes Dragons over Wests Tigers as the only controlled split.
+- Sportsbet prices checked Monday 10 August at about 12:07pm AEST: Panthers $1.74, Dolphins $1.40, Bulldogs $1.64, Sharks $1.30, Cowboys $1.57, Warriors $1.47, Knights $1.25, Wests Tigers $1.90 and Dragons $1.94.
+- FootyForecaster agrees on Panthers, Sharks, Warriors and Knights; its Sea Eagles, Rabbitohs and Eels disagreements are rejected on the early card because current availability risk supports the market favourites.
+- Official Round 24 team lists are due Tuesday and must be rechecked before Thursday lockout.
+- No Round 24 charity bet is locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
+
+Round 23 notes carried forward:
+
+- The deployed pre-lockout card was Cowboys, Warriors, Roosters, Sea Eagles, Dolphins, Rabbitohs, Raiders and Sharks.
+- The user ultimately selected Panthers over Warriors as a heart/safe override on the actual tipping slip.
+- No Round 23 charity bet was locked, so the ledger stayed unchanged.
 
 Round 22 notes carried forward:
 
@@ -156,12 +161,12 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Recent Round 22 updates used:
+Current Round 24 update uses:
 
-- NRL Team Lists Round 22: https://www.nrl.com/news/2026/07/28/nrl-team-lists-round-22/
-- Sportsbet NRL Round 22 market: https://www.sportsbet.com.au/betting/rugby-league/nrl
-- Sportsbet NRL Round 22 tips: https://www.sportsbet.com.au/huddle/nrl/predictions/round-22-tips-2026
-- NRL Team Lists Round 21: https://www.nrl.com/news/2026/07/21/nrl-team-lists-round-21/
+- Official NRL Round 24 draw: https://www.nrl.com/draw/?competition=111&round=24&season=2026
+- Official NRL casualty ward: https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/
+- Sportsbet NRL Round 24 market: https://www.sportsbet.com.au/betting/rugby-league/nrl
+- FootyForecaster Round 24 model: https://footyforecaster.com/NRL/RoundForecast/2026_Round_24
 
 ## License
 

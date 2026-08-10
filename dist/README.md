@@ -1,12 +1,12 @@
 # NRL TipBot Briefing 2026
 
-Round 23 pre-lockout card for P5 ladder protection and controlled climb
+Round 24 early card for a four-point push from P5 to the P2 tie
 
 A weekly NRL command board for sharper tipping, cleaner ladder strategy, and banking any wins for charity.
 
 ## Current Pick
 
-- No Round 23 charity play is locked
+- No Round 24 charity play is locked
 - Odds: N/A
 - Stake: $0.00
 - Potential profit: $0.00
@@ -14,34 +14,34 @@ A weekly NRL command board for sharper tipping, cleaner ladder strategy, and ban
 
 ## Live Round Status
 
-- Round 23 pre-lockout tips checked Thursday 6 August 2026
-- Round 23 card is live for Prince_of_Penrith at P5. Recommended tips are Cowboys, Warriors, Roosters, Sea Eagles, Dolphins, Rabbitohs, Raiders and Sharks. Strategy is to hold position with strong favourites while creating two controlled climb lanes through Warriors and Raiders. No Round 23 charity bet is locked.
+- Round 24 early tips checked Monday 10 August 2026; official team lists pending
+- Round 24 early card is live for Prince_of_Penrith at P5 on 238 points. Recommended tips are Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons. Seven Sportsbet favourites protect ladder position while Dragons provide the sole controlled edge in a near-even market. Official Tuesday team lists remain a mandatory recheck. No Round 24 charity bet is locked.
 
 
 ## Confidence Order
 
-1. Sharks over Dragons - strongest protect pick, Sportsbet $1.19 and model has Sharks by 22
-2. Roosters over Bulldogs - protect pick, Sportsbet $1.35 despite Tedesco watch
-3. Rabbitohs over Eels - protect pick, Sportsbet $1.37 with Souths troops returning
-4. Dolphins over Broncos - protect pick, Sportsbet $1.42 and Broncos remain downgraded
-5. Cowboys over Titans - market protect, Sportsbet $1.58 and avoid another Titans split
-6. Warriors over Panthers - main controlled differential, home/model lean against market favourite Penrith
-7. Sea Eagles over Storm - market favourite at $1.72, but volatile at HBF Park
-8. Raiders over Knights - second controlled edge, even Sportsbet market but home/model lean
+1. Knights over Titans - strongest protect pick, Sportsbet $1.25 and model 78.8%
+2. Sharks over Raiders - strong protect, Sportsbet $1.30 and model 87.5%
+3. Warriors over Broncos - protect pick, Sportsbet $1.47 and model 70.5%
+4. Dolphins over Sea Eagles - market protect at $1.40, with Manly injuries overriding the early model split
+5. Cowboys over Eels - market protect at $1.57, with Parramatta availability risk overriding the model split
+6. Bulldogs over Rabbitohs - market protect at $1.64, pending Latrell Mitchell and Souths spine news
+7. Panthers over Roosters - market and model lean, but Isaah Yeo and James Tedesco availability must be rechecked
+8. Dragons over Wests Tigers - sole controlled edge in a near-even market, model has Dragons 55.2%
 
 ## Board Sections
 
-- **Situation Report** — Hold P5, create two climb lanes
+- **Situation Report** — Four points from the P2 tie
 - **Bet Analysis** — No charity play locked
-- **Round 23 Tips** — Recommended card
-- **Round 23 Fixture Board** — This week's games
+- **Round 24 Tips** — Recommended card
+- **Round 24 Fixture Board** — Next week's games
 - **Market Read** — Leader behaviour map
-- **Late Mail** — Do not ignore team news
+- **Team News** — Early card pending official lists
 
 ## Notes
 
-- Built from the Codex-maintained data workflow and updated for Round 23 pre-lockout on Thursday 6 August 2026.
-- Round 23 recommended card: Cowboys, Warriors, Roosters, Sea Eagles, Dolphins, Rabbitohs, Raiders and Sharks.
-- Prince_of_Penrith is confirmed by the user as P5; a fresh ladder screenshot is still needed for exact gap modelling.
-- Round 23 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
-- Sources used: NRL Countdown fixture sync, Sportsbet Round 23 head-to-head market, FootyForecaster model, and Daily Telegraph late-mail snippets.
+- Built from the Codex-maintained data workflow and updated for the Round 24 early card on Monday 10 August 2026.
+- Round 24 recommended card: Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons.
+- Prince_of_Penrith is P5 on 238, one point behind P4 and four points behind the P2 tie on 242.
+- Round 24 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
+- Sources used: official NRL draw and casualty ward, Sportsbet Round 24 head-to-head market, FootyForecaster Round 24 model, and the user-supplied ladder screenshot.
