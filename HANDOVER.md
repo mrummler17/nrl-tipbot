@@ -20,7 +20,7 @@
 - Latest Round 22 P5 result commit verified live: `f8e1766 Update TipBot Round 22 results for P5`
 - Latest Round 23 content commit verified live: `94212f9 Update TipBot for Round 23`
 - Latest Round 23 deployment handover commit verified live: `ea36d93 Record Round 23 deployment handover`
-- Round 24 content commit: pending this session
+- Latest Round 24 content commit verified live: `0ca182d Update TipBot for Round 24`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -65,6 +65,15 @@
     - Newcastle expect Bradman Best and Phoenix Crossland back.
   - Charity ledger remains `3-2`, `$31.50` invested, `$32.03` returned and `+$0.53`; no Round 24 charity bet is locked.
   - Mandatory next check: official Round 24 team lists on Tuesday, then 24-hour/90-minute updates before each game.
+  - Validation and deployment:
+    - JSON parse validation passed for `data/briefing.json` and `data/live-round.json`.
+    - `npm run build` completed successfully and root `index.html` was synced from `dist/index.html`.
+    - `git diff --check` passed.
+    - Round 24 content commit `0ca182d` was pushed to `main`.
+    - GitHub Pages build for `0ca182deec6c5413a8aa0f4cf3651af752cdc5ba` completed with status `built` at `2026-08-10T02:16:44Z`.
+    - Live site verified at `https://mrummler17.github.io/nrl-tipbot/?v=round24-0ca182d`.
+    - Live HTML contained the Round 24 headline, full recommended card, Dragons-only edge and no-bet ledger marker; old `Round 23 tips live` headline was absent.
+  - Notion milestone note added to the `TipBot NRL` Command Centre page on Monday 10 August 2026. Repo-local docs remain authoritative.
 
 ## Previous Round 23 Session
 
