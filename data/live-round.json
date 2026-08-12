@@ -1,14 +1,14 @@
 {
   "round": "Round 24",
-  "verifiedAt": "2026-08-10T12:20:00+10:00",
-  "verificationLabel": "Round 24 early tips checked Monday 10 August 2026; official team lists pending",
-  "summary": "Round 24 early card is live for Prince_of_Penrith at P5 on 238 points. Recommended tips are Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons. Seven Sportsbet favourites protect ladder position while Dragons provide the sole controlled edge in a near-even market. Official Tuesday team lists remain a mandatory recheck. No Round 24 charity bet is locked.",
+  "verifiedAt": "2026-08-12T17:10:00+10:00",
+  "verificationLabel": "Round 24 tips checked after Tuesday team lists and Wednesday market refresh",
+  "summary": "Round 24 team-list card is live for Prince_of_Penrith at P5 on 238 points. Recommended tips remain Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons. The card now matches all eight Sportsbet favourites, with Dragons retained as the sole strategic edge in the near-even market. No Round 24 charity bet is locked.",
   "sources": [
     {
       "label": "Sportsbet NRL Round 24 head-to-head market",
       "url": "https://www.sportsbet.com.au/betting/rugby-league/nrl",
       "publisher": "Sportsbet",
-      "publishedAt": "2026-08-10T12:07:00+10:00"
+      "publishedAt": "2026-08-12T17:05:00+10:00"
     },
     {
       "label": "Official NRL Round 24 draw",
@@ -20,13 +20,13 @@
       "label": "FootyForecaster Round 24 model",
       "url": "https://footyforecaster.com/NRL/RoundForecast/2026_Round_24",
       "publisher": "FootyForecaster",
-      "publishedAt": "2026-08-10T12:10:00+10:00"
+      "publishedAt": "2026-08-12T17:05:00+10:00"
     },
     {
-      "label": "Official NRL casualty ward",
-      "url": "https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-08-10T10:21:00+10:00"
+      "label": "Round 24 Team List Tuesday compilation",
+      "url": "https://www.reddit.com/r/nrl/comments/1vl7ygs/team_list_tuesday/",
+      "publisher": "r/NRL team-list thread",
+      "publishedAt": "2026-08-11T16:00:00+10:00"
     }
   ],
   "scoreboard": [
@@ -34,73 +34,73 @@
       "match": "Panthers vs Roosters",
       "kickoff": "Thu 13 Aug, 7:50pm",
       "venue": "CommBank Stadium",
-      "status": "Early card",
+      "status": "Team lists checked",
       "result": "Tip: Panthers",
       "tipOutcome": "Recommended: Panthers",
-      "note": "Sportsbet $1.74 and FootyForecaster 53.6%. Penrith remain the lean despite Isaah Yeo's injury; recheck Dylan Edwards and James Tedesco on Tuesday."
+      "note": "Sportsbet $1.67 and FootyForecaster 54.4%. Dylan Edwards is on Penrith's extended bench and James Tedesco returns for the Roosters; hold Panthers pending Thursday's 24-hour cut."
     },
     {
       "match": "Sea Eagles vs Dolphins",
       "kickoff": "Fri 14 Aug, 6:00pm",
       "venue": "4 Pines Park",
-      "status": "Early card",
+      "status": "Team lists checked",
       "result": "Tip: Dolphins",
       "tipOutcome": "Recommended: Dolphins",
-      "note": "Sportsbet makes Dolphins $1.40 favourites. FootyForecaster leans Manly 60.3%, but the Sea Eagles' pack and spine injuries make that split too risky for P5."
+      "note": "Sportsbet makes Dolphins $1.35 favourites. FootyForecaster leans Manly 56.0%, but the Sea Eagles remain too depleted for a P5 ladder split."
     },
     {
       "match": "Bulldogs vs Rabbitohs",
       "kickoff": "Fri 14 Aug, 8:00pm",
       "venue": "Accor Stadium",
-      "status": "Early card",
+      "status": "Team lists checked",
       "result": "Tip: Bulldogs",
       "tipOutcome": "Recommended: Bulldogs",
-      "note": "Sportsbet $1.64. The model leans Rabbitohs 53.6%, but Souths availability around Latrell Mitchell, Campbell Graham and Ashton Ward requires the safer early pick."
+      "note": "Sportsbet $1.57 and the model is 50-50. Souths named Jayden Sullivan at halfback with Ashton Ward out for the season, Jamie Humphreys unavailable and Latrell Mitchell still absent."
     },
     {
       "match": "Sharks vs Raiders",
       "kickoff": "Sat 15 Aug, 3:00pm",
       "venue": "Ocean Protect Stadium",
-      "status": "Early card",
+      "status": "Team lists checked",
       "result": "Tip: Sharks",
       "tipOutcome": "Recommended: Sharks",
-      "note": "Strong protect agreement: Sportsbet $1.30 and FootyForecaster 87.5%, although Jesse Ramien's scan result should be monitored."
+      "note": "Strong protect agreement: Sportsbet $1.31 and FootyForecaster 85.5%. KL Iro and Siosifa Talakai return, offsetting Jesse Ramien's absence."
     },
     {
       "match": "Eels vs Cowboys",
       "kickoff": "Sat 15 Aug, 5:30pm",
       "venue": "CommBank Stadium",
-      "status": "Early card",
+      "status": "Team lists checked",
       "result": "Tip: Cowboys",
       "tipOutcome": "Recommended: Cowboys",
-      "note": "Sportsbet makes Cowboys $1.57 favourites. FootyForecaster leans Eels 69.8%, but Parramatta's injury burden and Isaiah Iongi knee concern make the model-only split too volatile."
+      "note": "Sportsbet makes Cowboys $1.54 favourites. FootyForecaster leans Eels 64.8%, but Isaiah Iongi is out for the season and Apa Twidle is named at fullback."
     },
     {
       "match": "Broncos vs Warriors",
       "kickoff": "Sat 15 Aug, 7:35pm",
       "venue": "Suncorp Stadium",
-      "status": "Early card",
+      "status": "Team lists checked",
       "result": "Tip: Warriors",
       "tipOutcome": "Recommended: Warriors",
-      "note": "Sportsbet $1.47 and FootyForecaster 70.5%. Brisbane remain unstable; monitor Adam Reynolds' concussion return and the Warriors' halves."
+      "note": "Sportsbet $1.42 and FootyForecaster 71.6%. Brisbane named Tom Duffy at halfback without Adam Reynolds, while Luke Metcalf returns for the Warriors."
     },
     {
       "match": "Knights vs Titans",
       "kickoff": "Sun 16 Aug, 2:00pm",
       "venue": "McDonald Jones Stadium",
-      "status": "Early card",
+      "status": "Team lists checked",
       "result": "Tip: Knights",
       "tipOutcome": "Recommended: Knights",
-      "note": "Strongest safe pick: Sportsbet $1.25, FootyForecaster 78.8%, and Newcastle expect Bradman Best and Phoenix Crossland back."
+      "note": "Strongest safe pick: Sportsbet $1.22, FootyForecaster 84.6%, and Newcastle named Bradman Best and Phoenix Crossland to return."
     },
     {
       "match": "Wests Tigers vs Dragons",
       "kickoff": "Sun 16 Aug, 4:05pm",
       "venue": "CommBank Stadium",
-      "status": "Early card",
+      "status": "Team lists checked",
       "result": "Tip: Dragons",
       "tipOutcome": "Recommended: Dragons",
-      "note": "Sole controlled edge. Sportsbet is nearly even at Tigers $1.90 and Dragons $1.94, while FootyForecaster leans Dragons 55.2% by three points."
+      "note": "Sole controlled edge. Sportsbet now has Dragons slight $1.91 favourites over Tigers $1.93, while FootyForecaster leans Dragons 61.0% by six points."
     }
   ],
   "liveAlerts": [
@@ -118,11 +118,11 @@
     },
     {
       "tone": "cyan",
-      "text": "Seven market favourites retained to protect against likely leader-safe cards and the one-point threat from P6."
+      "text": "All eight current market favourites protect against likely leader-safe cards; Dragons remains the strategic edge because its market is effectively even."
     },
     {
       "tone": "amber",
-      "text": "Official Round 24 team lists are pending; recheck the card on Tuesday and again before Thursday lockout."
+      "text": "Round 24 team lists checked: all eight tips hold, with only final 24-hour and 90-minute updates remaining."
     },
     {
       "tone": "green",

@@ -19,7 +19,7 @@ The app started as a single prototype file and now keeps content, live round dat
 ## Current Snapshot
 
 - Round: Round 24, 2026
-- Mode: early-card P5 ladder protection with one controlled climb edge
+- Mode: team-list checked P5 ladder protection with one controlled climb edge
 - Tipping comp handle: `Prince_of_Penrith`
 - Ladder context: P5 on 238; P4 on 239; P2 is tied on 242; P6 is on 237
 - Tip card: Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights, Dragons
@@ -27,11 +27,11 @@ The app started as a single prototype file and now keeps content, live round dat
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded odds, stake, result, and user confirmation
 
-Round 24 early tips:
+Round 24 team-list tips:
 
-1. Panthers over Roosters - market/model lean; Yeo, Edwards and Tedesco watch
-2. Dolphins over Sea Eagles - market protect; Manly injuries override the early model split
-3. Bulldogs over Rabbitohs - market protect pending Souths spine news
+1. Panthers over Roosters - market/model lean; Edwards is the key 24-hour watch
+2. Dolphins over Sea Eagles - market protect; Manly injuries override the model split
+3. Bulldogs over Rabbitohs - market protect after Souths named a depleted halves setup
 4. Sharks over Raiders - strong market/model protect
 5. Cowboys over Eels - market protect; Parramatta availability risk overrides the model split
 6. Warriors over Broncos - market/model protect
@@ -41,10 +41,10 @@ Round 24 early tips:
 Round 24 notes:
 
 - The screenshot confirms P2 is only four points away, but P6 is one point behind and P7 is two behind.
-- TipBot follows seven Sportsbet favourites and takes Dragons over Wests Tigers as the only controlled split.
-- Sportsbet prices checked Monday 10 August at about 12:07pm AEST: Panthers $1.74, Dolphins $1.40, Bulldogs $1.64, Sharks $1.30, Cowboys $1.57, Warriors $1.47, Knights $1.25, Wests Tigers $1.90 and Dragons $1.94.
-- FootyForecaster agrees on Panthers, Sharks, Warriors and Knights; its Sea Eagles, Rabbitohs and Eels disagreements are rejected on the early card because current availability risk supports the market favourites.
-- Official Round 24 team lists are due Tuesday and must be rechecked before Thursday lockout.
+- TipBot follows all eight current Sportsbet favourites; Dragons remains the only controlled split because that market is effectively even.
+- Sportsbet prices checked Wednesday 12 August at about 5:05pm AEST: Panthers $1.67, Dolphins $1.35, Bulldogs $1.57, Sharks $1.31, Cowboys $1.54, Warriors $1.42, Knights $1.22, Dragons $1.91 and Wests Tigers $1.93.
+- FootyForecaster agrees on Panthers, Sharks, Warriors, Knights and Dragons; its Sea Eagles, Rabbitohs and Eels disagreements are rejected because the confirmed availability picture supports the market favourites.
+- Team-list changes strengthen Bulldogs, Cowboys, Warriors and Knights. Dylan Edwards remains the key Thursday 24-hour watch for Panthers v Roosters.
 - No Round 24 charity bet is locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
 
 Round 23 notes carried forward:
@@ -165,6 +165,7 @@ Current Round 24 update uses:
 
 - Official NRL Round 24 draw: https://www.nrl.com/draw/?competition=111&round=24&season=2026
 - Official NRL casualty ward: https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/
+- Round 24 Team List Tuesday compilation: https://www.reddit.com/r/nrl/comments/1vl7ygs/team_list_tuesday/
 - Sportsbet NRL Round 24 market: https://www.sportsbet.com.au/betting/rugby-league/nrl
 - FootyForecaster Round 24 model: https://footyforecaster.com/NRL/RoundForecast/2026_Round_24
 

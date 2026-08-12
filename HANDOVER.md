@@ -24,9 +24,28 @@
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 24, 2026 early card for P5 ladder protection and a four-point push to the P2 tie
+- Current local working version: Round 24, 2026 team-list checked card for P5 ladder protection and a four-point push to the P2 tie
 
 ## Changed This Session
+
+- Round 24 team-list refresh on Wednesday 12 August 2026:
+  - Checked the published Round 24 squads, refreshed Sportsbet prices at about 5:05pm AEST and re-ran the FootyForecaster comparison.
+  - All eight tips hold: Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons.
+  - The card now matches all eight Sportsbet favourites. Dragons remain the sole strategic edge because their market is effectively even and FootyForecaster has moved to a 61.0% Dragons lean.
+  - Key team-list confirmations:
+    - Panthers named Dylan Edwards on the extended bench; Roosters named James Tedesco at fullback. Hold Panthers pending Thursday's 24-hour cut.
+    - Manly remain depleted; keep Dolphins despite FootyForecaster's 56.0% Sea Eagles lean.
+    - Rabbitohs named Jayden Sullivan at halfback with Ashton Ward out for the season, Jamie Humphreys unavailable and Latrell Mitchell absent; keep Bulldogs.
+    - Sharks regain KL Iro and Siosifa Talakai; keep Sharks despite Jesse Ramien's absence.
+    - Eels lose Isaiah Iongi for the season and name Apa Twidle at fullback; keep Cowboys despite the model split.
+    - Broncos named Tom Duffy at halfback without Adam Reynolds; Warriors regain Luke Metcalf; keep Warriors.
+    - Knights named Bradman Best and Phoenix Crossland to return; keep Knights.
+  - Sportsbet prices: Panthers `$1.67`, Dolphins `$1.35`, Bulldogs `$1.57`, Sharks `$1.31`, Cowboys `$1.54`, Warriors `$1.42`, Knights `$1.22`, Dragons `$1.91`, Wests Tigers `$1.93`.
+  - Updated model: Panthers 54.4%, Sea Eagles 56.0%, Bulldogs/Rabbitohs 50.0% each, Sharks 85.5%, Eels 64.8%, Warriors 71.6%, Knights 84.6%, Dragons 61.0%.
+  - No Round 24 charity bet is locked; ledger remains `3-2`, `$31.50` invested, `$32.03` returned and `+$0.53`.
+  - Remaining checks: Thursday 24-hour Panthers/Roosters list and each game's final 90-minute squad.
+
+## Previous Round 24 Early-Card Session
 
 - Round 24 early-card update:
   - User supplied a Round 24 ladder screenshot confirming `Prince_of_Penrith` is P5 on 238 points.

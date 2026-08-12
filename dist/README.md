@@ -1,6 +1,6 @@
 # NRL TipBot Briefing 2026
 
-Round 24 early card for a four-point push from P5 to the P2 tie
+Round 24 team-list card for a four-point push from P5 to the P2 tie
 
 A weekly NRL command board for sharper tipping, cleaner ladder strategy, and banking any wins for charity.
 
@@ -14,20 +14,20 @@ A weekly NRL command board for sharper tipping, cleaner ladder strategy, and ban
 
 ## Live Round Status
 
-- Round 24 early tips checked Monday 10 August 2026; official team lists pending
-- Round 24 early card is live for Prince_of_Penrith at P5 on 238 points. Recommended tips are Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons. Seven Sportsbet favourites protect ladder position while Dragons provide the sole controlled edge in a near-even market. Official Tuesday team lists remain a mandatory recheck. No Round 24 charity bet is locked.
+- Round 24 tips checked after Tuesday team lists and Wednesday market refresh
+- Round 24 team-list card is live for Prince_of_Penrith at P5 on 238 points. Recommended tips remain Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons. The card now matches all eight Sportsbet favourites, with Dragons retained as the sole strategic edge in the near-even market. No Round 24 charity bet is locked.
 
 
 ## Confidence Order
 
-1. Knights over Titans - strongest protect pick, Sportsbet $1.25 and model 78.8%
-2. Sharks over Raiders - strong protect, Sportsbet $1.30 and model 87.5%
-3. Warriors over Broncos - protect pick, Sportsbet $1.47 and model 70.5%
-4. Dolphins over Sea Eagles - market protect at $1.40, with Manly injuries overriding the early model split
-5. Cowboys over Eels - market protect at $1.57, with Parramatta availability risk overriding the model split
-6. Bulldogs over Rabbitohs - market protect at $1.64, pending Latrell Mitchell and Souths spine news
-7. Panthers over Roosters - market and model lean, but Isaah Yeo and James Tedesco availability must be rechecked
-8. Dragons over Wests Tigers - sole controlled edge in a near-even market, model has Dragons 55.2%
+1. Knights over Titans - strongest protect pick, Sportsbet $1.22 and updated model 84.6%
+2. Sharks over Raiders - strong protect, Sportsbet $1.31 and updated model 85.5%
+3. Warriors over Broncos - protect pick, Sportsbet $1.42 and updated model 71.6%
+4. Dolphins over Sea Eagles - market protect at $1.35, with depleted Manly still overriding the model split
+5. Cowboys over Eels - market protect at $1.54, with Iongi out and Apa Twidle named at fullback
+6. Bulldogs over Rabbitohs - market protect at $1.57 after Souths named Jayden Sullivan at halfback and Latrell Mitchell remained out
+7. Panthers over Roosters - Sportsbet $1.67 and model 54.4%; monitor whether Dylan Edwards returns from the extended bench
+8. Dragons over Wests Tigers - sole controlled edge now backed by Sportsbet $1.91 favouritism and a 61.0% model lean
 
 ## Board Sections
 
@@ -36,12 +36,12 @@ A weekly NRL command board for sharper tipping, cleaner ladder strategy, and ban
 - **Round 24 Tips** — Recommended card
 - **Round 24 Fixture Board** — Next week's games
 - **Market Read** — Leader behaviour map
-- **Team News** — Early card pending official lists
+- **Team News** — Team-list card confirmed
 
 ## Notes
 
-- Built from the Codex-maintained data workflow and updated for the Round 24 early card on Monday 10 August 2026.
+- Built from the Codex-maintained data workflow and updated after Round 24 team lists on Wednesday 12 August 2026.
 - Round 24 recommended card: Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons.
 - Prince_of_Penrith is P5 on 238, one point behind P4 and four points behind the P2 tie on 242.
 - Round 24 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
-- Sources used: official NRL draw and casualty ward, Sportsbet Round 24 head-to-head market, FootyForecaster Round 24 model, and the user-supplied ladder screenshot.
+- Sources used: Round 24 team-list compilation, official NRL casualty information, Sportsbet head-to-head market, FootyForecaster model, and the user-supplied ladder screenshot.
