@@ -21,6 +21,7 @@
 - Latest Round 23 content commit verified live: `94212f9 Update TipBot for Round 23`
 - Latest Round 23 deployment handover commit verified live: `ea36d93 Record Round 23 deployment handover`
 - Latest Round 24 content commit verified live: `0ca182d Update TipBot for Round 24`
+- Latest Round 24 team-list content commit verified live: `8304f7b Refresh Round 24 tips after team lists`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -44,6 +45,10 @@
   - Updated model: Panthers 54.4%, Sea Eagles 56.0%, Bulldogs/Rabbitohs 50.0% each, Sharks 85.5%, Eels 64.8%, Warriors 71.6%, Knights 84.6%, Dragons 61.0%.
   - No Round 24 charity bet is locked; ledger remains `3-2`, `$31.50` invested, `$32.03` returned and `+$0.53`.
   - Remaining checks: Thursday 24-hour Panthers/Roosters list and each game's final 90-minute squad.
+  - Validation: JSON parsing passed, `npm run build` passed, `dist/index.html` matched root `index.html`, and `git diff --check` passed.
+  - Deployment: GitHub Pages built commit `8304f7b` successfully at `2026-08-12T07:41:07Z`.
+  - Production verification: cache-busted live HTML showed the team-list status, all eight recommended tips, Dragons at 61.0% in the model, and no Round 24 charity bet locked; stale early-card markers were absent.
+  - Notion Command Centre page `TipBot NRL` received the concise team-list milestone and updated next action on 12 August 2026.
 
 ## Previous Round 24 Early-Card Session
 
