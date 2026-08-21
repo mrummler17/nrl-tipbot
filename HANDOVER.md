@@ -22,6 +22,7 @@
 - Latest Round 23 deployment handover commit verified live: `ea36d93 Record Round 23 deployment handover`
 - Latest Round 24 content commit verified live: `0ca182d Update TipBot for Round 24`
 - Latest Round 24 team-list content commit verified live: `8304f7b Refresh Round 24 tips after team lists`
+- Latest Round 25 live-card content commit verified live: `215c842 Update TipBot for Round 25 live card`
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
@@ -38,6 +39,10 @@
   - `Prince_of_Penrith` was last confirmed P5 on 238 before Round 24. Current comp position and gap are unknown; request a fresh ladder screenshot before setting Round 26 differential risk.
   - No Round 24 or Round 25 charity bet was locked. Ledger remains `3-2`, `$31.50` invested, `$32.03` returned and `+$0.53`.
   - Mandatory remaining checks: each final 90-minute squad, especially Rabbitohs v Warriors and Sharks without Braydon Trindall.
+  - Validation: JSON parsing passed, `npm run build` passed, `dist/index.html` matched root `index.html`, stale Round 24 active markers were absent, and `git diff --check` passed.
+  - Deployment: GitHub Pages built content commit `215c842` successfully at `2026-08-21T11:21:53Z`.
+  - Production verification: the base live URL showed the Round 25 status, five remaining tips, Round 24 4-from-8 settlement, Broncos result and no-bet marker. A first cache-busted request briefly returned GitHub's generic 404, while the base URL served the correct page immediately afterward.
+  - Notion Command Centre page `TipBot NRL` received the Round 25 live-card milestone and updated next action on 21 August 2026.
 
 ## Previous Round 24 Team-List Session
 
