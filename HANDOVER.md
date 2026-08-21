@@ -25,9 +25,21 @@
 - Deployment target: GitHub Pages at `https://mrummler17.github.io/nrl-tipbot/`
 - Production entry file: `index.html` at repo root, synced from `dist/index.html`
 - Generated dist file: `dist/index.html`
-- Current local working version: Round 24, 2026 team-list checked card for P5 ladder protection and a four-point push to the P2 tie
+- Current local working version: Round 25, 2026 live card with five games remaining after Friday lockout
 
 ## Changed This Session
+
+- Round 25 live-card update on Friday 21 August 2026:
+  - The request arrived after three lockouts. Panthers beat Storm `22-14`, Broncos beat Raiders `34-30`, and Dolphins v Eels was already live; those games are round state, not retrospective TipBot selections.
+  - Five actionable tips remain: Knights, Warriors, Bulldogs, Sharks and Roosters.
+  - All five match Sportsbet favourites and FootyForecaster: Knights `$1.43` / 77.0%, Warriors `$1.57` / 54.8%, Bulldogs `$1.48` / 67.4%, Sharks `$1.43` / 72.2%, Roosters `$1.06` / 93.6%.
+  - Warriors over Rabbitohs is the lowest-confidence selection because South Sydney named Cody Walker, Brandon Smith, Cameron Murray and David Fifita.
+  - Round 24 settled at `4-4`: correct Dolphins, Warriors, Knights and Dragons; missed Panthers, Bulldogs, Sharks and Cowboys.
+  - `Prince_of_Penrith` was last confirmed P5 on 238 before Round 24. Current comp position and gap are unknown; request a fresh ladder screenshot before setting Round 26 differential risk.
+  - No Round 24 or Round 25 charity bet was locked. Ledger remains `3-2`, `$31.50` invested, `$32.03` returned and `+$0.53`.
+  - Mandatory remaining checks: each final 90-minute squad, especially Rabbitohs v Warriors and Sharks without Braydon Trindall.
+
+## Previous Round 24 Team-List Session
 
 - Round 24 team-list refresh on Wednesday 12 August 2026:
   - Checked the published Round 24 squads, refreshed Sportsbet prices at about 5:05pm AEST and re-ran the FootyForecaster comparison.

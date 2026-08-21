@@ -1,12 +1,12 @@
 # NRL TipBot Briefing 2026
 
-Round 24 team-list card for a four-point push from P5 to the P2 tie
+Round 25 live card: five remaining picks for the ladder chase
 
 A weekly NRL command board for sharper tipping, cleaner ladder strategy, and banking any wins for charity.
 
 ## Current Pick
 
-- No Round 24 charity play is locked
+- No Round 25 charity play is locked
 - Odds: N/A
 - Stake: $0.00
 - Potential profit: $0.00
@@ -14,34 +14,31 @@ A weekly NRL command board for sharper tipping, cleaner ladder strategy, and ban
 
 ## Live Round Status
 
-- Round 24 tips checked after Tuesday team lists and Wednesday market refresh
-- Round 24 team-list card is live for Prince_of_Penrith at P5 on 238 points. Recommended tips remain Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons. The card now matches all eight Sportsbet favourites, with Dragons retained as the sole strategic edge in the near-even market. No Round 24 charity bet is locked.
+- Round 25 live card checked after Friday lockout
+- Round 25 is already in progress. Panthers beat Storm 22-14 and Broncos beat Raiders 34-30, while Dolphins v Eels was live when this update began. The five actionable remaining tips are Knights, Warriors, Bulldogs, Sharks and Roosters. All five match the current Sportsbet favourite and FootyForecaster model. Prince_of_Penrith was last confirmed P5 before Round 24; a fresh ladder screenshot is needed for exact chase strategy. No Round 25 charity bet is locked.
 
 
 ## Confidence Order
 
-1. Knights over Titans - strongest protect pick, Sportsbet $1.22 and updated model 84.6%
-2. Sharks over Raiders - strong protect, Sportsbet $1.31 and updated model 85.5%
-3. Warriors over Broncos - protect pick, Sportsbet $1.42 and updated model 71.6%
-4. Dolphins over Sea Eagles - market protect at $1.35, with depleted Manly still overriding the model split
-5. Cowboys over Eels - market protect at $1.54, with Iongi out and Apa Twidle named at fullback
-6. Bulldogs over Rabbitohs - market protect at $1.57 after Souths named Jayden Sullivan at halfback and Latrell Mitchell remained out
-7. Panthers over Roosters - Sportsbet $1.67 and model 54.4%; monitor whether Dylan Edwards returns from the extended bench
-8. Dragons over Wests Tigers - sole controlled edge now backed by Sportsbet $1.91 favouritism and a 61.0% model lean
+1. Roosters over Wests Tigers - strongest protect, Sportsbet $1.06 and model 93.6%
+2. Knights over Sea Eagles - Sportsbet $1.43 and model 77.0%, with Ponga, Best and Crossland named
+3. Sharks over Titans - Sportsbet $1.43 and model 72.2%; Trindall absence is the main risk
+4. Bulldogs over Dragons - Sportsbet $1.48 and model 67.4%
+5. Warriors over Rabbitohs - Sportsbet $1.57 and model 54.8%; lowest-confidence remaining pick
 
 ## Board Sections
 
-- **Situation Report** — Four points from the P2 tie
+- **Situation Report** — Five selectable games remain
 - **Bet Analysis** — No charity play locked
-- **Round 24 Tips** — Recommended card
-- **Round 24 Fixture Board** — Next week's games
+- **Round 25 Tips** — Recommended card
+- **Round 25 Fixture Board** — Live round state
 - **Market Read** — Leader behaviour map
-- **Team News** — Team-list card confirmed
+- **Team News** — Remaining teams checked
 
 ## Notes
 
-- Built from the Codex-maintained data workflow and updated after Round 24 team lists on Wednesday 12 August 2026.
-- Round 24 recommended card: Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons.
-- Prince_of_Penrith is P5 on 238, one point behind P4 and four points behind the P2 tie on 242.
-- Round 24 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
-- Sources used: Round 24 team-list compilation, official NRL casualty information, Sportsbet head-to-head market, FootyForecaster model, and the user-supplied ladder screenshot.
+- Built from the Codex-maintained data workflow and updated during Round 25 on Friday 21 August 2026.
+- Remaining recommended card: Knights, Warriors, Bulldogs, Sharks and Roosters.
+- Prince_of_Penrith was last confirmed P5 before Round 24; current ladder position needs a fresh screenshot.
+- Round 25 charity bet status is no bet locked, so the Mark Hughes Foundation ledger remains 3-2 and +$0.53.
+- Sources used: Round 25 team lists, Round 25 results feed, Sportsbet head-to-head market and FootyForecaster model.

@@ -18,34 +18,38 @@ The app started as a single prototype file and now keeps content, live round dat
 
 ## Current Snapshot
 
-- Round: Round 24, 2026
-- Mode: team-list checked P5 ladder protection with one controlled climb edge
+- Round: Round 25, 2026
+- Mode: live-round update with five remaining selections
 - Tipping comp handle: `Prince_of_Penrith`
-- Ladder context: P5 on 238; P4 on 239; P2 is tied on 242; P6 is on 237
-- Tip card: Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights, Dragons
-- Charity bet status: no Round 24 bet is locked
+- Ladder context: last confirmed P5 on 238 before Round 24; current ladder screenshot required
+- Remaining tip card: Knights, Warriors, Bulldogs, Sharks, Roosters
+- Charity bet status: no Round 25 bet is locked
 - Charity ledger: 3-2, $31.50 invested, $32.03 returned, +$0.53 profit
 - Validation rule: do not move the charity ledger without recorded odds, stake, result, and user confirmation
 
-Round 24 team-list tips:
+Round 25 remaining tips:
 
-1. Panthers over Roosters - market/model lean; Edwards is the key 24-hour watch
-2. Dolphins over Sea Eagles - market protect; Manly injuries override the model split
-3. Bulldogs over Rabbitohs - market protect after Souths named a depleted halves setup
-4. Sharks over Raiders - strong market/model protect
-5. Cowboys over Eels - market protect; Parramatta availability risk overrides the model split
-6. Warriors over Broncos - market/model protect
-7. Knights over Titans - strongest safe pick
-8. Dragons over Wests Tigers - sole controlled edge in a near-even market
+1. Knights over Sea Eagles - market/model protect
+2. Warriors over Rabbitohs - market/model lean; lowest-confidence remaining pick
+3. Bulldogs over Dragons - market/model protect
+4. Sharks over Titans - market/model protect; monitor the halves without Trindall
+5. Roosters over Wests Tigers - strongest safe pick
 
-Round 24 notes:
+Round 25 notes:
 
-- The screenshot confirms P2 is only four points away, but P6 is one point behind and P7 is two behind.
-- TipBot follows all eight current Sportsbet favourites; Dragons remains the only controlled split because that market is effectively even.
-- Sportsbet prices checked Wednesday 12 August at about 5:05pm AEST: Panthers $1.67, Dolphins $1.35, Bulldogs $1.57, Sharks $1.31, Cowboys $1.54, Warriors $1.42, Knights $1.22, Dragons $1.91 and Wests Tigers $1.93.
-- FootyForecaster agrees on Panthers, Sharks, Warriors, Knights and Dragons; its Sea Eagles, Rabbitohs and Eels disagreements are rejected because the confirmed availability picture supports the market favourites.
-- Team-list changes strengthen Bulldogs, Cowboys, Warriors and Knights. Dylan Edwards remains the key Thursday 24-hour watch for Panthers v Roosters.
-- No Round 24 charity bet is locked, so the Mark Hughes Foundation ledger stays unchanged regardless of tipping-comp outcomes.
+- This update began after Storm v Panthers and Raiders v Broncos finished and Dolphins v Eels kicked off, so only five games remain actionable.
+- Panthers beat Storm 22-14 and Broncos beat Raiders 34-30. Dolphins v Eels is recorded as live/locked rather than a retrospective tip.
+- Sportsbet prices checked Friday 21 August at about 9:10pm AEST: Knights $1.43, Warriors $1.57, Bulldogs $1.48, Sharks $1.43 and Roosters $1.06.
+- FootyForecaster agrees on all five remaining picks: Knights 77.0%, Warriors 54.8%, Bulldogs 67.4%, Sharks 72.2% and Roosters 93.6%.
+- Warriors is the danger game because South Sydney named Cody Walker, Brandon Smith, Cameron Murray and David Fifita.
+- No Round 25 charity bet is locked, so the Mark Hughes Foundation ledger stays unchanged.
+
+Round 24 settled notes:
+
+- The published Round 24 card finished 4 from 8.
+- Correct tips: Dolphins, Warriors, Knights and Dragons.
+- Missed tips: Panthers, Bulldogs, Sharks and Cowboys.
+- No Round 24 charity bet was locked, so the ledger stayed unchanged.
 
 Round 23 notes carried forward:
 
@@ -161,13 +165,12 @@ https://mrummler17.github.io/nrl-tipbot/
 
 ## Sources
 
-Current Round 24 update uses:
+Current Round 25 update uses:
 
-- Official NRL Round 24 draw: https://www.nrl.com/draw/?competition=111&round=24&season=2026
-- Official NRL casualty ward: https://www.nrl.com/news/2026/01/01/nrl-casualty-ward-how-your-club-is-shaping-heading-into-2026/
-- Round 24 Team List Tuesday compilation: https://www.reddit.com/r/nrl/comments/1vl7ygs/team_list_tuesday/
-- Sportsbet NRL Round 24 market: https://www.sportsbet.com.au/betting/rugby-league/nrl
-- FootyForecaster Round 24 model: https://footyforecaster.com/NRL/RoundForecast/2026_Round_24
+- Round 25 fixtures and live results: https://www.legz.com.au/nrl/matches/2026/round-25
+- Round 25 team lists: https://www.zerotackle.com/round-25-team-lists-2026-237113/
+- Sportsbet NRL Round 25 market: https://www.sportsbet.com.au/betting/rugby-league/nrl/round-25
+- FootyForecaster Round 25 model: https://footyforecaster.com/NRL/RoundForecast/2026_Round_25
 
 ## License
 

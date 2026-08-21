@@ -1,132 +1,132 @@
 {
-  "round": "Round 24",
-  "verifiedAt": "2026-08-12T17:10:00+10:00",
-  "verificationLabel": "Round 24 tips checked after Tuesday team lists and Wednesday market refresh",
-  "summary": "Round 24 team-list card is live for Prince_of_Penrith at P5 on 238 points. Recommended tips remain Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons. The card now matches all eight Sportsbet favourites, with Dragons retained as the sole strategic edge in the near-even market. No Round 24 charity bet is locked.",
+  "round": "Round 25",
+  "verifiedAt": "2026-08-21T21:15:00+10:00",
+  "verificationLabel": "Round 25 live card checked after Friday lockout",
+  "summary": "Round 25 is already in progress. Panthers beat Storm 22-14 and Broncos beat Raiders 34-30, while Dolphins v Eels was live when this update began. The five actionable remaining tips are Knights, Warriors, Bulldogs, Sharks and Roosters. All five match the current Sportsbet favourite and FootyForecaster model. Prince_of_Penrith was last confirmed P5 before Round 24; a fresh ladder screenshot is needed for exact chase strategy. No Round 25 charity bet is locked.",
   "sources": [
     {
-      "label": "Sportsbet NRL Round 24 head-to-head market",
-      "url": "https://www.sportsbet.com.au/betting/rugby-league/nrl",
+      "label": "NRL Round 25 fixture and live results feed",
+      "url": "https://www.legz.com.au/nrl/matches/2026/round-25",
+      "publisher": "Legz",
+      "publishedAt": "2026-08-21T21:15:00+10:00"
+    },
+    {
+      "label": "Sportsbet NRL Round 25 head-to-head market",
+      "url": "https://www.sportsbet.com.au/betting/rugby-league/nrl/round-25",
       "publisher": "Sportsbet",
-      "publishedAt": "2026-08-12T17:05:00+10:00"
+      "publishedAt": "2026-08-21T21:10:00+10:00"
     },
     {
-      "label": "Official NRL Round 24 draw",
-      "url": "https://www.nrl.com/draw/?competition=111&round=24&season=2026",
-      "publisher": "NRL.com",
-      "publishedAt": "2026-08-10T12:10:00+10:00"
-    },
-    {
-      "label": "FootyForecaster Round 24 model",
-      "url": "https://footyforecaster.com/NRL/RoundForecast/2026_Round_24",
+      "label": "FootyForecaster Round 25 model",
+      "url": "https://footyforecaster.com/NRL/RoundForecast/2026_Round_25",
       "publisher": "FootyForecaster",
-      "publishedAt": "2026-08-12T17:05:00+10:00"
+      "publishedAt": "2026-08-21T21:10:00+10:00"
     },
     {
-      "label": "Round 24 Team List Tuesday compilation",
-      "url": "https://www.reddit.com/r/nrl/comments/1vl7ygs/team_list_tuesday/",
-      "publisher": "r/NRL team-list thread",
-      "publishedAt": "2026-08-11T16:00:00+10:00"
+      "label": "Round 25 team lists and updates",
+      "url": "https://www.zerotackle.com/round-25-team-lists-2026-237113/",
+      "publisher": "Zero Tackle",
+      "publishedAt": "2026-08-21T21:10:00+10:00"
     }
   ],
   "scoreboard": [
     {
-      "match": "Panthers vs Roosters",
-      "kickoff": "Thu 13 Aug, 7:50pm",
-      "venue": "CommBank Stadium",
-      "status": "Team lists checked",
-      "result": "Tip: Panthers",
-      "tipOutcome": "Recommended: Panthers",
-      "note": "Sportsbet $1.67 and FootyForecaster 54.4%. Dylan Edwards is on Penrith's extended bench and James Tedesco returns for the Roosters; hold Panthers pending Thursday's 24-hour cut."
+      "match": "Storm vs Panthers",
+      "kickoff": "Thu 20 Aug, 7:50pm",
+      "venue": "AAMI Park",
+      "status": "Full time",
+      "result": "Panthers 22 def Storm 14",
+      "tipOutcome": "Locked before this update",
+      "note": "FootyForecaster's pre-round Panthers lean landed, but TipBot did not publish a Round 25 selection before kickoff."
     },
     {
-      "match": "Sea Eagles vs Dolphins",
-      "kickoff": "Fri 14 Aug, 6:00pm",
-      "venue": "4 Pines Park",
-      "status": "Team lists checked",
-      "result": "Tip: Dolphins",
-      "tipOutcome": "Recommended: Dolphins",
-      "note": "Sportsbet makes Dolphins $1.35 favourites. FootyForecaster leans Manly 56.0%, but the Sea Eagles remain too depleted for a P5 ladder split."
+      "match": "Raiders vs Broncos",
+      "kickoff": "Fri 21 Aug, 6:00pm",
+      "venue": "GIO Stadium",
+      "status": "Full time",
+      "result": "Broncos 34 def Raiders 30",
+      "tipOutcome": "Locked before this update",
+      "note": "Brisbane overturned a late Canberra lead. This result was complete before TipBot's Round 25 card was published."
     },
     {
-      "match": "Bulldogs vs Rabbitohs",
-      "kickoff": "Fri 14 Aug, 8:00pm",
-      "venue": "Accor Stadium",
-      "status": "Team lists checked",
-      "result": "Tip: Bulldogs",
-      "tipOutcome": "Recommended: Bulldogs",
-      "note": "Sportsbet $1.57 and the model is 50-50. Souths named Jayden Sullivan at halfback with Ashton Ward out for the season, Jamie Humphreys unavailable and Latrell Mitchell still absent."
-    },
-    {
-      "match": "Sharks vs Raiders",
-      "kickoff": "Sat 15 Aug, 3:00pm",
-      "venue": "Ocean Protect Stadium",
-      "status": "Team lists checked",
-      "result": "Tip: Sharks",
-      "tipOutcome": "Recommended: Sharks",
-      "note": "Strong protect agreement: Sportsbet $1.31 and FootyForecaster 85.5%. KL Iro and Siosifa Talakai return, offsetting Jesse Ramien's absence."
-    },
-    {
-      "match": "Eels vs Cowboys",
-      "kickoff": "Sat 15 Aug, 5:30pm",
-      "venue": "CommBank Stadium",
-      "status": "Team lists checked",
-      "result": "Tip: Cowboys",
-      "tipOutcome": "Recommended: Cowboys",
-      "note": "Sportsbet makes Cowboys $1.54 favourites. FootyForecaster leans Eels 64.8%, but Isaiah Iongi is out for the season and Apa Twidle is named at fullback."
-    },
-    {
-      "match": "Broncos vs Warriors",
-      "kickoff": "Sat 15 Aug, 7:35pm",
+      "match": "Dolphins vs Eels",
+      "kickoff": "Fri 21 Aug, 8:00pm",
       "venue": "Suncorp Stadium",
-      "status": "Team lists checked",
-      "result": "Tip: Warriors",
-      "tipOutcome": "Recommended: Warriors",
-      "note": "Sportsbet $1.42 and FootyForecaster 71.6%. Brisbane named Tom Duffy at halfback without Adam Reynolds, while Luke Metcalf returns for the Warriors."
+      "status": "Live / locked at update",
+      "result": "No actionable tip",
+      "tipOutcome": "Game already live",
+      "note": "The match had started before this update. TipBot records it as live round state rather than presenting a retrospective selection."
     },
     {
-      "match": "Knights vs Titans",
-      "kickoff": "Sun 16 Aug, 2:00pm",
+      "match": "Knights vs Sea Eagles",
+      "kickoff": "Sat 22 Aug, 3:00pm",
       "venue": "McDonald Jones Stadium",
       "status": "Team lists checked",
       "result": "Tip: Knights",
       "tipOutcome": "Recommended: Knights",
-      "note": "Strongest safe pick: Sportsbet $1.22, FootyForecaster 84.6%, and Newcastle named Bradman Best and Phoenix Crossland to return."
+      "note": "Sportsbet $1.43 and FootyForecaster 77.0%. Newcastle named Kalyn Ponga, Bradman Best and Phoenix Crossland; Manly's middle and hooker depth remain concerns."
     },
     {
-      "match": "Wests Tigers vs Dragons",
-      "kickoff": "Sun 16 Aug, 4:05pm",
-      "venue": "CommBank Stadium",
+      "match": "Rabbitohs vs Warriors",
+      "kickoff": "Sat 22 Aug, 5:30pm",
+      "venue": "Accor Stadium",
       "status": "Team lists checked",
-      "result": "Tip: Dragons",
-      "tipOutcome": "Recommended: Dragons",
-      "note": "Sole controlled edge. Sportsbet now has Dragons slight $1.91 favourites over Tigers $1.93, while FootyForecaster leans Dragons 61.0% by six points."
+      "result": "Tip: Warriors",
+      "tipOutcome": "Recommended: Warriors",
+      "note": "Sportsbet $1.57 and FootyForecaster 54.8% by two. South Sydney named Cody Walker, Brandon Smith, Cameron Murray and David Fifita, making this the lowest-confidence remaining pick."
+    },
+    {
+      "match": "Dragons vs Bulldogs",
+      "kickoff": "Sat 22 Aug, 7:35pm",
+      "venue": "Allianz Stadium",
+      "status": "Team lists checked",
+      "result": "Tip: Bulldogs",
+      "tipOutcome": "Recommended: Bulldogs",
+      "note": "Sportsbet $1.48 and FootyForecaster 67.4%. Canterbury's named side carries the stronger spine and pack despite the Dragons' Round 24 win."
+    },
+    {
+      "match": "Titans vs Sharks",
+      "kickoff": "Sun 23 Aug, 2:00pm",
+      "venue": "Cbus Super Stadium",
+      "status": "Team lists checked",
+      "result": "Tip: Sharks",
+      "tipOutcome": "Recommended: Sharks",
+      "note": "Sportsbet $1.43 and FootyForecaster 72.2%. Cronulla remain the safer side with Nicho Hynes and a strong pack, although Braydon Trindall is unavailable."
+    },
+    {
+      "match": "Roosters vs Wests Tigers",
+      "kickoff": "Sun 23 Aug, 4:05pm",
+      "venue": "Allianz Stadium",
+      "status": "Team lists checked",
+      "result": "Tip: Roosters",
+      "tipOutcome": "Recommended: Roosters",
+      "note": "Strongest remaining protect: Sportsbet $1.06 and FootyForecaster 93.6%, with Tedesco, Cherry-Evans, Walker and Robson named."
     }
   ],
   "liveAlerts": [
     {
       "tone": "amber",
-      "text": "Prince_of_Penrith is P5 on 238, one point behind P4 and four behind the P2 tie."
+      "text": "Only five Round 25 selections remain actionable after the Friday lockouts."
     },
     {
       "tone": "green",
-      "text": "Recommended Round 24 tips: Panthers, Dolphins, Bulldogs, Sharks, Cowboys, Warriors, Knights and Dragons."
-    },
-    {
-      "tone": "amber",
-      "text": "Only controlled edge: Dragons over Wests Tigers in the near-even Sunday game."
+      "text": "Recommended remaining tips: Knights, Warriors, Bulldogs, Sharks and Roosters."
     },
     {
       "tone": "cyan",
-      "text": "All eight current market favourites protect against likely leader-safe cards; Dragons remains the strategic edge because its market is effectively even."
+      "text": "All five remaining picks match the current Sportsbet favourite and FootyForecaster model."
     },
     {
       "tone": "amber",
-      "text": "Round 24 team lists checked: all eight tips hold, with only final 24-hour and 90-minute updates remaining."
+      "text": "Warriors over Rabbitohs is the danger game: market $1.57, model 54.8%, and South Sydney named a stronger side."
+    },
+    {
+      "tone": "amber",
+      "text": "Prince_of_Penrith was last confirmed P5 before Round 24; send a fresh ladder screenshot for exact Round 26 strategy."
     },
     {
       "tone": "green",
-      "text": "No Round 24 charity bet is locked; tipping-comp choices do not move the ledger."
+      "text": "No Round 25 charity bet is locked; tipping-comp choices do not move the ledger."
     }
   ]
 }
